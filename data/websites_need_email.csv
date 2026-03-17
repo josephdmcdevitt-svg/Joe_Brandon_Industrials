@@ -1,0 +1,454 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+New York Dental Office,New York,NY,New York City,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(212) 548-3261,N/A,newyorkdentaloffice.com
+Beaute Aesthetics,New York,NY,New York City,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(646) 590-3332,N/A,beautenyc.com
+New York City Chiropractic,New York,NY,New York City,Chiropractic Clinic,8,$400K-$800K,Dr. Jamie Bassel,Practice Owner,(212) 227-7310,N/A,newyorkcitychiropractic.com
+East Village Physical Medicine,New York,NY,New York City,Chiropractic Clinic,8,$400K-$800K,Dr. Taras Odulak,Practice Owner,(212) 260-2213,N/A,eastvillagephysicalmedicine.com
+Wall Street Chiropractic and Wellness,New York,NY,New York City,Chiropractic Clinic,8,$400K-$800K,Owner,Practice Owner,(212) 747-4747,N/A,wallstreetchiropractic.com
+Westside Veterinary Center,New York,NY,New York City,Veterinary Clinic,12,$1M-$2M,Owner,Practice Owner,(212) 580-1800,N/A,westsidevetcenter.com
+Rivergate Veterinary Clinic,New York,NY,New York City,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner,(212) 213-9885,N/A,rivergateveterinaryclinic.com
+Washington Square Dermatology,New York,NY,New York City,Dermatology Clinic,8,$1M-$2M,Owner,Practice Owner,(212) 256-1075,N/A,washingtonsqderm.com
+Marmur Medical,New York,NY,New York City,Dermatology Clinic,10,$1.5M-$3M,Dr. Ellen Marmur,Practice Owner,(212) 996-6900,N/A,marmurmedical.com
+Spring Street Dermatology,New York,NY,New York City,Dermatology Clinic,12,$1.5M-$3M,Owner,Practice Owner,(646) 906-9614,N/A,springstderm.com
+MDCS Dermatology,New York,NY,New York City,Dermatology Clinic,15,$2M-$3M,Dr. Snehal Amin,Practice Owner,(212) 661-3376,N/A,mdcsnyc.com
+West Village Eyecare,New York,NY,New York City,Optometry Practice,6,$500K-$1M,Dr. Hakim Serhrouchni,Practice Owner,(212) 242-6592,N/A,eyecarenyc.com
+Eye Care Associates in Optometry,New York,NY,New York City,Optometry Practice,6,$500K-$1M,Dr. Robert Maiolo,Practice Owner,(212) 583-9000,N/A,doctorlawrenceforgacs.com
+A New Smile Dental Center,Miami,FL,Miami,Dental Practice,12,$1M-$2M,Owner,Practice Owner,(305) 383-9944,N/A,anewsmiledentalcenter.com
+Bayfront Dental,Miami,FL,Miami,Dental Practice,15,$1M-$2M,David J. Weiner DMD,Practice Owner,(305) 530-1866,N/A,bayfrontdental.com
+Dental Team of Miami,Miami,FL,Miami,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(305) 448-7119,N/A,dentalteamfl.com
+Pearly Whites Miami,Miami,FL,Miami,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,(305) 317-0439,N/A,pearlywhitesmiami.com
+Everything Teeth Miami,Miami,FL,Miami,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,(305) 777-7774,N/A,everythingteethmiami.com
+Lyf Aesthetics,Palmetto Bay,FL,Miami,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(305) 614-2088,N/A,lyfaesthetics.com
+Baum Chiropractic Clinic,Miami Beach,FL,Miami,Chiropractic Clinic,6,$300K-$700K,Dr. Michael Baum,Practice Owner,(305) 864-1419,N/A,miamibeachchiro.com
+Regenerative Chiropractic,Miami,FL,Miami,Chiropractic Clinic,6,$300K-$700K,Dr. Octavio Espinoza,Practice Owner,(786) 558-8075,N/A,espinozachiro.com
+Adams Veterinary Clinic,Miami,FL,Miami,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(305) 757-7309,N/A,adamsvetmiami.com
+Alvarez Pet Clinic,Miami,FL,Miami,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,alvarezpetclinic.com
+Lincoln Road Dermatology,Miami Beach,FL,Miami,Dermatology Clinic,8,$1M-$2M,Owner,Practice Owner,(305) 397-8622,N/A,lincolnderm.com
+Dermatology and Skin Cancer Center,Miami,FL,Miami,Dermatology Clinic,10,$1M-$2.5M,Dr. T.J. Giuffrida,Practice Owner,(305) 461-2000,N/A,miamidermcenter.com
+Genuine Smiles,North Jersey,NJ,Northern New Jersey,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,genuinesmilespa.com
+North Jersey Dental Group,Fort Lee,NJ,Northern New Jersey,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(201) 461-4800,N/A,northjerseydentalgroup.com
+NUVA Smile,North Jersey,NJ,Northern New Jersey,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,(973) 478-1616,N/A,nuvasmile.com
+Downtown Medspa,Jersey City,NJ,Northern New Jersey,Med Spa,10,$500K-$1.5M,Dr. Eric Reynolds,Practice Owner,(201) 989-1723,N/A,downtownmedspa.com
+Dentistry of Nashville,Nashville,TN,Nashville,Dental Practice,12,$1M-$2M,Dr. James Fleming,Practice Owner,(615) 383-3690,N/A,dentistryofnashville.com
+East Nashville Aesthetic and Implant Dentistry,Nashville,TN,Nashville,Dental Practice,10,$800K-$1.5M,Dr. Morton,Practice Owner,(615) 208-4447,N/A,eastnashvilledentistry.com
+Nations Dental Studio,Nashville,TN,Nashville,Dental Practice,8,$800K-$1.5M,Dr. Diana D'Aoust,Practice Owner,(615) 933-5800,N/A,nationsdentalstudio.com
+Roach Family Dentistry,Nashville,TN,Nashville,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(615) 499-5608,N/A,greenhillsdentist.net
+Midtown Smiles,Nashville,TN,Nashville,Dental Practice,10,$800K-$1.5M,Dr. Terry Watson,Practice Owner,(615) 320-3210,N/A,midtownsmilestn.com
+Elan Skin and Laser,Nashville,TN,Nashville,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(615) 814-4999,N/A,elanskinandlaser.com
+Hi Finch,Nashville,TN,Nashville,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(615) 899-2351,N/A,hifinch.com
+Jack and Jill Aesthetics,Nashville,TN,Nashville,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(615) 784-3223,N/A,jackjillaesthetics.com
+P3 Precision Physical Therapy,Nashville,TN,Nashville,Physical Therapy Clinic,6,$500K-$1M,Owner,Practice Owner,(615) 891-4037,N/A,p3nashville.com
+Strobel Dentistry,Chicago,IL,Chicago,Dental Practice,10,$800K-$1.5M,Dr. Dan Strobel,Practice Owner,(312) 726-3135,N/A,strobeldentistry.com
+Enamel Dental Studio,Chicago,IL,Chicago,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,(312) 586-2900,N/A,enameldentalchicago.com
+Cornerstone Dental of Lincoln Square,Chicago,IL,Chicago,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,(773) 654-3575,N/A,lincolnsquarefamilydentist.com
+Chicago Aesthetics Med Spa,Chicago,IL,Chicago,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(312) 846-1629,N/A,chicagoaesthetics.com
+ImageLab Med Spa,Chicago,IL,Chicago,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(872) 285-6769,N/A,imagelabmedspa.com
+Better Med Spa and Wellness,Chicago,IL,Chicago,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(312) 285-2618,N/A,bettermedspa.com
+Vitahl Medical Aesthetics,Chicago,IL,Chicago,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(312) 634-6100,N/A,vitahlchicago.com
+Natural Beauty Med Spa,Chicago,IL,Chicago,Med Spa,8,$500K-$1.2M,Dr. Wiesman,Practice Owner,(312) 981-1291,N/A,naturalbeautymedspa.com
+South Loop Animal Hospital,Chicago,IL,Chicago,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner,(312) 753-5551,N/A,mysouthloopvet.com
+North Avenue Animal Hospital,Chicago,IL,Chicago,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner,(773) 278-1330,N/A,northavevet.com
+Uptown Animal Hospital,Chicago,IL,Chicago,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner,(773) 561-0734,N/A,uptownah.com
+Dallas Dental Group,Dallas,TX,Dallas,Dental Practice,12,$1M-$2M,Owner,Practice Owner,(972) 644-1998,N/A,dallasdental.com
+Turtle Creek Dental Associates,Dallas,TX,Dallas,Dental Practice,10,$1M-$2M,Owner,Practice Owner,(214) 953-0906,N/A,turtlecreekdental.com
+Highland Park Dental,Dallas,TX,Dallas,Dental Practice,8,$800K-$1.5M,Dr. Aaron Jones,Practice Owner,(972) 362-2021,N/A,hpdentist.com
+Royal Lane Dental Center,Dallas,TX,Dallas,Dental Practice,10,$800K-$1.5M,Dr. Kastoori,Practice Owner,(469) 904-2080,N/A,royallanedental.com
+Lakewood Family Dental Care,Dallas,TX,Dallas,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(214) 823-1638,N/A,lakewoodfamilydental.com
+Lily Med Spa,Dallas,TX,Dallas,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(972) 503-5459,N/A,lilymedspa.com
+Mara's Med Spa,Dallas,TX,Dallas,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(469) 730-3333,N/A,marasmedspa.com
+Rejuve Med Spa,Dallas,TX,Dallas,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(972) 265-1590,N/A,rejuvemedspa.com
+Renew Beauty Med Spa,Dallas,TX,Dallas,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(214) 369-1600,N/A,renewbeautymedspa.com
+North Dallas Chiropractic Clinic,Dallas,TX,Dallas,Chiropractic Clinic,6,$300K-$700K,Owner,Practice Owner,(972) 792-0204,N/A,ndallaschiropractic.com
+Inwood Chiropractic and Wellness Center,Dallas,TX,Dallas,Chiropractic Clinic,6,$300K-$700K,Owner,Practice Owner,(214) 902-0092,N/A,backpro.net
+Wellness Vida Center,Dallas,TX,Dallas,Chiropractic Clinic,6,$300K-$600K,Owner,Practice Owner,(469) 677-0029,N/A,wellnessvida.com
+Victory Bark Veterinary Clinic,Dallas,TX,Dallas,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(214) 744-2275,N/A,victorybark.com
+North Dallas Veterinary Hospital,Dallas,TX,Dallas,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner,(972) 620-9012,N/A,northdallasvet.com
+Trail Pet Hospital,Dallas,TX,Dallas,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(972) 629-9766,N/A,trailpethospital.com
+EaDo Family Dental,Houston,TX,Houston,Dental Practice,10,$800K-$1.5M,Dr. Bianca Williams,Practice Owner,(713) 474-2334,N/A,eadofamilydental.com
+Houston Westchase Dentists,Houston,TX,Houston,Dental Practice,10,$1M-$2M,Dr. Heather Robbins,Practice Owner,(832) 830-8226,N/A,houstonwestchasedentists.com
+Acadian Family Dental,Houston,TX,Houston,Dental Practice,10,$800K-$1.5M,Dr. Eric Perkins,Practice Owner,(713) 766-5804,N/A,acadiandental.com
+Glow Medical Aesthetics,Houston,TX,Houston,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(713) 428-2814,N/A,glowhouston.com
+Clearstone Laser Hair Removal and Med Spa,Houston,TX,Houston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(832) 460-4200,N/A,clearstonespa.com
+Persona Med Spa,Houston,TX,Houston,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(713) 630-0772,N/A,personamedicalspa.com
+Artavi Med Spa,Houston,TX,Houston,Med Spa,6,$500K-$1M,Owner,Practice Owner,(832) 649-7266,N/A,artavimedspa.com
+Galleria Aesthetics,Houston,TX,Houston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(713) 552-1112,N/A,galleriaesthetics.com
+All Cats Veterinary Clinic,Houston,TX,Houston,Veterinary Clinic,5,$500K-$1M,Owner,Practice Owner,(713) 664-2287,N/A,allcatsvetclinic.com
+Tanner Lakes Animal Clinic,Houston,TX,Houston,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(713) 937-4484,N/A,tannerlakesac.com
+Suburbia North Animal Hospital,Houston,TX,Houston,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner,(281) 443-2362,N/A,suburbiavet.com
+Heights Veterinary Clinic,Houston,TX,Houston,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(832) 982-2365,N/A,heightsvet.com
+Atlanta Dental Center,Atlanta,GA,Atlanta,Dental Practice,12,$1M-$2M,Owner,Practice Owner,(470) 570-8453,N/A,atlantadentalcenter.com
+Atlanta Dental Studio,Atlanta,GA,Atlanta,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,atldentalstudio.com
+Ponce Dental Studio,Atlanta,GA,Atlanta,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,(404) 777-4040,N/A,poncedentalstudio.com
+Atlanta Dental Spa,Atlanta,GA,Atlanta,Dental Practice,10,$1M-$2M,Dr. Peter Boulden,Practice Owner,(404) 816-2230,N/A,atlantadentalspa.com
+Henderson Mill Dental Care,Atlanta,GA,Atlanta,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(770) 496-0496,N/A,hendersonmilldentalcare.com
+ELLEMES Medical Spa,Atlanta,GA,Atlanta,Med Spa,10,$500K-$1.5M,Lauren Siso,Practice Owner,(470) 222-6581,N/A,ellemesmedspa.com
+Atlanta MediSpa,Atlanta,GA,Atlanta,Med Spa,10,$500K-$1.5M,Dr. Debra Atkins,Practice Owner,(678) 213-2220,N/A,atlantamedispa.com
+Radiance Medspa,Atlanta,GA,Atlanta,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(770) 435-7700,N/A,radiancemedspaatlanta.com
+Paces Ferry Veterinary Clinic,Atlanta,GA,Atlanta,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner,N/A,N/A,pacesvet.com
+Gentry Dental,Charlotte,NC,Charlotte,Dental Practice,8,$800K-$1.5M,Dr. Gentry,Practice Owner,(704) 554-1007,N/A,gentrydentalcharlotte.com
+Park Crossing Dentistry,Charlotte,NC,Charlotte,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(704) 541-5059,N/A,parkcrossingdentistry.com
+Keith Clinic,Charlotte,NC,Charlotte,Chiropractic Clinic,15,$500K-$800K,Owner,Practice Owner,(704) 392-3000,N/A,keithclinic.com
+Carlisle Chiropractic Clinic,Charlotte,NC,Charlotte,Chiropractic Clinic,6,$300K-$600K,Owner,Practice Owner,N/A,N/A,carlislechiropracticclinic.com
+Piedmont EyeCare Associates,Charlotte,NC,Charlotte,Optometry Practice,8,$500K-$1.2M,Owner,Practice Owner,(980) 333-6012,N/A,charlotteoptometry.com
+Innovative Eye Care,Charlotte,NC,Charlotte,Optometry Practice,6,$500K-$1M,Owner,Practice Owner,N/A,N/A,innovativeeyecare.net
+Charlotte Skin and Laser,Charlotte,NC,Charlotte,Dermatology Clinic,10,$1M-$2.5M,Owner,Practice Owner,(704) 333-9113,N/A,charlotteskinandlaser.com
+Dermatology Specialists of Charlotte,Charlotte,NC,Charlotte,Dermatology Clinic,10,$1M-$2.5M,Owner,Practice Owner,N/A,N/A,dscmd.com
+Dental Office of Tampa,Tampa,FL,Tampa,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,dentalofficeoftampa.com
+Jackson Dental PA,Tampa,FL,Tampa,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(813) 701-3141,N/A,jacksondentaltampa.com
+Heights Dental Tampa,Tampa,FL,Tampa,Dental Practice,8,$800K-$1.5M,Dr. Kenneth Jainandan,Practice Owner,(813) 578-7887,N/A,heightsdentaltampa.com
+New Tampa Smiles,Tampa,FL,Tampa,Dental Practice,10,$800K-$1.5M,Dr. Jean Paul Taveras,Practice Owner,N/A,N/A,newtampasmile.com
+South Tampa Dentistry,Tampa,FL,Tampa,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(813) 835-0090,N/A,southtampadentistry.com
+Vivia MedSpa,Tampa,FL,Tampa,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,N/A,N/A,viviamedspatampa.com
+Aspire MedSpa and Beauty Bar,Tampa,FL,Tampa,Med Spa,6,$500K-$1M,Rosaly Torres,Practice Owner,N/A,N/A,aspiremedspas.com
+Fit4Life Physical Therapy,Tampa,FL,Tampa,Physical Therapy Clinic,6,$500K-$1M,Owner,Practice Owner,(813) 907-7879,N/A,fit4lifetampa.com
+Modern Dermatology,Tampa,FL,Tampa,Dermatology Clinic,8,$1M-$2M,Owner,Practice Owner,(813) 336-7688,N/A,themodernderm.com
+Skin Health Forever,Tampa,FL,Tampa,Dermatology Clinic,10,$1M-$2.5M,Owner,Practice Owner,(813) 440-2462,N/A,skinhealthforever.com
+Koyfman Dental,Orlando,FL,Orlando,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(407) 641-2302,N/A,koyfmandental.com
+Celine Med Spa,Orlando,FL,Orlando,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(407) 409-8666,N/A,celinemedspa.com
+Bloom Aesthetics,Orlando,FL,Orlando,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,N/A,N/A,bloomaestheticsfl.com
+Healthy Glow Med Spa,Orlando,FL,Orlando,Med Spa,6,$500K-$1M,Owner,Practice Owner,N/A,N/A,healthyglowmedspa.com
+Solterra Dentistry,Phoenix,AZ,Phoenix,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(602) 788-0730,N/A,solterradentistry.com
+Uptown Medispa,Phoenix,AZ,Phoenix,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,N/A,N/A,uptownmedispa.com
+Med 44 Arcadia,Phoenix,AZ,Phoenix,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,N/A,N/A,med44arcadia.com
+CAS Chiropractic Center,Phoenix,AZ,Phoenix,Chiropractic Clinic,8,$400K-$800K,Dr. Michael Castrichini,Practice Owner,N/A,N/A,caschiro.com
+Arizona Life Chiropractic Center,Phoenix,AZ,Phoenix,Chiropractic Clinic,6,$300K-$700K,Dr. Dennis Cathcart,Practice Owner,(602) 242-7537,N/A,arizonalifechiropractic.com
+Shea Chiropractic,Phoenix,AZ,Phoenix,Chiropractic Clinic,6,$300K-$600K,Owner,Practice Owner,(602) 996-3601,N/A,sheachiropracticclinic.com
+TOPS Physical Therapy,Phoenix,AZ,Phoenix,Physical Therapy Clinic,8,$500K-$1.2M,Owner,Practice Owner,(602) 826-0037,N/A,topsphysicaltherapy.com
+OSR Physical Therapy,Phoenix,AZ,Phoenix,Physical Therapy Clinic,8,$500K-$1M,Owner,Practice Owner,N/A,N/A,osrphysicaltherapy.com
+Smile LA Downtown Modern Dentistry,Los Angeles,CA,Los Angeles,Dental Practice,10,$800K-$1.5M,Dr. Kourosh Yousefzadeh,Practice Owner,(213) 528-3323,N/A,smilela.com
+Los Angeles Dental Arts,Los Angeles,CA,Los Angeles,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(424) 266-8508,N/A,losangelesdentalarts.com
+Arthur A Kezian DDS,Los Angeles,CA,Los Angeles,Dental Practice,10,$1M-$2M,Dr. Arthur Kezian,Practice Owner,(323) 467-2777,N/A,drkezian.com
+Union Dental Center,Los Angeles,CA,Los Angeles,Dental Practice,12,$1M-$2M,Owner,Practice Owner,(213) 483-0772,N/A,uniondentalcenter.co
+Marina Medspa,Los Angeles,CA,Los Angeles,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(310) 818-7104,N/A,marinamedspa.com
+Los Feliz Med Spa,Los Angeles,CA,Los Angeles,Med Spa,10,$500K-$1.5M,Dr. Michele Ware,Practice Owner,(323) 664-0186,N/A,losfelizmedspa.com
+Rejuvify MedSpa,Los Angeles,CA,Los Angeles,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(310) 962-8900,N/A,rejuvifymedspa.com
+South Coast Med Spa,Los Angeles,CA,Los Angeles,Med Spa,12,$800K-$1.5M,Owner,Practice Owner,(310) 268-7979,N/A,southcoastmedspa.com
+Los Feliz Small Animal Hospital,Los Angeles,CA,Los Angeles,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner,(323) 664-3309,N/A,lfsah.com
+Angel City Animal Hospital,Los Angeles,CA,Los Angeles,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(323) 522-3134,N/A,angelcityvet.com
+Restoration Dental OC,Orange,CA,Orange County,Dental Practice,10,$800K-$1.5M,Dr. Ronald Pham,Practice Owner,(714) 400-0075,N/A,restorationdentaloc.com
+Orange County Dental Care,Orange,CA,Orange County,Dental Practice,10,$800K-$1.5M,Dr. Ali-Reza Etemadieh,Practice Owner,(714) 628-9910,N/A,orangecounty-dentalcare.com
+OC Healthy Smiles,Costa Mesa,CA,Orange County,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(714) 422-0596,N/A,ochealthysmiles.com
+Dr. Christopher J Fotinos,Orange,CA,Orange County,Dental Practice,8,$800K-$1.5M,Dr. Christopher Fotinos,Practice Owner,(714) 538-5182,N/A,drfotinos.com
+Beauty Boost Med Spa,Newport Beach,CA,Orange County,Med Spa,10,$500K-$1.5M,Dr. Steve Yoelin,Practice Owner,(949) 514-8602,N/A,beautyboostmedspa.com
+True Design Dentistry,San Diego,CA,San Diego,Dental Practice,10,$800K-$1.5M,Dr. Nick Refahi,Practice Owner,(858) 483-3384,N/A,truedesigndentistry.com
+Fifth Avenue Dental Arts,San Diego,CA,San Diego,Dental Practice,10,$800K-$1.5M,Dr. Ramin Ghassemi,Practice Owner,N/A,N/A,mydentistsandiego.com
+Scripps Rock Dental,San Diego,CA,San Diego,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,scrippsrockdental.com
+San Diego Skin Medical Spa,La Jolla,CA,San Diego,Med Spa,12,$800K-$1.5M,Owner,Practice Owner,(858) 241-1968,N/A,sandiegoskin.com
+Revive Med Spa,San Diego,CA,San Diego,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(619) 393-3909,N/A,revive.md
+Midway Optometry,San Diego,CA,San Diego,Optometry Practice,6,$500K-$1M,Owner,Practice Owner,(619) 224-2973,N/A,midwayoptometry.com
+Urban Optiks Optometry,San Diego,CA,San Diego,Optometry Practice,8,$500K-$1.2M,Owner,Practice Owner,(619) 683-2020,N/A,uoosd.com
+SOMA Dental,San Francisco,CA,San Francisco Bay Area,Dental Practice,10,$800K-$1.5M,Dr. Nigel Suarez,Practice Owner,(415) 558-9800,N/A,somadental.com
+Epi Center MedSpa,San Francisco,CA,San Francisco Bay Area,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,N/A,N/A,epicentermedspa.com
+Nob Hill Aesthetics,San Francisco,CA,San Francisco Bay Area,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,N/A,N/A,nobhillaesthetics.com
+SELFISHLY Aesthetics and Wellness,San Francisco,CA,San Francisco Bay Area,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,N/A,N/A,selfishlyaesthetics.com
+Urban Pet Hospital,San Francisco,CA,San Francisco Bay Area,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(415) 483-4395,N/A,sfurbanpethospital.com
+San Francisco Pet Hospital,San Francisco,CA,San Francisco Bay Area,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,sfpethospital.com
+South Boston Dental Group,Boston,MA,Boston,Dental Practice,12,$1M-$2M,Owner,Practice Owner,(617) 268-1030,N/A,southbostondental.com
+Dental Partners of Boston,Boston,MA,Boston,Dental Practice,15,$1M-$2M,Owner,Practice Owner,(617) 622-5993,N/A,dentalpartnersofboston.com
+Seaport Medspa,Boston,MA,Boston,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(617) 681-8244,N/A,seaportmedspa.com
+Boston Medical Aesthetics,Boston,MA,Boston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(617) 973-9700,N/A,bostonmedicalaesthetics.net
+IconMD Medical Spa,Boston,MA,Boston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(617) 982-6781,N/A,iconmd.com
+SkinHealth Centers,Boston,MA,Boston,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(617) 582-2754,N/A,skinhealthcenters.com
+Joint Ventures Physical Therapy,Boston,MA,Boston,Physical Therapy Clinic,12,$500K-$1.5M,Owner,Practice Owner,(617) 536-1161,N/A,jointventurespt.com
+Rittenhouse Smiles,Philadelphia,PA,Philadelphia,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(215) 732-8080,N/A,rittenhousesmiles.com
+PhillyMedClub,Philadelphia,PA,Philadelphia,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,N/A,N/A,phillymedclub.com
+Enigma Medi Spa,Philadelphia,PA,Philadelphia,Med Spa,12,$500K-$1.5M,Owner,Practice Owner,(215) 717-7000,N/A,enigmamedispa.com
+Skin Retreat Med Spa,Philadelphia,PA,Philadelphia,Med Spa,6,$500K-$1M,Owner,Practice Owner,N/A,N/A,skinretreatmedspa.com
+New World Vision Center,Philadelphia,PA,Philadelphia,Optometry Practice,6,$500K-$1M,Owner,Practice Owner,(215) 599-2020,N/A,newworldvisioncenter.com
+Pine Vision Care,Philadelphia,PA,Philadelphia,Optometry Practice,6,$500K-$1M,Owner,Practice Owner,(215) 575-5198,N/A,pinevisioncare.com
+Washington Center for Cosmetic and Family Dentistry,Washington,DC,Washington DC,Dental Practice,10,$800K-$1.5M,Dr. Michael Pollowitz,Practice Owner,(202) 933-5498,N/A,amazingdentistry.com
+Always Smile DC,Washington,DC,Washington DC,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,alwayssmiledc.com
+DC Pearls Dental Boutique,Washington,DC,Washington DC,Dental Practice,8,$800K-$1.5M,Dr. Kourosh Ardekani,Practice Owner,(202) 750-8718,N/A,dcpearlsdental.com
+Georgetown Allure Med Spa,Washington,DC,Washington DC,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(833) 255-8731,N/A,georgetownallure.com
+Arta Medical Spa,Washington,DC,Washington DC,Med Spa,6,$500K-$1M,Dr. Safiyah West,Practice Owner,N/A,N/A,artamedicalspa.com
+AnewSkin MedSpa,Washington,DC,Washington DC,Med Spa,6,$500K-$1M,Dr. Molly Sarumi,Practice Owner,(202) 505-6996,N/A,anewskinmedspa.com
+Peel Haus,Washington,DC,Washington DC,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(202) 891-4287,N/A,peelhaus.com
+Dupont Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(202) 466-2211,N/A,dupontvetclinic.com
+Union Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,unionvetclinic.com
+Palisades Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,N/A,N/A,palisadesvetclinic.com
+Metro Dental Care,Denver,CO,Denver,Dental Practice,12,$1M-$2M,Owner,Practice Owner,(303) 534-2626,N/A,metrodentalcare.com
+OG Dental Denver,Denver,CO,Denver,Dental Practice,8,$800K-$1.5M,Dr. O'Grady,Practice Owner,(720) 551-6580,N/A,ogdentaldenver.com
+Hampden Dentistry and Orthodontics,Denver,CO,Denver,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(303) 219-7426,N/A,hampdendentist.com
+Rejuvenate MedSpa,Denver,CO,Denver,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(303) 278-2600,N/A,rejuvenatecolorado.com
+La Fontaine Med Spa,Denver,CO,Denver,Med Spa,8,$500K-$1.2M,Dr. Ken Oleszek,Practice Owner,N/A,N/A,denverfusionspa.com
+Mountain Med Spa,Denver,CO,Denver,Med Spa,8,$500K-$1.2M,Dr. Rock Navarkal,Practice Owner,N/A,N/A,mountainmedspa.com
+ATLAS Physical Therapy,Denver,CO,Denver,Physical Therapy Clinic,15,$500K-$1.5M,Owner,Practice Owner,(303) 832-3700,N/A,atlasptco.com
+Denver Total PT,Denver,CO,Denver,Physical Therapy Clinic,8,$500K-$1M,Owner,Practice Owner,(303) 758-5060,N/A,denvertotalpt.com
+Blue Sky Physical Therapy,Denver,CO,Denver,Physical Therapy Clinic,10,$500K-$1.2M,Owner,Practice Owner,(303) 388-1537,N/A,blueskypt.com
+Denver Dermatology Center,Denver,CO,Denver,Dermatology Clinic,10,$1M-$2.5M,Dr. Margaret Muldrow,Practice Owner,N/A,N/A,denverdermatologycenter.com
+SKN Dermatology,Denver,CO,Denver,Dermatology Clinic,8,$1M-$2M,Owner,Practice Owner,(303) 962-3376,N/A,skndermatology.com
+Cherry Hills Dermatology,Denver,CO,Denver,Dermatology Clinic,10,$1M-$2.5M,Owner,Practice Owner,N/A,N/A,cherryhillsderm.com
+Isles Dental,Minneapolis,MN,Minneapolis,Dental Practice,8,$800K-$1.5M,Dr. Robert Springer,Practice Owner,(612) 374-4321,N/A,islesdental.com
+Parkway Dental Center,Minneapolis,MN,Minneapolis,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner,(612) 824-4211,N/A,parkwaydentalcentermn.com
+Englander Dental,Minneapolis,MN,Minneapolis,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,(612) 926-2100,N/A,englanderdental.com
+Nicollet Station Dental,Minneapolis,MN,Minneapolis,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner,(612) 338-5557,N/A,nicolletstationdental.com
+Skin Artisans Medical Spa,Minneapolis,MN,Minneapolis,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,(612) 930-1111,N/A,skinartisans.com
+Pure Lux Medspa,Minneapolis,MN,Minneapolis,Med Spa,8,$500K-$1.2M,Owner,Practice Owner,N/A,N/A,mypurelux.com
+Afzal Clinics,Minneapolis,MN,Minneapolis,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,(612) 662-2772,N/A,afzalclinics.com
+Metropolitan Skin Clinic,Minneapolis,MN,Minneapolis,Med Spa,10,$500K-$1.5M,Owner,Practice Owner,N/A,N/A,metropolitanskinclinic.com
+East Lake Animal Clinic,Minneapolis,MN,Minneapolis,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner,(612) 729-2374,N/A,eastlakeanimalclinic.com
+Minnehaha Animal Hospital,Minneapolis,MN,Minneapolis,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner,N/A,N/A,minnehahaanimalhospital.com
+Premier HVAC Services,Brooklyn,NY,New York City,HVAC Contractor,10,$1M-$5M,Owner,Owner,(929) 207-8457,N/A,hvacnycpro.com
+Figlia & Sons,New York,NY,New York City,HVAC Contractor,12,$1M-$5M,Owner,Owner,(212) 686-0094,N/A,figliasons.com
+Kaback Enterprises,New York,NY,New York City,HVAC Contractor,18,$1M-$5M,Owner,Owner,N/A,N/A,kaback.com
+Main Plumbing Services,Miami,FL,Miami,Plumbing Contractor,8,$800K-$3M,Owner,Owner,N/A,N/A,mainplumbingmiami.com
+Miami Shores Plumbing,Miami Shores,FL,Miami,Plumbing Contractor,8,$800K-$3M,Owner,Owner,N/A,N/A,miamishoresplumbing.com
+Douglas Orr Plumbing,Miami,FL,Miami,Plumbing Contractor,15,$800K-$3M,Owner,Owner,N/A,N/A,orrplumbing.com
+Eco1Plumbing,Miami,FL,Miami,Plumbing Contractor,10,$800K-$3M,Owner,Owner,N/A,N/A,eco1plumbingmiami.com
+Liriano Plumbing,Miami,FL,Miami,Plumbing Contractor,8,$800K-$3M,Owner,Owner,N/A,N/A,lirianoplumbing.com
+Sunny Bliss Plumbing & Air,Miami,FL,Miami,Plumbing Contractor,10,$800K-$3M,Owner,Owner,N/A,N/A,sunnybliss.com
+West Side Electric Service,Nashville,TN,Nashville,Electrical Contractor,10,$1M-$4M,Owner,Owner,(615) 292-8497,N/A,westsideelectricservice.com
+Moss Electric,Nashville,TN,Nashville,Electrical Contractor,8,$1M-$4M,Owner,Owner,N/A,N/A,mosselectrictn.com
+Top Notch Electrical,Nashville,TN,Nashville,Electrical Contractor,8,$1M-$4M,Owner,Owner,N/A,N/A,nashvilletopnotch.com
+TAR Roofing,Chicago,IL,Chicago,Roofing Contractor,12,$1M-$5M,Owner,Owner,N/A,N/A,tarroofing.com
+All Roofs Inc,Chicago,IL,Chicago,Roofing Contractor,15,$1M-$5M,Owner,Owner,N/A,N/A,allroof.us
+Lindholm Roofing,Chicago,IL,Chicago,Roofing Contractor,18,$1M-$5M,Owner,Owner,(773) 283-7675,N/A,lindholmroofing.com
+Proctor Pest Control,Dallas,TX,Dallas,Pest Control,8,$500K-$2M,Owner,Owner,(214) 226-1622,N/A,proctorpestcontrol.com
+Addison Pest Control of Texas,Dallas,TX,Dallas,Pest Control,12,$500K-$2M,Owner,Owner,(972) 233-4766,N/A,addisonexterminating.com
+All-Safe Pest & Termite,Dallas,TX,Dallas,Pest Control,15,$500K-$2M,Owner,Owner,(972) 945-9226,N/A,all-safe-pest.com
+Dynasty Pest Control,Dallas,TX,Dallas,Pest Control,8,$500K-$2M,Owner,Owner,(469) 457-4373,N/A,dynastypest.com
+Hogue Landscape Services,Houston,TX,Houston,Landscaping,10,$500K-$2M,Owner,Owner,(713) 360-6924,N/A,hoguels.com
+Moss Landscaping,Houston,TX,Houston,Landscaping,15,$500K-$2M,Owner,Owner,(713) 861-5511,N/A,mosslandscaping.com
+Cleanstar National,Atlanta,GA,Atlanta,Commercial Cleaning,18,$500K-$2M,Owner,Owner,(770) 425-6797,N/A,cleanstarnational.com
+ATI Restoration Charlotte,Charlotte,NC,Charlotte,Restoration,12,$1M-$3M,Owner,Owner,(980) 443-5500,N/A,atirestoration.com
+Providence Restoration Group,Charlotte,NC,Charlotte,Restoration,12,$1M-$3M,Owner,Owner,(704) 206-8777,N/A,prghelps.com
+Reiner Group Inc,Fair Lawn,NJ,Northern New Jersey,HVAC Contractor,12,$1M-$5M,Owner,Owner,(201) 371-7980,N/A,reinerac.com
+Whalen & Ives Inc,Northern NJ,NJ,Northern New Jersey,HVAC Contractor,10,$1M-$5M,Owner,Owner,(201) 784-3330,N/A,whalenives.com
+Prestige Air Heating & Cooling,Bergen County,NJ,Northern New Jersey,HVAC Contractor,8,$1M-$5M,Owner,Owner,(973) 755-2210,N/A,prestigeairheatingcooling.com
+Unitemp MDI,Northern NJ,NJ,Northern New Jersey,HVAC Contractor,15,$1M-$5M,Owner,Owner,(877) 704-4822,N/A,unitempinc.com
+The Clean Plumbers,Tampa,FL,Tampa,Plumbing Contractor,12,$800K-$3M,Owner,Owner,(813) 961-2683,N/A,thecleanplumbers.com
+Experts Plumbing Services,Tampa,FL,Tampa,Plumbing Contractor,8,$800K-$3M,Owner,Owner,(813) 363-9726,N/A,expertsplumbingservices.com
+Believe Plumbing,Tampa,FL,Tampa,Plumbing Contractor,8,$800K-$3M,Owner,Owner,(813) 516-4486,N/A,believeplumbing.com
+Phoenix Roofing and Repair,Phoenix,AZ,Phoenix,Roofing Contractor,10,$1M-$5M,Owner,Owner,(602) 497-0154,N/A,phoenixroofingandrepair.com
+Scott Roofing Company,Phoenix,AZ,Phoenix,Roofing Contractor,18,$1M-$5M,Owner,Owner,(602) 442-7663,N/A,scottroofingco.com
+Right Way Roofing,Phoenix,AZ,Phoenix,Roofing Contractor,10,$1M-$5M,Owner,Owner,(602) 299-8851,N/A,azroof.com
+Rowland Pest Management,Orlando,FL,Orlando,Pest Control,8,$500K-$2M,Owner,Owner,(407) 969-6162,N/A,rowlandpest.com
+Florida Pest Control Orlando,Orlando,FL,Orlando,Pest Control,12,$500K-$2M,Owner,Owner,(407) 759-5947,N/A,flapest.com
+Turner Pest Control Orlando,Orlando,FL,Orlando,Pest Control,15,$500K-$2M,Owner,Owner,(800) 225-5305,N/A,turnerpest.com
+Massey Services,Winter Park,FL,Orlando,Pest Control,18,$500K-$2M,Owner,Owner,(407) 898-5880,N/A,masseyservices.com
+Denver Sprinkler and Landscape Inc,Denver,CO,Denver,Landscaping,8,$500K-$2M,Owner,Owner,(303) 993-8717,N/A,denversprinklerservices.com
+My Sons Landscaping & Fencing,Denver,CO,Denver,Landscaping,8,$500K-$2M,Owner,Owner,(720) 949-8439,N/A,mysonslandscape.com
+G2.0 Electrical Contracting,Los Angeles,CA,Los Angeles,Electrical Contractor,10,$1M-$4M,Owner,Owner,N/A,N/A,gec2.com
+Tercero Inc,Los Angeles,CA,Los Angeles,Electrical Contractor,12,$1M-$4M,Owner,Owner,N/A,N/A,terceroinc.com
+Bozem Electric,Los Angeles,CA,Los Angeles,Electrical Contractor,15,$1M-$4M,Owner,Owner,N/A,N/A,bozemelectric.com
+Champion Cleaning,Boston,MA,Boston,Commercial Cleaning,12,$500K-$2M,Owner,Owner,(800) 979-1911,N/A,championcleaning.com
+Atlantic Power Cleaning,Philadelphia,PA,Philadelphia,Restoration,8,$1M-$3M,Owner,Owner,(781) 933-4142,N/A,atlanticpowercleaning.com
+Schmitt Heating & Air Conditioning,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,12,$1M-$5M,Owner,Owner,(415) 522-0966,N/A,schmittheating.com
+ABCO Mechanical Contractors,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,15,$1M-$5M,Owner,Owner,(415) 648-7135,N/A,abcoair.com
+Cabrillo Plumbing Heating & Air,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,12,$1M-$5M,Owner,Owner,(415) 360-0560,N/A,discovercabrillo.com
+Bay Area Climate Control,Oakland,CA,San Francisco Bay Area,HVAC Contractor,8,$1M-$5M,Owner,Owner,(510) 391-5597,N/A,bayareaclimatecontrol.com
+Finest Heating & Air,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,8,$1M-$5M,Owner,Owner,(650) 223-2028,N/A,finestheatingnair.com
+FRY Plumbing Heating & AC,Washington,DC,Washington DC,Plumbing Contractor,12,$800K-$3M,Owner,Owner,(202) 543-4884,N/A,fryplumbing.com
+Cardinal Plumbing Heating & Air,Washington,DC,Washington DC,Plumbing Contractor,12,$800K-$3M,Owner,Owner,(703) 537-5344,N/A,cardinalplumbingva.com
+JAS Electrical,Orange County,CA,Orange County,Electrical Contractor,10,$1M-$4M,Owner,Owner,(714) 252-7478,N/A,jaselectrical.com
+Pro Power Services Inc,Orange County,CA,Orange County,Electrical Contractor,12,$1M-$4M,Owner,Owner,(323) 886-0103,N/A,propowerservices.com
+Hackney Electric Inc,Orange County,CA,Orange County,Electrical Contractor,10,$1M-$4M,Owner,Owner,(949) 264-4000,N/A,hackneyelectric.com
+JEC Electric Services,Anaheim,CA,Orange County,Electrical Contractor,12,$1M-$4M,Owner,Owner,(714) 993-6875,N/A,jecwissco.com
+San Diego Roofing Inc,San Diego,CA,San Diego,Roofing Contractor,15,$1M-$5M,Owner,Owner,(619) 280-1000,N/A,sandiegoroofing.com
+MetroGreenscape,Charlotte,NC,Charlotte,Landscaping,15,$500K-$2M,Owner,Owner,(704) 504-0980,N/A,metrogreenscape.com
+Estes Services,Atlanta,GA,Atlanta,HVAC Contractor,18,$1M-$5M,Owner,Owner,(404) 366-9620,N/A,estesair.com
+Nashville Roofing Co,Nashville,TN,Nashville,Roofing Contractor,10,$1M-$5M,Owner,Owner,(615) 800-4355,N/A,nashvilleroofingco.com
+Howard Air,Phoenix,AZ,Phoenix,HVAC Contractor,15,$1M-$5M,Owner,Owner,(602) 953-2766,N/A,howardair.com
+Hobaica Services,Phoenix,AZ,Phoenix,HVAC Contractor,12,$1M-$5M,Owner,Owner,(602) 633-9555,N/A,hobaica.com
+Barker & Sons Plumbing,Orange County,CA,Orange County,Plumbing Contractor,12,$800K-$3M,Owner,Owner,(714) 630-8766,N/A,barkerandsonsplumbing.com
+Compass Cleaning Solutions,Phoenix,AZ,Phoenix,Commercial Cleaning,12,$500K-$2M,Owner,Owner,(602) 606-7900,N/A,compassphoenix.com
+Blue Sky Plumbing & Heating,Denver,CO,Denver,Plumbing Contractor,15,$800K-$3M,Owner,Owner,(720) 617-0417,N/A,blueskyplumbing.com
+Atlanta Roofing Specialists,Atlanta,GA,Atlanta,Roofing Contractor,15,$1M-$5M,Owner,Owner,(770) 419-2222,N/A,atlantaroofingspecialists.com
+Lloyd Pest Control,Los Angeles,CA,Los Angeles,Pest Control,15,$500K-$2M,Owner,Owner,(818) 386-0502,N/A,lloydpest.com
+Ferran Services,Orlando,FL,Orlando,HVAC Contractor,15,$1M-$5M,Owner,Owner,(407) 422-3551,N/A,ferran-services.com
+Genz-Ryan,Minneapolis,MN,Minneapolis,HVAC Contractor,18,$1M-$5M,Owner,Owner,(651) 432-5271,N/A,genzryan.com
+Standard Heating & AC,Minneapolis,MN,Minneapolis,HVAC Contractor,15,$1M-$5M,Owner,Owner,(612) 824-2656,N/A,standardheating.com
+Mark E. Feinsot CPA,New York,NY,New York City,CPA Firm,7,$500K-$2M,Mark E. Feinsot,Owner,(212) 631-0320,N/A,midtowncpafirm.com
+Edward J. Colville LLC,Scotch Plains,NJ,Northern New Jersey,CPA Firm,6,$500K-$1.5M,Edward J. Colville,Owner,(908) 367-9005,N/A,www.ejcolvillecpa.com
+BergerCPAFirst,New Jersey,NJ,Northern New Jersey,CPA Firm,8,$500K-$2M,Ramki Sankar,Managing Partner,(201) 587-9200,N/A,bergercpafirst.com
+Blankenship CPA Group PLLC,Nashville,TN,Nashville,CPA Firm,12,$800K-$2M,Managing Partner,Managing Partner,(615) 992-9222,N/A,www.bcpas.com
+Millman CPA Strategic Solutions PC,Nashville,TN,Nashville,CPA Firm,6,$500K-$1.5M,Lisa Millman,Owner,(615) 672-9205,N/A,www.lisamillmancpa.com
+Hildreth & Associates CPA,Brentwood,TN,Nashville,CPA Firm,8,$500K-$2M,Managing Partner,Managing Partner,(615) 369-6344,N/A,www.hildrethcpa.com
+Warady & Davis LLP,Chicago,IL,Chicago,CPA Firm,15,$1M-$2M,Managing Partner,Managing Partner,(847) 267-9600,N/A,waradydavis.com
+John Joseph Griffin CPA PC,Chicago,IL,Chicago,CPA Firm,7,$500K-$1.5M,John Joseph Griffin,Owner,(773) 545-6750,N/A,johngriffincpa.com
+Stenger Tax Advisory,Chicago,IL,Chicago,CPA Firm,6,$500K-$1.5M,Managing Partner,Managing Partner,(630) 912-8504,N/A,www.stengertax.com
+Perkins Dexter Sinopoli & Hamm PC,Dallas,TX,Dallas,CPA Firm,12,$800K-$2M,Managing Partner,Managing Partner,(972) 669-9730,N/A,www.pdshcpas.com
+L&H CPAs and Advisors,Dallas,TX,Dallas,CPA Firm,10,$800K-$2M,Managing Partner,Managing Partner,(972) 421-1099,N/A,www.lhcpafirm.com
+Gurian CPA Firm,Dallas,TX,Dallas,CPA Firm,8,$500K-$2M,Managing Partner,Managing Partner,(469) 374-3150,N/A,gurianco.com
+M&B CPAs,Houston,TX,Houston,CPA Firm,7,$500K-$1.5M,Managing Partner,Managing Partner,(281) 496-6152,N/A,mnbcpa.com
+Chester & Daniels LLC,Atlanta,GA,Atlanta,CPA Firm,10,$800K-$2M,Managing Partner,Managing Partner,(404) 913-0110,N/A,www.chesterdaniels.com
+LB&J Certified Public Accountants,Charlotte,NC,Charlotte,CPA Firm,10,$800K-$2M,Managing Partner,Managing Partner,(704) 765-1119,N/A,www.lbjcpa.com
+Scharf Pera & Co PLLC,Charlotte,NC,Charlotte,CPA Firm,12,$800K-$2M,Managing Partner,Managing Partner,(704) 372-1167,N/A,scharfpera.com
+Rivero Gordimer & Company,Tampa,FL,Tampa,CPA Firm,15,$1M-$2M,Managing Partner,Managing Partner,N/A,N/A,www.rgcocpa.com
+Fontana CPAs,Tampa,FL,Tampa,CPA Firm,8,$500K-$2M,Managing Partner,Managing Partner,(727) 799-9533,N/A,www.fontanacpas.com
+CPA Tampa,Largo,FL,Tampa,CPA Firm,6,$500K-$1.5M,Managing Partner,Managing Partner,(727) 587-0376,N/A,cpatampa.net
+KDK Accountancy,Orlando,FL,Orlando,CPA Firm,7,$500K-$1.5M,Bernard Kiesel,Managing Partner,(407) 677-1040,N/A,orlandocpa.net
+CPA Accounting & Tax Experts,Orlando,FL,Orlando,CPA Firm,8,$500K-$2M,Managing Partner,Managing Partner,(407) 382-6658,N/A,www.cpaaccounting.biz
+Jaime Santiago CPA,Orlando,FL,Orlando,CPA Firm,6,$500K-$1.5M,Jaime Santiago,Owner,(321) 299-9408,N/A,jsantiagocpa.com
+XZ CPA,Phoenix,AZ,Phoenix,CPA Firm,6,$500K-$1.5M,Managing Partner,Managing Partner,(602) 296-4808,N/A,xz-cpa.com
+Thomas S Holly CPA PLLC,Phoenix,AZ,Phoenix,CPA Firm,7,$500K-$1.5M,Thomas S. Holly,Owner,(480) 945-0699,N/A,hollycpa.com
+Foster Financial CPA,Phoenix,AZ,Phoenix,CPA Firm,8,$500K-$2M,Managing Partner,Managing Partner,N/A,N/A,fosterfinancialcpa.com
+John W. Weldon CPA,Los Angeles,CA,Los Angeles,CPA Firm,8,$500K-$2M,John W. Weldon,Owner,(310) 390-7487,N/A,www.johnweldoncpa.com
+Lalea & Black,Los Angeles,CA,Los Angeles,CPA Firm,10,$800K-$2M,Managing Partner,Managing Partner,(866) 222-6060,N/A,laleablack.com
+Jarus & Co,Irvine,CA,Orange County,CPA Firm,7,$500K-$1.5M,Ryan P. Jarus,Managing Partner,(949) 812-6527,N/A,www.jaruscpa.com
+Friedman & Company CPAs,Irvine,CA,Orange County,CPA Firm,8,$500K-$2M,Brett Friedman,Owner,(714) 850-1001,N/A,www.brettfriedmancpa.com
+Abbo Tax CPA,San Diego,CA,San Diego,CPA Firm,7,$500K-$1.5M,Tyson Abbo,Managing Partner,(619) 269-8190,N/A,abbotax.com
+Dark Horse CPAs,San Diego,CA,San Diego,CPA Firm,10,$800K-$2M,Managing Partner,Managing Partner,(619) 736-1404,N/A,darkhorse.cpa
+Basta & Company,San Francisco,CA,San Francisco Bay Area,CPA Firm,7,$500K-$1.5M,Samy Basta,Owner,(415) 333-6262,N/A,bastacpa.com
+Scott B. Price & Company LLP,San Francisco,CA,San Francisco Bay Area,CPA Firm,8,$500K-$2M,Scott B. Price,Managing Partner,(415) 398-5900,N/A,scottbpricecpa.com
+Simon CPAs,Westwood,MA,Boston,CPA Firm,10,$800K-$2M,Managing Partner,Managing Partner,(781) 326-8855,N/A,simon-cpas.com
+Wendroff & Associates CPA,Washington,DC,Washington DC,CPA Firm,8,$500K-$2M,Managing Partner,Managing Partner,(703) 553-1099,N/A,wendroffcpa.com
+Lanphier LLP,Denver,CO,Denver,CPA Firm,10,$800K-$2M,Managing Partner,Managing Partner,(720) 961-0310,N/A,cpafirmco.com
+Orlando Tax Accounting,Orlando,FL,Orlando,Tax Preparation Firm,6,$500K-$1.5M,Managing Partner,Managing Partner,(407) 394-1040,N/A,orlandotaxaccounting.com
+Sonu Shukla CPA PA,Orlando,FL,Orlando,Tax Preparation Firm,7,$500K-$1.5M,Sonu Shukla,Owner,(321) 236-6795,N/A,orlandotaxcoach.com
+Anderson Boback & Marshall,Chicago,IL,Chicago,Family Law Firm,12,$1M-$3M,Managing Partner,Managing Partner,(312) 715-0870,N/A,illinoislawforyou.com
+The McClure Law Group,Dallas,TX,Dallas,Family Law Firm,10,$1M-$3M,Kelly McClure,Managing Partner,(214) 692-8200,N/A,www.mcclure-lawgroup.com
+The Barbosa Law Firm PC,Dallas,TX,Dallas,Family Law Firm,8,$800K-$2M,Roland Barbosa,Founding Attorney,(972) 417-2653,N/A,divorceattorneydallas.pro
+The Women's Law Group,Tampa,FL,Tampa,Family Law Firm,8,$800K-$2M,Managing Partner,Managing Partner,(813) 443-5572,N/A,thewomenslawgroup.com
+Colorado Estate Planning Law Center,Denver,CO,Denver,Estate Planning Firm,10,$800K-$2M,Managing Partner,Managing Partner,(303) 420-2863,N/A,coloradoestateplanning.com
+Klenk Law,Philadelphia,PA,Philadelphia,Estate Planning Firm,10,$800K-$2M,Peter Klenk,Managing Partner,(215) 790-1095,N/A,klenklaw.com
+Schomer Estate & Wealth Advisors,Los Angeles,CA,Los Angeles,Estate Planning Firm,10,$1M-$3M,Managing Partner,Managing Partner,(310) 337-7676,N/A,www.schomerlawgroup.com
+DiRaimondo & Schroeder LLP,New York,NY,New York City,Immigration Law Firm,10,$1M-$3M,Managing Partner,Managing Partner,N/A,N/A,www.diraimondoschroeder.com
+Sverdloff Law Group,Chicago,IL,Chicago,Immigration Law Firm,7,$800K-$2M,Julia Sverdloff,Founding Attorney,(312) 238-9090,N/A,sverdlofflaw.com
+Hecht Kleeger & Damashek,New York,NY,New York City,Personal Injury Law Firm,12,$1M-$3M,Managing Partner,Managing Partner,(212) 490-5700,N/A,lawyer1.com
+Dansker & Aspromonte Associates LLP,New York,NY,New York City,Personal Injury Law Firm,10,$1M-$3M,Managing Partner,Managing Partner,(212) 732-2929,N/A,www.dandalaw.com
+Kelly Law Team,Phoenix,AZ,Phoenix,Personal Injury Law Firm,10,$1M-$3M,Managing Partner,Managing Partner,(602) 283-4122,N/A,www.jkphoenixpersonalinjuryattorney.com
+Valanzola Law Group,Hingham,MA,Boston,Real Estate Law Firm,8,$800K-$2M,Managing Partner,Managing Partner,(781) 875-3390,N/A,valanzolalawgroup.com
+The Matus Law Group,New Jersey,NJ,Northern New Jersey,Real Estate Law Firm,8,$800K-$2M,Christine Matus,Founding Attorney,(732) 281-0060,N/A,matuslaw.com
+Bradford Miller Law PC,Chicago,IL,Chicago,Real Estate Law Firm,8,$800K-$2M,Bradford Miller,Founding Attorney,(312) 238-9298,N/A,bradfordmillerlaw.com
+Lipscomb Insurance Group Inc,Dallas,TX,Dallas,Insurance Brokerage,15,$1M-$2M,Managing Partner,Managing Partner,(214) 420-5200,N/A,lipscombinsurance.com
+Jos. Cacciatore & Co Insurance Agency,Chicago,IL,Chicago,Insurance Brokerage,10,$800K-$2M,Managing Partner,Managing Partner,(312) 264-6055,N/A,www.cacciatoreinsurance.com
+The Allen Thomas Group,Atlanta,GA,Atlanta,Insurance Brokerage,10,$800K-$2M,Managing Partner,Managing Partner,(440) 826-3676,N/A,allenthomasgroup.com
+Texan Insurance,Houston,TX,Houston,Insurance Brokerage,10,$800K-$2M,Managing Partner,Managing Partner,(281) 998-2500,N/A,www.texaninsurance.com
+Bonnie Brae Insurance,Denver,CO,Denver,Insurance Brokerage,8,$500K-$2M,Managing Partner,Managing Partner,(303) 321-9300,N/A,www.bonniebraeinsurance.com
+Ramos Law,Phoenix,AZ,Phoenix,Personal Injury Law Firm,8,$800K-$2M,Joseph Ramos,Founding Attorney,(602) 900-9402,N/A,www.ramoslaw.com
+Kreischer Miller,Philadelphia,PA,Philadelphia,CPA Firm,15,$1M-$2M,Managing Partner,Managing Partner,(215) 441-4600,N/A,https://www.kmco.com/
+Duffy Kruspodin LLP,Orange County,CA,Orange County,CPA Firm,12,$800K-$2M,Managing Partner,Managing Partner,(818) 385-0585,N/A,https://dk.cpa/
+Paul Anderson CPA,San Diego,CA,San Diego,CPA Firm,5,$500K-$1M,Paul Anderson,Owner,(858) 433-7287,N/A,https://www.sdbookkeepingsolutions.com/
+Levin & Associates,Chicago,IL,Chicago,Family Law Firm,10,$1M-$3M,Managing Partner,Managing Partner,(312) 546-5100,N/A,https://levinfamilylaw.com/
+Eittreim Martin Cutler LLC,Atlanta,GA,Atlanta,Family Law Firm,8,$800K-$2M,Managing Partner,Managing Partner,(770) 574-6473,N/A,https://www.emcfamilylaw.com/
+Building Equity Management,New York,NY,New York City,Property Management Company,10,$1M-$3M,Brian Reilly,Co-Owner,(212) 489-5060,N/A,https://www.bemny.com/
+Southern Sky Realty,Nashville,TN,Nashville,Property Management Company,6,$500K-$1.5M,Jeff Irwin,Owner,(615) 592-5216,N/A,https://southernskyrealtynashville.com/
+Omni Realtors and Property Management,Nashville,TN,Nashville,Property Management Company,8,$500K-$2M,Owner,Owner,(615) 826-4436,N/A,https://www.myomnirealty.com/
+Browning-Gordon & Company,Nashville,TN,Nashville,Property Management Company,12,$1M-$3M,Principal,Managing Partner,(615) 383-3999,N/A,https://www.browning-gordon.com/
+Beacham & Company Realtors,Atlanta,GA,Atlanta,Real Estate Brokerage,15,$2M-$5M,Principal,Owner,(404) 261-6300,N/A,https://beacham.com/
+CLM Mortgage Inc,Houston,TX,Houston,Mortgage Brokerage,8,$500K-$2M,Principal,Owner,(281) 598-6500,N/A,https://www.clmmortgage.com/
+DMR Mortgage,Houston,TX,Houston,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner,(281) 492-8861,N/A,https://www.dmrloans.com/
+J. Kent Staffing,Denver,CO,Denver,Staffing Agency,15,$1M-$5M,Principal,Owner,(303) 777-7734,N/A,https://www.jkentstaffing.com/
+Leland Management,Orlando,FL,Orlando,HOA Management Firm,15,$1M-$3M,Principal,Owner,(407) 447-9955,N/A,https://lelandmgt.com/
+Bonnie Jones Associates,Washington,DC,Washington DC,Staffing Agency,8,$1M-$3M,Bonnie Jones,President,(703) 409-7328,N/A,https://www.bonniejones.com/
+Celarity,Minneapolis,MN,Minneapolis,Recruiting Agency,12,$1M-$5M,Principal,Owner,(952) 941-0022,N/A,https://www.celarity.com/
+Correct Capital,Philadelphia,PA,Philadelphia,Financial Advisory Firm,10,$1M-$5M,Principal,Owner,(877) 930-4015,N/A,https://correctcap.com/
+Sage Financial Group,Philadelphia,PA,Philadelphia,Financial Advisory Firm,15,$2M-$5M,Principal,Managing Partner,(484) 342-4400,N/A,https://www.sagefinancial.com/
+Wise Property Management,Tampa,FL,Tampa,HOA Management Firm,15,$1M-$3M,Owner,Owner,(813) 968-5665,N/A,https://wisepropertymanagement.com/
+A and N Mortgage Services,Chicago,IL,Chicago,Mortgage Brokerage,10,$500K-$2M,Principal,Owner,(773) 305-5626,N/A,https://www.anmtg.com/
+Hiregy,Tampa,FL,Tampa,Staffing Agency,10,$1M-$3M,Principal,Owner,(813) 449-4800,N/A,https://www.hiregy.com/
+Avenue Real Estate,Washington,DC,Washington DC,Real Estate Brokerage,8,$1M-$3M,Ross Conn,Founder,(301) 275-5509,N/A,https://avenuerealestatellc.com/
+Post Oak Private Wealth Advisors,Houston,TX,Houston,Wealth Management Firm,12,$2M-$5M,Principal,Managing Partner,(281) 580-2100,N/A,https://postoakprivatewealth.com/
+Moisand Fitzgerald Tamayo,Orlando,FL,Orlando,Financial Advisory Firm,12,$1M-$5M,Principal,Managing Partner,(877) 869-6228,N/A,https://moisandfitzgerald.com/
+Poli Mortgage Group,Boston,MA,Boston,Mortgage Brokerage,15,$1M-$2M,Principal,Owner,(781) 232-8000,N/A,https://www.polimortgage.com/
+LINK Staffing,Houston,TX,Houston,Staffing Agency,18,$2M-$5M,Principal,Owner,(800) 848-5465,N/A,https://linkstaffing.com/
+Clayton Services,Houston,TX,Houston,Staffing Agency,12,$1M-$5M,Principal,Owner,(281) 999-3080,N/A,https://www.claytonpersonnel.com/
+Miami Brokers Group,Miami,FL,Miami,Real Estate Brokerage,10,$1M-$5M,Mike Diaz,Owner,(786) 287-6453,N/A,https://miamibrokersgroup.com/
+Chariff Realty Group,Miami,FL,Miami,Real Estate Brokerage,10,$1M-$5M,Principal,Owner,(305) 576-7474,N/A,https://chariff.com/
+The Mather Group,Chicago,IL,Chicago,Wealth Management Firm,15,$2M-$5M,Principal,Managing Partner,(888) 537-1080,N/A,https://www.themathergroup.com/
+Scion Staffing SF,San Francisco,CA,San Francisco Bay Area,Staffing Agency,12,$1M-$5M,Principal,Owner,(415) 392-7500,N/A,https://scionstaffing.com/
+Envoy Property Management,Los Angeles,CA,Los Angeles,Property Management Company,10,$500K-$2M,Principal,Owner,(310) 202-7100,N/A,envoyproperties.com
+Boucher + Co.,New York,NY,New York City,Digital Marketing Agency,8,$500K-$2M,Owner,Principal,N/A,N/A,boucherco.com
+Solutions for Growth LLC,New York,NY,New York City,Digital Marketing Agency,6,$500K-$1.5M,Owner,Principal,(888) 840-2595,N/A,solutionsforgrowthllc.com
+The Charles,New York,NY,New York City,Branding/Creative Agency,12,$1M-$3M,Aaron Edwards,Co-Founder,N/A,N/A,thecharlesnyc.com
+1811 Auto Repair & Body Shop,New York,NY,New York City,Auto Repair Shop,10,$500K-$2M,Owner,Owner,(718) 855-7700,N/A,1811auto.com
+Altus Home Renovations,Miami,FL,Miami,Remodeling Contractor,8,$500K-$2M,Henry,Owner,(786) 553-5579,N/A,altusrenovations.com
+MattBeth Construction LLC,Miami,FL,Miami,General Contractor,15,$1M-$5M,Owner,Principal,(954) 578-4146,N/A,mattbeth.com
+Integrated Computer Services Inc.,Northern NJ,NJ,Northern New Jersey,IT Managed Service Provider,15,$1M-$5M,Owner,Principal,(201) 365-9716,N/A,icssnj.com
+Exigent Technologies,Northern NJ,NJ,Northern New Jersey,IT Managed Service Provider,12,$1M-$4M,Owner,Principal,(973) 490-4052,N/A,exigent.net
+JNG Painting,Hawthorne,NJ,Northern New Jersey,Painting Contractor,7,$500K-$1.5M,Owner,Owner,(973) 855-6258,N/A,jngpainting.com
+Tirondola Painting,Ridgewood,NJ,Northern New Jersey,Painting Contractor,6,$500K-$1.5M,Mark Tirondola Jr.,Owner,(973) 210-4848,N/A,tirondolapainting.com
+Prizm Painting Plus,Northern NJ,NJ,Northern New Jersey,Painting Contractor,8,$500K-$2M,Owner,Owner,N/A,N/A,prizmpainting.com
+MSK & Sons Construction,Northern NJ,NJ,Northern New Jersey,Remodeling Contractor,10,$500K-$3M,Michael S. Kubrin,Owner,(973) 296-7079,N/A,mskandsons.com
+Mr. Fix It Remodeling,Northern NJ,NJ,Northern New Jersey,Remodeling Contractor,6,$500K-$1.5M,Rob DiPiazza,Owner,N/A,N/A,cnjhomeservice.com
+Tennessee Social,Nashville,TN,Nashville,Digital Marketing Agency,6,$500K-$1.5M,Owner,Principal,N/A,N/A,tnsocial.com
+CFM Digital,Nashville,TN,Nashville,Digital Marketing Agency,5,$500K-$1M,Owner,Principal,N/A,N/A,cfmdigital.com
+Flypaper,Nashville,TN,Nashville,Digital Marketing Agency,8,$500K-$2M,Owner,Principal,(629) 777-9222,N/A,customerswhostick.com
+CloudSmart IT,Nashville,TN,Nashville,IT Managed Service Provider,12,$1M-$4M,Rick Williams,Principal,(615) 610-3500,N/A,cloudsmartit.com
+Nashville IT,Nashville,TN,Nashville,IT Managed Service Provider,10,$1M-$3M,Owner,Principal,N/A,N/A,nashvilleit.com
+The Concrete Gentlemen,Nashville,TN,Nashville,Concrete Contractor,10,$1M-$5M,Owner,Owner,(931) 581-6476,N/A,theconcretegentlemen.com
+Summit Concrete,Nashville,TN,Nashville,Concrete Contractor,8,$500K-$3M,Owner,Owner,(615) 295-4547,N/A,summitconcretetn.com
+Titan Concrete,Nashville,TN,Nashville,Concrete Contractor,7,$500K-$2M,Owner,Owner,N/A,N/A,titanconcretecompany.com
+Concrete Mystique Engraving,Nashville,TN,Nashville,Concrete Contractor,6,$500K-$2M,Owner,Owner,(615) 828-3806,N/A,concretemystique.com
+Outsource Solutions Group,Chicago,IL,Chicago,Cybersecurity Firm,15,$1M-$5M,Owner,Principal,(855) 288-0344,N/A,osgusa.com
+Reintivity Technology Solutions,Chicago,IL,Chicago,Cybersecurity Firm,7,$1M-$3M,Owner,Principal,(312) 985-6810,N/A,reintivity.com
+Ascentient,Chicago,IL,Chicago,IT Managed Service Provider,15,$1M-$5M,Owner,Principal,(847) 690-1900,N/A,ascentient.com
+CelereTech,Schaumburg,IL,Chicago,IT Managed Service Provider,10,$1M-$3M,Owner,Principal,(847) 658-4800,N/A,celeretech.com
+Network IT Easy,Chicago,IL,Chicago,IT Managed Service Provider,8,$1M-$3M,Owner,Principal,N/A,N/A,networkiteasy.com
+Simple SEO Group,Chicago,IL,Chicago,SEO Agency,6,$500K-$1.5M,Owner,Principal,(888) 918-1665,N/A,simpleseogroup.com
+Flamingo Agency,Chicago,IL,Chicago,SEO Agency,5,$500K-$1M,Owner,Principal,(312) 967-7044,N/A,flamingoagency.com
+SEO Design Chicago,Chicago,IL,Chicago,SEO Agency,10,$500K-$2M,Owner,Principal,(773) 677-5747,N/A,seodesignchicago.com
+Chicagoland Remodeling,Chicago,IL,Chicago,Remodeling Contractor,8,$500K-$3M,Wally Szymanski,Owner,N/A,N/A,chicagolandremodeling.com
+White Construction Services,Dallas,TX,Dallas,General Contractor,15,$1M-$10M,Owner,Owner,N/A,N/A,whiteconstructionservices.net
+Kendall Creative,Dallas,TX,Dallas,Branding/Creative Agency,6,$500K-$1.5M,Owner,Creative Director,N/A,N/A,kendallcreative.com
+Five Star Painting of Dallas,Dallas,TX,Dallas,Painting Contractor,8,$500K-$2M,Josh Christensen,Owner,(214) 238-9355,N/A,fivestarpainting.com/dallas
+Home Remedy LLC,Houston,TX,Houston,Remodeling Contractor,8,$500K-$2M,Mike Crigler,Owner,(713) 939-7717,N/A,homeremedyhouston.com
+Strong Tower Renovations LLC,Houston,TX,Houston,Remodeling Contractor,10,$500K-$3M,Franco Olivo,CEO,(832) 407-1369,N/A,strongtowerrenovations.com
+Metropolitan Collision,Houston,TX,Houston,Collision Repair Shop,18,$1M-$5M,Owner,Owner,(832) 618-1700,N/A,metropolitancollision.com
+HoustonTech,Houston,TX,Houston,IT Managed Service Provider,10,$1M-$4M,Owner,Principal,(832) 919-7100,N/A,houstontech.com
+Expert Computer Solutions,Houston,TX,Houston,IT Managed Service Provider,12,$1M-$5M,Owner,Principal,(713) 782-4357,N/A,ecsoffice.com
+TopSpot Internet Marketing,Houston,TX,Houston,SEO Agency,15,$1M-$3M,Owner,Principal,(713) 933-0449,N/A,topspot.com
+Kacal's Auto and Truck Service,Houston,TX,Houston,Fleet Maintenance Provider,12,$1M-$4M,Owner,Owner,(713) 747-8076,N/A,kacals.com
+Atlanta Painting Company,Atlanta,GA,Atlanta,Painting Contractor,10,$500K-$2M,Owner,Owner,(770) 551-0101,N/A,atlantapaintingcompany.com
+MIS Solutions,Atlanta,GA,Atlanta,IT Managed Service Provider,15,$1M-$5M,Lliam Holmes,Co-Founder,(678) 745-5109,N/A,mis-solutions.com
+IntegriCom,Atlanta,GA,Atlanta,IT Managed Service Provider,10,$1M-$3M,Owner,Principal,(678) 507-0700,N/A,integricom.net
+ALMAR Auto Repair,Charlotte,NC,Charlotte,Auto Repair Shop,8,$500K-$1.5M,Owner,Owner,(704) 522-9000,N/A,almarauto.com
+Woodie's Auto Service,Charlotte,NC,Charlotte,Auto Repair Shop,15,$1M-$2M,Owner,Owner,(704) 556-3033,N/A,woodiesautoservice.com
+Wolfpack Construction,Orlando,FL,Orlando,General Contractor,12,$1M-$5M,Owner,Owner,(407) 449-8228,N/A,wolfpackfl.com
+Camelback Collision,Phoenix,AZ,Phoenix,Collision Repair Shop,10,$500K-$2M,Owner,Owner,(602) 914-7131,N/A,camelbackcollision.com
+Silent Sector,Phoenix,AZ,Phoenix,Cybersecurity Firm,10,$1M-$4M,Owner,Principal,(480) 447-9658,N/A,silentsector.com
+Nuvodia,Phoenix,AZ,Phoenix,Cybersecurity Firm,12,$1M-$5M,Owner,Principal,(480) 418-8366,N/A,nuvodia.com
+Visory,Phoenix,AZ,Phoenix,Cybersecurity Firm,8,$1M-$3M,Owner,Principal,(480) 818-1974,N/A,visory.net
+Just Digital,Los Angeles,CA,Los Angeles,Digital Marketing Agency,10,$500K-$2M,Owner,Principal,(424) 210-7128,N/A,justdigitalinc.com
+Zupo,Orange County,CA,Orange County,SEO Agency,8,$500K-$2M,Owner,Principal,(714) 872-8890,N/A,zupo.co
+Holland-Mark,Boston,MA,Boston,Branding/Creative Agency,12,$1M-$3M,Owner,Principal,(617) 247-1111,N/A,holland-mark.com
+OSIbeyond,Washington,DC,Washington DC,Cybersecurity Firm,12,$1M-$5M,Owner,Principal,(301) 312-8908,N/A,osibeyond.com
+E-N Computers,Washington,DC,Washington DC,Cybersecurity Firm,10,$1M-$4M,Owner,Principal,(202) 888-2770,N/A,encomputers.com
+Colorado SEO Services,Denver,CO,Denver,SEO Agency,8,$500K-$2M,Owner,Principal,(720) 392-2454,N/A,coloradoseoservices.net
+StormWise Auto Hail & Collision Repair,Denver,CO,Denver,Collision Repair Shop,10,$500K-$2M,Owner,Owner,(720) 439-9533,N/A,stormwisehailrepair.com
+Paris Painting,Minneapolis,MN,Minneapolis,Painting Contractor,12,$500K-$3M,Owner,Owner,(651) 615-1183,N/A,paris-painting.com
+Lupient Collision Center,Minneapolis,MN,Minneapolis,Collision Repair Shop,15,$1M-$3M,Owner,Owner,(763) 425-4499,N/A,lupientcollision.com
+Swanson Family Construction,Minneapolis,MN,Minneapolis,General Contractor,12,$1M-$5M,Owner,Owner,(952) 367-6194,N/A,swansonfamilyconst.com
+Brave People,Tampa,FL,Tampa,Branding/Creative Agency,8,$500K-$2M,Owner,Creative Director,N/A,N/A,bravepeople.co
+LeeShanok Network Solutions,Phoenix,AZ,Phoenix,Cybersecurity Firm,8,$1M-$3M,Owner,Principal,(602) 277-5757,N/A,leeshanok.com
+EWR Digital,Houston,TX,Houston,SEO Agency,12,$500K-$3M,Owner,Principal,(713) 592-6724,N/A,ewrdigital.com
+Caveni Digital,Philadelphia,PA,Philadelphia,Digital Marketing Agency,8,$500K-$2M,Owner,Principal,(267) 627-0119,N/A,caveni.com
+Virginia Tire & Auto,Washington,DC,Washington DC,Auto Repair Shop,15,$1M-$2M,Owner,Owner,(855) 425-3677,N/A,vatire.com
+Connect Truck Center,Chicago,IL,Chicago,Fleet Maintenance Provider,15,$1M-$5M,Owner,Owner,N/A,N/A,www.connecttruckcenter.com
+Absolute Painting,Dallas,TX,Dallas,Painting Contractor,8,$500K-$2M,Owner,Owner,(972) 375-5100,N/A,absoluteptg.com
+Quality Auto Services,New York,NY,New York City,Auto Repair Shop,6,$500K-$1.5M,Owner,Owner,(212) 244-4420,N/A,www.qualityautoservicesnyc.com
+Avanti Home Health Services,Miami,FL,Miami,Home Health Agency,12,$1M-$3M,Owner,Owner,(305) 599-9430,N/A,avantihomehealth.com
+Lesly Home Health Care,Miami,FL,Miami,Home Health Agency,8,$500K-$1.5M,Owner,Owner,(305) 553-7727,N/A,www.leslyhomehealthcare.com
+Comforts of Home,Miami,FL,Miami,Senior Home Care,10,$500K-$2M,Owner,Owner,(754) 329-0388,N/A,www.comforts-of-home.net
+Direct Home Health Services,Dallas,TX,Dallas,Home Health Agency,8,$500K-$2M,Owner,Owner,(877) 551-6668,N/A,www.directhomehealthservices.com
+Angel Home Healthcare Services,Dallas,TX,Dallas,Home Health Agency,12,$1M-$3M,Owner,Owner,(972) 776-2224,N/A,www.angelhomehealthcare.com
+DFW Home Health of Dallas,Dallas,TX,Dallas,Home Health Agency,15,$1M-$3M,Owner,General Manager,(214) 891-8700,N/A,lhcgroup.com/locations/dfw-home-health-of-dallas/
+Affordable Medical Resources,Atlanta,GA,Atlanta,Home Health Agency,10,$500K-$2M,Owner,Owner,(770) 321-6142,N/A,affordablemedicalresources.com
+Trinity Life at Home,Atlanta,GA,Atlanta,Home Health Agency,15,$1M-$3M,Owner,Owner,(678) 731-0831,N/A,trinitylifeathome.com
+Home Care Powered by AUAF,Chicago,IL,Chicago,Senior Home Care,18,$1M-$3M,Owner,Owner,(773) 274-9262,N/A,homecare-aid.com
+ASI Home Care Services,Chicago,IL,Chicago,Senior Home Care,15,$1M-$3M,Owner,Owner,(773) 278-5130,N/A,asiservices.org
+Custom Home Care Chicago,Chicago,IL,Chicago,Senior Home Care,8,$500K-$1.5M,Owner,Owner,(773) 561-4663,N/A,www.customhomecare.net
+Primetime Home Health Services,Houston,TX,Houston,Home Health Agency,15,$1M-$3M,Owner,Owner,(713) 977-7721,N/A,pthhs.net
+Arizona Home Care,Phoenix,AZ,Phoenix,Home Health Agency,18,$1M-$3M,Owner,Owner,N/A,N/A,www.azhomecare.com
+Nightingale Homecare,Phoenix,AZ,Phoenix,Home Health Agency,15,$1M-$3M,Owner,Owner,(602) 504-1555,N/A,ngcare.com
+PHC Home Health,Charlotte,NC,Charlotte,Home Health Agency,12,$1M-$3M,Owner,Owner,(704) 522-6149,N/A,www.phcnc.com
+EULA Home Care Agency,Charlotte,NC,Charlotte,Home Health Agency,10,$500K-$2M,Owner,Owner,(704) 741-0047,N/A,eulahomecare.com
+Bayshore Home Care,Tampa,FL,Tampa,Senior Home Care,12,$500K-$2M,Owner,Owner,(813) 207-0044,N/A,www.bayshorehomecare.com
+Senior Helpers Orlando,Orlando,FL,Orlando,Senior Home Care,12,$500K-$2M,Dale Gardner,Owner,(407) 628-4357,N/A,www.seniorhelpers.com/fl/orlando/
+Diverse Tender Care LLC,Boston,MA,Boston,Home Health Agency,8,$500K-$1.5M,Marie Pierre,Owner,(857) 233-9391,N/A,diversetendercare.com
+ABP Best Home Care Agency,Boston,MA,Boston,Home Health Agency,10,$500K-$2M,Owner,Owner,(617) 779-8400,N/A,abpbesthomecare.com
+VMT Home Care,Washington,DC,Washington DC,Home Health Agency,10,$500K-$2M,Owner,Owner,(202) 282-3004,N/A,www.vmthc.com
+Bridge Home Health San Diego,San Diego,CA,San Diego,Home Health Agency,10,$500K-$2M,Owner,Owner,(858) 455-5000,N/A,bridgehh.com
+Warrior Logistics Chicago,Chicago,IL,Chicago,Freight Brokerage,15,$2M-$5M,Owner,Owner,N/A,N/A,www.warriorlogistics.com
+MAI Fulfillment,Chicago,IL,Chicago,Freight Brokerage,18,$2M-$5M,Owner,Owner,(800) 511-9384,N/A,maifulfillment.com
+A Delightful Bitefull Catering,Atlanta,GA,Atlanta,Catering Company,10,$500K-$2M,Owner,Owner,(770) 565-4146,N/A,bitefull.com
+Keifs Catering,Houston,TX,Houston,Catering Company,12,$500K-$2M,Owner,Owner,(713) 530-5921,N/A,keifscatering.com
+Distinctive Cabinets LLC,Charlotte,NC,Charlotte,Cabinet Manufacturer,10,$1M-$3M,Steve Young,Owner,(704) 529-6234,N/A,www.distinctivecabinets.com
+Special Moments Events,Tampa,FL,Tampa,Event Planning Company,8,$500K-$2M,Tammy Waterman,Owner,N/A,N/A,eventsbyspecialmoments.com
+Andrew Roby Events,Washington,DC,Washington DC,Event Planning Company,8,$500K-$2M,Andrew Roby,Owner,N/A,N/A,andrewrobyevents.com
+Artcraft Sign Company,Denver,CO,Denver,Sign Manufacturing,10,$1M-$3M,Owner,Owner,(303) 777-7771,N/A,artcraftsign.com
+Eatible Delights Catering,Philadelphia,PA,Philadelphia,Catering Company,10,$500K-$2M,Chef David Simms,Owner,(215) 236-3900,N/A,eatibledelightscatering.com
+Village Catering Philadelphia,Philadelphia,PA,Philadelphia,Catering Company,15,$500K-$2M,Owner,Owner,(215) 437-3337,N/A,villagecatering.com
+Milk Street Cafe,Boston,MA,Boston,Catering Company,12,$500K-$2M,Owner,Owner,(617) 542-3663,N/A,www.milkstreetcafe.com
+Maya Catering,Miami,FL,Miami,Catering Company,10,$500K-$2M,Chef Jose Maya,Owner,(305) 310-2898,N/A,mayacatering.com
+Assisting Hands Chicago,Chicago,IL,Chicago,Senior Care Franchise,15,$1M-$3M,Owner,Franchisee,(312) 685-4174,N/A,assistinghands.com/127/illinois/chicagonorth/
