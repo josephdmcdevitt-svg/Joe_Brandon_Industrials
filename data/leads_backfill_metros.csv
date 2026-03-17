@@ -1,0 +1,253 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title
+Larchmont Dental Associates,Los Angeles,CA,Los Angeles,Dental Practice,8,$1M-$2M,Owner,Dentist/Owner
+Cal Dental Group,Los Angeles,CA,Los Angeles,Dental Practice,10,$1.5M-$3M,Owner,Dentist/Owner
+Personal Dental Office,Los Angeles,CA,Los Angeles,Dental Practice,7,$1M-$2M,Owner,Dentist/Owner
+Washington Dental,Los Angeles,CA,Los Angeles,Dental Practice,12,$2M-$4M,Owner,Dentist/Owner
+Brody Pennell Heating & Air Conditioning,Los Angeles,CA,Los Angeles,HVAC Contractor,18,$3M-$6M,Owner,President
+Lions Heating & Air,Los Angeles,CA,Los Angeles,HVAC Contractor,8,$1M-$2.5M,Owner,Owner
+LA Heating & Air Conditioning,Los Angeles,CA,Los Angeles,HVAC Contractor,12,$2M-$4M,Owner,Owner
+Alturas Contractors,Los Angeles,CA,Los Angeles,HVAC Contractor,10,$1.5M-$3M,Owner,Owner
+Marathon HVAC,Los Angeles,CA,Los Angeles,HVAC Contractor,10,$1.5M-$3M,Owner,Owner
+John W. Weldon CPA,Los Angeles,CA,Los Angeles,CPA Firm,6,$800K-$1.5M,John Weldon,CPA/Owner
+Lalea & Black,Los Angeles,CA,Los Angeles,CPA Firm,8,$1M-$2M,Owner,Managing Partner
+Accuretta Inc. CPA,Los Angeles,CA,Los Angeles,CPA Firm,6,$700K-$1.5M,Owner,CPA/Owner
+Jarrar & Associates CPAs,Los Angeles,CA,Los Angeles,CPA Firm,10,$1.2M-$2.5M,Owner,Managing Partner
+Gerber & Company,Los Angeles,CA,Los Angeles,CPA Firm,12,$1.5M-$3M,Owner,Managing Partner
+Robert Hall & Associates,Los Angeles,CA,Los Angeles,CPA Firm,15,$2M-$4M,Owner,Managing Partner
+Red Lilly Plumbing,Los Angeles,CA,Los Angeles,Plumbing Contractor,15,$2.5M-$5M,Owner,President
+Ritz Plumbing,Los Angeles,CA,Los Angeles,Plumbing Contractor,12,$2M-$4M,Owner,Owner
+Mr. Speedy Plumbing,Los Angeles,CA,Los Angeles,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Boss Plumbing,Los Angeles,CA,Los Angeles,Plumbing Contractor,8,$1M-$2.5M,Owner,Owner
+EZ Roth Plumbing & Heating,Los Angeles,CA,Los Angeles,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+A-1 Total Service Plumbing,Los Angeles,CA,Los Angeles,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Law Offices of David A. Shapiro,Los Angeles,CA,Los Angeles,Law Firm - Estate,6,$800K-$1.5M,David A. Shapiro,Attorney/Owner
+Josh Wang Law,Los Angeles,CA,Los Angeles,Law Firm - Estate,5,$600K-$1.2M,Josh Wang,Attorney/Owner
+FMBK Law LLP,Los Angeles,CA,Los Angeles,Law Firm - Family/Estate,12,$2M-$4M,Owner,Managing Partner
+Singh Law Firm,Los Angeles,CA,Los Angeles,Law Firm - Estate,7,$900K-$1.8M,Owner,Attorney/Owner
+Camisassa Law Group,Los Angeles,CA,Los Angeles,Law Firm - Immigration,8,$1M-$2M,Owner,Attorney/Owner
+Romben Law APC,Los Angeles,CA,Los Angeles,Law Firm - Immigration,6,$800K-$1.5M,Owner,Attorney/Owner
+Blaker & Granet LLP,Los Angeles,CA,Los Angeles,Law Firm - Immigration,8,$1M-$2M,Owner,Managing Partner
+McGee Lerer & Associates,Los Angeles,CA,Los Angeles,Law Firm - Personal Injury,10,$1.5M-$3M,Owner,Managing Partner
+Cohen & Marzban,Los Angeles,CA,Los Angeles,Law Firm - Personal Injury,8,$1.2M-$2.5M,Bob Cohen,Managing Partner
+Farzam Law Firm,Los Angeles,CA,Los Angeles,Law Firm - Personal Injury,7,$1M-$2M,Owner,Attorney/Owner
+BANA Law,Los Angeles,CA,Los Angeles,Law Firm - Personal Injury,6,$800K-$1.5M,Owner,Attorney/Owner
+Keybox Properties,Los Angeles,CA,Los Angeles,Property Management,8,$1M-$2M,Owner,Owner/Broker
+Hawk Management,Los Angeles,CA,Los Angeles,Property Management,6,$800K-$1.5M,Owner,Owner
+Glaser Property Management,Los Angeles,CA,Los Angeles,Property Management,8,$1M-$2M,Owner,Owner
+Los Angeles Property Management Group,Los Angeles,CA,Los Angeles,Property Management,12,$1.5M-$3M,Owner,Owner/Broker
+MedBeautyLA,Los Angeles,CA,Los Angeles,Med Spa,8,$1M-$2.5M,Dr. Lori Aliksanian,Medical Director/Owner
+Renouveau Med Spa,Los Angeles,CA,Los Angeles,Med Spa,10,$1.2M-$2.5M,Owner,Medical Director
+Cienega Med Spa,Los Angeles,CA,Los Angeles,Med Spa,7,$900K-$2M,Owner,Owner
+Victoria Med Spa,Los Angeles,CA,Los Angeles,Med Spa,6,$800K-$1.8M,Owner,Owner
+Reliable Staffing Los Angeles,Los Angeles,CA,Los Angeles,Staffing Agency,12,$2M-$5M,Owner,Owner/Manager
+Great Hire Staffing,Los Angeles,CA,Los Angeles,Staffing Agency,15,$3M-$7M,Owner,Owner
+Los Angeles Insurance Brokerage,Los Angeles,CA,Los Angeles,Insurance Brokerage,8,$1M-$2.5M,Owner,Principal Broker
+Caulfield Insurance Services,Los Angeles,CA,Los Angeles,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner/Broker
+J. Morey Company Inc.,Los Angeles,CA,Los Angeles,Insurance Brokerage,10,$1.5M-$3M,Owner,President
+Bannister & Associates Insurance,Los Angeles,CA,Los Angeles,Insurance Brokerage,7,$1M-$2M,Owner,Owner/Broker
+SF Dental Group,San Francisco,CA,San Francisco Bay Area,Dental Practice,10,$1.5M-$3M,Owner,Dentist/Owner
+Studio Dental,San Francisco,CA,San Francisco Bay Area,Dental Practice,8,$1.2M-$2.5M,Owner,Dentist/Owner
+San Francisco Dental Care,San Francisco,CA,San Francisco Bay Area,Dental Practice,7,$1M-$2M,Owner,Dentist/Owner
+The Dental Practice SF,San Francisco,CA,San Francisco Bay Area,Dental Practice,6,$1M-$2M,Owner,Dentist/Owner
+Zen Dental Studio,San Francisco,CA,San Francisco Bay Area,Dental Practice,8,$1.2M-$2.5M,Owner,Dentist/Owner
+Schmitt Heating & Air Conditioning,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,15,$3M-$6M,Owner,President
+Cabrillo Plumbing Heating & Air,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,18,$3.5M-$7M,Owner,Owner
+AC Heating and Cooling Service Inc,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,10,$1.5M-$3M,Owner,Owner
+Bay Area Mechanical,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,12,$2M-$4M,Owner,Owner
+Finest Heating & Air,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,8,$1.2M-$2.5M,Owner,Owner
+Basta & Company CPA,San Francisco,CA,San Francisco Bay Area,CPA Firm,8,$1M-$2M,Owner,Managing Partner
+Safe Harbor CPA,San Francisco,CA,San Francisco Bay Area,CPA Firm,10,$1.5M-$3M,Owner,Managing Partner
+B.O.L. Global Inc.,San Francisco,CA,San Francisco Bay Area,CPA Firm,7,$900K-$1.8M,Owner,CPA/Owner
+Frank Giovannoni CPA,San Francisco,CA,San Francisco Bay Area,CPA Firm,6,$700K-$1.5M,Frank Giovannoni,CPA/Owner
+Asnani CPA,San Francisco,CA,San Francisco Bay Area,CPA Firm,6,$700K-$1.5M,Owner,CPA/Owner
+Gillingham CPA,San Francisco,CA,San Francisco Bay Area,CPA Firm,5,$600K-$1.2M,Owner,CPA/Owner
+Bay Area Plumbing SF,San Francisco,CA,San Francisco Bay Area,Plumbing Contractor,8,$1.2M-$2.5M,Owner,Owner
+Advanced Plumbing and Drain,San Francisco,CA,San Francisco Bay Area,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+O'Grady Plumbing,San Francisco,CA,San Francisco Bay Area,Plumbing Contractor,12,$2M-$4M,Owner,Owner
+Chosen Rooter & Plumbing,San Francisco,CA,San Francisco Bay Area,Plumbing Contractor,8,$1.2M-$2.5M,Owner,Owner
+SHG Plumbing,San Francisco,CA,San Francisco Bay Area,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Larratt Brothers Plumbing,San Francisco,CA,San Francisco Bay Area,Plumbing Contractor,8,$1.2M-$2.5M,Owner,Owner
+RMC Property Management,San Francisco,CA,San Francisco Bay Area,Property Management,8,$1M-$2M,Owner,Owner
+KeyOpp Property Management,San Francisco,CA,San Francisco Bay Area,Property Management,7,$900K-$1.8M,Owner,Owner
+Abacus Property Management,San Francisco,CA,San Francisco Bay Area,Property Management,6,$800K-$1.5M,Owner,Owner
+Gordon Property Management,San Francisco,CA,San Francisco Bay Area,Property Management,10,$1.5M-$3M,Owner,Owner/Broker
+Chandler Property Management,San Francisco,CA,San Francisco Bay Area,Property Management,12,$1.5M-$3M,Owner,Owner/Broker
+Levin and Pangilinan PC,San Francisco,CA,San Francisco Bay Area,Law Firm - Immigration,8,$1M-$2M,Owner,Managing Partner
+Law Office of Amie D. Miller,San Francisco,CA,San Francisco Bay Area,Law Firm - Immigration,5,$600K-$1.2M,Amie D. Miller,Attorney/Owner
+Leiva Law Firm,San Francisco,CA,San Francisco Bay Area,Law Firm - Immigration,6,$700K-$1.5M,Owner,Attorney/Owner
+Owji Law Group,San Francisco,CA,San Francisco Bay Area,Law Firm - Immigration,7,$900K-$1.8M,Owner,Attorney/Owner
+Warren Law Firm,San Francisco,CA,San Francisco Bay Area,Law Firm - Immigration,6,$800K-$1.5M,Owner,Attorney/Owner
+Callaway & Wolf,San Francisco,CA,San Francisco Bay Area,Law Firm - Personal Injury,8,$1.2M-$2.5M,Boone Callaway,Managing Partner
+Bracamontes & Vlasak PC,San Francisco,CA,San Francisco Bay Area,Law Firm - Personal Injury,10,$1.5M-$3M,Owner,Managing Partner
+Hersh & Hersh,San Francisco,CA,San Francisco Bay Area,Law Firm - Personal Injury,8,$1.2M-$2.5M,Owner,Managing Partner
+MJQLAW,San Francisco,CA,San Francisco Bay Area,Law Firm - Personal Injury,6,$800K-$1.5M,Matt Quinlan,Attorney/Owner
+Dr. Sheena Kong Medical Spa,San Francisco,CA,San Francisco Bay Area,Med Spa,7,$900K-$2M,Dr. Sheena Kong,Medical Director/Owner
+Serenity Aesthetics & Wellness,San Francisco,CA,San Francisco Bay Area,Med Spa,8,$1M-$2.5M,Dr. Lisa Kang,Medical Director/Owner
+SKIN Medical Spa,San Francisco,CA,San Francisco Bay Area,Med Spa,10,$1.2M-$2.5M,Dr. Robert Colvin,Medical Director/Owner
+Elinea Med Spa,San Francisco,CA,San Francisco Bay Area,Med Spa,7,$900K-$2M,Owner,Medical Director
+Hayes Valley Medical Esthetics,San Francisco,CA,San Francisco Bay Area,Med Spa,8,$1M-$2.5M,Owner,Medical Director
+McCall Staffing,San Francisco,CA,San Francisco Bay Area,Staffing Agency,15,$3M-$7M,Owner,President
+Scion Staffing San Francisco,San Francisco,CA,San Francisco Bay Area,Staffing Agency,18,$5M-$10M,Owner,President
+Heffernan Barbary Insurance Services,San Francisco,CA,San Francisco Bay Area,Insurance Brokerage,10,$1.5M-$3M,Jerry Becerra,President
+Merriwether & Williams Insurance,San Francisco,CA,San Francisco Bay Area,Insurance Brokerage,12,$2M-$4M,Owner,Managing Partner
+Orange and Magnolia Dental Studio,Costa Mesa,CA,Orange County,Dental Practice,7,$1M-$2M,Dr. Joyce Kahng,Dentist/Owner
+OC Precision Dental,Garden Grove,CA,Orange County,Dental Practice,5,$800K-$1.5M,Dr. Dang,Dentist/Owner
+OC Smile,Fullerton,CA,Orange County,Dental Practice,12,$1.5M-$3M,Owner,Dentist/Owner
+Smart Smile Dental,Orange,CA,Orange County,Dental Practice,6,$900K-$1.8M,Dr. Lori Bagai,Dentist/Owner
+OC Dental Studio,Orange,CA,Orange County,Dental Practice,7,$1M-$2M,Owner,Dentist/Owner
+Orange County Dental Care,Orange,CA,Orange County,Dental Practice,6,$900K-$1.8M,Dr. Ali-Reza Etemadieh,Dentist/Owner
+Moffett Plumbing & Air,Orange,CA,Orange County,HVAC/Plumbing Contractor,15,$2.5M-$5M,Owner,Owner
+Orange County Plumbing Heating & Air,Orange,CA,Orange County,HVAC/Plumbing Contractor,18,$3M-$6M,Owner,President
+Countywide Plumbing Heating & Air,Orange,CA,Orange County,HVAC/Plumbing Contractor,12,$2M-$4M,Owner,Owner
+Dial One Sonshine,Orange,CA,Orange County,HVAC/Plumbing Contractor,15,$2.5M-$5M,Owner,Owner
+Orange Coast Plumbing,Orange,CA,Orange County,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Jarus & Co CPA,Irvine,CA,Orange County,CPA Firm,8,$1M-$2M,Owner,CPA/Owner
+Friedman & Company CPAs,Irvine,CA,Orange County,CPA Firm,7,$900K-$1.8M,Brett Friedman,CPA/Owner
+Goodrich Thomas Cannon & Reeds LLP,Costa Mesa,CA,Orange County,CPA Firm,12,$1.5M-$3M,Owner,Managing Partner
+Wright Ford Young & Co,Irvine,CA,Orange County,CPA Firm,18,$3M-$6M,Owner,Managing Partner
+Orange County CPA Firm,Orange,CA,Orange County,CPA Firm,6,$800K-$1.5M,Owner,CPA/Owner
+CPA Morey,Irvine,CA,Orange County,CPA Firm,5,$600K-$1.2M,Owner,CPA/Owner
+Alexanyan Law Group,Orange,CA,Orange County,Law Firm - Immigration/PI,8,$1M-$2M,Owner,Attorney/Owner
+Jill Gregory Law,Newport Beach,CA,Orange County,Law Firm - Estate,6,$800K-$1.5M,Jill Gregory,Attorney/Owner
+Walker Law Corporation,Orange,CA,Orange County,Law Firm - Family/Estate,7,$900K-$1.8M,Samuel R. Walker,Attorney/Owner
+Copete Law Firm,Orange,CA,Orange County,Law Firm - Personal Injury,8,$1M-$2M,Owner,Attorney/Owner
+OC Immigration Attorney,Orange,CA,Orange County,Law Firm - Immigration,6,$800K-$1.5M,Owner,Attorney/Owner
+Hermitage Property Management,Irvine,CA,Orange County,Property Management,8,$1M-$2M,Owner,Owner/Broker
+Portfolio Property Management,Orange,CA,Orange County,Property Management,10,$1.2M-$2.5M,Owner,Owner/Broker
+OC Pro Property Management,Orange,CA,Orange County,Property Management,7,$900K-$1.8M,Owner,Owner
+Orange County Property Management Inc,Orange,CA,Orange County,Property Management,10,$1.2M-$2.5M,Owner,Owner
+Lido Property Management,Orange,CA,Orange County,Property Management,8,$1M-$2M,Owner,Owner/Broker
+The Med Lounge,Ladera Ranch,CA,Orange County,Med Spa,10,$1.2M-$2.5M,Owner,Medical Director
+Glow Up MedSpa,Orange,CA,Orange County,Med Spa,7,$900K-$2M,Owner,Owner
+Gravity MedSpa,San Juan Capistrano,CA,Orange County,Med Spa,8,$1M-$2.5M,Owner,Medical Director
+Spa Aesthetica,Orange,CA,Orange County,Med Spa,8,$1M-$2M,Owner,Medical Director
+Masters Medspa,Orange,CA,Orange County,Med Spa,7,$900K-$2M,Owner,Owner
+Great Hire Staffing OC,Anaheim,CA,Orange County,Staffing Agency,12,$2M-$5M,Owner,Owner
+Marquee Staffing,Irvine,CA,Orange County,Staffing Agency,15,$3M-$7M,Owner,President
+CalTek Staffing,Irvine,CA,Orange County,Staffing Agency,10,$2M-$5M,Owner,Owner
+Orange County Brokerage Insurance,Tustin,CA,Orange County,Insurance Brokerage,8,$1M-$2.5M,Owner,Principal Broker
+California Insurance Finder,Huntington Beach,CA,Orange County,Insurance Brokerage,7,$900K-$2M,Owner,Owner/Broker
+Unity One Insurance,Orange,CA,Orange County,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner/Broker
+DIAI Insurance Brokerage,Orange,CA,Orange County,Insurance Brokerage,8,$1M-$2M,Owner,Owner/Broker
+Brashears & Newendorp Insurance,Orange,CA,Orange County,Insurance Brokerage,10,$1.2M-$2.5M,Owner,Principal Broker
+Bliss Dental Clinic,Collingdale,PA,Philadelphia,Dental Practice,7,$900K-$1.8M,Owner,Dentist/Owner
+PA Dental Group,Philadelphia,PA,Philadelphia,Dental Practice,10,$1.2M-$2.5M,Owner,Dentist/Owner
+Premier Dental Care Philadelphia,Philadelphia,PA,Philadelphia,Dental Practice,8,$1M-$2M,Owner,Dentist/Owner
+GEN3 Electric & HVAC,Philadelphia,PA,Philadelphia,HVAC Contractor,15,$2.5M-$5M,Owner,Owner
+Philadelphia Gas & Electric Heating,Philadelphia,PA,Philadelphia,HVAC Contractor,18,$3M-$6M,Owner,President
+Rare Heating and Air,Philadelphia,PA,Philadelphia,HVAC Contractor,8,$1M-$2.5M,Owner,Owner
+Lawrence Heating and Air,Philadelphia,PA,Philadelphia,HVAC Contractor,10,$1.5M-$3M,Owner,Owner
+H & H Commercial Services,Philadelphia,PA,Philadelphia,HVAC Contractor,12,$2M-$4M,Owner,Owner
+Schwartz CPA,Philadelphia,PA,Philadelphia,CPA Firm,6,$700K-$1.5M,Owner,CPA/Owner
+PWR Accounting & Tax Advisor,Philadelphia,PA,Philadelphia,CPA Firm,8,$1M-$2M,Owner,CPA/Owner
+Amro Azazi CPA PC,Philadelphia,PA,Philadelphia,CPA Firm,5,$600K-$1.2M,Amro Azazi,CPA/Owner
+The Focus Group CPA,Philadelphia,PA,Philadelphia,CPA Firm,10,$1.2M-$2.5M,Owner,Managing Partner
+ENGAGE CPAs,Philadelphia,PA,Philadelphia,CPA Firm,8,$1M-$2M,Owner,Managing Partner
+Center City CPA,Philadelphia,PA,Philadelphia,CPA Firm,6,$700K-$1.5M,Owner,CPA/Owner
+Philly Plumbing Pros,Philadelphia,PA,Philadelphia,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Mount Airy Plumbing,Philadelphia,PA,Philadelphia,Plumbing Contractor,8,$1M-$2.5M,Owner,Owner
+Guaranteed Plumbing & Heating,Philadelphia,PA,Philadelphia,Plumbing Contractor,12,$2M-$4M,Owner,Owner
+Goodman Plumbing,Philadelphia,PA,Philadelphia,Plumbing Contractor,15,$2.5M-$5M,Owner,President
+Best Choice Plumbing & Heating,Philadelphia,PA,Philadelphia,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Bill Frusco Plumbing Heating & Cooling,Philadelphia,PA,Philadelphia,Plumbing Contractor,12,$2M-$4M,Owner,Owner
+TCS Property Management,Philadelphia,PA,Philadelphia,Property Management,10,$1.2M-$2.5M,Owner,Owner
+Rentwell,Philadelphia,PA,Philadelphia,Property Management,12,$1.5M-$3M,Owner,Owner/Broker
+N Property Group,Philadelphia,PA,Philadelphia,Property Management,8,$1M-$2M,Owner,Owner
+PhillyLiving Management Group,Philadelphia,PA,Philadelphia,Property Management,10,$1.2M-$2.5M,Owner,Owner/Broker
+OCF Realty Property Management,Philadelphia,PA,Philadelphia,Property Management,8,$1M-$2M,Owner,Owner/Broker
+Freundlich & Littman,Philadelphia,PA,Philadelphia,Law Firm - Personal Injury,8,$1M-$2M,Owner,Managing Partner
+Roach Law,Philadelphia,PA,Philadelphia,Law Firm - PI/Family,7,$900K-$1.8M,Owner,Attorney/Owner
+Reinherz Law Offices,Philadelphia,PA,Philadelphia,Law Firm - Family,6,$800K-$1.5M,Owner,Attorney/Owner
+Cooper Family Law LLC,Philadelphia,PA,Philadelphia,Law Firm - Family/Estate,5,$600K-$1.2M,Patrick J. Cooper,Attorney/Owner
+Astor Weiss Kaplan & Mandel LLP,Philadelphia,PA,Philadelphia,Law Firm - Family/Estate,18,$3M-$6M,Owner,Managing Partner
+Yofi Med Spa,Philadelphia,PA,Philadelphia,Med Spa,7,$900K-$2M,Owner,Owner
+Citrine Glow Medispa,Philadelphia,PA,Philadelphia,Med Spa,6,$800K-$1.8M,Owner,Owner
+Nirvana Wellness Med Spa,Philadelphia,PA,Philadelphia,Med Spa,8,$1M-$2.5M,Owner,Owner
+Ari Blanc Medical Spa,Philadelphia,PA,Philadelphia,Med Spa,7,$900K-$2M,Owner,Medical Director
+Yudizza Med Spa,Philadelphia,PA,Philadelphia,Med Spa,6,$800K-$1.8M,Yudizza Valdez,Owner
+Serenity AW Medspa,Philadelphia,PA,Philadelphia,Med Spa,7,$900K-$2M,Owner,Owner
+Philly Temps,Philadelphia,PA,Philadelphia,Staffing Agency,12,$2M-$5M,Owner,President
+PeopleShare Philadelphia,Philadelphia,PA,Philadelphia,Staffing Agency,15,$3M-$7M,Owner,Branch Manager
+Halo Staffing Agency LLC,Philadelphia,PA,Philadelphia,Staffing Agency,8,$1.5M-$3M,Owner,Owner
+McCollum Insurance Agency,Philadelphia,PA,Philadelphia,Insurance Brokerage,8,$1M-$2M,Owner,Owner/Broker
+Little Michaels & Kennedy,Philadelphia,PA,Philadelphia,Insurance Brokerage,10,$1.5M-$3M,Owner,Principal Broker
+Elite Dentistry Orlando,Orlando,FL,Orlando,Dental Practice,8,$1M-$2M,Owner,Dentist/Owner
+McGee Family Dentistry,Orlando,FL,Orlando,Dental Practice,7,$900K-$1.8M,Owner,Dentist/Owner
+SoDo Smiles Dentistry,Orlando,FL,Orlando,Dental Practice,6,$800K-$1.5M,Owner,Dentist/Owner
+Premier Dental Care of East Orlando,Orlando,FL,Orlando,Dental Practice,8,$1M-$2M,Owner,Dentist/Owner
+Fine Dentistry Orlando,Orlando,FL,Orlando,Dental Practice,7,$900K-$1.8M,Owner,Dentist/Owner
+NuLife Dental,Orlando,FL,Orlando,Dental Practice,8,$1M-$2M,Owner,Dentist/Owner
+Ambrose Air Inc,Orlando,FL,Orlando,HVAC Contractor,15,$2.5M-$5M,Owner,President
+Gary Munson Heating & Air,Orlando,FL,Orlando,HVAC Contractor,10,$1.5M-$3M,Owner,Owner
+Bob Heinmiller Air Conditioning,Orlando,FL,Orlando,HVAC Contractor,12,$2M-$4M,Owner,Owner
+Ferran Services,Orlando,FL,Orlando,HVAC Contractor,18,$3M-$6M,Owner,President
+Emerald Plumbing,Orlando,FL,Orlando,Plumbing Contractor,8,$1M-$2.5M,Owner,Owner
+Shamrock Plumbing & Drain Cleaning,Orlando,FL,Orlando,Plumbing Contractor,8,$1M-$2.5M,Owner,Owner
+Michael's Plumbing of Central Florida,Orlando,FL,Orlando,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Herrell Plumbing,Orlando,FL,Orlando,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Modern Plumbing Industries,Orlando,FL,Orlando,Plumbing Contractor,15,$2.5M-$5M,Owner,President
+CPA Accounting & Tax Experts,Orlando,FL,Orlando,CPA Firm,8,$1M-$2M,Owner,CPA/Owner
+Baldwin Accounting CPA,Orlando,FL,Orlando,CPA Firm,7,$900K-$1.8M,Owner,CPA/Owner
+UpFront CPA,Orlando,FL,Orlando,CPA Firm,6,$700K-$1.5M,Owner,CPA/Owner
+Howard Howard and Hodges,Orlando,FL,Orlando,CPA Firm,15,$2M-$4M,Owner,Managing Partner
+Jaime Santiago CPA,Orlando,FL,Orlando,CPA Firm,6,$700K-$1.5M,Jaime Santiago,CPA/Owner
+The Orlando Law Group,Orlando,FL,Orlando,Law Firm - Family/Estate,12,$1.5M-$3M,Owner,Managing Partner
+Morey Law Firm PA,Orlando,FL,Orlando,Law Firm - PI/Estate,8,$1M-$2M,Owner,Attorney/Owner
+Bloodworth Law PLLC,Orlando,FL,Orlando,Law Firm - Estate/Business,8,$1M-$2M,Owner,Attorney/Owner
+CFL Property Management,Orlando,FL,Orlando,Property Management,8,$1M-$2M,Owner,Owner
+The Listing Real Estate Management,Orlando,FL,Orlando,Property Management,10,$1.2M-$2.5M,Owner,Owner/Broker
+Verandah Properties LLC,Orlando,FL,Orlando,Property Management,12,$1.5M-$3M,Owner,Owner
+Realsource Property Management,Orlando,FL,Orlando,Property Management,8,$1M-$2M,Owner,Owner/Broker
+Affinity Med Spa,Orlando,FL,Orlando,Med Spa,10,$1.2M-$2.5M,Owner,Medical Director/Owner
+Luxe Med Spa Aesthetics,Orlando,FL,Orlando,Med Spa,7,$900K-$2M,Owner,Owner
+Primera Med Spa,Lake Mary,FL,Orlando,Med Spa,8,$1M-$2.5M,Owner,Medical Director
+Bijoux Med Spa,Orlando,FL,Orlando,Med Spa,7,$900K-$2M,Owner,Owner
+Reliable Staffing Orlando,Orlando,FL,Orlando,Staffing Agency,10,$2M-$4M,Owner,Branch Manager
+HH Staffing Services Orlando,Orlando,FL,Orlando,Staffing Agency,12,$2.5M-$5M,Owner,Branch Manager
+Thrivas Staffing Agency Orlando,Orlando,FL,Orlando,Staffing Agency,10,$2M-$4M,Owner,Branch Manager
+Brokers Insurance LLC,Orlando,FL,Orlando,Insurance Brokerage,8,$1M-$2.5M,Owner,Owner/Broker
+Accent Brokers Insurance,Orlando,FL,Orlando,Insurance Brokerage,7,$900K-$2M,Owner,Owner/Broker
+Insurance Land Inc,Orlando,FL,Orlando,Insurance Brokerage,8,$1M-$2M,Owner,Owner/Broker
+Orlando Insurance Center,Orlando,FL,Orlando,Insurance Brokerage,10,$1.2M-$2.5M,Owner,Owner/Broker
+Hatcher Insurance,Orlando,FL,Orlando,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner/Broker
+North Jersey Dental Group,Fort Lee,NJ,Northern New Jersey,Dental Practice,8,$1M-$2M,Dr. Ali N. Weiselberg,Dentist/Owner
+West Broadway Dental,Paterson,NJ,Northern New Jersey,Dental Practice,15,$2M-$4M,Owner,Dentist/Owner
+Dental Health 360,Paramus,NJ,Northern New Jersey,Dental Practice,8,$1M-$2M,Dr. Jacob Shrayman,Dentist/Owner
+Dental Health Providers of NJ,Springfield,NJ,Northern New Jersey,Dental Practice,10,$1.2M-$2.5M,Owner,Dentist/Owner
+Reiner Group Inc,Northern NJ,NJ,Northern New Jersey,HVAC Contractor,12,$2M-$4M,Owner,President
+Air Group LLC,Northern NJ,NJ,Northern New Jersey,HVAC Contractor,15,$2.5M-$5M,Owner,Owner
+Over All Plumbing Heating & Cooling,Northern NJ,NJ,Northern New Jersey,HVAC/Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Vanguard Service NJ,Northern NJ,NJ,Northern New Jersey,HVAC Contractor,8,$1.2M-$2.5M,Owner,Owner
+Atlantic Mechanical Contractors,Dover,NJ,Northern New Jersey,HVAC/Plumbing Contractor,12,$2M-$4M,Owner,Owner
+Gold Medal Service,Northern NJ,NJ,Northern New Jersey,HVAC/Plumbing Contractor,18,$3M-$6M,Owner,President
+Kotulak & Company PC,Northern NJ,NJ,Northern New Jersey,CPA Firm,8,$1M-$2M,Owner,CPA/Owner
+Magone & Company PC,West Orange,NJ,Northern New Jersey,CPA Firm,7,$900K-$1.8M,Owner,CPA/Owner
+Botwinick & Company LLC,Bergen County,NJ,Northern New Jersey,CPA Firm,12,$1.5M-$3M,Owner,Managing Partner
+BergerCPAFirst,Northern NJ,NJ,Northern New Jersey,CPA Firm,6,$700K-$1.5M,Owner,CPA/Owner
+PMI Prime Property,Northern NJ,NJ,Northern New Jersey,Property Management,8,$1M-$2M,Owner,Owner
+North Jersey Property Management,Sparta,NJ,Northern New Jersey,Property Management,7,$900K-$1.8M,Owner,Owner
+TCS Management NJ,Northern NJ,NJ,Northern New Jersey,Property Management,10,$1.2M-$2.5M,Owner,Owner
+Walkers Realty LLC,Northern NJ,NJ,Northern New Jersey,Property Management,6,$700K-$1.5M,Owner,Owner/Broker
+Jungblut Law,Englewood,NJ,Northern New Jersey,Law Firm - Family/Estate/Immigration,7,$900K-$1.8M,Owner,Attorney/Owner
+Curbelo Law,Ridgewood,NJ,Northern New Jersey,Law Firm - Immigration,6,$800K-$1.5M,Ms. Curbelo,Attorney/Owner
+Law Offices of Aditya Surti LLC,Middlesex County,NJ,Northern New Jersey,Law Firm - Immigration/Family,6,$700K-$1.5M,Aditya Surti,Attorney/Owner
+Scheer Immigration Law Group,Morristown,NJ,Northern New Jersey,Law Firm - Immigration,5,$600K-$1.2M,Susan Scheer,Attorney/Owner
+Ethos Aesthetics + Wellness,Hoboken,NJ,Northern New Jersey,Med Spa,12,$1.5M-$3M,Owner,Medical Director
+Downtown Medspa,Jersey City,NJ,Northern New Jersey,Med Spa,10,$1.2M-$2.5M,Dr. Eric Reynolds,Medical Director/Owner
+Attain MedSpa,Northern NJ,NJ,Northern New Jersey,Med Spa,8,$1M-$2M,Lauren Ben-Meir,Owner
+The Garden Med Spa NJ,Northern NJ,NJ,Northern New Jersey,Med Spa,6,$800K-$1.5M,Owner,Owner
+Normann Staffing Services,Northern NJ,NJ,Northern New Jersey,Staffing Agency,12,$2M-$5M,Owner,President
+Superior Staffing,Paterson,NJ,Northern New Jersey,Staffing Agency,10,$2M-$4M,Owner,Owner
+Insurance Center of North Jersey,Maywood,NJ,Northern New Jersey,Insurance Brokerage,8,$1M-$2M,Owner,Owner/Broker
+AMH Insurance Brokerage,Northern NJ,NJ,Northern New Jersey,Insurance Brokerage,7,$900K-$2M,Owner,Owner/Broker
+Schaaf Plumbing,Bergen County,NJ,Northern New Jersey,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Angler Plumbing Heating & Drain,Bergen County,NJ,Northern New Jersey,Plumbing Contractor,8,$1M-$2.5M,Owner,Owner
+Crossroads Plumbing & Heating,Bergenfield,NJ,Northern New Jersey,Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Martin Masters Plumbing Heating & AC,Bergen County,NJ,Northern New Jersey,Plumbing Contractor,12,$2M-$4M,Owner,Owner
+Breitenbach Plumbing,Bergen County,NJ,Northern New Jersey,Plumbing Contractor,8,$1M-$2.5M,Owner,Owner
+Bogle Agency Insurance,Bergen County,NJ,Northern New Jersey,Insurance Brokerage,8,$1M-$2M,Owner,Owner/Broker
+Central Insurance Agency of NJ,Guttenberg,NJ,Northern New Jersey,Insurance Brokerage,7,$900K-$2M,Owner,Owner/Broker
+Delpo Plumbing Heating & Cooling,Bergen County,NJ,Northern New Jersey,HVAC/Plumbing Contractor,10,$1.5M-$3M,Owner,Owner
+Accu-Rooter,Bergen County,NJ,Northern New Jersey,Plumbing Contractor,8,$1M-$2.5M,Owner,Owner
+Forever Young MD Med Spa,Northern NJ,NJ,Northern New Jersey,Med Spa,8,$1M-$2M,Owner,Medical Director
+Drip Medi Spa,Northern NJ,NJ,Northern New Jersey,Med Spa,7,$900K-$2M,Owner,Owner

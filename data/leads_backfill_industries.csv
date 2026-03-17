@@ -1,0 +1,250 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title
+Minerva Ventures LLC,New York,NY,New York City,Single Family Office,8,$2M-$10M,Robert Bertagna,Principal
+LeFort Interests LLC,New York,NY,New York City,Single Family Office,6,$2M-$10M,Principal,Managing Partner
+Independent Family Office (IFO),Albany,NY,New York City,Multi-Family Office,12,$2M-$10M,Principal,Managing Director
+LAH Investments LLC,New York,NY,New York City,Single Family Office,8,$2M-$10M,Principal,Managing Partner
+Callan Family Office,New York,NY,New York City,Multi-Family Office,15,$5M-$10M,Principal,Managing Partner
+CV Advisors,Miami,FL,Miami,Multi-Family Office,18,$5M-$10M,Principal,Managing Partner
+Omnia Family Wealth,Miami,FL,Miami,Multi-Family Office,15,$5M-$10M,Principal,Managing Partner
+1650 Wealth Management,Lauderdale by the Sea,FL,Miami,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+Tiempo Capital Partners,Miami,FL,Miami,Multi-Family Office,10,$2M-$10M,Principal,Managing Partner
+Element Pointe Family Office,Miami,FL,Miami,Multi-Family Office,12,$2M-$10M,Principal,Managing Partner
+FitzRoy Investment Advisors,Miami,FL,Miami,Multi-Family Office,8,$2M-$10M,Principal,Managing Partner
+WE Family Offices,Miami,FL,Miami,Multi-Family Office,18,$5M-$10M,Principal,Managing Partner
+Steph's Bookkeeping,Chicago,IL,Chicago,Bookkeeping Firm,8,$200K-$800K,Steph,Owner
+Chicago Accounting Professionals,Chicago,IL,Chicago,Bookkeeping Firm,10,$200K-$800K,Principal,Owner
+TJD Accounting & Tax,Chicago,IL,Chicago,Bookkeeping Firm,6,$200K-$800K,Principal,Owner
+STE Corporation,Chicago,IL,Chicago,Bookkeeping Firm,12,$200K-$800K,Principal,Owner
+Stonebriar Mortgage,Dallas,TX,Dallas,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Tatom Lending,Dallas,TX,Dallas,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+The Tuttle Group,Dallas,TX,Dallas,Mortgage Brokerage,12,$500K-$2M,Principal,Owner
+MPS Mortgage LLC,Dallas,TX,Dallas,Mortgage Brokerage,6,$500K-$2M,Principal,Owner
+Venture Growth Partners,Atlanta,GA,Atlanta,Fractional CFO Firm,15,$500K-$2M,Principal,Managing Partner
+The Wren Group,Atlanta,GA,Atlanta,Fractional CFO Firm,8,$500K-$2M,Principal,Managing Partner
+Atlanta Business Services,Atlanta,GA,Atlanta,Fractional CFO Firm,10,$500K-$2M,Principal,Owner
+McCracken Alliance,Atlanta,GA,Atlanta,Fractional CFO Firm,12,$500K-$2M,Principal,Managing Partner
+Smarter HR Solutions,Houston,TX,Houston,HR Consulting Firm,10,$500K-$2M,Principal,Owner
+Achilles Group,Houston,TX,Houston,HR Consulting Firm,15,$500K-$2M,Principal,Managing Partner
+HR Innovex Consulting Partners,Houston,TX,Houston,HR Consulting Firm,8,$500K-$2M,Principal,Owner
+Moss Consulting,Houston,TX,Houston,HR Consulting Firm,12,$500K-$2M,Principal,Owner
+Innova HR Solutions,Houston,TX,Houston,HR Consulting Firm,10,$500K-$2M,Principal,Owner
+Heywood Community Management,Phoenix,AZ,Phoenix,HOA Management Firm,12,$500K-$3M,Principal,Owner
+Brown Community Management,Phoenix,AZ,Phoenix,HOA Management Firm,18,$500K-$3M,Principal,Owner
+City Property Management,Phoenix,AZ,Phoenix,HOA Management Firm,20,$1M-$3M,Principal,Owner
+TriStar and Associates,Nashville,TN,Nashville,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+Mike Dodd CPA,Nashville,TN,Nashville,Tax Preparation Firm,6,$300K-$1M,Mike Dodd,Owner
+Drennan & Associates PLLC,Nashville,TN,Nashville,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+Advanced Tax & Income Services,Nashville,TN,Nashville,Tax Preparation Firm,10,$300K-$1M,Principal,Owner
+Evan Hutcheson CPA LLC,Nashville,TN,Nashville,Tax Preparation Firm,5,$300K-$1M,Evan Hutcheson,Owner
+P&N CPAs,Nashville,TN,Nashville,Tax Preparation Firm,12,$300K-$1M,Principal,Managing Partner
+ProSidian Consulting,Charlotte,NC,Charlotte,Operations Consulting Firm,15,$500K-$2M,Principal,Managing Partner
+Croixstone Consulting,Charlotte,NC,Charlotte,Operations Consulting Firm,10,$500K-$2M,Principal,Managing Partner
+StoneLaurel Consulting,Charlotte,NC,Charlotte,Operations Consulting Firm,12,$500K-$2M,Principal,Managing Partner
+D. Wilson Agency,Charlotte,NC,Charlotte,Operations Consulting Firm,8,$500K-$2M,Principal,Owner
+Navesink Wealth Management,Middletown,NJ,Northern New Jersey,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+Parks Wealth Management,Ridgewood,NJ,Northern New Jersey,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Regency Wealth Management,Morristown,NJ,Northern New Jersey,Wealth Management Firm,12,$1M-$5M,Principal,Managing Partner
+Modera Wealth Management,Westwood,NJ,Northern New Jersey,Wealth Management Firm,15,$1M-$5M,Principal,Managing Partner
+RMB Wealth Advisors,Florham Park,NJ,Northern New Jersey,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Main Street Wealth Management,Morristown,NJ,Northern New Jersey,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+The Orlicki Group,Tampa,FL,Tampa,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Marimark Mortgage,Tampa,FL,Tampa,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+DDA Mortgage,Tampa,FL,Tampa,Mortgage Brokerage,6,$500K-$2M,Principal,Owner
+American Mortgage Services,Tampa,FL,Tampa,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Bolt Lending Group,Tampa,FL,Tampa,Mortgage Brokerage,6,$500K-$2M,Rob DiGiore,Owner
+The Library Inc,Los Angeles,CA,Los Angeles,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+Books LA,Los Angeles,CA,Los Angeles,Bookkeeping Firm,6,$200K-$800K,Principal,Owner
+Anthony Sykes and Co Accounting,Los Angeles,CA,Los Angeles,Bookkeeping Firm,8,$200K-$800K,Anthony Sykes,Owner
+Los Angeles Bookkeeping,Los Angeles,CA,Los Angeles,Bookkeeping Firm,10,$200K-$800K,Principal,Owner
+Denver CFO Experts,Denver,CO,Denver,Fractional CFO Firm,8,$500K-$2M,Principal,Managing Partner
+VertexCFO,Denver,CO,Denver,Fractional CFO Firm,10,$500K-$2M,Principal,Managing Partner
+FreshTrax Consulting,Denver,CO,Denver,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+Ascent CFO Solutions,Denver,CO,Denver,Fractional CFO Firm,12,$500K-$2M,Dan DeGolier,Founder
+Focused Energy,Denver,CO,Denver,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+Powder Bookkeeping,Denver,CO,Denver,Fractional CFO Firm,6,$500K-$2M,Principal,Owner
+Melody L. Beach Consulting Group,Southbridge,MA,Boston,HR Consulting Firm,8,$500K-$2M,Melody Beach,Owner
+Troy Benefits Consulting,Waltham,MA,Boston,HR Consulting Firm,10,$500K-$2M,Principal,Owner
+HR Knowledge,Mansfield,MA,Boston,HR Consulting Firm,15,$500K-$2M,Principal,Owner
+NorthstarPMO,Boston,MA,Boston,HR Consulting Firm,8,$500K-$2M,Principal,Owner
+Associated Professional Services,San Diego,CA,San Diego,HOA Management Firm,18,$500K-$3M,Principal,Owner
+Menas HOA Management,San Diego,CA,San Diego,HOA Management Firm,15,$500K-$3M,Principal,Owner
+SDHOA,San Diego,CA,San Diego,HOA Management Firm,10,$500K-$3M,Principal,Owner
+ASPM,San Diego,CA,San Diego,HOA Management Firm,12,$500K-$3M,Principal,Owner
+Iconic Property Management,San Diego,CA,San Diego,HOA Management Firm,10,$500K-$3M,Principal,Owner
+Keel Point,Washington,DC,Washington DC,Single Family Office,12,$2M-$10M,Principal,Managing Partner
+Pathstone,Washington,DC,Washington DC,Multi-Family Office,18,$5M-$10M,Principal,Managing Partner
+Drake Tax Services,Philadelphia,PA,Philadelphia,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+Drucker & Scaccetti,Philadelphia,PA,Philadelphia,Tax Preparation Firm,15,$300K-$1M,Principal,Managing Partner
+Bilardo & Associates LLC,Philadelphia,PA,Philadelphia,Tax Preparation Firm,10,$300K-$1M,Principal,Owner
+Holtzman Tax and Financial Services,Philadelphia,PA,Philadelphia,Tax Preparation Firm,6,$300K-$1M,Principal,Owner
+Parker Financial Services,Philadelphia,PA,Philadelphia,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+A to Z Bookkeeping Services,San Francisco,CA,San Francisco Bay Area,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+Asnani CPA,Hayward,CA,San Francisco Bay Area,Bookkeeping Firm,10,$200K-$800K,Principal,Owner
+B.O.L. Global Inc,San Francisco,CA,San Francisco Bay Area,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+Stash Bookkeeping,San Francisco,CA,San Francisco Bay Area,Bookkeeping Firm,6,$200K-$800K,Principal,Owner
+Better Bookkeepers,San Jose,CA,San Francisco Bay Area,Bookkeeping Firm,6,$200K-$800K,Linda Rost,Owner
+The Mortgage Expert,Orlando,FL,Orlando,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Agave Home Loans,Orlando,FL,Orlando,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+International Mortgage Associates,Celebration,FL,Orlando,Mortgage Brokerage,6,$500K-$2M,Principal,Owner
+Enterprise Minnesota,Minneapolis,MN,Minneapolis,Operations Consulting Firm,18,$500K-$2M,Principal,Managing Partner
+Ramey Consulting,Minneapolis,MN,Minneapolis,Operations Consulting Firm,8,$500K-$2M,Principal,Owner
+Project Consulting Group,Minneapolis,MN,Minneapolis,Operations Consulting Firm,15,$500K-$2M,Principal,Managing Partner
+Pioneer Management Consulting,Minneapolis,MN,Minneapolis,Operations Consulting Firm,10,$500K-$2M,Principal,Owner
+Cooke Wealth Management,Newport Beach,CA,Orange County,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Sedai Wealth,Irvine,CA,Orange County,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+Williams Financial Advisors,Irvine,CA,Orange County,Wealth Management Firm,12,$1M-$5M,Principal,Managing Partner
+Integrity Wealth Management,Newport Beach,CA,Orange County,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Shared Vision Wealth Group,Irvine,CA,Orange County,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+Pence Wealth Management,Newport Beach,CA,Orange County,Wealth Management Firm,15,$1M-$5M,Principal,Managing Partner
+All-In-One Community Management,Atlanta,GA,Atlanta,HOA Management Firm,12,$500K-$3M,Principal,Owner
+Silverleaf Management Group,Atlanta,GA,Atlanta,HOA Management Firm,10,$500K-$3M,Principal,Owner
+Homeside Properties,Atlanta,GA,Atlanta,HOA Management Firm,15,$500K-$3M,Principal,Owner
+Beacon Management Services,Atlanta,GA,Atlanta,HOA Management Firm,18,$500K-$3M,Principal,Owner
+Denver Tax Advisor,Denver,CO,Denver,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+Keith P Clark CPA PC,Denver,CO,Denver,Tax Preparation Firm,6,$300K-$1M,Keith Clark,Owner
+Two Hills CPAs,Denver,CO,Denver,Tax Preparation Firm,8,$300K-$1M,Principal,Managing Partner
+Accounting & Tax Services,Greenwood Village,CO,Denver,Tax Preparation Firm,10,$300K-$1M,Principal,Owner
+SpeedyLedgers,Dallas,TX,Dallas,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+Jones Square,Plano,TX,Dallas,Bookkeeping Firm,12,$200K-$800K,Principal,Owner
+Slaton Financial Services,Dallas,TX,Dallas,Bookkeeping Firm,8,$200K-$800K,Michael Slaton,Owner
+ProLedge,Dallas,TX,Dallas,Bookkeeping Firm,10,$200K-$800K,Principal,Owner
+HR Innovators Group,Phoenix,AZ,Phoenix,HR Consulting Firm,10,$500K-$2M,Principal,Owner
+HRAnswers.org,Phoenix,AZ,Phoenix,HR Consulting Firm,8,$500K-$2M,Niki Ramirez,Founder
+R.C. Rulka Consulting,Goodyear,AZ,Phoenix,HR Consulting Firm,6,$500K-$2M,Principal,Owner
+FinePoint HR,Phoenix,AZ,Phoenix,HR Consulting Firm,8,$500K-$2M,Eric Knott,Owner
+AZ HR Hub,Phoenix,AZ,Phoenix,HR Consulting Firm,6,$500K-$2M,Principal,Owner
+CFO Simplified,Chicago,IL,Chicago,Fractional CFO Firm,10,$500K-$2M,Principal,Managing Partner
+Third Road Management,Chicago,IL,Chicago,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+Chicago Style CFO Services,Chicago,IL,Chicago,Fractional CFO Firm,6,$500K-$2M,Principal,Owner
+Pasquesi Partners LLC,Chicago,IL,Chicago,Fractional CFO Firm,8,$500K-$2M,Principal,Managing Partner
+CFO Solutions of Chicago,Chicago,IL,Chicago,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+LBC Mortgage,Los Angeles,CA,Los Angeles,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+ID Mortgage Broker,Los Angeles,CA,Los Angeles,Mortgage Brokerage,6,$500K-$2M,Principal,Owner
+Insignia Mortgage,Los Angeles,CA,Los Angeles,Mortgage Brokerage,12,$500K-$2M,Principal,Owner
+Reliance Financial,Los Angeles,CA,Los Angeles,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Pacific Shores Mortgage,Los Angeles,CA,Los Angeles,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Wise Property Management,Tampa,FL,Tampa,HOA Management Firm,18,$500K-$3M,Principal,Owner
+Terra Managers,Tampa,FL,Tampa,HOA Management Firm,10,$500K-$3M,Principal,Owner
+Ocean Blue Community Management,Tampa,FL,Tampa,HOA Management Firm,8,$500K-$3M,Principal,Owner
+Vanguard Management Group,Tampa,FL,Tampa,HOA Management Firm,12,$500K-$3M,Principal,Owner
+Molen & Associates,Houston,TX,Houston,Tax Preparation Firm,15,$300K-$1M,Principal,Owner
+Cooper CPA Group,Houston,TX,Houston,Tax Preparation Firm,12,$300K-$1M,Principal,Owner
+ReadyGo Tax Services,Houston,TX,Houston,Tax Preparation Firm,6,$300K-$1M,Principal,Owner
+Sean K Butler CPA LLC,Houston,TX,Houston,Tax Preparation Firm,5,$300K-$1M,Sean Butler,Owner
+Criterion Capital Advisors,Nashville,TN,Nashville,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Lee Danner & Bass,Nashville,TN,Nashville,Wealth Management Firm,18,$1M-$5M,Principal,Managing Partner
+David Adams Financial Planning,Nashville,TN,Nashville,Wealth Management Firm,6,$1M-$5M,David Adams,Owner
+Vista CPAs,Washington,DC,Washington DC,Bookkeeping Firm,12,$200K-$800K,Principal,Owner
+AMB Small Business Accounting,Washington,DC,Washington DC,Bookkeeping Firm,6,$200K-$800K,Ana M Bonilla Galeano,Owner
+Winmoor Accounting,Washington,DC,Washington DC,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+Speedy Tax & Accounting Services,Washington,DC,Washington DC,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+CORE Business Innovation,Atlanta,GA,Atlanta,Operations Consulting Firm,10,$500K-$2M,Principal,Owner
+Seiri Consulting Group,Atlanta,GA,Atlanta,Operations Consulting Firm,12,$500K-$2M,Principal,Owner
+Your Project Board,Atlanta,GA,Atlanta,Operations Consulting Firm,8,$500K-$2M,Principal,Owner
+The Colorado Mortgage Team,Denver,CO,Denver,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Mortgage Maestro Group,Denver,CO,Denver,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Front Range Mortgage,Denver,CO,Denver,Mortgage Brokerage,12,$500K-$2M,Principal,Owner
+Nathan Mortgage,Denver,CO,Denver,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Carolina HR,Charlotte,NC,Charlotte,HR Consulting Firm,10,$500K-$2M,Principal,Owner
+Tailored HR Services,Charlotte,NC,Charlotte,HR Consulting Firm,8,$500K-$2M,Principal,Owner
+4th Degree Consulting,Charlotte,NC,Charlotte,HR Consulting Firm,6,$500K-$2M,Principal,Owner
+Windsor Private Wealth,Boston,MA,Boston,Single Family Office,12,$2M-$10M,Principal,Managing Partner
+BHC Advisors,Boston,MA,Boston,Single Family Office,8,$2M-$10M,Principal,Managing Partner
+Kensington Investment Company,Boston,MA,Boston,Single Family Office,10,$2M-$10M,Principal,Managing Partner
+851Ventures,Boston,MA,Boston,Single Family Office,6,$2M-$10M,Max Spiegel,Founder
+Boston MFO,Boston,MA,Boston,Multi-Family Office,12,$2M-$10M,Principal,Managing Director
+American Home Team Realty,Orlando,FL,Orlando,HOA Management Firm,8,$500K-$3M,Principal,Owner
+Community Management Specialists,Orlando,FL,Orlando,HOA Management Firm,15,$500K-$3M,Principal,Owner
+Premier Association Management,Orlando,FL,Orlando,HOA Management Firm,10,$500K-$3M,Principal,Owner
+Don Asher and Associates,Orlando,FL,Orlando,HOA Management Firm,12,$500K-$3M,Principal,Owner
+CFO Growth Advisors,San Francisco,CA,San Francisco Bay Area,Fractional CFO Firm,10,$500K-$2M,Principal,Managing Partner
+Punch Financial,San Francisco,CA,San Francisco Bay Area,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+Rise Financial Solutions,San Francisco,CA,San Francisco Bay Area,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+Lowden Financial,San Francisco,CA,San Francisco Bay Area,Fractional CFO Firm,6,$500K-$2M,Principal,Owner
+Graphite Financial,San Francisco,CA,San Francisco Bay Area,Fractional CFO Firm,12,$500K-$2M,Principal,Managing Partner
+Fox Tax,Minneapolis,MN,Minneapolis,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+Corneliuson & Associates,Minneapolis,MN,Minneapolis,Tax Preparation Firm,10,$300K-$1M,Principal,Owner
+Scott Reid CPAs,Minneapolis,MN,Minneapolis,Tax Preparation Firm,6,$300K-$1M,Scott Reid,Owner
+Rocca CPA,Minneapolis,MN,Minneapolis,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+Bell Creek Consulting,Washington,DC,Washington DC,Operations Consulting Firm,10,$500K-$2M,Principal,Owner
+Eagle Hill Consulting,Washington,DC,Washington DC,Operations Consulting Firm,18,$500K-$2M,Principal,Managing Partner
+Censeo Consulting,Washington,DC,Washington DC,Operations Consulting Firm,15,$500K-$2M,Principal,Managing Partner
+Wissahickon Wealth Management,Philadelphia,PA,Philadelphia,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+Carnegie Wealth Management,Philadelphia,PA,Philadelphia,Wealth Management Firm,12,$1M-$5M,Principal,Managing Partner
+Roffman Miller Wealth Management,Philadelphia,PA,Philadelphia,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Waldron Private Wealth,Philadelphia,PA,Philadelphia,Wealth Management Firm,15,$1M-$5M,Principal,Managing Partner
+Blue Bell Private Wealth Management,Blue Bell,PA,Philadelphia,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+myCIO Wealth Partners,Philadelphia,PA,Philadelphia,Wealth Management Firm,12,$1M-$5M,Principal,Managing Partner
+Bookkeeping Done Right LLC,Phoenix,AZ,Phoenix,Bookkeeping Firm,6,$200K-$800K,Principal,Owner
+Phoenix Bookkeeping Specialists,Phoenix,AZ,Phoenix,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+Larry B. Betts CPA,Phoenix,AZ,Phoenix,Bookkeeping Firm,6,$200K-$800K,Larry Betts,Owner
+Foster Financial,Phoenix,AZ,Phoenix,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+Gold Coast Mortgage,Beverly,MA,Boston,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Poli Mortgage Group,Boston,MA,Boston,Mortgage Brokerage,15,$500K-$2M,Principal,Owner
+Blue Door Mortgage,Brookline,MA,Boston,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+MBA Mortgage,Boston,MA,Boston,Mortgage Brokerage,6,$500K-$2M,Principal,Owner
+MorningTide Financial Group,Lexington,MA,Boston,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+PW Associates,Houston,TX,Houston,Fractional CFO Firm,12,$500K-$2M,Principal,Managing Partner
+Orbit Accountants,Houston,TX,Houston,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+The Healthcare CFO,Houston,TX,Houston,Fractional CFO Firm,10,$500K-$2M,Principal,Owner
+Dillon Business Advisors,Houston,TX,Houston,Fractional CFO Firm,10,$500K-$2M,Principal,Managing Partner
+Delegate CFO,Houston,TX,Houston,Fractional CFO Firm,6,$500K-$2M,Principal,Owner
+Cedar Management Group,Charlotte,NC,Charlotte,HOA Management Firm,18,$500K-$3M,Principal,Owner
+Hawthorne Management,Charlotte,NC,Charlotte,HOA Management Firm,15,$500K-$3M,Principal,Owner
+Kuester Management Group,Charlotte,NC,Charlotte,HOA Management Firm,18,$500K-$3M,Principal,Owner
+Association Management Solutions,Charlotte,NC,Charlotte,HOA Management Firm,12,$500K-$3M,Principal,Owner
+Red Rock Management,Charlotte,NC,Charlotte,HOA Management Firm,10,$500K-$3M,Principal,Owner
+George Dimov CPA,New York,NY,New York City,Tax Preparation Firm,8,$300K-$1M,George Dimov,Owner
+VJN Associates CPAs,New York,NY,New York City,Tax Preparation Firm,10,$300K-$1M,Principal,Owner
+Mark E. Feinsot CPA,New York,NY,New York City,Tax Preparation Firm,6,$300K-$1M,Mark Feinsot,Owner
+Miller & Company CPA,New York,NY,New York City,Tax Preparation Firm,12,$300K-$1M,Paul Miller,Managing Partner
+Popular Tax,New York,NY,New York City,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+Virtue Asset Management,Chicago,IL,Chicago,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Chicago Partners Wealth Advisors,Chicago,IL,Chicago,Wealth Management Firm,15,$1M-$5M,Principal,Managing Partner
+Merino Wealth,Chicago,IL,Chicago,Wealth Management Firm,8,$1M-$5M,Principal,Owner
+Dearborn Partners,Chicago,IL,Chicago,Wealth Management Firm,12,$1M-$5M,Principal,Managing Partner
+Lake Street,Chicago,IL,Chicago,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+CA Human Resources Consulting,San Diego,CA,San Diego,HR Consulting Firm,10,$500K-$2M,Principal,Owner
+SDHR Consulting,San Diego,CA,San Diego,HR Consulting Firm,12,$500K-$2M,Principal,Owner
+Strategic HR Advisory,San Diego,CA,San Diego,HR Consulting Firm,6,$500K-$2M,Principal,Owner
+Bucher Consulting for Human Resources,San Diego,CA,San Diego,HR Consulting Firm,8,$500K-$2M,Principal,Owner
+Wyntree Bookkeeping,Atlanta,GA,Atlanta,Bookkeeping Firm,8,$200K-$800K,Nick Fluker,Owner
+Marshall Jones,Atlanta,GA,Atlanta,Bookkeeping Firm,15,$200K-$800K,Principal,Managing Partner
+Chester & Daniels LLC,Atlanta,GA,Atlanta,Bookkeeping Firm,10,$200K-$800K,Principal,Owner
+RPMG,Newark,NJ,Northern New Jersey,HOA Management Firm,12,$500K-$3M,Tejas Kadia,Founder
+Bender CFO Services,Fort Worth,TX,Dallas,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+Local Fractional LLC,Dallas,TX,Dallas,Fractional CFO Firm,6,$500K-$2M,Principal,Owner
+New Life CFO,Dallas,TX,Dallas,Fractional CFO Firm,10,$500K-$2M,Principal,Managing Partner
+BVWD,Dallas,TX,Dallas,Fractional CFO Firm,12,$500K-$2M,Principal,Managing Partner
+Agave Home Loans,Phoenix,AZ,Phoenix,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Arnaiz Mortgage,Phoenix,AZ,Phoenix,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+AZ Mortgage Broker LLC,Phoenix,AZ,Phoenix,Mortgage Brokerage,6,$500K-$2M,Principal,Owner
+Arizona Mortgage Brothers,Phoenix,AZ,Phoenix,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Price Mortgage,Phoenix,AZ,Phoenix,Mortgage Brokerage,12,$500K-$2M,Principal,Owner
+Greater Prairie Consulting Firm,Dallas,TX,Dallas,Operations Consulting Firm,10,$500K-$2M,Principal,Owner
+Business Whisperer,Dallas,TX,Dallas,Operations Consulting Firm,8,$500K-$2M,Principal,Owner
+Sendero Consulting,Dallas,TX,Dallas,Operations Consulting Firm,18,$500K-$2M,Principal,Managing Partner
+Tax Office SF,San Francisco,CA,San Francisco Bay Area,Tax Preparation Firm,8,$300K-$1M,Principal,Owner
+Cortes Tax Service,San Francisco,CA,San Francisco Bay Area,Tax Preparation Firm,6,$300K-$1M,Principal,Owner
+Ausejo Taxes,San Francisco,CA,San Francisco Bay Area,Tax Preparation Firm,5,$300K-$1M,Principal,Owner
+HR Business Partners,Minneapolis,MN,Minneapolis,HR Consulting Firm,12,$500K-$2M,Principal,Owner
+Lakeside HR Group,Minneapolis,MN,Minneapolis,HR Consulting Firm,8,$500K-$2M,Principal,Owner
+BooXkeeping Miami,Miami,FL,Miami,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+CPA Miami,Miami,FL,Miami,Bookkeeping Firm,10,$200K-$800K,Principal,Owner
+Miami Bookkeeping Solutions,Miami,FL,Miami,Bookkeeping Firm,6,$200K-$800K,Principal,Owner
+Todd's Accounting Services,Miami,FL,Miami,Bookkeeping Firm,8,$200K-$800K,Principal,Owner
+Cassedy Financial Group,Tampa,FL,Tampa,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+All Seasons Wealth,Tampa,FL,Tampa,Wealth Management Firm,12,$1M-$5M,Principal,Managing Partner
+Water Street Wealth Management,Tampa,FL,Tampa,Wealth Management Firm,8,$1M-$5M,Principal,Owner
+Success Wealth Management,Tampa,FL,Tampa,Wealth Management Firm,10,$1M-$5M,Principal,Owner
+FocusCFO,Philadelphia,PA,Philadelphia,Fractional CFO Firm,12,$500K-$2M,Principal,Managing Partner
+Intuition Financial Services,Philadelphia,PA,Philadelphia,Fractional CFO Firm,6,$500K-$2M,Principal,Owner
+Consult Your CFO,Philadelphia,PA,Philadelphia,Fractional CFO Firm,8,$500K-$2M,Principal,Owner
+K3 Management,Denver,CO,Denver,HOA Management Firm,10,$500K-$3M,Principal,Owner
+CAP Management,Denver,CO,Denver,HOA Management Firm,15,$500K-$3M,Principal,Owner
+ACCU Inc,Denver,CO,Denver,HOA Management Firm,18,$500K-$3M,Principal,Owner
+Haven Community Management,Denver,CO,Denver,HOA Management Firm,12,$500K-$3M,Principal,Owner
+American Mortgage Brokers,Minneapolis,MN,Minneapolis,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+MLS Mortgage Group,Minneapolis,MN,Minneapolis,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Rainbow Mortgage Inc,Minneapolis,MN,Minneapolis,Mortgage Brokerage,6,$500K-$2M,Principal,Owner
+Tradition Mortgage,Minneapolis,MN,Minneapolis,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
