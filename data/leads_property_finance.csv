@@ -1,0 +1,310 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title
+PMI New York City,New York,NY,New York City,Property Management Company,10,$1M-$3M,Principal,Managing Partner
+My Property Man,New York,NY,New York City,Property Management Company,8,$500K-$2M,Owner,Owner
+MD Squared Property Group,New York,NY,New York City,Property Management Company,12,$1M-$3M,Dawn Dickstein,Co-Founder
+Building Equity Management,New York,NY,New York City,Property Management Company,10,$1M-$3M,Brian Reilly,Co-Owner
+XL Real Property Management,New York,NY,New York City,Property Management Company,8,$500K-$2M,Dylan Pichulik,Owner
+EBMG,New York,NY,New York City,Property Management Company,15,$1M-$3M,Principal,Managing Partner
+Florida Property Management Strategies,Miami,FL,Miami,HOA Management Firm,10,$500K-$2M,Principal,Managing Partner
+JMK Property Management,Miami,FL,Miami,Property Management Company,8,$500K-$2M,Principal,Owner
+Novel Management,Miami,FL,Miami,Property Management Company,6,$500K-$1.5M,Principal,Owner
+Trident Management,Miami,FL,Miami,Property Management Company,8,$500K-$2M,Jason,Owner
+Exclusive Property Management Group,Miami,FL,Miami,Property Management Company,10,$500K-$2M,Principal,Managing Partner
+TruHaven Homes,Chicago,IL,Chicago,HOA Management Firm,8,$500K-$1.5M,Owner,Owner
+Forth Group,Chicago,IL,Chicago,HOA Management Firm,12,$1M-$3M,Principal,Managing Partner
+KM Realty Group LLC,Chicago,IL,Chicago,HOA Management Firm,10,$500K-$2M,Principal,Owner
+AssociationOne,Chicago,IL,Chicago,HOA Management Firm,10,$500K-$2M,Principal,Managing Partner
+Hales Property Management,Chicago,IL,Chicago,Property Management Company,15,$1M-$3M,Principal,Managing Partner
+TCS Management,Nashville,TN,Nashville,Property Management Company,10,$500K-$2M,Principal,Owner
+Southern Sky Realty,Nashville,TN,Nashville,Property Management Company,6,$500K-$1.5M,Principal,Owner
+Omni Realtors and Property Management,Nashville,TN,Nashville,Property Management Company,8,$500K-$2M,Owner,Owner
+Aria Properties,Nashville,TN,Nashville,Property Management Company,10,$500K-$2M,Principal,Owner
+Browning-Gordon & Company,Nashville,TN,Nashville,Property Management Company,12,$1M-$3M,Principal,Managing Partner
+Cole Group Property Management,Dallas,TX,Dallas,Property Management Company,8,$500K-$2M,Principal,Owner
+Agave & Pine Property Management,Dallas,TX,Dallas,Property Management Company,8,$500K-$2M,Anthony Cole,Founder
+McCaw Property Management,Dallas,TX,Dallas,Property Management Company,10,$500K-$2M,Principal,Owner
+JoGip Property Management,Dallas,TX,Dallas,Property Management Company,8,$500K-$2M,Principal,Owner
+Plat Realty,Dallas,TX,Dallas,Property Management Company,6,$500K-$1.5M,Principal,Owner
+Atlanta Intown Dwellings,Atlanta,GA,Atlanta,Real Estate Brokerage,8,$1M-$3M,Cherie King,Managing Broker
+Resurgens Residential,Atlanta,GA,Atlanta,Real Estate Brokerage,10,$1M-$5M,Principal,Managing Partner
+Intown Elite,Atlanta,GA,Atlanta,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Williams Realty & Consulting,Atlanta,GA,Atlanta,Real Estate Brokerage,6,$1M-$3M,Principal,Owner
+Beacham & Company Realtors,Atlanta,GA,Atlanta,Real Estate Brokerage,15,$2M-$5M,Principal,Owner
+THE COLLECTIVE Real Estate,Atlanta,GA,Atlanta,Real Estate Brokerage,8,$1M-$3M,Brandon Rory Cunningham,Founder
+Best Atlanta Properties,Atlanta,GA,Atlanta,Real Estate Brokerage,6,$1M-$3M,Principal,Owner
+Integrity First Lending,Houston,TX,Houston,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+CLM Mortgage Inc,Houston,TX,Houston,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Blink Lending,Houston,TX,Houston,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+DMR Mortgage,Houston,TX,Houston,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner
+Champions Mortgage,Houston,TX,Houston,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Personnel Services Unlimited,Charlotte,NC,Charlotte,Staffing Agency,12,$1M-$5M,Principal,Owner
+Career Strategy Consultants,Charlotte,NC,Charlotte,Staffing Agency,10,$1M-$5M,Principal,Owner
+GoodWork Staffing,Charlotte,NC,Charlotte,Staffing Agency,8,$1M-$3M,Principal,Owner
+All Seasons Wealth,Tampa,FL,Tampa,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Wealth Advisors of Tampa Bay,Tampa,FL,Tampa,Wealth Management Firm,8,$1M-$3M,Principal,Managing Partner
+Water Street Wealth Management,Tampa,FL,Tampa,Wealth Management Firm,8,$1M-$3M,Principal,Managing Partner
+Garrison Asset Management,Tampa,FL,Tampa,Wealth Management Firm,6,$1M-$3M,Garrison Urette,Founder
+Success Wealth Management,Tampa,FL,Tampa,Wealth Management Firm,8,$1M-$3M,Principal,Managing Partner
+Four Corners Wealth Partners,Phoenix,AZ,Phoenix,Financial Advisory Firm,8,$1M-$3M,Principal,Managing Partner
+Continuum Wealth Management,Scottsdale,AZ,Phoenix,Financial Advisory Firm,10,$1M-$5M,Principal,Owner
+Farnam Financial,Phoenix,AZ,Phoenix,Financial Advisory Firm,6,$1M-$3M,Principal,Owner
+LifeManaged Financial Advisors,Phoenix,AZ,Phoenix,Financial Advisory Firm,8,$1M-$3M,Principal,Owner
+ABLE Financial Group,Scottsdale,AZ,Phoenix,Financial Advisory Firm,10,$1M-$5M,Principal,Managing Partner
+Fullerton Financial Planning,Phoenix,AZ,Phoenix,Financial Advisory Firm,6,$1M-$3M,Principal,Owner
+J. Kent Staffing,Denver,CO,Denver,Staffing Agency,15,$1M-$5M,Principal,Owner
+Trimble & Associates Recruiting,Denver,CO,Denver,Recruiting Agency,8,$1M-$3M,Tom Trimble,Owner
+Job Store Staffing,Denver,CO,Denver,Staffing Agency,18,$2M-$5M,Principal,Owner
+Community Management Specialists,Orlando,FL,Orlando,HOA Management Firm,12,$500K-$2M,Principal,Managing Partner
+Beacon Community Management,Orlando,FL,Orlando,HOA Management Firm,10,$500K-$2M,Scott St Clair,Founder
+Leland Management,Orlando,FL,Orlando,HOA Management Firm,15,$1M-$3M,Principal,Owner
+Premier Association Management,Orlando,FL,Orlando,HOA Management Firm,8,$500K-$1.5M,Principal,Owner
+Maisonre,Los Angeles,CA,Los Angeles,Real Estate Brokerage,10,$1M-$5M,Principal,Managing Broker
+ACME Real Estate,Los Angeles,CA,Los Angeles,Real Estate Brokerage,12,$2M-$5M,Principal,Owner
+Real Estate Collective,Los Angeles,CA,Los Angeles,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+The L.A. Real Estate Agency,Los Angeles,CA,Los Angeles,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Carolwood Estates,Beverly Hills,CA,Los Angeles,Real Estate Brokerage,10,$2M-$5M,Principal,Managing Partner
+Brightwire Loans,Northern New Jersey,NJ,Northern New Jersey,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Heritage Financial Corporation,Jersey City,NJ,Northern New Jersey,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Top Vine Mortgage Services,Newark,NJ,Northern New Jersey,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner
+HQM Loans,Northern New Jersey,NJ,Northern New Jersey,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner
+Commercial Mortgage Associates,Northern New Jersey,NJ,Northern New Jersey,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Inspire Financial Planning,San Francisco,CA,San Francisco Bay Area,Wealth Management Firm,12,$2M-$5M,Principal,Managing Partner
+Callan Family Office,San Francisco,CA,San Francisco Bay Area,Family Office,15,$5M-$10M,Principal,Managing Partner
+SD Mayer Family Office Services,San Francisco,CA,San Francisco Bay Area,Family Office,12,$2M-$10M,Principal,Managing Partner
+Premier Property Solutions,Boston,MA,Boston,Property Management Company,10,$500K-$2M,Principal,Owner
+Boston Condominium Management,Boston,MA,Boston,Property Management Company,8,$500K-$2M,Principal,Owner
+J. Butler Property Management,Boston,MA,Boston,Property Management Company,10,$500K-$2M,Principal,Owner
+MerGo Group,Boston,MA,Boston,Property Management Company,8,$500K-$2M,Principal,Owner
+Cabot & Company,Boston,MA,Boston,Property Management Company,12,$1M-$3M,Principal,Managing Partner
+Oar Staffing,Washington,DC,Washington DC,Staffing Agency,10,$1M-$5M,Principal,Owner
+The Ford Agency,Washington,DC,Washington DC,Staffing Agency,12,$1M-$5M,Principal,Owner
+Contemporaries,Washington,DC,Washington DC,Staffing Agency,10,$1M-$3M,Principal,Owner
+Bonnie Jones Associates,Washington,DC,Washington DC,Staffing Agency,8,$1M-$3M,Bonnie Jones,President
+The Choice Inc,Washington,DC,Washington DC,Staffing Agency,10,$1M-$3M,Principal,Owner
+San Diego Castles Realty,San Diego,CA,San Diego,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Sand & Sea Investments,San Diego,CA,San Diego,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+SV Premier Real Estate,San Diego,CA,San Diego,Real Estate Brokerage,6,$1M-$3M,Principal,Owner
+Goodkind Properties,San Diego,CA,San Diego,Real Estate Brokerage,6,$1M-$3M,Principal,Owner
+Red Hawk Realty,San Diego,CA,San Diego,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Start Recruiting Inc,Minneapolis,MN,Minneapolis,Recruiting Agency,8,$1M-$3M,Principal,Owner
+Celarity,Minneapolis,MN,Minneapolis,Recruiting Agency,12,$1M-$5M,Principal,Owner
+MDS Staffing,Minneapolis,MN,Minneapolis,Staffing Agency,10,$1M-$3M,Principal,Owner
+Peak Staffing Inc,Minneapolis,MN,Minneapolis,Staffing Agency,8,$1M-$3M,Principal,Owner
+Minnesota Staffing,Minneapolis,MN,Minneapolis,Staffing Agency,10,$1M-$3M,Principal,Owner
+Waverly Advisors Philadelphia,Philadelphia,PA,Philadelphia,Financial Advisory Firm,12,$1M-$5M,Principal,Managing Partner
+Venturi Private Wealth,Philadelphia,PA,Philadelphia,Financial Advisory Firm,8,$1M-$3M,Principal,Managing Partner
+Livelihood Planning,Philadelphia,PA,Philadelphia,Financial Advisory Firm,6,$1M-$3M,Principal,Owner
+Correct Capital,Philadelphia,PA,Philadelphia,Financial Advisory Firm,10,$1M-$5M,Principal,Owner
+Sage Financial Group,Philadelphia,PA,Philadelphia,Financial Advisory Firm,15,$2M-$5M,Principal,Managing Partner
+OC Pro Property Management,Orange County,CA,Orange County,Property Management Company,8,$500K-$2M,Principal,Owner
+Orange County Property Management Inc,Orange County,CA,Orange County,Property Management Company,10,$500K-$2M,Owner,Owner
+Good Life Property Management,Orange County,CA,Orange County,Property Management Company,10,$500K-$2M,Principal,Owner
+Lido Property Management,Orange County,CA,Orange County,Property Management Company,12,$1M-$3M,Principal,Owner
+Beach Front Property Management,Orange County,CA,Orange County,Property Management Company,8,$500K-$2M,Principal,Owner
+Wise Property Management,Tampa,FL,Tampa,HOA Management Firm,15,$1M-$3M,Owner,Owner
+Terra Managers,Tampa,FL,Tampa,HOA Management Firm,10,$500K-$2M,Principal,Owner
+Stonebriar Mortgage,Dallas,TX,Dallas,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+MPS Mortgage LLC,Dallas,TX,Dallas,Mortgage Brokerage,6,$500K-$1.5M,Tom Spaniel,Founder
+Home Loans For All,Dallas,TX,Dallas,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Calamita Wealth Management,Charlotte,NC,Charlotte,Wealth Management Firm,6,$1M-$3M,Todd Calamita,Founder
+Waverly Advisors Charlotte,Charlotte,NC,Charlotte,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Distribution Recruiters,Atlanta,GA,Atlanta,Recruiting Agency,8,$1M-$3M,Russ Baker,Founder
+Connect Staffing Inc,Atlanta,GA,Atlanta,Staffing Agency,10,$1M-$5M,Principal,Owner
+Paramount Staffing,Atlanta,GA,Atlanta,Staffing Agency,10,$1M-$3M,Principal,Owner
+Express Employment Professionals Buckhead,Atlanta,GA,Atlanta,Staffing Agency,12,$1M-$5M,Principal,Owner
+Jaron Hall Properties,Houston,TX,Houston,Real Estate Brokerage,6,$1M-$3M,Jaron Hall,Owner
+Davis Commercial,Houston,TX,Houston,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+The Reyna Group,Houston,TX,Houston,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+CB Realty Team,Houston,TX,Houston,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Sharp Staff Inc,Chicago,IL,Chicago,Staffing Agency,10,$1M-$3M,Owner,Owner
+Chicago Hire Company,Chicago,IL,Chicago,Recruiting Agency,8,$1M-$3M,Principal,Owner
+City Staffing,Chicago,IL,Chicago,Staffing Agency,10,$1M-$5M,Principal,Owner
+Marco & Associates,Chicago,IL,Chicago,Recruiting Agency,8,$1M-$3M,Principal,Managing Partner
+SGS Property Management,Alexandria,VA,Washington DC,Property Management Company,8,$500K-$2M,Principal,Owner
+Nomadic Real Estate,Washington,DC,Washington DC,Property Management Company,15,$1M-$3M,Principal,Owner
+PMI D.C. Metro,Washington,DC,Washington DC,Property Management Company,8,$500K-$2M,Principal,Owner
+Wilkinson Property Management,Northern Virginia,VA,Washington DC,Property Management Company,12,$1M-$3M,Principal,Owner
+Peabody Residential,Northern Virginia,VA,Washington DC,Property Management Company,10,$1M-$3M,Principal,Managing Partner
+GWS&A,Denver,CO,Denver,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Denver Wealth Management,Denver,CO,Denver,Wealth Management Firm,8,$1M-$3M,Principal,Owner
+Obermeyer Wealth Partners,Denver,CO,Denver,Wealth Management Firm,12,$2M-$5M,Principal,Managing Partner
+High Pass Asset Management,Denver,CO,Denver,Financial Advisory Firm,6,$1M-$3M,Principal,Owner
+Townsend Retirement and Investment Advisors,Denver,CO,Denver,Financial Advisory Firm,10,$1M-$5M,Principal,Managing Partner
+Foundation Mortgage Corporation,Miami,FL,Miami,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Miami Lending Advisors,Miami,FL,Miami,Mortgage Brokerage,8,$500K-$2M,Owner,Owner
+Expert Mortgage Group Inc,Miami,FL,Miami,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Great Florida Lending Inc,Miami,FL,Miami,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner
+CHORD Real Estate,Nashville,TN,Nashville,Real Estate Brokerage,10,$1M-$5M,Principal,Managing Broker
+Charles Hawkins Co,Nashville,TN,Nashville,Real Estate Brokerage,15,$2M-$5M,Principal,Owner
+The Cauble Group,Nashville,TN,Nashville,Real Estate Brokerage,8,$1M-$3M,Tyler Cauble,Founder
+Elevate Real Estate Brokerage,Nashville,TN,Nashville,Real Estate Brokerage,6,$1M-$3M,Principal,Owner
+Satovsky Asset Management,New York,NY,New York City,Wealth Management Firm,10,$2M-$5M,Principal,Founder
+BBR Partners,New York,NY,New York City,Wealth Management Firm,18,$5M-$10M,Principal,Managing Partner
+Arizona Investment and Management LLC,Phoenix,AZ,Phoenix,Property Management Company,10,$500K-$2M,Principal,Owner
+Taylor Street Property Management,Phoenix,AZ,Phoenix,Property Management Company,12,$1M-$3M,Principal,Owner
+Impero Property Management,Phoenix,AZ,Phoenix,Property Management Company,8,$500K-$2M,Principal,Owner
+LHM Realty,Phoenix,AZ,Phoenix,Property Management Company,8,$500K-$2M,Principal,Owner
+Miller Staffing,Cranbury,NJ,Northern New Jersey,Staffing Agency,12,$1M-$5M,Principal,Owner
+PrideStaff Edison,Edison,NJ,Northern New Jersey,Staffing Agency,10,$1M-$3M,Manisha Subramanian,Owner
+Heywood Community Management,Phoenix,AZ,Phoenix,HOA Management Firm,10,$500K-$2M,Principal,Owner
+Arizona HOA Management Inc,Phoenix,AZ,Phoenix,HOA Management Firm,8,$500K-$2M,Principal,Owner
+Brown Community Management,Phoenix,AZ,Phoenix,HOA Management Firm,15,$1M-$3M,Principal,Owner
+Dwell360,Boston,MA,Boston,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Rooney Real Estate,Boston,MA,Boston,Real Estate Brokerage,10,$2M-$5M,Jackie Rooney,Founder
+South End Realty Group,Boston,MA,Boston,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+CL Properties,Boston,MA,Boston,Real Estate Brokerage,8,$1M-$5M,Carmela Laurella,Founder
+Chicagoland Home Mortgage Services,Chicago,IL,Chicago,Mortgage Brokerage,6,$500K-$2M,Ron,Owner
+Corby Mortgage Services Inc,Chicago,IL,Chicago,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+NorthPoint Lending Group,Chicago,IL,Chicago,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Anderson Financial Group Inc,Chicago,IL,Chicago,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+A and N Mortgage Services,Chicago,IL,Chicago,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Top Talent Staffing,Orlando,FL,Orlando,Staffing Agency,10,$1M-$3M,Robert Herring,Owner
+Reliable Staffing Orlando,Orlando,FL,Orlando,Staffing Agency,8,$1M-$3M,Principal,Owner
+Tews Company,Orlando,FL,Orlando,Staffing Agency,10,$1M-$3M,Principal,Owner
+Residential Property Management Inc,Minneapolis,MN,Minneapolis,Property Management Company,10,$500K-$2M,Principal,Owner
+Mauzy Properties,Minneapolis,MN,Minneapolis,Property Management Company,6,$500K-$1.5M,Principal,Owner
+Creative Housing Solutions,Minneapolis,MN,Minneapolis,Property Management Company,8,$500K-$2M,Principal,Owner
+Boston Partners Wealth Management,Boston,MA,Boston,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+Sankaty Wealth Management,Boston,MA,Boston,Wealth Management Firm,8,$1M-$3M,Principal,Managing Partner
+Windsor Private Wealth,Boston,MA,Boston,Wealth Management Firm,6,$2M-$5M,Principal,Managing Partner
+Woodstock Corporation,Boston,MA,Boston,Wealth Management Firm,12,$2M-$5M,Principal,Managing Partner
+Clarendon Private,Boston,MA,Boston,Wealth Management Firm,8,$1M-$5M,Principal,Managing Partner
+Elfant Wissahickon Realtors,Philadelphia,PA,Philadelphia,Real Estate Brokerage,15,$2M-$5M,Principal,Owner
+Solo Real Estate,Philadelphia,PA,Philadelphia,Real Estate Brokerage,8,$1M-$3M,Owner,Owner
+Victory Real Estate LLC,Philadelphia,PA,Philadelphia,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Philadelphia Realty Exchange,Philadelphia,PA,Philadelphia,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+OCF Realty,Philadelphia,PA,Philadelphia,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Agave Home Loans Phoenix,Phoenix,AZ,Phoenix,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Arnaiz Mortgage,Phoenix,AZ,Phoenix,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner
+Home1st Financial Inc,Phoenix,AZ,Phoenix,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Arizona Wholesale Mortgage Inc,Phoenix,AZ,Phoenix,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+NextPath,Tampa,FL,Tampa,Recruiting Agency,12,$1M-$5M,Principal,Owner
+Hiregy,Tampa,FL,Tampa,Staffing Agency,10,$1M-$3M,Principal,Owner
+Alluvion Staffing,Tampa,FL,Tampa,Staffing Agency,8,$1M-$3M,Principal,Owner
+Shannon Property Management,Houston,TX,Houston,Property Management Company,10,$500K-$2M,Steven Shannon,Co-Founder
+Advantage Asset Management Houston,Houston,TX,Houston,Property Management Company,8,$500K-$2M,Principal,Owner
+ELDA Management Services,Houston,TX,Houston,Property Management Company,10,$500K-$2M,Principal,Owner
+Area Texas Realty & Management,Houston,TX,Houston,Property Management Company,12,$1M-$3M,Principal,Owner
+Nino Properties,Houston,TX,Houston,Property Management Company,8,$500K-$2M,Principal,Owner
+Community Association Management Charlotte,Charlotte,NC,Charlotte,HOA Management Firm,10,$500K-$2M,Principal,Owner
+Hawthorne HOA Management,Charlotte,NC,Charlotte,HOA Management Firm,12,$1M-$3M,Principal,Owner
+Red Rock Management,Charlotte,NC,Charlotte,HOA Management Firm,10,$500K-$2M,Principal,Owner
+Legacy 15 Real Estate Brokers,Orange County,CA,Orange County,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Regency Real Estate Brokers,Orange County,CA,Orange County,Real Estate Brokerage,15,$2M-$5M,Principal,Managing Partner
+Orange County Commercial Real Estate Inc,Orange County,CA,Orange County,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+TimeLine Staffing,Arlington,TX,Dallas,Staffing Agency,12,$1M-$5M,Owner,Owner
+KP Staffing Dallas,Dallas,TX,Dallas,Staffing Agency,15,$2M-$5M,Principal,Owner
+Odell Medical Search,Dallas,TX,Dallas,Recruiting Agency,8,$1M-$3M,Principal,Owner
+Lee Danner Bass,Nashville,TN,Nashville,Wealth Management Firm,15,$2M-$5M,Principal,Managing Partner
+Criterion Capital Advisors,Nashville,TN,Nashville,Wealth Management Firm,8,$1M-$3M,Principal,Founder
+Decker Wealth Management,Nashville,TN,Nashville,Wealth Management Firm,6,$1M-$3M,Principal,Owner
+C R Mortgage Solutions,Atlanta,GA,Atlanta,Mortgage Brokerage,6,$500K-$1.5M,Constance Garrett,Owner
+Moreira Team Mortgage,Atlanta,GA,Atlanta,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Georgia Platinum Mortgage,Atlanta,GA,Atlanta,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Stellar Mortgage Corporation,Atlanta,GA,Atlanta,Mortgage Brokerage,8,$500K-$2M,John West,Owner
+Elcap Mortgage Inc,Atlanta,GA,Atlanta,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner
+Palisades Brokerage,Washington,DC,Washington DC,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Reverie Residential,Washington,DC,Washington DC,Real Estate Brokerage,8,$1M-$5M,Principal,Owner
+Central Properties DC,Washington,DC,Washington DC,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Avenue Real Estate,Washington,DC,Washington DC,Real Estate Brokerage,8,$1M-$3M,Ross Conn,Founder
+West + Main Homes,Denver,CO,Denver,Real Estate Brokerage,15,$2M-$5M,Principal,Owner
+Hops & Homes,Denver,CO,Denver,Real Estate Brokerage,6,$1M-$3M,Principal,Owner
+MY Denver Real Estate,Denver,CO,Denver,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Colorado & Company,Denver,CO,Denver,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+TRE Tributary Real Estate,Denver,CO,Denver,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Phillips Property Management,Northern New Jersey,NJ,Northern New Jersey,Property Management Company,15,$1M-$3M,Owner,Owner
+North Jersey Property Management,Sparta,NJ,Northern New Jersey,Property Management Company,8,$500K-$2M,Principal,Owner
+PMI Prime Property NJ,Northern New Jersey,NJ,Northern New Jersey,Property Management Company,8,$500K-$2M,Principal,Owner
+Corner Property Management,Northern New Jersey,NJ,Northern New Jersey,HOA Management Firm,12,$1M-$3M,Founder,Owner
+FCA Corp,Houston,TX,Houston,Wealth Management Firm,15,$2M-$5M,Principal,Managing Partner
+Post Oak Private Wealth Advisors,Houston,TX,Houston,Wealth Management Firm,12,$2M-$5M,Principal,Managing Partner
+Avidian Wealth Solutions,Houston,TX,Houston,Wealth Management Firm,15,$2M-$5M,Principal,Managing Partner
+Segment Wealth Management,Houston,TX,Houston,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Financial Synergies Wealth Advisors,Houston,TX,Houston,Financial Advisory Firm,10,$1M-$5M,Principal,Managing Partner
+Verve Realty,Minneapolis,MN,Minneapolis,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+TheMLSonline,Minneapolis,MN,Minneapolis,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Kenwood Commercial,Minneapolis,MN,Minneapolis,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+CRE Partners,Minneapolis,MN,Minneapolis,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Manning Personnel Group,Boston,MA,Boston,Staffing Agency,10,$1M-$3M,Owner,Owner
+Monument Staffing,Boston,MA,Boston,Staffing Agency,8,$1M-$3M,Principal,Owner
+ID Staffing Solutions,Boston,MA,Boston,Staffing Agency,6,$1M-$3M,Ingrid Drago,Owner
+Kinzie Brokerage,Chicago,IL,Chicago,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Vesta Preferred Realty,Chicago,IL,Chicago,Real Estate Brokerage,15,$2M-$5M,Principal,Owner
+Chicagoland Brokers,Chicago,IL,Chicago,Real Estate Brokerage,8,$1M-$3M,Henry Sakowski,Founder
+Elm Fork Partners,Dallas,TX,Dallas,Family Office,8,$2M-$10M,Principal,Managing Partner
+CH Investment Partners,Dallas,TX,Dallas,Family Office,10,$5M-$10M,Principal,Managing Partner
+JF2 Capital Partners,Dallas,TX,Dallas,Family Office,6,$2M-$10M,Jon Frankel,Founder
+K3 Management,Denver,CO,Denver,HOA Management Firm,10,$500K-$2M,Principal,Owner
+ACCU Inc,Denver,CO,Denver,HOA Management Firm,15,$1M-$3M,Owner,Owner
+CAP Management,Denver,CO,Denver,HOA Management Firm,12,$1M-$3M,Principal,Owner
+Novele Community Management,Denver,CO,Denver,HOA Management Firm,10,$500K-$2M,Principal,Owner
+Clear2Close Brokers,El Cerrito,CA,San Francisco Bay Area,Mortgage Brokerage,6,$500K-$2M,Chris Mason,Owner
+Fresh Home Loan,San Francisco,CA,San Francisco Bay Area,Mortgage Brokerage,6,$500K-$2M,Garrick Werdmuller,Owner
+Krilogy Texas,Dallas,TX,Dallas,Wealth Management Firm,10,$1M-$5M,Joe Martinez,Managing Partner
+Wealth Solutions Inc,Dallas,TX,Dallas,Financial Advisory Firm,10,$1M-$5M,Principal,Managing Partner
+XO Wealth Management,Dallas,TX,Dallas,Wealth Management Firm,6,$1M-$3M,Principal,Managing Partner
+Boutique Realty Florida,Tampa,FL,Tampa,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Quicksilver Real Estate Group,Tampa,FL,Tampa,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Bridgewater Commercial Real Estate,St. Petersburg,FL,Tampa,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Bay Street Commercial,Tampa,FL,Tampa,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Lamm Properties,Tampa,FL,Tampa,Real Estate Brokerage,6,$1M-$3M,Principal,Owner
+Certified Financial Group,Orlando,FL,Orlando,Financial Advisory Firm,15,$2M-$5M,Principal,Managing Partner
+Moisand Fitzgerald Tamayo,Orlando,FL,Orlando,Financial Advisory Firm,12,$1M-$5M,Principal,Managing Partner
+Stonebridge Financial Planning Group,Orlando,FL,Orlando,Financial Advisory Firm,8,$1M-$3M,Principal,Managing Partner
+Allgen Financial Advisors,Orlando,FL,Orlando,Financial Advisory Firm,8,$1M-$3M,Paul Roldan,Co-Founder
+Oakmonte Wealth Management,Orlando,FL,Orlando,Wealth Management Firm,6,$1M-$3M,Principal,Managing Partner
+Shearer Realty,Charlotte,NC,Charlotte,Property Management Company,8,$500K-$2M,Owner,Owner
+MoveZen Property Management,Charlotte,NC,Charlotte,Property Management Company,10,$500K-$2M,Principal,Owner
+Carolina Property Management LLC,Charlotte,NC,Charlotte,Property Management Company,12,$1M-$3M,Principal,Owner
+Bottom Line Property Management,Charlotte,NC,Charlotte,Property Management Company,8,$500K-$2M,Principal,Owner
+Accurate Placement,Phoenix,AZ,Phoenix,Staffing Agency,12,$1M-$5M,Principal,Owner
+APN Staffing & Employment Solutions,Phoenix,AZ,Phoenix,Staffing Agency,8,$1M-$3M,Kevin O'Connor,Owner
+HotFoot Recruiters,Phoenix,AZ,Phoenix,Recruiting Agency,10,$1M-$3M,Principal,Owner
+Solutions Staffing,Phoenix,AZ,Phoenix,Staffing Agency,12,$1M-$5M,Principal,Owner
+GoldCoast Mortgage Service,Beverly,MA,Boston,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Poli Mortgage Group,Boston,MA,Boston,Mortgage Brokerage,15,$1M-$2M,Principal,Owner
+Dovetail Mortgage,Boston,MA,Boston,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner
+X Realty Corp,Sparta,NJ,Northern New Jersey,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Boutique Realty NJ,Northern New Jersey,NJ,Northern New Jersey,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+DeFelice Realty Group,Northern New Jersey,NJ,Northern New Jersey,Real Estate Brokerage,8,$1M-$3M,Carol DeFelice,Owner
+Signature Realty NJ,Summit,NJ,Northern New Jersey,Real Estate Brokerage,8,$1M-$5M,Principal,Owner
+The Gallery Residential Brokerage,Northern New Jersey,NJ,Northern New Jersey,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Maridian Real Estate Group,Hoboken,NJ,Northern New Jersey,Real Estate Brokerage,8,$1M-$3M,Dian Fini,Managing Partner
+Reliable Staffing Houston,Houston,TX,Houston,Staffing Agency,12,$1M-$5M,Owner,Owner
+TPI Staffing,Houston,TX,Houston,Staffing Agency,15,$2M-$5M,Principal,Owner
+LINK Staffing,Houston,TX,Houston,Staffing Agency,18,$2M-$5M,Principal,Owner
+Clayton Services,Houston,TX,Houston,Staffing Agency,12,$1M-$5M,Principal,Owner
+Murray Resources,Houston,TX,Houston,Recruiting Agency,12,$1M-$5M,Principal,Founder
+Rollins Financial Advisors,Atlanta,GA,Atlanta,Financial Advisory Firm,12,$1M-$5M,Principal,Managing Partner
+Georgia Wealth Partners,Atlanta,GA,Atlanta,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+FBS Property Management,San Diego,CA,San Diego,Property Management Company,10,$500K-$2M,Principal,Owner
+18 Doors,San Diego,CA,San Diego,Property Management Company,8,$500K-$2M,Principal,Owner
+San Diego Professional Property Managers,San Diego,CA,San Diego,Property Management Company,8,$500K-$2M,Owner,Owner
+PMI San Diego,San Diego,CA,San Diego,Property Management Company,8,$500K-$2M,Principal,Owner
+The Colorado Mortgage Team,Denver,CO,Denver,Mortgage Brokerage,8,$500K-$2M,Principal,Owner
+Independent Mortgage Brokers LLC,Denver,CO,Denver,Mortgage Brokerage,6,$500K-$1.5M,Principal,Owner
+Rob's Mortgage Loans,Denver,CO,Denver,Mortgage Brokerage,6,$500K-$1.5M,Rob,Owner
+Front Range Mortgage,Denver,CO,Denver,Mortgage Brokerage,10,$500K-$2M,Principal,Owner
+Miami Brokers Group,Miami,FL,Miami,Real Estate Brokerage,10,$1M-$5M,Mike Diaz,Owner
+Miami One Real Estate,Miami,FL,Miami,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+Verawood Properties,Miami,FL,Miami,Real Estate Brokerage,8,$1M-$3M,Principal,Owner
+APEX Capital Realty,Miami,FL,Miami,Real Estate Brokerage,8,$1M-$5M,Principal,Owner
+Chariff Realty Group,Miami,FL,Miami,Real Estate Brokerage,10,$1M-$5M,Principal,Owner
+Chicago Partners Wealth Advisors,Chicago,IL,Chicago,Wealth Management Firm,18,$5M-$10M,Principal,Managing Partner
+Virtue Asset Management,Chicago,IL,Chicago,Wealth Management Firm,6,$1M-$3M,Principal,Owner
+The Mather Group,Chicago,IL,Chicago,Wealth Management Firm,15,$2M-$5M,Principal,Managing Partner
+McCall Staffing Services,San Francisco,CA,San Francisco Bay Area,Staffing Agency,15,$1M-$5M,Principal,Owner
+Scion Staffing SF,San Francisco,CA,San Francisco Bay Area,Staffing Agency,12,$1M-$5M,Principal,Owner
+80Twenty,San Francisco,CA,San Francisco Bay Area,Staffing Agency,8,$1M-$3M,Principal,Owner
+Westside Property Management,Los Angeles,CA,Los Angeles,Property Management Company,12,$1M-$3M,Principal,Owner
+PMI Los Angeles,Los Angeles,CA,Los Angeles,Property Management Company,8,$500K-$2M,Principal,Owner
+Envoy Property Management,Los Angeles,CA,Los Angeles,Property Management Company,10,$500K-$2M,Principal,Owner
+EGL Properties,Los Angeles,CA,Los Angeles,Property Management Company,15,$1M-$3M,Principal,Owner
+Power Property Management,Los Angeles,CA,Los Angeles,Property Management Company,12,$1M-$3M,Principal,Owner
+Ariston Services Group,San Diego,CA,San Diego,Financial Advisory Firm,8,$1M-$3M,Principal,Owner
+Pacific Wealth Management,San Diego,CA,San Diego,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Heritage Wealth Management,San Diego,CA,San Diego,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Serenity Financial Planning,San Diego,CA,San Diego,Financial Advisory Firm,6,$1M-$3M,Principal,Owner
+Bair Financial Planning,San Diego,CA,San Diego,Financial Advisory Firm,6,$1M-$3M,Principal,Owner
+Platt Wealth Management,San Diego,CA,San Diego,Wealth Management Firm,10,$1M-$5M,Principal,Managing Partner
+Bull Oak Financial,San Diego,CA,San Diego,Financial Advisory Firm,8,$1M-$3M,Principal,Owner

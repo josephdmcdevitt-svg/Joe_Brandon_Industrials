@@ -1,0 +1,319 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title
+Premier HVAC Services,Brooklyn,NY,New York City,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Always On HVAC,New York,NY,New York City,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Figlia & Sons,New York,NY,New York City,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Kaback Enterprises,New York,NY,New York City,HVAC Contractor,18,$1M-$5M,Owner,Owner
+Brothers Supply,Manhattan,NY,New York City,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Main Plumbing Services,Miami,FL,Miami,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Miami Shores Plumbing,Miami Shores,FL,Miami,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Douglas Orr Plumbing,Miami,FL,Miami,Plumbing Contractor,15,$800K-$3M,Owner,Owner
+Eco1Plumbing,Miami,FL,Miami,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+Liriano Plumbing,Miami,FL,Miami,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Sunny Bliss Plumbing & Air,Miami,FL,Miami,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+Falcon Plumbing,Miami,FL,Miami,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+West Side Electric Service,Nashville,TN,Nashville,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Moss Electric,Nashville,TN,Nashville,Electrical Contractor,8,$1M-$4M,Owner,Owner
+Hardy Electric,Nashville,TN,Nashville,Electrical Contractor,12,$1M-$4M,Owner,Owner
+FAST Electrical Contractors,Nashville,TN,Nashville,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Top Notch Electrical,Nashville,TN,Nashville,Electrical Contractor,8,$1M-$4M,Owner,Owner
+Chicago Flat Roofing Contractors,Chicago,IL,Chicago,Roofing Contractor,10,$1M-$5M,Owner,Owner
+TAR Roofing,Chicago,IL,Chicago,Roofing Contractor,12,$1M-$5M,Owner,Owner
+All Roofs Inc,Chicago,IL,Chicago,Roofing Contractor,15,$1M-$5M,Owner,Owner
+Lindholm Roofing,Chicago,IL,Chicago,Roofing Contractor,18,$1M-$5M,Owner,Owner
+Heritage Contractors,Chicago,IL,Chicago,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Proctor Pest Control,Dallas,TX,Dallas,Pest Control,8,$500K-$2M,Owner,Owner
+GreenPower Pest Control,Dallas,TX,Dallas,Pest Control,10,$500K-$2M,Owner,Owner
+Addison Pest Control of Texas,Dallas,TX,Dallas,Pest Control,12,$500K-$2M,Owner,Owner
+All-Safe Pest & Termite,Dallas,TX,Dallas,Pest Control,15,$500K-$2M,Owner,Owner
+Dynasty Pest Control,Dallas,TX,Dallas,Pest Control,8,$500K-$2M,Owner,Owner
+CLW Landscape,Houston,TX,Houston,Landscaping,10,$500K-$2M,Owner,Owner
+Absolute Lawn Care and Landscaping,Houston,TX,Houston,Landscaping,12,$500K-$2M,Owner,Owner
+Hogue Landscape Services,Houston,TX,Houston,Landscaping,10,$500K-$2M,Owner,Owner
+Moss Landscaping,Houston,TX,Houston,Landscaping,15,$500K-$2M,Owner,Owner
+Houston Landscape Pros,Houston,TX,Houston,Landscaping,8,$500K-$2M,Owner,Owner
+SWP Landscaping,Houston,TX,Houston,Landscaping,10,$500K-$2M,Owner,Owner
+Fernandez Landscapes,Houston,TX,Houston,Landscaping,8,$500K-$2M,Owner,Owner
+Georgia Facility Services,Atlanta,GA,Atlanta,Commercial Cleaning,12,$500K-$2M,Owner,Owner
+SmartDog Commercial Cleaning,Atlanta,GA,Atlanta,Commercial Cleaning,10,$500K-$2M,Owner,Owner
+Integrity Janitorial Cleaning,Atlanta,GA,Atlanta,Commercial Cleaning,15,$500K-$2M,Owner,Owner
+Cleanstar National,Atlanta,GA,Atlanta,Commercial Cleaning,18,$500K-$2M,Owner,Owner
+Jenkins Restorations,Charlotte,NC,Charlotte,Restoration,15,$1M-$3M,Owner,Owner
+ATI Restoration Charlotte,Charlotte,NC,Charlotte,Restoration,12,$1M-$3M,Owner,Owner
+STOP Restoration Charlotte,Charlotte,NC,Charlotte,Restoration,10,$1M-$3M,Owner,Owner
+RestoPros of Charlotte,Charlotte,NC,Charlotte,Restoration,8,$1M-$3M,Owner,Owner
+United Water Restoration Charlotte,Charlotte,NC,Charlotte,Restoration,10,$1M-$3M,Owner,Owner
+Providence Restoration Group,Charlotte,NC,Charlotte,Restoration,12,$1M-$3M,Owner,Owner
+Reiner Group Inc,Fair Lawn,NJ,Northern New Jersey,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Whalen & Ives Inc,Northern NJ,NJ,Northern New Jersey,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Prestige Air Heating & Cooling,Bergen County,NJ,Northern New Jersey,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Vanguard Service NJ,Union County,NJ,Northern New Jersey,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Unitemp MDI,Northern NJ,NJ,Northern New Jersey,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Bay Area Plumbing Inc,Tampa,FL,Tampa,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+The Clean Plumbers,Tampa,FL,Tampa,Plumbing Contractor,12,$800K-$3M,Owner,Owner
+Experts Plumbing Services,Tampa,FL,Tampa,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Believe Plumbing,Tampa,FL,Tampa,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+McNatt Plumbing,Tampa,FL,Tampa,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+RENCO Roofing,Phoenix,AZ,Phoenix,Roofing Contractor,12,$1M-$5M,Owner,Owner
+Phoenix Roofing and Repair,Phoenix,AZ,Phoenix,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Allstate Roofing Inc,Phoenix,AZ,Phoenix,Roofing Contractor,12,$1M-$5M,Chad Thomas,Owner
+Scott Roofing Company,Phoenix,AZ,Phoenix,Roofing Contractor,18,$1M-$5M,Owner,Owner
+Right Way Roofing,Phoenix,AZ,Phoenix,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Rowland Pest Management,Orlando,FL,Orlando,Pest Control,8,$500K-$2M,Owner,Owner
+All American Pest Control,Orlando,FL,Orlando,Pest Control,10,$500K-$2M,Owner,Owner
+Florida Pest Control Orlando,Orlando,FL,Orlando,Pest Control,12,$500K-$2M,Owner,Owner
+Turner Pest Control Orlando,Orlando,FL,Orlando,Pest Control,15,$500K-$2M,Owner,Owner
+Massey Services,Winter Park,FL,Orlando,Pest Control,18,$500K-$2M,Owner,Owner
+Mile High Landscaping,Denver,CO,Denver,Landscaping,10,$500K-$2M,Owner,Owner
+Down to Earth Landscaping,Highlands Ranch,CO,Denver,Landscaping,8,$500K-$2M,Owner,Owner
+Colorado Landscape Denver,Denver,CO,Denver,Landscaping,10,$500K-$2M,Owner,Owner
+Denver Sprinkler and Landscape Inc,Denver,CO,Denver,Landscaping,8,$500K-$2M,Owner,Owner
+My Sons Landscaping & Fencing,Denver,CO,Denver,Landscaping,8,$500K-$2M,Owner,Owner
+G2.0 Electrical Contracting,Los Angeles,CA,Los Angeles,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Tercero Inc,Los Angeles,CA,Los Angeles,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Bozem Electric,Los Angeles,CA,Los Angeles,Electrical Contractor,15,$1M-$4M,Owner,Owner
+AMTEK Construction,Los Angeles,CA,Los Angeles,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Champion Cleaning,Boston,MA,Boston,Commercial Cleaning,12,$500K-$2M,Owner,Owner
+Mop in Hand,Boston,MA,Boston,Commercial Cleaning,10,$500K-$2M,Owner,Owner
+The Boston Maids,Boston,MA,Boston,Commercial Cleaning,15,$500K-$2M,Owner,Owner
+All Pro Cleaning Systems,Boston,MA,Boston,Commercial Cleaning,12,$500K-$2M,Owner,Owner
+CPR Restoration Pennsylvania,Philadelphia,PA,Philadelphia,Restoration,10,$1M-$3M,Owner,Owner
+Royal Water Damage Restoration,Philadelphia,PA,Philadelphia,Restoration,8,$1M-$3M,Owner,Owner
+First Choice Restoration,Philadelphia,PA,Philadelphia,Restoration,10,$1M-$3M,Owner,Owner
+Atlantic Power Cleaning,Philadelphia,PA,Philadelphia,Restoration,8,$1M-$3M,Owner,Owner
+Schmitt Heating & Air Conditioning,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,12,$1M-$5M,Owner,Owner
+ABCO Mechanical Contractors,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Cabrillo Plumbing Heating & Air,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Bay Area Climate Control,Oakland,CA,San Francisco Bay Area,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Finest Heating & Air,San Francisco,CA,San Francisco Bay Area,HVAC Contractor,8,$1M-$5M,Owner,Owner
+FRY Plumbing Heating & AC,Washington,DC,Washington DC,Plumbing Contractor,12,$800K-$3M,Owner,Owner
+Brookland Plumbing,Washington,DC,Washington DC,Plumbing Contractor,6,$800K-$3M,Owner,Owner
+The Drain Guys,Washington,DC,Washington DC,Plumbing Contractor,8,$800K-$3M,Jay,Owner
+Cardinal Plumbing Heating & Air,Washington,DC,Washington DC,Plumbing Contractor,12,$800K-$3M,Owner,Owner
+Plumber in DC,Washington,DC,Washington DC,Plumbing Contractor,6,$800K-$3M,Owner,Owner
+Orange Electrical Contractors Inc,Orange,CA,Orange County,Electrical Contractor,12,$1M-$4M,Owner,Owner
+JAS Electrical,Orange County,CA,Orange County,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Pro Power Services Inc,Orange County,CA,Orange County,Electrical Contractor,12,$1M-$4M,Owner,Owner
+CZ Electric,Orange County,CA,Orange County,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Hackney Electric Inc,Orange County,CA,Orange County,Electrical Contractor,10,$1M-$4M,Owner,Owner
+JEC Electric Services,Anaheim,CA,Orange County,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Ascent Roofing,San Diego,CA,San Diego,Roofing Contractor,10,$1M-$5M,Owner,Owner
+San Diego Roofing Inc,San Diego,CA,San Diego,Roofing Contractor,15,$1M-$5M,Owner,Owner
+Diamond Roofing SD,San Diego,CA,San Diego,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Schott Roofing & Construction,San Diego,CA,San Diego,Roofing Contractor,12,$1M-$5M,Owner,Owner
+California First Roofing,San Diego,CA,San Diego,Roofing Contractor,10,$1M-$5M,Owner,Owner
+TAG Roofing & Solar,San Diego,CA,San Diego,Roofing Contractor,12,$1M-$5M,Owner,Owner
+Plunketts Pest Control,Minneapolis,MN,Minneapolis,Pest Control,15,$500K-$2M,Owner,Owner
+Rainbow Pest Experts,Minneapolis,MN,Minneapolis,Pest Control,8,$500K-$2M,Owner,Owner
+Paffys Pest Control,Minneapolis,MN,Minneapolis,Pest Control,8,$500K-$2M,Owner,Owner
+Adams Pest Control,Minneapolis,MN,Minneapolis,Pest Control,12,$500K-$2M,Owner,Owner
+Be There Pest Control,Minneapolis,MN,Minneapolis,Pest Control,6,$500K-$2M,Owner,Owner
+Abra Kadabra Environmental,Minneapolis,MN,Minneapolis,Pest Control,8,$500K-$2M,Owner,Owner
+Custom Landscapes Charlotte,Charlotte,NC,Charlotte,Landscaping,12,$500K-$2M,Owner,Owner
+The Plant Guys,Charlotte,NC,Charlotte,Landscaping,10,$500K-$2M,Owner,Owner
+MetroGreenscape,Charlotte,NC,Charlotte,Landscaping,15,$500K-$2M,Owner,Owner
+G&G Landscape Solutions,Charlotte,NC,Charlotte,Landscaping,10,$500K-$2M,Owner,Owner
+GreenWorx180,Charlotte,NC,Charlotte,Landscaping,8,$500K-$2M,Owner,Owner
+Barker Brothers Landscaping,Charlotte,NC,Charlotte,Landscaping,10,$500K-$2M,Owner,Owner
+Self Brothers Heating & Cooling,Atlanta,GA,Atlanta,HVAC Contractor,10,$1M-$5M,Owner,Owner
+PV Heating Cooling & Plumbing,Atlanta,GA,Atlanta,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Estes Services,Atlanta,GA,Atlanta,HVAC Contractor,18,$1M-$5M,Owner,Owner
+Central Heating and Air Conditioning,Atlanta,GA,Atlanta,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Watermark Plumbing,Carrollton,TX,Dallas,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+Total Plumbing Services,Dallas,TX,Dallas,Plumbing Contractor,12,$800K-$3M,Owner,Owner
+Reliant Plumbing Dallas,Dallas,TX,Dallas,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Reeves Family Plumbing,Dallas,TX,Dallas,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+Tribeca Plumbing Inc,Dallas,TX,Dallas,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+75 Degree AC,Houston,TX,Houston,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Smart Air Cooling & Heating,Houston,TX,Houston,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Texas Central Air,Houston,TX,Houston,HVAC Contractor,10,$1M-$5M,Owner,Owner
+AstroTex AC & Heating,Houston,TX,Houston,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Chicagoland Quality Plumbing,Chicago,IL,Chicago,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Power Plumbing Inc,Chicago,IL,Chicago,Plumbing Contractor,12,$800K-$3M,Owner,Owner
+Rescue Plumbing,Chicago,IL,Chicago,Plumbing Contractor,15,$800K-$3M,Owner,Owner
+Apex Plumbing & Sewer Inc,Chicago,IL,Chicago,Plumbing Contractor,10,$800K-$3M,Chuck,Owner
+Mikes Chicago Plumbing,Chicago,IL,Chicago,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Nashville Roofing Co,Nashville,TN,Nashville,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Don Kennedy Roofing,Nashville,TN,Nashville,Roofing Contractor,15,$1M-$5M,Owner,Owner
+Clubhouse Roofing,Nashville,TN,Nashville,Roofing Contractor,12,$1M-$5M,Owner,Owner
+MidSouth Construction,Nashville,TN,Nashville,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Phoenix Roofing & Renovations,Nashville,TN,Nashville,Roofing Contractor,8,$1M-$5M,Owner,Owner
+Cross Pest Control,Tampa,FL,Tampa,Pest Control,12,$500K-$2M,Owner,Owner
+Tri-S Pest Control,Tampa,FL,Tampa,Pest Control,10,$500K-$2M,Owner,Owner
+Anti-Pesto Bug Killers,Tampa,FL,Tampa,Pest Control,10,$500K-$2M,Owner,Owner
+Best Termite & Pest Control,Tampa,FL,Tampa,Pest Control,8,$500K-$2M,Owner,Owner
+Tier 1 Pest Solutions,Tampa,FL,Tampa,Pest Control,6,$500K-$2M,Owner,Owner
+Piper Electric,Denver,CO,Denver,Electrical Contractor,15,$1M-$4M,Owner,Owner
+Carlton Electric,Denver,CO,Denver,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Choice Electric,Denver,CO,Denver,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Hardcore Electric,Denver,CO,Denver,Electrical Contractor,10,$1M-$4M,Owner,Owner
+ADK Electric,Denver,CO,Denver,Electrical Contractor,10,$1M-$4M,Owner,Owner
+RA Enterprises Electric,Denver,CO,Denver,Electrical Contractor,8,$1M-$4M,Owner,Owner
+Purofirst of Metropolitan Washington,Washington,DC,Washington DC,Restoration,12,$1M-$3M,Owner,Owner
+CORE TEAM Inc,Washington,DC,Washington DC,Restoration,10,$1M-$3M,Owner,Owner
+Rainbow Restoration Washington DC,Washington,DC,Washington DC,Restoration,8,$1M-$3M,Owner,Owner
+Water Mold Fire Restoration DC,Washington,DC,Washington DC,Restoration,8,$1M-$3M,Owner,Owner
+Howard Air,Phoenix,AZ,Phoenix,HVAC Contractor,15,$1M-$5M,Owner,Owner
+AZ Perfect Comfort,Phoenix,AZ,Phoenix,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Semper Fi Heating & Cooling,Phoenix,AZ,Phoenix,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Hobaica Services,Phoenix,AZ,Phoenix,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Commercial Cleaning Contractors CCC,Minneapolis,MN,Minneapolis,Commercial Cleaning,15,$500K-$2M,Owner,Owner
+Provost Building Services,Minneapolis,MN,Minneapolis,Commercial Cleaning,18,$500K-$2M,Owner,Owner
+ROC Commercial Cleaning,Minneapolis,MN,Minneapolis,Commercial Cleaning,10,$500K-$2M,Owner,Owner
+Team Clean LLC,Minneapolis,MN,Minneapolis,Commercial Cleaning,8,$500K-$2M,Owner,Owner
+Twin Cities Commercial Cleaning,Minneapolis,MN,Minneapolis,Commercial Cleaning,12,$500K-$2M,Owner,Owner
+Ameri Temp Air Conditioning,Miami,FL,Miami,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Cusano Air Conditioning,Miami,FL,Miami,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Pyke Mechanical,Miami,FL,Miami,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Gentle Breeze Air Conditioning,Miami,FL,Miami,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Master Cooling Contractors,Miami,FL,Miami,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Boston Mechanical,Boston,MA,Boston,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+Vaughan Plumbing & Heating,Boston,MA,Boston,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Foukas Plumbing & Heating,Boston,MA,Boston,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+TBros Plumbing Heating Cooling,Boston,MA,Boston,Plumbing Contractor,15,$800K-$3M,Owner,Owner
+Boston Standard Plumbing,Boston,MA,Boston,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+David Long Electrical Contractor,Charlotte,NC,Charlotte,Electrical Contractor,12,$1M-$4M,David Long,Owner
+LiveWire Electrical Charlotte,Charlotte,NC,Charlotte,Electrical Contractor,10,$1M-$4M,Owner,Owner
+SEAC of the Carolinas,Charlotte,NC,Charlotte,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Bates Electric Charlotte,Charlotte,NC,Charlotte,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Roof Top Services,Orlando,FL,Orlando,Roofing Contractor,12,$1M-$5M,Owner,Owner
+DRS of Central Florida,Orlando,FL,Orlando,Roofing Contractor,10,$1M-$5M,Owner,Owner
+JA Edwards of America,Orlando,FL,Orlando,Roofing Contractor,15,$1M-$5M,Owner,Owner
+Orlando Roofing,Orlando,FL,Orlando,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Nolands Roofing,Orlando,FL,Orlando,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Johnson Roofing Orlando,Orlando,FL,Orlando,Roofing Contractor,12,$1M-$5M,Owner,Owner
+3MG Roofing & Solar,Winter Park,FL,Orlando,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Thrasher Termite & Pest Control,San Diego,CA,San Diego,Pest Control,10,$500K-$2M,Owner,Owner
+Joshuas Pest Control,San Diego,CA,San Diego,Pest Control,12,$500K-$2M,Jason Walton,Owner
+Corkys Pest Control,San Diego,CA,San Diego,Pest Control,15,$500K-$2M,Owner,Owner
+Pest Patrol,San Diego,CA,San Diego,Pest Control,8,$500K-$2M,Owner,Owner
+Achieve Pest Management,San Diego,CA,San Diego,Pest Control,8,$500K-$2M,Owner,Owner
+Mission Pest Control,San Diego,CA,San Diego,Pest Control,8,$500K-$2M,Owner,Owner
+Boston Fire and Flood,Boston,MA,Boston,Restoration,10,$1M-$3M,Owner,Owner
+Atlantic Bay Contracting,Boston,MA,Boston,Restoration,12,$1M-$3M,Owner,Owner
+The AC Guy of Tampa Bay,Tampa,FL,Tampa,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Air Masters of Tampa Bay,Tampa,FL,Tampa,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Caldeco Air Conditioning & Heating,Tampa,FL,Tampa,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Sunstate Mechanical Contractors,Tampa,FL,Tampa,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Plan B Air Conditioning,Tampa,FL,Tampa,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Kennys AC & Heating,Tampa,FL,Tampa,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Flores Artscape,Los Angeles,CA,Los Angeles,Landscaping,10,$500K-$2M,Owner,Owner
+RainforestLA Inc,Los Angeles,CA,Los Angeles,Landscaping,8,$500K-$2M,Owner,Owner
+Green Vista Landscape,Los Angeles,CA,Los Angeles,Landscaping,12,$500K-$2M,Owner,Owner
+Pacific Outdoor Living,Los Angeles,CA,Los Angeles,Landscaping,15,$500K-$2M,Owner,Owner
+Texas Ace HVAC,Dallas,TX,Dallas,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Rescue Air Heating and Cooling,Dallas,TX,Dallas,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Kahn Mechanical Contractors,Dallas,TX,Dallas,HVAC Contractor,18,$1M-$5M,Owner,Owner
+Astar DFW,Dallas,TX,Dallas,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Barker & Sons Plumbing,Orange County,CA,Orange County,Plumbing Contractor,12,$800K-$3M,Owner,Owner
+Orange Coast Plumbing,Orange County,CA,Orange County,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+B&B Plumbing Inc,Orange County,CA,Orange County,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Scott English Plumbing,Orange County,CA,Orange County,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+Orange Independent Plumbing,Orange County,CA,Orange County,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Bay Electric SF,San Francisco,CA,San Francisco Bay Area,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Wells Electrical Inc,San Francisco,CA,San Francisco Bay Area,Electrical Contractor,10,$1M-$4M,Owner,Owner
+ASF Electric,San Francisco,CA,San Francisco Bay Area,Electrical Contractor,12,$1M-$4M,Owner,Owner
+BV Electric Inc,San Francisco,CA,San Francisco Bay Area,Electrical Contractor,8,$1M-$4M,Owner,Owner
+CBF Electric & Data,San Francisco,CA,San Francisco Bay Area,Electrical Contractor,15,$1M-$4M,Owner,Owner
+Roof4Roof,Northern NJ,NJ,Northern New Jersey,Roofing Contractor,12,$1M-$5M,Owner,Owner
+Homestead Roofing,Bergen County,NJ,Northern New Jersey,Roofing Contractor,15,$1M-$5M,Owner,Owner
+CKG Contractors,Northern NJ,NJ,Northern New Jersey,Roofing Contractor,10,$1M-$5M,Owner,Owner
+H Recinos Roofing,Northern NJ,NJ,Northern New Jersey,Roofing Contractor,12,$1M-$5M,Owner,Owner
+Scotts Roofing & Siding,Northern NJ,NJ,Northern New Jersey,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Preventive Pest Control,Houston,TX,Houston,Pest Control,10,$500K-$2M,Owner,Owner
+Hartz Pest Control,Houston,TX,Houston,Pest Control,12,$500K-$2M,Owner,Owner
+EnviroCon Pest,Houston,TX,Houston,Pest Control,8,$500K-$2M,Owner,Owner
+Modern Pest Control,Katy,TX,Houston,Pest Control,15,$500K-$2M,Owner,Owner
+Houston Pest Management,Houston,TX,Houston,Pest Control,10,$500K-$2M,Owner,Owner
+Terren Landscapes,Philadelphia,PA,Philadelphia,Landscaping,12,$500K-$2M,Owner,Owner
+Paragon Landscaping,Philadelphia,PA,Philadelphia,Landscaping,10,$500K-$2M,Owner,Owner
+Green Leaf Outdoor Services,Philadelphia,PA,Philadelphia,Landscaping,10,$500K-$2M,Owner,Owner
+Roots Landscape Inc,Philadelphia,PA,Philadelphia,Landscaping,8,$500K-$2M,Owner,Owner
+Four Seasons Total Landscaping,Philadelphia,PA,Philadelphia,Landscaping,15,$500K-$2M,Owner,Owner
+Keepers Commercial Cleaning,Phoenix,AZ,Phoenix,Commercial Cleaning,12,$500K-$2M,Owner,Owner
+Health Point Cleaning Solutions,Phoenix,AZ,Phoenix,Commercial Cleaning,10,$500K-$2M,Owner,Owner
+Compass Cleaning Solutions,Phoenix,AZ,Phoenix,Commercial Cleaning,12,$500K-$2M,Owner,Owner
+Desert Oasis Cleaners,Phoenix,AZ,Phoenix,Commercial Cleaning,8,$500K-$2M,Owner,Owner
+Pro-Serv Commercial Cleaning,Phoenix,AZ,Phoenix,Commercial Cleaning,15,$500K-$2M,Owner,Owner
+Colorado Cleanup Services,Denver,CO,Denver,Restoration,10,$1M-$3M,Owner,Owner
+Project X Restoration,Denver,CO,Denver,Restoration,12,$1M-$3M,Owner,Owner
+All Pro Restoration Denver,Denver,CO,Denver,Restoration,10,$1M-$3M,Owner,Owner
+True North Restoration Denver,Denver,CO,Denver,Restoration,8,$1M-$3M,Owner,Owner
+Pure Restore Denver,Denver,CO,Denver,Restoration,8,$1M-$3M,Owner,Owner
+Bradham Comfort Services,Charlotte,NC,Charlotte,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Horne HVAC,Charlotte,NC,Charlotte,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Travis Crawford HVAC,Charlotte,NC,Charlotte,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Acosta Heating Cooling & Electrical,Charlotte,NC,Charlotte,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Patterson Heating & Air,Charlotte,NC,Charlotte,HVAC Contractor,15,$1M-$5M,Owner,Owner
+City Air Experts,Charlotte,NC,Charlotte,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Blue Sky Plumbing & Heating,Denver,CO,Denver,Plumbing Contractor,15,$800K-$3M,Owner,Owner
+Prime Plumbing & Heating,Denver,CO,Denver,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Brothers Plumbing Heating & Electric,Denver,CO,Denver,Plumbing Contractor,15,$800K-$3M,Owner,Owner
+My Denver Plumber,Denver,CO,Denver,Plumbing Contractor,6,$800K-$3M,Owner,Owner
+On Time Electric,Houston,TX,Houston,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Lone Star Electrical Services,Houston,TX,Houston,Electrical Contractor,10,$1M-$4M,Owner,Owner
+E3 Electric,Houston,TX,Houston,Electrical Contractor,8,$1M-$4M,Owner,Owner
+Southern Electrical Services,Houston,TX,Houston,Electrical Contractor,15,$1M-$4M,Owner,Owner
+Colony Roofers,Atlanta,GA,Atlanta,Roofing Contractor,12,$1M-$5M,Owner,Owner
+GO Roofing Atlanta,Alpharetta,GA,Atlanta,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Atlanta Roofing Specialists,Atlanta,GA,Atlanta,Roofing Contractor,15,$1M-$5M,Owner,Owner
+Atlanta Premier Roofing,Atlanta,GA,Atlanta,Roofing Contractor,10,$1M-$5M,Owner,Owner
+GA Roofing & Repair,Atlanta,GA,Atlanta,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Lloyd Pest Control,Los Angeles,CA,Los Angeles,Pest Control,15,$500K-$2M,Owner,Owner
+Guarantee Pest Control,Los Angeles,CA,Los Angeles,Pest Control,10,$500K-$2M,Owner,Owner
+Pacific Termite,Los Angeles,CA,Los Angeles,Pest Control,8,$500K-$2M,Owner,Owner
+Pest Solutions SoCal,Los Angeles,CA,Los Angeles,Pest Control,8,$500K-$2M,Owner,Owner
+Dewey Pest Control,Los Angeles,CA,Los Angeles,Pest Control,12,$500K-$2M,Owner,Owner
+Tenleytown Lawn & Landscape,Washington,DC,Washington DC,Landscaping,8,$500K-$2M,Owner,Owner
+Wheats Landscape,Washington,DC,Washington DC,Landscaping,12,$500K-$2M,Owner,Owner
+Thomas Landscapes,Washington,DC,Washington DC,Landscaping,8,$500K-$2M,Owner,Owner
+Level Green Landscaping,Washington,DC,Washington DC,Landscaping,15,$500K-$2M,Owner,Owner
+Townhome Landscapes,Washington,DC,Washington DC,Landscaping,6,$500K-$2M,Owner,Owner
+Dallas Janitorial Services,Dallas,TX,Dallas,Commercial Cleaning,12,$500K-$2M,Owner,Owner
+AMC Commercial Cleaning,Dallas,TX,Dallas,Commercial Cleaning,10,$500K-$2M,Owner,Owner
+Environmental Cleaning Services,Dallas,TX,Dallas,Commercial Cleaning,15,$500K-$2M,Owner,Owner
+Allied Facility Care,Dallas,TX,Dallas,Commercial Cleaning,12,$500K-$2M,Owner,Owner
+DBM Janitorial Services,Dallas,TX,Dallas,Commercial Cleaning,8,$500K-$2M,Owner,Owner
+Tennessee Water and Fire,Nashville,TN,Nashville,Restoration,10,$1M-$3M,Owner,Owner
+AccuWorks Nashville,Nashville,TN,Nashville,Restoration,10,$1M-$3M,Owner,Owner
+RestoPros of Nashville,Nashville,TN,Nashville,Restoration,8,$1M-$3M,Owner,Owner
+Lightspeed Restoration Nashville,Nashville,TN,Nashville,Restoration,8,$1M-$3M,Owner,Owner
+Ferran Services,Orlando,FL,Orlando,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Gary Munson Heating & AC,Orlando,FL,Orlando,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Bob Heinmiller AC,Orlando,FL,Orlando,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Downtown Air and Heat,Orlando,FL,Orlando,HVAC Contractor,10,$1M-$5M,Owner,Owner
+AmeriTech Air & Heat,Orlando,FL,Orlando,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Matts Plumbing Solutions,Minneapolis,MN,Minneapolis,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Ron the Sewer Rat,Minneapolis,MN,Minneapolis,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+Soderlin Plumbing Heating & Air,Minneapolis,MN,Minneapolis,Plumbing Contractor,12,$800K-$3M,Owner,Owner
+Paul Bunyan Plumbing,Minneapolis,MN,Minneapolis,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+WireMasters Electric,Miami,FL,Miami,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Kilby Electric Company,Miami,FL,Miami,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Miami Power Company,Miami,FL,Miami,Electrical Contractor,8,$1M-$4M,Owner,Owner
+SE Bates Electric Miami,Miami,FL,Miami,Electrical Contractor,10,$1M-$4M,Owner,Owner
+UniColorado HVAC,Denver,CO,Denver,HVAC Contractor,10,$1M-$5M,Owner,Owner
+MileHi HVAC,Denver,CO,Denver,HVAC Contractor,8,$1M-$5M,Owner,Owner
+Pasterkamp Heating & AC,Denver,CO,Denver,HVAC Contractor,12,$1M-$5M,Owner,Owner
+Summit Heating AC Plumbing,Denver,CO,Denver,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Roots Heating & Air,Denver,CO,Denver,HVAC Contractor,8,$1M-$5M,Owner,Owner
+All Star Electrical Services,Philadelphia,PA,Philadelphia,Electrical Contractor,8,$1M-$4M,Owner,Owner
+Lauterborn Electric,Philadelphia,PA,Philadelphia,Electrical Contractor,10,$1M-$4M,Larry Lauterborn Sr,Owner
+EP Electric LLC,Philadelphia,PA,Philadelphia,Electrical Contractor,8,$1M-$4M,Owner,Owner
+A-1 Electric Philadelphia,Philadelphia,PA,Philadelphia,Electrical Contractor,10,$1M-$4M,Owner,Owner
+Vision Electrical Contractors,Philadelphia,PA,Philadelphia,Electrical Contractor,12,$1M-$4M,Owner,Owner
+Residential Heating and AC,Minneapolis,MN,Minneapolis,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Air Mechanical Inc,Minneapolis,MN,Minneapolis,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Genz-Ryan,Minneapolis,MN,Minneapolis,HVAC Contractor,18,$1M-$5M,Owner,Owner
+Standard Heating & AC,Minneapolis,MN,Minneapolis,HVAC Contractor,15,$1M-$5M,Owner,Owner
+Ray N Welter Heating,Minneapolis,MN,Minneapolis,HVAC Contractor,10,$1M-$5M,Owner,Owner
+Harris Plumbing & Heating,Brooklyn,NY,New York City,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+A Good Plumber Inc,Brooklyn,NY,New York City,Plumbing Contractor,10,$800K-$3M,Owner,Owner
+Parkset Plumbing,Manhattan,NY,New York City,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Metropolitan Plumbing & Heating,New York,NY,New York City,Plumbing Contractor,12,$800K-$3M,Owner,Owner
+Philco Plumbing NYC,Brooklyn,NY,New York City,Plumbing Contractor,8,$800K-$3M,Owner,Owner
+Power Roofing NY,Brooklyn,NY,New York City,Roofing Contractor,12,$1M-$5M,Owner,Owner
+NY Roofing,Brooklyn,NY,New York City,Roofing Contractor,10,$1M-$5M,Owner,Owner
+Roccos All Type Roofing,Brooklyn,NY,New York City,Roofing Contractor,12,$1M-$5M,Owner,Owner
+Premier Roofing Co,Brooklyn,NY,New York City,Roofing Contractor,10,$1M-$5M,Owner,Owner
+All Platinum Termite & Pest Control,New York,NY,New York City,Pest Control,10,$500K-$2M,Owner,Owner
+Hello Pest Control,New York,NY,New York City,Pest Control,8,$500K-$2M,Owner,Owner
+Inter-County Exterminators,New York,NY,New York City,Pest Control,12,$500K-$2M,Owner,Owner

@@ -1,0 +1,302 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title
+Health Care of South Florida,Miami,FL,Miami,Home Health Agency,15,$1M-$3M,Owner,Owner
+Advantis Home Care,Miami,FL,Miami,Home Health Agency,10,$500K-$2M,Owner,Owner
+Avanti Home Health Services,Miami,FL,Miami,Home Health Agency,12,$1M-$3M,Owner,Owner
+Elite Care At Home,Miami,FL,Miami,Home Health Agency,10,$500K-$2M,Owner,Owner
+Lesly Home Health Care,Miami,FL,Miami,Home Health Agency,8,$500K-$1.5M,Owner,Owner
+Comforts of Home,Miami,FL,Miami,Senior Home Care,10,$500K-$2M,Owner,Owner
+Home Care Providers of Texas,Dallas,TX,Dallas,Home Health Agency,15,$1M-$3M,Owner,Owner
+Advant Home Health Services,Dallas,TX,Dallas,Home Health Agency,12,$1M-$3M,Owner,Owner
+Newport Home Health,Dallas,TX,Dallas,Home Health Agency,10,$500K-$2M,Owner,Owner
+Direct Home Health Services,Dallas,TX,Dallas,Home Health Agency,8,$500K-$2M,Owner,Owner
+Angel Home Healthcare Services,Dallas,TX,Dallas,Home Health Agency,12,$1M-$3M,Owner,Owner
+DFW Home Health of Dallas,Dallas,TX,Dallas,Home Health Agency,15,$1M-$3M,Owner,General Manager
+A One Home Care Inc,Atlanta,GA,Atlanta,Home Health Agency,12,$1M-$3M,Owner,Owner
+Affordable Medical Resources,Atlanta,GA,Atlanta,Home Health Agency,10,$500K-$2M,Owner,Owner
+Trinity Life at Home,Atlanta,GA,Atlanta,Home Health Agency,15,$1M-$3M,Owner,Owner
+Full Heart Home Care LLC,Atlanta,GA,Atlanta,Senior Home Care,8,$500K-$1.5M,Owner,Owner
+Home Care Powered by AUAF,Chicago,IL,Chicago,Senior Home Care,18,$1M-$3M,Owner,Owner
+ASI Home Care Services,Chicago,IL,Chicago,Senior Home Care,15,$1M-$3M,Owner,Owner
+Amada Senior Care Chicago,Chicago,IL,Chicago,Senior Home Care,10,$500K-$2M,Jennifer Busch,Owner
+Bowes In Home Care,Chicago,IL,Chicago,Senior Home Care,8,$500K-$1.5M,Owner,Owner
+Custom Home Care Chicago,Chicago,IL,Chicago,Senior Home Care,8,$500K-$1.5M,Owner,Owner
+Primetime Home Health Services,Houston,TX,Houston,Home Health Agency,15,$1M-$3M,Owner,Owner
+Homewatch CareGivers Houston Galleria,Houston,TX,Houston,Home Health Agency,12,$1M-$3M,Owner,Owner
+Aleris Home Health,Houston,TX,Houston,Home Health Agency,10,$500K-$2M,Owner,Owner
+Harbor Home Care,Houston,TX,Houston,Home Health Agency,10,$500K-$2M,Owner,Owner
+CASA Healthcare,Houston,TX,Houston,Home Health Agency,12,$1M-$3M,Owner,Owner
+Arizona Home Care,Phoenix,AZ,Phoenix,Home Health Agency,18,$1M-$3M,Owner,Owner
+Arizona's Choice Home Health Agency,Phoenix,AZ,Phoenix,Home Health Agency,12,$1M-$3M,Owner,Owner
+Nightingale Homecare,Phoenix,AZ,Phoenix,Home Health Agency,15,$1M-$3M,Owner,Owner
+Prestige Home Health Care,Phoenix,AZ,Phoenix,Home Health Agency,10,$500K-$2M,Owner,Owner
+Integrity Home Health Phoenix,Phoenix,AZ,Phoenix,Home Health Agency,8,$500K-$2M,Owner,Owner
+PHC Home Health,Charlotte,NC,Charlotte,Home Health Agency,12,$1M-$3M,Owner,Owner
+EULA Home Care Agency,Charlotte,NC,Charlotte,Home Health Agency,10,$500K-$2M,Owner,Owner
+Carepoint Home Care,Charlotte,NC,Charlotte,Home Health Agency,8,$500K-$1.5M,Owner,Owner
+Healthy Services of Tampa,Tampa,FL,Tampa,Home Health Agency,10,$500K-$2M,Owner,Owner
+Inspire Home Healthcare,Tampa,FL,Tampa,Home Health Agency,8,$500K-$2M,Owner,Owner
+Serene Home Care,Tampa,FL,Tampa,Home Health Agency,8,$500K-$1.5M,Owner,Owner
+Bayshore Home Care,Tampa,FL,Tampa,Senior Home Care,12,$500K-$2M,Owner,Owner
+Wisemor Healthcare,Tampa,FL,Tampa,Home Health Agency,10,$500K-$2M,Owner,Owner
+Amada Senior Care Orlando,Orlando,FL,Orlando,Senior Home Care,10,$500K-$2M,Dell Gray,Owner
+Preferred Care at Home Northeast Orlando,Orlando,FL,Orlando,Senior Home Care,8,$500K-$1.5M,Owner,Owner
+Senior Helpers Orlando,Orlando,FL,Orlando,Senior Home Care,12,$500K-$2M,Dale Gardner,Owner
+ABC Home Healthcare Professionals,Boston,MA,Boston,Home Health Agency,15,$1M-$3M,Owner,Owner
+Traditions Home Health Services,Boston,MA,Boston,Home Health Agency,10,$500K-$2M,Owner,Owner
+Diverse Tender Care LLC,Boston,MA,Boston,Home Health Agency,8,$500K-$1.5M,Owner,Owner
+ABP Best Home Care Agency,Boston,MA,Boston,Home Health Agency,10,$500K-$2M,Owner,Owner
+MEIGER Health,Washington,DC,Washington DC,Home Health Agency,10,$500K-$2M,Owner,Owner
+Direct Care Home Health Services,Washington,DC,Washington DC,Home Health Agency,12,$1M-$3M,Owner,Owner
+VMT Home Care,Washington,DC,Washington DC,Home Health Agency,10,$500K-$2M,Owner,Owner
+MBI Home Health Agency,Washington,DC,Washington DC,Home Health Agency,15,$1M-$3M,Owner,Owner
+Trio Home Health Care of San Diego,San Diego,CA,San Diego,Home Health Agency,10,$500K-$2M,Owner,Owner
+ELITE Home Care of San Diego,San Diego,CA,San Diego,Home Health Agency,8,$500K-$1.5M,Owner,Owner
+Mission Home Health of San Diego,San Diego,CA,San Diego,Home Health Agency,12,$1M-$3M,Owner,Owner
+Bridge Home Health San Diego,San Diego,CA,San Diego,Home Health Agency,10,$500K-$2M,Owner,Owner
+Cargomaxx Logistics,Chicago,IL,Chicago,Freight Brokerage,12,$1M-$5M,Owner,Owner
+Amplify Logistics,Chicago,IL,Chicago,Freight Brokerage,10,$1M-$5M,Owner,Owner
+Warrior Logistics Chicago,Chicago,IL,Chicago,Freight Brokerage,15,$2M-$5M,Owner,Owner
+MAI Fulfillment,Chicago,IL,Chicago,Freight Brokerage,18,$2M-$5M,Owner,Owner
+IL Machine Co,Chicago,IL,Chicago,Machine Shop / Metal Fabrication,12,$1M-$5M,Owner,Owner
+Wayward Machine Co,Chicago,IL,Chicago,Machine Shop / Metal Fabrication,8,$1M-$3M,Owner,Owner
+Suburban Welding & Steel,Chicago,IL,Chicago,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+J&J Machine,Chicago,IL,Chicago,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+Couriers Chicago,Chicago,IL,Chicago,Courier / Last Mile Delivery,10,$1M-$3M,Owner,Owner
+Best Courier,Libertyville,IL,Chicago,Courier / Last Mile Delivery,12,$1M-$3M,Owner,Owner
+On Time Messenger Service,Chicago,IL,Chicago,Courier / Last Mile Delivery,8,$500K-$2M,Owner,Owner
+Krewe Logistics,Dallas,TX,Dallas,Freight Brokerage,10,$1M-$5M,Owner,Owner
+Next Exit Logistics,Dallas,TX,Dallas,Freight Brokerage,8,$1M-$3M,Owner,Owner
+Cowtown Express,Fort Worth,TX,Dallas,Freight Brokerage,18,$2M-$5M,Owner,Owner
+Truck Dispatch Solutions,Dallas,TX,Dallas,Trucking Dispatch,8,$500K-$2M,Owner,Owner
+Hopsway Enterprise,Dallas,TX,Dallas,Trucking Dispatch,6,$500K-$1.5M,Owner,Owner
+DHS Trucking,Dallas,TX,Dallas,Trucking Dispatch,10,$1M-$3M,Owner,Owner
+Eagle Express,Dallas,TX,Dallas,Courier / Last Mile Delivery,15,$1M-$3M,Owner,Owner
+FTC Industries,Dallas,TX,Dallas,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+CJ's Machine & Fab Shop,Fort Worth,TX,Dallas,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+Davis Metal Stamping,Dallas,TX,Dallas,Machine Shop / Metal Fabrication,12,$1M-$5M,Owner,Owner
+Continental Manufacturing,Dallas,TX,Dallas,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+Baldwin Metals Fabrication,Dallas,TX,Dallas,Machine Shop / Metal Fabrication,12,$1M-$5M,Owner,Owner
+Holly Fabrications,Dallas,TX,Dallas,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+Texas Catering,Dallas,TX,Dallas,Catering Company,12,$500K-$2M,Owner,Owner
+A La Carte Catering Dallas,Dallas,TX,Dallas,Catering Company,10,$500K-$2M,Owner,Owner
+Awesome Catering DFW,Dallas,TX,Dallas,Catering Company,8,$500K-$1.5M,Owner,Owner
+Carnival Catering,Dallas,TX,Dallas,Catering Company,10,$500K-$2M,Owner,Owner
+The Chef Kristen,Dallas,TX,Dallas,Catering Company,6,$500K-$1.5M,Chef Kristen,Owner
+Accountable Truck Dispatching,Atlanta,GA,Atlanta,Trucking Dispatch,8,$500K-$2M,Owner,Owner
+Ga Girl Trucking & Dispatch LLC,Atlanta,GA,Atlanta,Trucking Dispatch,6,$500K-$1.5M,Owner,Owner
+Dispatch Next Load,Atlanta,GA,Atlanta,Trucking Dispatch,5,$500K-$1M,Owner,Owner
+Truck Dispatch 360,Atlanta,GA,Atlanta,Trucking Dispatch,8,$500K-$2M,Owner,Owner
+M&J Dispatch,Atlanta,GA,Atlanta,Trucking Dispatch,5,$500K-$1M,Owner,Owner
+Li-Way,Atlanta,GA,Atlanta,Freight Brokerage,15,$2M-$5M,Owner,Owner
+Piper Logistics,Atlanta,GA,Atlanta,Freight Brokerage,12,$1M-$5M,Owner,Owner
+Lake Park Logistics,Atlanta,GA,Atlanta,Freight Brokerage,10,$1M-$5M,Owner,Owner
+Silvasons Machine Shop,Atlanta,GA,Atlanta,Machine Shop / Metal Fabrication,12,$1M-$3M,Owner,Owner
+Atlanta General Machine Works,Atlanta,GA,Atlanta,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+Capital City Machine Shop,Atlanta,GA,Atlanta,Machine Shop / Metal Fabrication,18,$2M-$5M,Owner,Owner
+JF Fabrication,Atlanta,GA,Atlanta,Machine Shop / Metal Fabrication,8,$1M-$3M,Owner,Owner
+All Events Catering Company,Atlanta,GA,Atlanta,Catering Company,8,$500K-$1.5M,Owner,Owner
+Chef Brown Catering,Atlanta,GA,Atlanta,Catering Company,6,$500K-$1.5M,Chef Brown,Owner
+Figs & Honey Catering,Atlanta,GA,Atlanta,Catering Company,10,$500K-$2M,Owner,Owner
+Three Sisters Catering,Atlanta,GA,Atlanta,Catering Company,8,$500K-$1.5M,Owner,Owner
+A Delightful Bitefull Catering,Atlanta,GA,Atlanta,Catering Company,10,$500K-$2M,Owner,Owner
+Chariot Logistics Inc,Nashville,TN,Nashville,Freight Brokerage,10,$1M-$5M,Owner,Owner
+Garrett Logistics LLC,Nashville,TN,Nashville,Freight Brokerage,8,$1M-$3M,Owner,Owner
+Fast Lane LLC,Nashville,TN,Nashville,Freight Brokerage,6,$1M-$3M,Owner,Owner
+Stage Left Catering,Mount Juliet,TN,Nashville,Catering Company,12,$500K-$2M,Owner,Owner
+Beyond Details Catering,Nashville,TN,Nashville,Catering Company,10,$500K-$2M,Owner,Owner
+Deep South Flavor Catering,Nashville,TN,Nashville,Catering Company,8,$500K-$1.5M,Owner,Owner
+Panache Catering Nashville,Nashville,TN,Nashville,Catering Company,10,$500K-$2M,Owner,Owner
+Clean Plate Club,Nashville,TN,Nashville,Catering Company,12,$500K-$2M,Owner,Owner
+Cliff's Cabinet Company,Nashville,TN,Nashville,Cabinet Manufacturer,12,$1M-$3M,Owner,Owner
+Tiger Cabinetry,Antioch,TN,Nashville,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+E-Z Kitchens,Nashville,TN,Nashville,Cabinet Manufacturer,10,$1M-$3M,Owner,Owner
+Walkup Company,Houston,TX,Houston,Machine Shop / Metal Fabrication,18,$2M-$5M,Owner,Owner
+Texas Sheet Metal Services,Houston,TX,Houston,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+MSM Machine Works,Houston,TX,Houston,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+C & S Metal Fabricating,Houston,TX,Houston,Machine Shop / Metal Fabrication,12,$1M-$5M,Owner,Owner
+Fabworks Houston,Houston,TX,Houston,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+Houston Trucking Solutions,Houston,TX,Houston,Trucking Dispatch,8,$500K-$2M,Owner,Owner
+Easy Cargo Logistics,Houston,TX,Houston,Trucking Dispatch,6,$500K-$1.5M,Owner,Owner
+W.M. Dewey & Son,Houston,TX,Houston,Trucking Dispatch,15,$1M-$3M,Owner,Owner
+NR Swanks Freight Brokerage,Houston,TX,Houston,Freight Brokerage,8,$1M-$3M,Owner,Owner
+Jimmy Cowart Transportation Services,Houston,TX,Houston,Freight Brokerage,12,$1M-$5M,Owner,Owner
+Fork and Flavor Catering,Houston,TX,Houston,Catering Company,8,$500K-$1.5M,Owner,Owner
+Bailey Connor Catering,Houston,TX,Houston,Catering Company,10,$500K-$2M,Owner,Owner
+Keifs Catering,Houston,TX,Houston,Catering Company,12,$500K-$2M,Owner,Owner
+TJ's Catering,Houston,TX,Houston,Catering Company,10,$500K-$2M,Owner,Owner
+Southern Standard Events & Catering,Houston,TX,Houston,Catering Company,12,$500K-$2M,Owner,Owner
+Distinctive Cabinets LLC,Charlotte,NC,Charlotte,Cabinet Manufacturer,10,$1M-$3M,Steve Young,Owner
+Woodshop QC,Charlotte,NC,Charlotte,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+Eudy's Custom Cabinets,Charlotte,NC,Charlotte,Cabinet Manufacturer,12,$1M-$5M,Owner,Owner
+Century Cabinets Inc,Charlotte,NC,Charlotte,Cabinet Manufacturer,15,$1M-$5M,Owner,Owner
+National Kitchen & Bath Cabinetry,Charlotte,NC,Charlotte,Cabinet Manufacturer,18,$2M-$5M,Owner,Owner
+Kelly & Co Events,Charlotte,NC,Charlotte,Event Planning Company,6,$500K-$1.5M,Owner,Owner
+J.Leigh Events,Charlotte,NC,Charlotte,Event Planning Company,8,$500K-$2M,Owner,Owner
+Spark By Design,Charlotte,NC,Charlotte,Event Planning Company,5,$500K-$1M,Owner,Owner
+Purposely Designed Event Planning,Charlotte,NC,Charlotte,Event Planning Company,5,$500K-$1M,Patrice Miller,Owner
+Fabulously Created Events,Charlotte,NC,Charlotte,Event Planning Company,5,$500K-$1M,Owner,Owner
+Special Moments Events,Tampa,FL,Tampa,Event Planning Company,8,$500K-$2M,Tammy Waterman,Owner
+Core Concepts Tampa,Tampa,FL,Tampa,Event Planning Company,10,$500K-$2M,Owner,Owner
+The Social Affair,Tampa,FL,Tampa,Event Planning Company,5,$500K-$1M,Owner,Owner
+Eventing Tampa Bay,Tampa,FL,Tampa,Event Planning Company,6,$500K-$1.5M,Owner,Owner
+Tampa Bay Signs LLC,St. Petersburg,FL,Tampa,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+Mid-Florida Signs & Graphics,Tampa,FL,Tampa,Sign Manufacturing,12,$1M-$3M,Owner,Owner
+Tampa Sign Company,Tampa,FL,Tampa,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Amazing Signs LLC,Tampa,FL,Tampa,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+BASH Orlando,Orlando,FL,Orlando,Event Planning Company,8,$500K-$2M,Owner,Owner
+Just Marry Events,Orlando,FL,Orlando,Event Planning Company,10,$500K-$2M,Owner,Owner
+Socialite Events,Orlando,FL,Orlando,Event Planning Company,5,$500K-$1M,Owner,Owner
+Simply Enchanted Events,Orlando,FL,Orlando,Event Planning Company,6,$500K-$1.5M,Owner,Owner
+Wholesale Signs Fabricators,Orlando,FL,Orlando,Sign Manufacturing,12,$1M-$3M,Owner,Owner
+Creative Signs Inc,Orlando,FL,Orlando,Sign Manufacturing,15,$1M-$5M,Owner,Owner
+Orlando Sign Company,Orlando,FL,Orlando,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+Prime Signs US,Orlando,FL,Orlando,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Metal Pro Inc,Phoenix,AZ,Phoenix,Machine Shop / Metal Fabrication,12,$1M-$3M,Owner,Owner
+MetzFab Industries,Phoenix,AZ,Phoenix,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+Advanced Metal Sales,Phoenix,AZ,Phoenix,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+K-zell Metals,Phoenix,AZ,Phoenix,Machine Shop / Metal Fabrication,12,$1M-$5M,Owner,Owner
+Force Freight Logistics,Mesa,AZ,Phoenix,Freight Brokerage,10,$1M-$3M,Owner,Owner
+Cowtown Logistics Phoenix,Phoenix,AZ,Phoenix,Freight Brokerage,12,$1M-$5M,Owner,Owner
+NY Minute Messenger & Trucking,New York,NY,New York City,Courier / Last Mile Delivery,12,$1M-$3M,Owner,Owner
+Xentra Transport,New York,NY,New York City,Courier / Last Mile Delivery,10,$1M-$3M,Owner,Owner
+RDS Same Day Delivery,New York,NY,New York City,Courier / Last Mile Delivery,15,$1M-$3M,Owner,Owner
+Mitchell'sNY Logistics,New York,NY,New York City,Courier / Last Mile Delivery,18,$2M-$5M,Owner,Owner
+ShimmerNYC,New York,NY,New York City,Event Planning Company,8,$500K-$2M,Owner,Owner
+NYC Event Pro,New York,NY,New York City,Event Planning Company,6,$500K-$1.5M,Owner,Owner
+LC Events,New York,NY,New York City,Event Planning Company,8,$500K-$2M,Owner,Owner
+Continental Signs Etc,Los Angeles,CA,Los Angeles,Sign Manufacturing,12,$1M-$3M,Owner,Owner
+Signature Signs,Thousand Oaks,CA,Los Angeles,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+Dave's Signs,Los Angeles,CA,Los Angeles,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Signmakers LA,Los Angeles,CA,Los Angeles,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+L.A. Sign Company,Los Angeles,CA,Los Angeles,Sign Manufacturing,15,$1M-$5M,Owner,Owner
+GBL Signs,Los Angeles,CA,Los Angeles,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Holland's Custom Cabinets,San Diego,CA,San Diego,Cabinet Manufacturer,12,$1M-$3M,Owner,Owner
+Imperial Custom Cabinets,San Diego,CA,San Diego,Cabinet Manufacturer,10,$1M-$3M,Owner,Owner
+California Custom Cabinetry,San Diego,CA,San Diego,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+Custom Cabinet of San Diego,San Diego,CA,San Diego,Cabinet Manufacturer,10,$1M-$3M,Owner,Owner
+Precision Custom Cabinets SD,San Diego,CA,San Diego,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+Dig Courier,San Francisco,CA,San Francisco Bay Area,Courier / Last Mile Delivery,8,$500K-$2M,Owner,Owner
+Bay Area Courier Service,San Francisco,CA,San Francisco Bay Area,Courier / Last Mile Delivery,10,$1M-$3M,Owner,Owner
+Bottom Line Delivery,San Francisco,CA,San Francisco Bay Area,Courier / Last Mile Delivery,12,$1M-$3M,Owner,Owner
+King Courier,San Francisco,CA,San Francisco Bay Area,Courier / Last Mile Delivery,15,$1M-$3M,Owner,Owner
+Jet Delivery,Hayward,CA,San Francisco Bay Area,Courier / Last Mile Delivery,12,$1M-$3M,Owner,Owner
+Dream A Little Dream Events,San Francisco,CA,San Francisco Bay Area,Event Planning Company,5,$500K-$1M,Owner,Owner
+ABCey Events,San Francisco,CA,San Francisco Bay Area,Event Planning Company,8,$500K-$2M,Owner,Owner
+Lily Spruce Events,San Francisco,CA,San Francisco Bay Area,Event Planning Company,5,$500K-$1M,Owner,Owner
+JBD Events,San Francisco,CA,San Francisco Bay Area,Event Planning Company,8,$500K-$2M,Owner,Owner
+Kintz Cabinets,Orange County,CA,Orange County,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+CC Custom Furniture & Cabinetry,Westminster,CA,Orange County,Cabinet Manufacturer,10,$1M-$3M,Owner,Owner
+Cabinets Plus Orange County,Orange County,CA,Orange County,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+Thoemmes Cabinet Makers,Orange County,CA,Orange County,Cabinet Manufacturer,12,$1M-$5M,Owner,Owner
+Love At First Bite Catering,Huntington Beach,CA,Orange County,Catering Company,10,$500K-$2M,Owner,Owner
+Colette's Catering & Events,Fullerton,CA,Orange County,Catering Company,12,$500K-$2M,Owner,Owner
+Canyon Catering,Anaheim,CA,Orange County,Catering Company,10,$500K-$2M,Owner,Owner
+Jay's Catering,Orange County,CA,Orange County,Catering Company,15,$500K-$2M,Owner,Owner
+Sapphire Catering,Orange County,CA,Orange County,Catering Company,10,$500K-$2M,Owner,Owner
+Andrew Roby Events,Washington,DC,Washington DC,Event Planning Company,8,$500K-$2M,Andrew Roby,Owner
+The DC Event Planner,Washington,DC,Washington DC,Event Planning Company,5,$500K-$1M,Owner,Owner
+Anyvent Event Planning,Washington,DC,Washington DC,Event Planning Company,6,$500K-$1.5M,Owner,Owner
+Bash DC,Washington,DC,Washington DC,Event Planning Company,8,$500K-$2M,Owner,Owner
+Artcraft Sign Company,Denver,CO,Denver,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+Freeman Signs,Denver,CO,Denver,Sign Manufacturing,12,$1M-$3M,Owner,Owner
+Royal Signs Denver,Denver,CO,Denver,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+Magnify Signs,Denver,CO,Denver,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Vision Visual Signs,Denver,CO,Denver,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+MAG Events Denver,Denver,CO,Denver,Event Planning Company,8,$500K-$2M,Owner,Owner
+Roz Events,Denver,CO,Denver,Event Planning Company,5,$500K-$1M,Owner,Owner
+Promise Event Planners,Denver,CO,Denver,Event Planning Company,5,$500K-$1M,Owner,Owner
+Mountainside Events,Denver,CO,Denver,Event Planning Company,6,$500K-$1.5M,Owner,Owner
+Catering by Design,Denver,CO,Denver,Catering Company,15,$500K-$2M,Owner,Owner
+Serendipity Catering Denver,Denver,CO,Denver,Catering Company,10,$500K-$2M,Owner,Owner
+Colorado Catering Company,Aurora,CO,Denver,Catering Company,12,$500K-$2M,Owner,Owner
+Mile High Catering,Centennial,CO,Denver,Catering Company,8,$500K-$1.5M,Owner,Owner
+ViDa Eats Catering,Denver,CO,Denver,Catering Company,6,$500K-$1.5M,Owner,Owner
+AWI Manufacturing,Minneapolis,MN,Minneapolis,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+Hecksel Machine Inc,Minneapolis,MN,Minneapolis,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+Norco Precision,Minneapolis,MN,Minneapolis,Machine Shop / Metal Fabrication,12,$1M-$5M,Owner,Owner
+Advanced Metal Products,Lakeville,MN,Minneapolis,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+Minneapolis Sheet Metal Works,Minneapolis,MN,Minneapolis,Machine Shop / Metal Fabrication,12,$1M-$3M,Owner,Owner
+Schad Tracy Signs,Minneapolis,MN,Minneapolis,Sign Manufacturing,15,$1M-$5M,Owner,Owner
+King Signs Minneapolis,Minneapolis,MN,Minneapolis,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+SKY Custom Signs,Minnetonka,MN,Minneapolis,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Chowgirls Catering,Minneapolis,MN,Minneapolis,Catering Company,12,$500K-$2M,Owner,Owner
+Surdyk's Catering,Minneapolis,MN,Minneapolis,Catering Company,10,$500K-$2M,Owner,Owner
+Pickles Catering,Minneapolis,MN,Minneapolis,Catering Company,8,$500K-$1.5M,Owner,Owner
+Twin Cities Catering Inc,Minneapolis,MN,Minneapolis,Catering Company,10,$500K-$2M,Owner,Owner
+Classic Catering MN,Minneapolis,MN,Minneapolis,Catering Company,8,$500K-$1.5M,Owner,Owner
+S&S Brokerage Inc,Iselin,NJ,Northern New Jersey,Freight Brokerage,8,$1M-$3M,Owner,Owner
+Advanced Logistics NJ,New Jersey,NJ,Northern New Jersey,Freight Brokerage,10,$1M-$5M,Owner,Owner
+Eveready Express,Clifton,NJ,Northern New Jersey,Courier / Last Mile Delivery,15,$1M-$3M,Owner,Owner
+Package Today,New Jersey,NJ,Northern New Jersey,Courier / Last Mile Delivery,10,$1M-$3M,Owner,Owner
+ExpressIt Delivery,New Jersey,NJ,Northern New Jersey,Courier / Last Mile Delivery,18,$2M-$5M,Owner,Owner
+Jersey Metal Works,New Jersey,NJ,Northern New Jersey,Machine Shop / Metal Fabrication,12,$1M-$3M,Owner,Owner
+EVS Metal,Riverdale,NJ,Northern New Jersey,Machine Shop / Metal Fabrication,18,$2M-$5M,Owner,Owner
+Harold R. Henrich Inc,Lakewood,NJ,Northern New Jersey,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+Badger Metal & Machine Fabrication,New Jersey,NJ,Northern New Jersey,Machine Shop / Metal Fabrication,12,$1M-$3M,Owner,Owner
+A&E Manufacturing Company,New Jersey,NJ,Northern New Jersey,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+Tonito's Catering,Philadelphia,PA,Philadelphia,Catering Company,8,$500K-$1.5M,Owner,Owner
+Philadelphia Catering Company,Philadelphia,PA,Philadelphia,Catering Company,10,$500K-$2M,Owner,Owner
+Eatible Delights Catering,Philadelphia,PA,Philadelphia,Catering Company,10,$500K-$2M,Chef David Simms,Owner
+Milillo Event Group,Philadelphia,PA,Philadelphia,Catering Company,12,$500K-$2M,Owner,Owner
+Village Catering Philadelphia,Philadelphia,PA,Philadelphia,Catering Company,15,$500K-$2M,Owner,Owner
+Bernard Sign Corporation,Philadelphia,PA,Philadelphia,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+Philadelphia Signs & Awnings,Philadelphia,PA,Philadelphia,Sign Manufacturing,12,$1M-$3M,Owner,Owner
+Forman Signs,Philadelphia,PA,Philadelphia,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+Signs Visual Philadelphia,Philadelphia,PA,Philadelphia,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Slicks Graphics,Morrisville,PA,Philadelphia,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Above and Beyond Catering,Boston,MA,Boston,Catering Company,15,$500K-$2M,Owner,Owner
+Jules Catering,Boston,MA,Boston,Catering Company,10,$500K-$2M,Anita Baglaneas,Owner
+Milk Street Cafe,Boston,MA,Boston,Catering Company,12,$500K-$2M,Owner,Owner
+Spinelli's Catering,Boston,MA,Boston,Catering Company,15,$500K-$2M,Owner,Owner
+Mottl Cabinets,Boston,MA,Boston,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+South Shore Custom Cabinets,Boston,MA,Boston,Cabinet Manufacturer,6,$1M-$2M,Owner,Owner
+Krush Carpentry,Boston,MA,Boston,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+Camio Custom Cabinetry,Boston,MA,Boston,Cabinet Manufacturer,6,$1M-$2M,Owner,Owner
+Terra Global Logistics,Miami,FL,Miami,Freight Brokerage,10,$1M-$5M,Owner,Owner
+Pharo Logistics Inc,Miami,FL,Miami,Freight Brokerage,8,$1M-$3M,Owner,Owner
+Asados Miami Catering,Miami,FL,Miami,Catering Company,8,$500K-$1.5M,Owner,Owner
+Maya Catering,Miami,FL,Miami,Catering Company,10,$500K-$2M,Chef Jose Maya,Owner
+Mena Catering,Miami,FL,Miami,Catering Company,12,$500K-$2M,Owner,Owner
+Miami Grill Catering,Miami,FL,Miami,Catering Company,10,$500K-$2M,Owner,Owner
+Miami Q Catering,Miami,FL,Miami,Catering Company,8,$500K-$1.5M,Owner,Owner
+Assisting Hands Chicago,Chicago,IL,Chicago,Senior Care Franchise,15,$1M-$3M,Owner,Franchisee
+Right at Home Chicago South Suburbs,Chicago,IL,Chicago,Senior Care Franchise,12,$1M-$3M,Owner,Franchisee
+Caring Senior Service Chicago,Chicago,IL,Chicago,Senior Care Franchise,10,$500K-$2M,Owner,Franchisee
+Touching Hearts at Home Illinois,Chicago,IL,Chicago,Senior Care Franchise,8,$500K-$2M,Owner,Franchisee
+Mottl Builders & Cabinetry,Boston,MA,Boston,Cabinet Manufacturer,10,$1M-$3M,Owner,Owner
+Sharp Woodworking,Boston,MA,Boston,Cabinet Manufacturer,8,$1M-$3M,Owner,Owner
+Inspire Productions SF,San Francisco,CA,San Francisco Bay Area,Event Planning Company,10,$500K-$2M,Owner,Owner
+California Courier Services,San Francisco,CA,San Francisco Bay Area,Courier / Last Mile Delivery,10,$1M-$3M,Owner,Owner
+Godspeed Bay Area Courier,San Francisco,CA,San Francisco Bay Area,Courier / Last Mile Delivery,8,$500K-$2M,Owner,Owner
+Iron Horse Transport,New York,NY,New York City,Courier / Last Mile Delivery,12,$1M-$3M,Owner,Owner
+Immaculate Healthcare Services,Washington,DC,Washington DC,Home Health Agency,12,$1M-$3M,Owner,Owner
+Smith Life Home Care,Washington,DC,Washington DC,Home Health Agency,8,$500K-$2M,Owner,Owner
+Relish Catering & Events,Denver,CO,Denver,Catering Company,10,$500K-$2M,Owner,Owner
+Three Tomatoes Catering,Denver,CO,Denver,Catering Company,12,$500K-$2M,Owner,Owner
+Parties by Panache,Orange County,CA,Orange County,Catering Company,10,$500K-$2M,Owner,Owner
+Taylor Made Cuisine,Orange County,CA,Orange County,Catering Company,8,$500K-$1.5M,Owner,Owner
+Aqua Home Care Orlando,Orlando,FL,Orlando,Senior Home Care,10,$500K-$2M,Owner,Owner
+Granny Nannies Orlando,Orlando,FL,Orlando,Senior Home Care,8,$500K-$1.5M,Owner,Owner
+Envision Orlando Sign Company,Orlando,FL,Orlando,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Mid-Florida Signs Orlando,Orlando,FL,Orlando,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+Southlake Signs Tampa,Tampa,FL,Tampa,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Hit Signs Tampa,Tampa,FL,Tampa,Sign Manufacturing,6,$500K-$2M,Owner,Owner
+Care Team Home Care,Tampa,FL,Tampa,Home Health Agency,12,$1M-$3M,Owner,Owner
+Origen Home Care San Diego,San Diego,CA,San Diego,Senior Home Care,8,$500K-$1.5M,Owner,Owner
+Salus Homecare San Diego,San Diego,CA,San Diego,Senior Home Care,12,$500K-$2M,Owner,Owner
+Gross Machining Phoenix,Phoenix,AZ,Phoenix,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+California Sign Company LA,Los Angeles,CA,Los Angeles,Sign Manufacturing,12,$1M-$3M,Owner,Owner
+Front Signs Burbank,Burbank,CA,Los Angeles,Sign Manufacturing,15,$1M-$5M,Owner,Owner
+ISC Companies,Minneapolis,MN,Minneapolis,Machine Shop / Metal Fabrication,15,$1M-$5M,Owner,Owner
+Hastreiter Industries,Minneapolis,MN,Minneapolis,Machine Shop / Metal Fabrication,10,$1M-$3M,Owner,Owner
+BMS Signs Minneapolis,Minneapolis,MN,Minneapolis,Sign Manufacturing,8,$1M-$3M,Owner,Owner
+Advantage Signs & Graphics,St. Paul,MN,Minneapolis,Sign Manufacturing,10,$1M-$3M,Owner,Owner
+InteriorTech Sign Company,Philadelphia,PA,Philadelphia,Sign Manufacturing,15,$1M-$5M,Owner,Owner
+Entire Productions,San Francisco,CA,San Francisco Bay Area,Event Planning Company,12,$500K-$2M,Owner,Owner
+Rocket Science Events SF,San Francisco,CA,San Francisco Bay Area,Event Planning Company,6,$500K-$1.5M,Owner,Owner
+Markraft Cabinets Nashville,Nashville,TN,Nashville,Cabinet Manufacturer,12,$1M-$5M,Owner,Owner
+TeNeil Hartley Events Denver,Denver,CO,Denver,Event Planning Company,5,$500K-$1M,TeNeil Hartley,Owner
+Mosaix Group Charlotte,Charlotte,NC,Charlotte,Event Planning Company,10,$500K-$2M,Owner,Owner
+The Chic Bash Charlotte,Charlotte,NC,Charlotte,Event Planning Company,5,$500K-$1M,Owner,Owner
+L&C Cabinetry Charlotte,Charlotte,NC,Charlotte,Cabinet Manufacturer,15,$1M-$5M,Owner,Owner
+Carolina Cabinet Company,Charlotte,NC,Charlotte,Cabinet Manufacturer,10,$1M-$3M,Owner,Owner

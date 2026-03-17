@@ -1,0 +1,286 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title
+Line Dental,New York,NY,New York City,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+New York Dental Office,New York,NY,New York City,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Dental House,New York,NY,New York City,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+209 NYC Dental,New York,NY,New York City,Dental Practice,10,$800K-$2M,Owner,Practice Owner
+Coliseum Dental,New York,NY,New York City,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+Tribeca MedSpa,New York,NY,New York City,Med Spa,12,$800K-$1.5M,Owner,Practice Owner
+Skinly Aesthetics,New York,NY,New York City,Med Spa,8,$500K-$1.2M,Dr. Schwarzburg,Practice Owner
+SoVous Med Spa,New York,NY,New York City,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Beaute Aesthetics,New York,NY,New York City,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Fayced Aesthetics NYC,New York,NY,New York City,Med Spa,6,$500K-$1M,Owner,Practice Owner
+MCNYC Medical Spa,New York,NY,New York City,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+New York City Chiropractic,New York,NY,New York City,Chiropractic Clinic,8,$400K-$800K,Dr. Jamie Bassel,Practice Owner
+East Village Physical Medicine,New York,NY,New York City,Chiropractic Clinic,8,$400K-$800K,Dr. Odulak,Practice Owner
+Oasis Chiropractic,New York,NY,New York City,Chiropractic Clinic,6,$300K-$700K,Owner,Practice Owner
+Wall Street Chiropractic and Wellness,New York,NY,New York City,Chiropractic Clinic,8,$400K-$800K,Owner,Practice Owner
+Westside Veterinary Center,New York,NY,New York City,Veterinary Clinic,12,$1M-$2M,Owner,Practice Owner
+Downtown Veterinary Clinic,New York,NY,New York City,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner
+Rivergate Veterinary Clinic,New York,NY,New York City,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner
+Washington Square Dermatology,New York,NY,New York City,Dermatology Clinic,8,$1M-$2M,Owner,Practice Owner
+Marmur Medical,New York,NY,New York City,Dermatology Clinic,10,$1.5M-$3M,Dr. Ellen Marmur,Practice Owner
+Spring Street Dermatology,New York,NY,New York City,Dermatology Clinic,12,$1.5M-$3M,Owner,Practice Owner
+MDCS Dermatology,New York,NY,New York City,Dermatology Clinic,15,$2M-$3M,Dr. Snehal Amin,Practice Owner
+Smith Optometry PC,New York,NY,New York City,Optometry Practice,6,$500K-$1M,Owner,Practice Owner
+West Village Eyecare,New York,NY,New York City,Optometry Practice,6,$500K-$1M,Dr. Hakim Serhrouchni,Practice Owner
+Eye Care Associates in Optometry,New York,NY,New York City,Optometry Practice,6,$500K-$1M,Dr. Robert Maiolo,Practice Owner
+A New Smile Dental Center,Miami,FL,Miami,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+Bayfront Dental,Miami,FL,Miami,Dental Practice,15,$1M-$2M,David J. Weiner DMD,Practice Owner
+Dental Team of Miami,Miami,FL,Miami,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Pearly Whites Miami,Miami,FL,Miami,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Everything Teeth Miami,Miami,FL,Miami,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Med Aesthetics Miami,Coral Gables,FL,Miami,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Monaco MedSpa,Miami,FL,Miami,Med Spa,10,$500K-$1.5M,Dr. Jeannette Barrueta,Practice Owner
+Beyond Health MedSpa,Miami,FL,Miami,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Lyf Aesthetics,Palmetto Bay,FL,Miami,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+4Beauty Med Spa,Miami,FL,Miami,Med Spa,10,$500K-$1.5M,Dr. Constantino Mendieta,Practice Owner
+Miami Spine Clinic,Miami,FL,Miami,Chiropractic Clinic,8,$400K-$800K,Owner,Practice Owner
+Baum Chiropractic Clinic,Miami Beach,FL,Miami,Chiropractic Clinic,6,$300K-$700K,Dr. Michael Baum,Practice Owner
+Dynamic Chiropractic Center,Miami,FL,Miami,Chiropractic Clinic,6,$300K-$600K,Owner,Practice Owner
+Regenerative Chiropractic,Miami,FL,Miami,Chiropractic Clinic,6,$300K-$700K,Dr. Octavio Espinoza,Practice Owner
+Arch Creek Animal Clinic,North Miami Beach,FL,Miami,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Adams Veterinary Clinic,Miami,FL,Miami,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Alvarez Pet Clinic,Miami,FL,Miami,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Sky Lake Animal Hospital,Miami,FL,Miami,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+Miami Center for Cosmetic Dermatology,Miami,FL,Miami,Dermatology Clinic,8,$1M-$2.5M,Dr. Deborah Longwill,Practice Owner
+Lincoln Road Dermatology,Miami Beach,FL,Miami,Dermatology Clinic,8,$1M-$2M,Owner,Practice Owner
+Dermatology and Skin Cancer Center,Miami,FL,Miami,Dermatology Clinic,10,$1M-$2.5M,Dr. T.J. Giuffrida,Practice Owner
+Genuine Smiles,North Jersey,NJ,Northern New Jersey,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+North Jersey Dental Group,Fort Lee,NJ,Northern New Jersey,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Dental Studio of Jersey City,Jersey City,NJ,Northern New Jersey,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Frost Dental Group,Rutherford,NJ,Northern New Jersey,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+NUVA Smile,North Jersey,NJ,Northern New Jersey,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Downtown Medspa,Jersey City,NJ,Northern New Jersey,Med Spa,10,$500K-$1.5M,Dr. Eric Reynolds,Practice Owner
+Reflections Center,Livingston,NJ,Northern New Jersey,Med Spa,15,$800K-$1.5M,Owner,Practice Owner
+Bare Aesthetic MedSpa,Closter,NJ,Northern New Jersey,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Ethos Aesthetics + Wellness,North Jersey,NJ,Northern New Jersey,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Slate Medspa,Paramus,NJ,Northern New Jersey,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Dentistry of Nashville,Nashville,TN,Nashville,Dental Practice,12,$1M-$2M,Dr. James Fleming,Practice Owner
+East Nashville Aesthetic and Implant Dentistry,Nashville,TN,Nashville,Dental Practice,10,$800K-$1.5M,Dr. Morton,Practice Owner
+Nations Dental Studio,Nashville,TN,Nashville,Dental Practice,8,$800K-$1.5M,Dr. Diana D'Aoust,Practice Owner
+Belle Meade Family Dentistry,Nashville,TN,Nashville,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Roach Family Dentistry,Nashville,TN,Nashville,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Midtown Smiles,Nashville,TN,Nashville,Dental Practice,10,$800K-$1.5M,Dr. Terry Watson,Practice Owner
+Ona Skincare,Nashville,TN,Nashville,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Toxxology,Nashville,TN,Nashville,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Elan Skin and Laser,Nashville,TN,Nashville,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Hi Finch,Nashville,TN,Nashville,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Jack and Jill Aesthetics,Nashville,TN,Nashville,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Nashville Physical Therapy and Performance,Nashville,TN,Nashville,Physical Therapy Clinic,8,$500K-$1M,Owner,Practice Owner
+MPOWER Physical Therapy,Nashville,TN,Nashville,Physical Therapy Clinic,12,$500K-$1.5M,Owner,Practice Owner
+P3 Precision Physical Therapy,Nashville,TN,Nashville,Physical Therapy Clinic,6,$500K-$1M,Owner,Practice Owner
+The Chicago Dental Studio,Chicago,IL,Chicago,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+Strobel Dentistry,Chicago,IL,Chicago,Dental Practice,10,$800K-$1.5M,Dr. Dan Strobel,Practice Owner
+Enamel Dental Studio,Chicago,IL,Chicago,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Big Smile Dental,Chicago,IL,Chicago,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+Cornerstone Dental of Lincoln Square,Chicago,IL,Chicago,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Chicago Aesthetics Med Spa,Chicago,IL,Chicago,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+ImageLab Med Spa,Chicago,IL,Chicago,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Better Med Spa and Wellness,Chicago,IL,Chicago,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Vitahl Medical Aesthetics,Chicago,IL,Chicago,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Natural Beauty Med Spa,Chicago,IL,Chicago,Med Spa,8,$500K-$1.2M,Dr. Wiesman,Practice Owner
+West Loop Veterinary Care,Chicago,IL,Chicago,Veterinary Clinic,12,$800K-$2M,Owner,Practice Owner
+South Loop Animal Hospital,Chicago,IL,Chicago,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner
+North Avenue Animal Hospital,Chicago,IL,Chicago,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner
+Uptown Animal Hospital,Chicago,IL,Chicago,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner
+Dallas Dental Group,Dallas,TX,Dallas,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+Turtle Creek Dental Associates,Dallas,TX,Dallas,Dental Practice,10,$1M-$2M,Owner,Practice Owner
+Highland Park Dental,Dallas,TX,Dallas,Dental Practice,8,$800K-$1.5M,Dr. Jones,Practice Owner
+Royal Lane Dental Center,Dallas,TX,Dallas,Dental Practice,10,$800K-$1.5M,Dr. Kastoori,Practice Owner
+Lakewood Family Dental Care,Dallas,TX,Dallas,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Lily Med Spa,Dallas,TX,Dallas,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Mara's Med Spa,Dallas,TX,Dallas,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+The Derm Lounge,Dallas,TX,Dallas,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Rejuve Med Spa,Dallas,TX,Dallas,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Renew Beauty Med Spa,Dallas,TX,Dallas,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+North Dallas Chiropractic Clinic,Dallas,TX,Dallas,Chiropractic Clinic,6,$300K-$700K,Owner,Practice Owner
+Inwood Chiropractic and Wellness Center,Dallas,TX,Dallas,Chiropractic Clinic,6,$300K-$700K,Owner,Practice Owner
+Wellness Vida Center,Dallas,TX,Dallas,Chiropractic Clinic,6,$300K-$600K,Owner,Practice Owner
+Victory Bark Veterinary Clinic,Dallas,TX,Dallas,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+North Dallas Veterinary Hospital,Dallas,TX,Dallas,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+East Dallas Veterinary Clinic,Dallas,TX,Dallas,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Trail Pet Hospital,Dallas,TX,Dallas,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Dentiq Dentistry,Houston,TX,Houston,Dental Practice,12,$1M-$2M,Dr. Shreed Sista,Practice Owner
+EaDo Family Dental,Houston,TX,Houston,Dental Practice,10,$800K-$1.5M,Dr. Bianca Williams,Practice Owner
+Houston Westchase Dentists,Houston,TX,Houston,Dental Practice,10,$1M-$2M,Dr. Heather Robbins,Practice Owner
+Acadian Family Dental,Houston,TX,Houston,Dental Practice,10,$800K-$1.5M,Dr. Eric Perkins,Practice Owner
+Glow Medical Aesthetics,Houston,TX,Houston,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Clearstone Laser Hair Removal and Med Spa,Houston,TX,Houston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Persona Med Spa,Houston,TX,Houston,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Artavi Med Spa,Houston,TX,Houston,Med Spa,6,$500K-$1M,Owner,Practice Owner
+Galleria Aesthetics,Houston,TX,Houston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+All Cats Veterinary Clinic,Houston,TX,Houston,Veterinary Clinic,5,$500K-$1M,Owner,Practice Owner
+Tanner Lakes Animal Clinic,Houston,TX,Houston,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Beechcrest Animal Clinic,Houston,TX,Houston,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Suburbia North Animal Hospital,Houston,TX,Houston,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+Heights Veterinary Clinic,Houston,TX,Houston,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Atlanta Dental Center,Atlanta,GA,Atlanta,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+Atlanta Dental Studio,Atlanta,GA,Atlanta,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Ponce Dental Studio,Atlanta,GA,Atlanta,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Atlanta Dental Spa,Atlanta,GA,Atlanta,Dental Practice,10,$1M-$2M,Dr. Boulden,Practice Owner
+Henderson Mill Dental Care,Atlanta,GA,Atlanta,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+ELLEMES Medical Spa,Atlanta,GA,Atlanta,Med Spa,10,$500K-$1.5M,Lauren Siso,Practice Owner
+Atlanta MediSpa,Atlanta,GA,Atlanta,Med Spa,10,$500K-$1.5M,Dr. Debra Atkins,Practice Owner
+Radiance Medspa,Atlanta,GA,Atlanta,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Paces Ferry Veterinary Clinic,Atlanta,GA,Atlanta,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+East Atlanta Animal Clinic,Atlanta,GA,Atlanta,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Collier Animal Hospital,Atlanta,GA,Atlanta,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+Village Animal Hospital,Atlanta,GA,Atlanta,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner
+Intown Animal Hospital,Atlanta,GA,Atlanta,Veterinary Clinic,12,$800K-$2M,Owner,Practice Owner
+Charlotte Dental Arts,Charlotte,NC,Charlotte,Dental Practice,10,$800K-$1.5M,Dr. Lowe,Practice Owner
+Gentry Dental,Charlotte,NC,Charlotte,Dental Practice,8,$800K-$1.5M,Dr. Gentry,Practice Owner
+Piedmont Dentistry,Charlotte,NC,Charlotte,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Park Crossing Dentistry,Charlotte,NC,Charlotte,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Keith Clinic,Charlotte,NC,Charlotte,Chiropractic Clinic,15,$500K-$800K,Owner,Practice Owner
+Carlisle Chiropractic Clinic,Charlotte,NC,Charlotte,Chiropractic Clinic,6,$300K-$600K,Owner,Practice Owner
+Bowker Clinic,Charlotte,NC,Charlotte,Chiropractic Clinic,6,$300K-$600K,Owner,Practice Owner
+Proactive Chiropractic and Rehab Center,Charlotte,NC,Charlotte,Chiropractic Clinic,8,$400K-$800K,Owner,Practice Owner
+Piedmont EyeCare Associates,Charlotte,NC,Charlotte,Optometry Practice,8,$500K-$1.2M,Owner,Practice Owner
+Innovative Eye Care,Charlotte,NC,Charlotte,Optometry Practice,6,$500K-$1M,Owner,Practice Owner
+Charlotte Optometric Clinic,Charlotte,NC,Charlotte,Optometry Practice,6,$500K-$1M,Owner,Practice Owner
+Charlotte Skin and Laser,Charlotte,NC,Charlotte,Dermatology Clinic,10,$1M-$2.5M,Owner,Practice Owner
+Dermatology Care of Charlotte,Charlotte,NC,Charlotte,Dermatology Clinic,10,$1M-$2M,Owner,Practice Owner
+Dermatology Specialists of Charlotte,Charlotte,NC,Charlotte,Dermatology Clinic,10,$1M-$2.5M,Owner,Practice Owner
+Dental Office of Tampa,Tampa,FL,Tampa,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Jackson Dental PA,Tampa,FL,Tampa,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Heights Dental Tampa,Tampa,FL,Tampa,Dental Practice,8,$800K-$1.5M,Dr. Kenneth Jainandan,Practice Owner
+New Tampa Smiles,Tampa,FL,Tampa,Dental Practice,10,$800K-$1.5M,Dr. Jean Paul Taveras,Practice Owner
+South Tampa Dentistry,Tampa,FL,Tampa,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Vivia MedSpa,Tampa,FL,Tampa,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Skin NV Med Spa,Tampa,FL,Tampa,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Aspire MedSpa and Beauty Bar,Tampa,FL,Tampa,Med Spa,6,$500K-$1M,Rosaly Torres,Practice Owner
+Roots Wellness and Med Spa,Tampa,FL,Tampa,Med Spa,6,$500K-$1M,Owner,Practice Owner
+Fit4Life Physical Therapy,Tampa,FL,Tampa,Physical Therapy Clinic,6,$500K-$1M,Owner,Practice Owner
+Physique Physical Therapy,Tampa,FL,Tampa,Physical Therapy Clinic,6,$500K-$1M,Owner,Practice Owner
+Competitive Edge Physical Therapy,Tampa,FL,Tampa,Physical Therapy Clinic,8,$500K-$1.2M,Owner,Practice Owner
+South Tampa Dermatology,Tampa,FL,Tampa,Dermatology Clinic,10,$1M-$2M,Owner,Practice Owner
+Modern Dermatology,Tampa,FL,Tampa,Dermatology Clinic,8,$1M-$2M,Owner,Practice Owner
+Skin Health Forever,Tampa,FL,Tampa,Dermatology Clinic,10,$1M-$2.5M,Owner,Practice Owner
+Koyfman Dental,Orlando,FL,Orlando,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Mosaic Dental Center,Orlando,FL,Orlando,Dental Practice,10,$800K-$1.5M,Dr. Sonia Simmonds,Practice Owner
+Fine Dentistry of Downtown Orlando,Orlando,FL,Orlando,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Nulife Dental Center,Orlando,FL,Orlando,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Celine Med Spa,Orlando,FL,Orlando,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Bloom Aesthetics,Orlando,FL,Orlando,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Healthy Glow Med Spa,Orlando,FL,Orlando,Med Spa,6,$500K-$1M,Owner,Practice Owner
+NUR Med Spa,Orlando,FL,Orlando,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Balance MedSpa,Orlando,FL,Orlando,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Solterra Dentistry,Phoenix,AZ,Phoenix,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Desert Dentistry,Phoenix,AZ,Phoenix,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Biltmore Dental Center,Phoenix,AZ,Phoenix,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Valley Smiles,Phoenix,AZ,Phoenix,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Phoenix Medspa,Phoenix,AZ,Phoenix,Med Spa,6,$500K-$1M,Dr. Paul,Practice Owner
+Uptown Medispa,Phoenix,AZ,Phoenix,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Med 44 Arcadia,Phoenix,AZ,Phoenix,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Torstveit Medical Aesthetics,Phoenix,AZ,Phoenix,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+CAS Chiropractic Center,Phoenix,AZ,Phoenix,Chiropractic Clinic,8,$400K-$800K,Dr. Michael Castrichini,Practice Owner
+Arizona Life Chiropractic Center,Phoenix,AZ,Phoenix,Chiropractic Clinic,6,$300K-$700K,Dr. Dennis Cathcart,Practice Owner
+Shea Chiropractic,Phoenix,AZ,Phoenix,Chiropractic Clinic,6,$300K-$600K,Owner,Practice Owner
+TOPS Physical Therapy,Phoenix,AZ,Phoenix,Physical Therapy Clinic,8,$500K-$1.2M,Owner,Practice Owner
+OSR Physical Therapy,Phoenix,AZ,Phoenix,Physical Therapy Clinic,8,$500K-$1M,Owner,Practice Owner
+Arizona Orthopedic Physical Therapy,Phoenix,AZ,Phoenix,Physical Therapy Clinic,12,$500K-$1.5M,Owner,Practice Owner
+Smile LA Downtown Modern Dentistry,Los Angeles,CA,Los Angeles,Dental Practice,10,$800K-$1.5M,Dr. Kourosh Yousefzadeh,Practice Owner
+Los Angeles Dental Arts,Los Angeles,CA,Los Angeles,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Arthur A Kezian DDS,Los Angeles,CA,Los Angeles,Dental Practice,10,$1M-$2M,Dr. Arthur Kezian,Practice Owner
+Union Dental Center,Los Angeles,CA,Los Angeles,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+Marina Medspa,Los Angeles,CA,Los Angeles,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Los Feliz Med Spa,Los Angeles,CA,Los Angeles,Med Spa,10,$500K-$1.5M,Dr. Michele Ware,Practice Owner
+Rejuvify MedSpa,Los Angeles,CA,Los Angeles,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+South Coast Med Spa,Los Angeles,CA,Los Angeles,Med Spa,12,$800K-$1.5M,Owner,Practice Owner
+Los Feliz Small Animal Hospital,Los Angeles,CA,Los Angeles,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+Angel City Animal Hospital,Los Angeles,CA,Los Angeles,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Eagle Rock Pet Care,Los Angeles,CA,Los Angeles,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Mar Vista Animal Medical Center,Los Angeles,CA,Los Angeles,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+Restoration Dental OC,Orange,CA,Orange County,Dental Practice,10,$800K-$1.5M,Dr. Ronald Pham,Practice Owner
+Orange County Dental Care,Orange,CA,Orange County,Dental Practice,10,$800K-$1.5M,Dr. Ali-Reza Etemadieh,Practice Owner
+OC Healthy Smiles,Costa Mesa,CA,Orange County,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Dr. Christopher J Fotinos,Orange,CA,Orange County,Dental Practice,8,$800K-$1.5M,Dr. Christopher Fotinos,Practice Owner
+Beauty Boost Med Spa,Newport Beach,CA,Orange County,Med Spa,10,$500K-$1.5M,Dr. Steve Yoelin,Practice Owner
+Newport Beach MedSpa,Newport Beach,CA,Orange County,Med Spa,12,$800K-$1.5M,Owner,Practice Owner
+Gravity Med Spa,San Juan Capistrano,CA,Orange County,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+OC Skin Medspa,Placentia,CA,Orange County,Med Spa,6,$500K-$1M,Owner,Practice Owner
+True Design Dentistry,San Diego,CA,San Diego,Dental Practice,10,$800K-$1.5M,Dr. Nick Refahi,Practice Owner
+Fifth Avenue Dental Arts,San Diego,CA,San Diego,Dental Practice,10,$800K-$1.5M,Dr. Ramin Ghassemi,Practice Owner
+Scripps Rock Dental,San Diego,CA,San Diego,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Oasis Dentistry San Diego,San Diego,CA,San Diego,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+San Diego Skin Medical Spa,La Jolla,CA,San Diego,Med Spa,12,$800K-$1.5M,Owner,Practice Owner
+Revive Med Spa,San Diego,CA,San Diego,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+B Medical Spa,San Diego,CA,San Diego,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Siti Med Spa,San Diego,CA,San Diego,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+San Diego Optometry,San Diego,CA,San Diego,Optometry Practice,6,$500K-$1M,Owner,Practice Owner
+Midway Optometry,San Diego,CA,San Diego,Optometry Practice,6,$500K-$1M,Owner,Practice Owner
+Specs Optometry,San Diego,CA,San Diego,Optometry Practice,6,$500K-$1M,Owner,Practice Owner
+Urban Optiks Optometry,San Diego,CA,San Diego,Optometry Practice,8,$500K-$1.2M,Owner,Practice Owner
+Dentistry of San Francisco,San Francisco,CA,San Francisco Bay Area,Dental Practice,10,$800K-$1.5M,Dr. Joseph,Practice Owner
+San Francisco Dental Partners,San Francisco,CA,San Francisco Bay Area,Dental Practice,10,$800K-$1.5M,Dr. Jasmine Bhuva,Practice Owner
+SOMA Dental,San Francisco,CA,San Francisco Bay Area,Dental Practice,10,$800K-$1.5M,Dr. Nigel Suarez,Practice Owner
+San Francisco Dental Care,San Francisco,CA,San Francisco Bay Area,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Epi Center MedSpa,San Francisco,CA,San Francisco Bay Area,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Nob Hill Aesthetics,San Francisco,CA,San Francisco Bay Area,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Serenity MedSpa,San Francisco,CA,San Francisco Bay Area,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+SELFISHLY Aesthetics and Wellness,San Francisco,CA,San Francisco Bay Area,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+SF Vet Hospital,San Francisco,CA,San Francisco Bay Area,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+Urban Pet Hospital,San Francisco,CA,San Francisco Bay Area,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+San Francisco Pet Hospital,San Francisco,CA,San Francisco Bay Area,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Healthy Pets Veterinary Hospital,San Francisco,CA,San Francisco Bay Area,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+South Boston Dental Group,Boston,MA,Boston,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+Dental Partners of Boston,Boston,MA,Boston,Dental Practice,15,$1M-$2M,Owner,Practice Owner
+Smile Design Boston,Boston,MA,Boston,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Seaport Medspa,Boston,MA,Boston,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Boston Medical Aesthetics,Boston,MA,Boston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Vega Vitality,Boston,MA,Boston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+IconMD Medical Spa,Boston,MA,Boston,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+SkinHealth Centers,Boston,MA,Boston,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Boston Physical Therapy and Wellness,Boston,MA,Boston,Physical Therapy Clinic,8,$500K-$1M,Owner,Practice Owner
+Joint Ventures Physical Therapy,Boston,MA,Boston,Physical Therapy Clinic,12,$500K-$1.5M,Owner,Practice Owner
+Boston Health and Wellness,Stoneham,MA,Boston,Physical Therapy Clinic,8,$500K-$1M,Owner,Practice Owner
+Rittenhouse Smiles,Philadelphia,PA,Philadelphia,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Pennsylvania Dental Group,Philadelphia,PA,Philadelphia,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+The Dental Spa,Philadelphia,PA,Philadelphia,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Elegance in Dentistry,Philadelphia,PA,Philadelphia,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+PhillyMedClub,Philadelphia,PA,Philadelphia,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Enigma Medi Spa,Philadelphia,PA,Philadelphia,Med Spa,12,$500K-$1.5M,Owner,Practice Owner
+Body and Beauty Lab,Philadelphia,PA,Philadelphia,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Skin Retreat Med Spa,Philadelphia,PA,Philadelphia,Med Spa,6,$500K-$1M,Owner,Practice Owner
+Modern Optometry,Philadelphia,PA,Philadelphia,Optometry Practice,6,$500K-$1M,Dr. Rebecca Verna,Practice Owner
+New World Vision Center,Philadelphia,PA,Philadelphia,Optometry Practice,6,$500K-$1M,Owner,Practice Owner
+Pine Vision Care,Philadelphia,PA,Philadelphia,Optometry Practice,6,$500K-$1M,Owner,Practice Owner
+The DC Dentist,Washington,DC,Washington DC,Dental Practice,10,$800K-$1.5M,Dr. Terry Victor,Practice Owner
+Washington Center for Cosmetic and Family Dentistry,Washington,DC,Washington DC,Dental Practice,10,$800K-$1.5M,Dr. Michael Pollowitz,Practice Owner
+Always Smile DC,Washington,DC,Washington DC,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+DC Pearls Dental Boutique,Washington,DC,Washington DC,Dental Practice,8,$800K-$1.5M,Dr. Kourosh Ardekani,Practice Owner
+Georgetown Allure Med Spa,Washington,DC,Washington DC,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Arta Medical Spa,Washington,DC,Washington DC,Med Spa,6,$500K-$1M,Dr. Safiyah West,Practice Owner
+AnewSkin MedSpa,Washington,DC,Washington DC,Med Spa,6,$500K-$1M,Dr. Molly Sarumi,Practice Owner
+Peel Haus,Washington,DC,Washington DC,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Dupont Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Union Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Palisades Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+District Veterinary Hospital,Washington,DC,Washington DC,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+Collins Animal Hospital,Washington,DC,Washington DC,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Metro Dental Care,Denver,CO,Denver,Dental Practice,12,$1M-$2M,Owner,Practice Owner
+OG Dental Denver,Denver,CO,Denver,Dental Practice,8,$800K-$1.5M,Dr. O'Grady,Practice Owner
+Hampden Dentistry and Orthodontics,Denver,CO,Denver,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Rejuvenate MedSpa,Denver,CO,Denver,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+La Fontaine Med Spa,Denver,CO,Denver,Med Spa,8,$500K-$1.2M,Dr. Ken Oleszek,Practice Owner
+Gleam Med Spa,Denver,CO,Denver,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Mountain Med Spa,Denver,CO,Denver,Med Spa,8,$500K-$1.2M,Dr. Rock Navarkal,Practice Owner
+Skintonomy Med Spa,Denver,CO,Denver,Med Spa,6,$500K-$1M,Owner,Practice Owner
+ATLAS Physical Therapy,Denver,CO,Denver,Physical Therapy Clinic,15,$500K-$1.5M,Owner,Practice Owner
+Denver Total PT,Denver,CO,Denver,Physical Therapy Clinic,8,$500K-$1M,Owner,Practice Owner
+Blue Sky Physical Therapy,Denver,CO,Denver,Physical Therapy Clinic,10,$500K-$1.2M,Owner,Practice Owner
+Denver Dermatology Center,Denver,CO,Denver,Dermatology Clinic,10,$1M-$2.5M,Dr. Margaret Muldrow,Practice Owner
+SKN Dermatology,Denver,CO,Denver,Dermatology Clinic,8,$1M-$2M,Owner,Practice Owner
+Cherry Hills Dermatology,Denver,CO,Denver,Dermatology Clinic,10,$1M-$2.5M,Owner,Practice Owner
+Isles Dental,Minneapolis,MN,Minneapolis,Dental Practice,8,$800K-$1.5M,Dr. Robert Springer,Practice Owner
+Parkway Dental Center,Minneapolis,MN,Minneapolis,Dental Practice,10,$800K-$1.5M,Owner,Practice Owner
+Englander Dental,Minneapolis,MN,Minneapolis,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Nicollet Station Dental,Minneapolis,MN,Minneapolis,Dental Practice,8,$800K-$1.5M,Owner,Practice Owner
+Skin Artisans Medical Spa,Minneapolis,MN,Minneapolis,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Pure Lux Medspa,Minneapolis,MN,Minneapolis,Med Spa,8,$500K-$1.2M,Owner,Practice Owner
+Afzal Clinics,Minneapolis,MN,Minneapolis,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+Metropolitan Skin Clinic,Minneapolis,MN,Minneapolis,Med Spa,10,$500K-$1.5M,Owner,Practice Owner
+East Lake Animal Clinic,Minneapolis,MN,Minneapolis,Veterinary Clinic,8,$800K-$1.5M,Owner,Practice Owner
+Minnehaha Animal Hospital,Minneapolis,MN,Minneapolis,Veterinary Clinic,10,$800K-$2M,Owner,Practice Owner
+Kenwood Pet Clinic,Minneapolis,MN,Minneapolis,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner
+Westgate Pet Clinic,Minneapolis,MN,Minneapolis,Veterinary Clinic,10,$800K-$1.5M,Owner,Practice Owner
