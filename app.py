@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+import traceback
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -11,28 +12,31 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# Initialize database on first run
+# ---------------------------------------------------------------------------
+# Database init with full error reporting
+# ---------------------------------------------------------------------------
+db_ready = False
 try:
     from database.db import init_db, get_engine
     from database.models import Company, Draft, Activity
-    from outreach.models import OutreachState, NotificationAccount
-
     init_db()
+    db_ready = True
+except Exception as e:
+    st.error(f"Database init failed: {e}")
+    st.code(traceback.format_exc())
 
-    # Ensure outreach tables exist (they may not be in the base schema)
+try:
+    from outreach.models import OutreachState, NotificationAccount
     OutreachState.__table__.create(get_engine(), checkfirst=True)
     NotificationAccount.__table__.create(get_engine(), checkfirst=True)
 except Exception as e:
-    st.error(f"Database initialization error: {e}")
-    st.stop()
+    st.warning(f"Outreach tables: {e}")
 
 
 # ---------------------------------------------------------------------------
 # Auth helpers
 # ---------------------------------------------------------------------------
-
 def _get_or_create_demo_user():
-    """Return a demo User object, creating it in the DB if needed."""
     from database.db import get_session
     from database.models import User
     session = get_session()
@@ -60,7 +64,6 @@ def _get_or_create_demo_user():
 
 
 def _handle_oauth_callback(code: str):
-    """Exchange OAuth code for tokens and log the user in."""
     from auth.google_auth import handle_oauth_callback, get_or_create_user
     from database.db import get_session
     try:
@@ -83,8 +86,7 @@ def _handle_oauth_callback(code: str):
 
 def _get_quick_stats(user_id: int) -> dict:
     from database.db import get_session
-    from datetime import datetime, timedelta
-    from outreach.models import OutreachState
+    from datetime import datetime
     session = get_session()
     try:
         total_leads = session.query(Company).count()
@@ -93,18 +95,21 @@ def _get_quick_stats(user_id: int) -> dict:
             .filter(Draft.status == "draft", Draft.user_id == user_id)
             .count()
         )
-        # Follow-ups due = outreach states where next_followup_due <= now and status == awaiting_reply
-        now = datetime.utcnow()
-        followups_due = (
-            session.query(OutreachState)
-            .filter(
-                OutreachState.user_id == user_id,
-                OutreachState.status == "awaiting_reply",
-                OutreachState.next_followup_due <= now,
-                OutreachState.is_suppressed == False,
+        try:
+            from outreach.models import OutreachState
+            now = datetime.utcnow()
+            followups_due = (
+                session.query(OutreachState)
+                .filter(
+                    OutreachState.user_id == user_id,
+                    OutreachState.status == "awaiting_reply",
+                    OutreachState.next_followup_due <= now,
+                    OutreachState.is_suppressed == False,
+                )
+                .count()
             )
-            .count()
-        )
+        except Exception:
+            followups_due = 0
         return {
             "total_leads": total_leads,
             "drafts_pending": drafts_pending,
@@ -117,7 +122,6 @@ def _get_quick_stats(user_id: int) -> dict:
 # ---------------------------------------------------------------------------
 # Check for OAuth callback
 # ---------------------------------------------------------------------------
-
 params = st.query_params
 if "code" in params and "user" not in st.session_state:
     code = params["code"]
@@ -125,54 +129,37 @@ if "code" in params and "user" not in st.session_state:
         user_data = _handle_oauth_callback(code)
     if user_data:
         st.session_state["user"] = user_data
-        # Clear the OAuth code from the URL by redirecting cleanly
         st.query_params.clear()
         st.rerun()
 
 
 # ---------------------------------------------------------------------------
-# Sidebar (shown when logged in)
+# Sidebar
 # ---------------------------------------------------------------------------
-
 if "user" in st.session_state:
     user = st.session_state["user"]
     stats = _get_quick_stats(user["id"])
 
     with st.sidebar:
-        # User info
         st.markdown("### Account")
         if user.get("picture_url"):
             st.image(user["picture_url"], width=48)
         st.markdown(f"**{user['name']}**")
         st.caption(user["email"])
-
         st.divider()
 
-        # Navigation
-        st.markdown("### Navigation")
-        st.page_link("app.py", label="Home", icon="🏠")
-        st.page_link("pages/1_📊_Dashboard.py", label="Dashboard", icon="📊")
-        st.page_link("pages/2_🔎_Lead_Explorer.py", label="Lead Explorer", icon="🔎")
-        st.page_link("pages/3_🏢_Lead_Detail.py", label="Lead Detail", icon="🏢")
-
-        st.divider()
-
-        # Quick stats
         st.markdown("### Quick Stats")
         col1, col2 = st.columns(2)
         col1.metric("Total Leads", stats["total_leads"])
         col2.metric("Follow-ups Due", stats["followups_due"])
         st.metric("Drafts Pending Review", stats["drafts_pending"])
-
         st.divider()
 
         if st.button("Sign Out", use_container_width=True):
-            del st.session_state["user"]
-            if "selected_company_id" in st.session_state:
-                del st.session_state["selected_company_id"]
+            for key in ["user", "selected_company_id"]:
+                st.session_state.pop(key, None)
             st.rerun()
 
-        # Compliance notice
         st.caption(
             "Every email requires manual review and approval before sending. "
             "No bulk or automated sending."
@@ -182,11 +169,7 @@ if "user" in st.session_state:
 # ---------------------------------------------------------------------------
 # Main content
 # ---------------------------------------------------------------------------
-
 if "user" not in st.session_state:
-    # -----------------------------------------------------------------------
-    # Login / landing page
-    # -----------------------------------------------------------------------
     st.markdown(
         """
         <div style="text-align: center; padding: 3rem 1rem 1rem 1rem;">
@@ -231,9 +214,7 @@ if "user" not in st.session_state:
                 use_container_width=True,
                 type="primary",
             )
-            st.caption(
-                "Google sign-in syncs your Gmail account for managing draft outreach."
-            )
+            st.caption("Google sign-in syncs your Gmail account for managing draft outreach.")
             st.markdown("")
 
         if st.button(
@@ -252,15 +233,11 @@ if "user" not in st.session_state:
             )
 
 else:
-    # -----------------------------------------------------------------------
-    # Logged-in home / welcome page
-    # -----------------------------------------------------------------------
     user = st.session_state["user"]
     stats = _get_quick_stats(user["id"])
 
     st.title(f"Welcome back, {user['name'].split()[0]}.")
     st.caption("AI Systems Audit Pipeline")
-
     st.markdown("")
 
     col1, col2, col3 = st.columns(3)
@@ -269,36 +246,23 @@ else:
     col3.metric("Drafts Pending Review", stats["drafts_pending"])
 
     st.divider()
-
     st.subheader("Where to go next")
 
     nav_col1, nav_col2, nav_col3 = st.columns(3)
-
     with nav_col1:
-        st.markdown("**📊 Dashboard**")
-        st.markdown(
-            "Pipeline funnel, score distribution, top leads, and recent activity."
-        )
-        st.page_link("pages/1_📊_Dashboard.py", label="Go to Dashboard")
-
+        st.markdown("**Dashboard**")
+        st.markdown("Pipeline funnel, score distribution, top leads, and recent activity.")
     with nav_col2:
-        st.markdown("**🔎 Lead Explorer**")
-        st.markdown(
-            "Search and filter all companies. Sort by score, stage, or recency."
-        )
-        st.page_link("pages/2_🔎_Lead_Explorer.py", label="Go to Lead Explorer")
-
+        st.markdown("**Lead Explorer**")
+        st.markdown("Search and filter all companies. Sort by score, stage, or recency.")
     with nav_col3:
-        st.markdown("**🏢 Lead Detail**")
-        st.markdown(
-            "Deep-dive on a single company: scores, contacts, notes, and outreach drafts."
-        )
-        st.page_link("pages/3_🏢_Lead_Detail.py", label="Go to Lead Detail")
+        st.markdown("**Lead Detail**")
+        st.markdown("Deep-dive on a single company: scores, contacts, notes, and outreach drafts.")
 
     if stats["followups_due"] > 0:
         st.warning(
             f"You have **{stats['followups_due']} follow-up(s) due**. "
-            "Check the Lead Explorer and filter by 'Contacted' stage to action them."
+            "Check the Follow-Up Dashboard to action them."
         )
 
     st.divider()
