@@ -550,8 +550,7 @@ def generate_draft_fallback(
             f"we map your current workflows, identify the highest-ROI automation "
             f"opportunities, and outline exactly how to implement them — with a full "
             f"written roadmap delivered within 48 hours.\n\n"
-            f"Would it make sense to spend 15 minutes talking through what this could "
-            f"look like for {company_name}?\n\n"
+            f"If this sounds useful, happy to start with a quick intro call to see if it's a fit.\n\n"
             f"Best,\n"
             f"Brandon Rye"
         )
