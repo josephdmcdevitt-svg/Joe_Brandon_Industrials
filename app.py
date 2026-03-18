@@ -358,6 +358,46 @@ elif page == "Draft Review":
 
     st.write(f"**{len(df)} emails**")
 
+    # Export button
+    if not df.empty:
+        # Build full export with lead details
+        conn2 = get_db()
+        export_rows = []
+        for _, row in df.iterrows():
+            company = conn2.execute(
+                "SELECT * FROM companies WHERE company_name = ? AND email = ? LIMIT 1",
+                (row["company_name"], row["contact_email"])
+            ).fetchone()
+            export_rows.append({
+                "Company": row["company_name"],
+                "City": row.get("city", ""),
+                "State": row.get("state", ""),
+                "Metro": dict(company)["metro_area"] if company else "",
+                "Industry": row["industry"],
+                "Employees": dict(company)["estimated_employees"] if company else "",
+                "Revenue": dict(company)["estimated_revenue_range"] if company else "",
+                "Contact Name": row["contact_name"],
+                "Contact Title": row["contact_title"],
+                "Contact Email": row["contact_email"],
+                "Phone": dict(company)["phone"] if company else "N/A",
+                "Website": dict(company)["website"] if company else "N/A",
+                "Email Subject": row["subject"],
+                "Email Body": row["body"],
+                "Status": row["status"],
+                "Sent Date": row.get("sent_at", ""),
+                "Notes": "",
+            })
+        conn2.close()
+        export_df = pd.DataFrame(export_rows)
+        csv_export = export_df.to_csv(index=False)
+        st.download_button(
+            "Export All to CSV (for Excel)",
+            csv_export,
+            file_name="outreach_export.csv",
+            mime="text/csv",
+            use_container_width=True,
+        )
+
     if not df.empty:
         # Industry filter
         industries = df["industry"].unique().tolist()
