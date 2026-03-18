@@ -12,15 +12,19 @@ st.set_page_config(
 )
 
 # Initialize database on first run
-from database.db import init_db, get_engine
-from database.models import Company, Draft, Activity
-from outreach.models import OutreachState, NotificationAccount
+try:
+    from database.db import init_db, get_engine
+    from database.models import Company, Draft, Activity
+    from outreach.models import OutreachState, NotificationAccount
 
-init_db()
+    init_db()
 
-# Ensure outreach tables exist (they may not be in the base schema)
-OutreachState.__table__.create(get_engine(), checkfirst=True)
-NotificationAccount.__table__.create(get_engine(), checkfirst=True)
+    # Ensure outreach tables exist (they may not be in the base schema)
+    OutreachState.__table__.create(get_engine(), checkfirst=True)
+    NotificationAccount.__table__.create(get_engine(), checkfirst=True)
+except Exception as e:
+    st.error(f"Database initialization error: {e}")
+    st.stop()
 
 
 # ---------------------------------------------------------------------------
