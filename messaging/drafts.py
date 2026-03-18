@@ -521,7 +521,13 @@ def generate_draft_fallback(
     """
     company_name = company_dict.get("name", "your company")
     industry = company_dict.get("industry", "")
-    contact_first = contact_dict.get("first_name") or (contact_dict.get("name") or "there").split()[0]
+    contact_first_raw = contact_dict.get("first_name") or (contact_dict.get("name") or "").split()[0] if contact_dict.get("first_name") or contact_dict.get("name") else ""
+    # Determine greeting: use real name if available, otherwise "Hi [Company] team"
+    generic_names = {"there", "owner", "principal", "managing partner", "practice owner", "n/a", ""}
+    if contact_first_raw.lower().strip() in generic_names:
+        greeting_name = f"{company_name} team"
+    else:
+        greeting_name = contact_first_raw
 
     industry_key = _get_industry_key(industry)
     industry_pain = _INDUSTRY_PAIN[industry_key]
@@ -534,7 +540,7 @@ def generate_draft_fallback(
     if draft_type == "email_initial":
         subject = f"Streamlining operations at {company_name}"
         body = (
-            f"Hi {contact_first},\n\n"
+            f"Hi {greeting_name},\n\n"
             f"I'm a Columbia MBA and former Citi investment banking VP who now helps "
             f"growing businesses cut operational waste and streamline workflows. Before "
             f"banking, I spent years in FP&A and systems implementation — including "
