@@ -1,4 +1,5 @@
 from datetime import datetime
+from typing import Optional, List
 
 from sqlalchemy import (
     BigInteger,
@@ -53,9 +54,9 @@ class User(Base):
     google_id: Mapped[str] = mapped_column(String(128), unique=True, nullable=False, index=True)
     email: Mapped[str] = mapped_column(String(255), nullable=False)
     name: Mapped[str] = mapped_column(String(255), nullable=False)
-    picture_url: Mapped[str | None] = mapped_column(String(1024), nullable=True)
+    picture_url: Mapped[Optional[str]] = mapped_column(String(1024), nullable=True)
     gmail_connected: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
-    gmail_refresh_token: Mapped[str | None] = mapped_column(Text, nullable=True)
+    gmail_refresh_token: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     daily_send_cap: Mapped[int] = mapped_column(Integer, default=20, nullable=False)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)
     updated_at: Mapped[datetime] = mapped_column(
@@ -63,14 +64,14 @@ class User(Base):
     )
 
     # Relationships
-    companies: Mapped[list["Company"]] = relationship(
+    companies: Mapped[List["Company"]] = relationship(
         "Company", back_populates="created_by", foreign_keys="Company.created_by_id"
     )
-    drafts: Mapped[list["Draft"]] = relationship("Draft", back_populates="user")
-    sent_emails: Mapped[list["SentEmail"]] = relationship("SentEmail", back_populates="user")
-    activities: Mapped[list["Activity"]] = relationship("Activity", back_populates="user")
-    notes: Mapped[list["Note"]] = relationship("Note", back_populates="user")
-    suppression_entries: Mapped[list["SuppressionEntry"]] = relationship(
+    drafts: Mapped[List["Draft"]] = relationship("Draft", back_populates="user")
+    sent_emails: Mapped[List["SentEmail"]] = relationship("SentEmail", back_populates="user")
+    activities: Mapped[List["Activity"]] = relationship("Activity", back_populates="user")
+    notes: Mapped[List["Note"]] = relationship("Note", back_populates="user")
+    suppression_entries: Mapped[List["SuppressionEntry"]] = relationship(
         "SuppressionEntry", back_populates="added_by"
     )
 
@@ -86,65 +87,65 @@ class Company(Base):
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
     name: Mapped[str] = mapped_column(String(255), nullable=False, index=True)
-    website: Mapped[str | None] = mapped_column(String(512), nullable=True)
-    city: Mapped[str | None] = mapped_column(String(128), nullable=True)
-    state: Mapped[str | None] = mapped_column(String(64), nullable=True, index=True)
-    metro_area: Mapped[str | None] = mapped_column(String(128), nullable=True, index=True)
-    industry: Mapped[str | None] = mapped_column(String(128), nullable=True, index=True)
-    sub_industry: Mapped[str | None] = mapped_column(String(128), nullable=True)
-    employee_count_min: Mapped[int | None] = mapped_column(Integer, nullable=True)
-    employee_count_max: Mapped[int | None] = mapped_column(Integer, nullable=True)
-    estimated_revenue_min: Mapped[int | None] = mapped_column(Integer, nullable=True)
-    estimated_revenue_max: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    website: Mapped[Optional[str]] = mapped_column(String(512), nullable=True)
+    city: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    state: Mapped[Optional[str]] = mapped_column(String(64), nullable=True, index=True)
+    metro_area: Mapped[Optional[str]] = mapped_column(String(128), nullable=True, index=True)
+    industry: Mapped[Optional[str]] = mapped_column(String(128), nullable=True, index=True)
+    sub_industry: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    employee_count_min: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    employee_count_max: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    estimated_revenue_min: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    estimated_revenue_max: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
     revenue_is_estimated: Mapped[bool] = mapped_column(Boolean, default=True, nullable=False)
     ownership_style: Mapped[str] = mapped_column(
         String(64), default="owner-operated", nullable=False
     )
-    description: Mapped[str | None] = mapped_column(Text, nullable=True)
+    description: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
 
     # JSON-encoded list fields
-    probable_systems: Mapped[str | None] = mapped_column(Text, nullable=True)
-    pain_points: Mapped[str | None] = mapped_column(Text, nullable=True)
-    ai_opportunities: Mapped[str | None] = mapped_column(Text, nullable=True)
-    ai_fit_reasons: Mapped[str | None] = mapped_column(Text, nullable=True)
-    offer_conversion_reasons: Mapped[str | None] = mapped_column(Text, nullable=True)
+    probable_systems: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    pain_points: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    ai_opportunities: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    ai_fit_reasons: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    offer_conversion_reasons: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
 
-    ai_fit_score: Mapped[int | None] = mapped_column(Integer, nullable=True)
-    offer_conversion_score: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    ai_fit_score: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    offer_conversion_score: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
 
     pipeline_stage: Mapped[str] = mapped_column(
         String(64), default="new_lead", nullable=False, index=True
     )
-    source: Mapped[str | None] = mapped_column(String(128), nullable=True)
-    source_url: Mapped[str | None] = mapped_column(String(512), nullable=True)
-    notes: Mapped[str | None] = mapped_column(Text, nullable=True)
-    tags: Mapped[str | None] = mapped_column(String(512), nullable=True)
+    source: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    source_url: Mapped[Optional[str]] = mapped_column(String(512), nullable=True)
+    notes: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    tags: Mapped[Optional[str]] = mapped_column(String(512), nullable=True)
 
     enriched: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
-    enriched_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
+    enriched_at: Mapped[Optional[datetime]] = mapped_column(DateTime, nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)
     updated_at: Mapped[datetime] = mapped_column(
         DateTime, default=datetime.utcnow, onupdate=datetime.utcnow, nullable=False
     )
 
-    created_by_id: Mapped[int | None] = mapped_column(
+    created_by_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("users.id", ondelete="SET NULL"), nullable=True
     )
 
     # Relationships
-    created_by: Mapped["User | None"] = relationship(
+    created_by: Mapped[Optional["User"]] = relationship(
         "User", back_populates="companies", foreign_keys=[created_by_id]
     )
-    contacts: Mapped[list["Contact"]] = relationship(
+    contacts: Mapped[List["Contact"]] = relationship(
         "Contact", back_populates="company", cascade="all, delete-orphan"
     )
-    drafts: Mapped[list["Draft"]] = relationship(
+    drafts: Mapped[List["Draft"]] = relationship(
         "Draft", back_populates="company", cascade="all, delete-orphan"
     )
-    sent_emails: Mapped[list["SentEmail"]] = relationship(
+    sent_emails: Mapped[List["SentEmail"]] = relationship(
         "SentEmail", back_populates="company", cascade="all, delete-orphan"
     )
-    company_notes: Mapped[list["Note"]] = relationship(
+    company_notes: Mapped[List["Note"]] = relationship(
         "Note", back_populates="company", cascade="all, delete-orphan"
     )
 
@@ -167,15 +168,15 @@ class Contact(Base):
     company_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("companies.id", ondelete="CASCADE"), nullable=False, index=True
     )
-    first_name: Mapped[str | None] = mapped_column(String(128), nullable=True)
-    last_name: Mapped[str | None] = mapped_column(String(128), nullable=True)
-    title: Mapped[str | None] = mapped_column(String(128), nullable=True)
-    email: Mapped[str | None] = mapped_column(String(255), nullable=True, index=True)
-    email_source: Mapped[str | None] = mapped_column(String(128), nullable=True)
-    phone: Mapped[str | None] = mapped_column(String(32), nullable=True)
+    first_name: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    last_name: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    title: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    email: Mapped[Optional[str]] = mapped_column(String(255), nullable=True, index=True)
+    email_source: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    phone: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
     is_decision_maker: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
     do_not_contact: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
-    suppression_reason: Mapped[str | None] = mapped_column(String(128), nullable=True)
+    suppression_reason: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)
     updated_at: Mapped[datetime] = mapped_column(
         DateTime, default=datetime.utcnow, onupdate=datetime.utcnow, nullable=False
@@ -183,8 +184,8 @@ class Contact(Base):
 
     # Relationships
     company: Mapped["Company"] = relationship("Company", back_populates="contacts")
-    drafts: Mapped[list["Draft"]] = relationship("Draft", back_populates="contact")
-    sent_emails: Mapped[list["SentEmail"]] = relationship("SentEmail", back_populates="contact")
+    drafts: Mapped[List["Draft"]] = relationship("Draft", back_populates="contact")
+    sent_emails: Mapped[List["SentEmail"]] = relationship("SentEmail", back_populates="contact")
 
     def __repr__(self) -> str:
         return (
@@ -203,19 +204,19 @@ class Draft(Base):
     company_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("companies.id", ondelete="CASCADE"), nullable=False, index=True
     )
-    contact_id: Mapped[int | None] = mapped_column(
+    contact_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("contacts.id", ondelete="SET NULL"), nullable=True, index=True
     )
-    user_id: Mapped[int | None] = mapped_column(
+    user_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("users.id", ondelete="SET NULL"), nullable=True, index=True
     )
     draft_type: Mapped[str] = mapped_column(String(64), nullable=False)
-    subject: Mapped[str | None] = mapped_column(String(512), nullable=True)
+    subject: Mapped[Optional[str]] = mapped_column(String(512), nullable=True)
     body: Mapped[str] = mapped_column(Text, nullable=False)
-    tone: Mapped[str | None] = mapped_column(String(64), nullable=True)
+    tone: Mapped[Optional[str]] = mapped_column(String(64), nullable=True)
     status: Mapped[str] = mapped_column(String(32), default="draft", nullable=False, index=True)
-    gmail_draft_id: Mapped[str | None] = mapped_column(String(256), nullable=True)
-    approved_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
+    gmail_draft_id: Mapped[Optional[str]] = mapped_column(String(256), nullable=True)
+    approved_at: Mapped[Optional[datetime]] = mapped_column(DateTime, nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)
     updated_at: Mapped[datetime] = mapped_column(
         DateTime, default=datetime.utcnow, onupdate=datetime.utcnow, nullable=False
@@ -223,9 +224,9 @@ class Draft(Base):
 
     # Relationships
     company: Mapped["Company"] = relationship("Company", back_populates="drafts")
-    contact: Mapped["Contact | None"] = relationship("Contact", back_populates="drafts")
-    user: Mapped["User | None"] = relationship("User", back_populates="drafts")
-    sent_email: Mapped["SentEmail | None"] = relationship(
+    contact: Mapped[Optional["Contact"]] = relationship("Contact", back_populates="drafts")
+    user: Mapped[Optional["User"]] = relationship("User", back_populates="drafts")
+    sent_email: Mapped[Optional["SentEmail"]] = relationship(
         "SentEmail", back_populates="draft", uselist=False
     )
 
@@ -243,32 +244,32 @@ class SentEmail(Base):
     __tablename__ = "sent_emails"
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
-    draft_id: Mapped[int | None] = mapped_column(
+    draft_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("drafts.id", ondelete="SET NULL"), nullable=True, index=True
     )
     company_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("companies.id", ondelete="CASCADE"), nullable=False, index=True
     )
-    contact_id: Mapped[int | None] = mapped_column(
+    contact_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("contacts.id", ondelete="SET NULL"), nullable=True, index=True
     )
-    user_id: Mapped[int | None] = mapped_column(
+    user_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("users.id", ondelete="SET NULL"), nullable=True, index=True
     )
     subject: Mapped[str] = mapped_column(String(512), nullable=False)
     body: Mapped[str] = mapped_column(Text, nullable=False)
     recipient_email: Mapped[str] = mapped_column(String(255), nullable=False, index=True)
-    gmail_message_id: Mapped[str | None] = mapped_column(String(256), nullable=True)
-    gmail_thread_id: Mapped[str | None] = mapped_column(String(256), nullable=True)
+    gmail_message_id: Mapped[Optional[str]] = mapped_column(String(256), nullable=True)
+    gmail_thread_id: Mapped[Optional[str]] = mapped_column(String(256), nullable=True)
     sent_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)
-    replied_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
+    replied_at: Mapped[Optional[datetime]] = mapped_column(DateTime, nullable=True)
     status: Mapped[str] = mapped_column(String(32), default="sent", nullable=False, index=True)
 
     # Relationships
-    draft: Mapped["Draft | None"] = relationship("Draft", back_populates="sent_email")
+    draft: Mapped[Optional["Draft"]] = relationship("Draft", back_populates="sent_email")
     company: Mapped["Company"] = relationship("Company", back_populates="sent_emails")
-    contact: Mapped["Contact | None"] = relationship("Contact", back_populates="sent_emails")
-    user: Mapped["User | None"] = relationship("User", back_populates="sent_emails")
+    contact: Mapped[Optional["Contact"]] = relationship("Contact", back_populates="sent_emails")
+    user: Mapped[Optional["User"]] = relationship("User", back_populates="sent_emails")
 
     def __repr__(self) -> str:
         return (
@@ -287,15 +288,15 @@ class SuppressionEntry(Base):
     email: Mapped[str] = mapped_column(
         String(255), unique=True, nullable=False, index=True
     )
-    company_name: Mapped[str | None] = mapped_column(String(255), nullable=True)
+    company_name: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)
     reason: Mapped[str] = mapped_column(String(64), nullable=False)
-    added_by_id: Mapped[int | None] = mapped_column(
+    added_by_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("users.id", ondelete="SET NULL"), nullable=True
     )
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)
 
     # Relationships
-    added_by: Mapped["User | None"] = relationship(
+    added_by: Mapped[Optional["User"]] = relationship(
         "User", back_populates="suppression_entries"
     )
 
@@ -310,17 +311,17 @@ class Activity(Base):
     __tablename__ = "activities"
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
-    user_id: Mapped[int | None] = mapped_column(
+    user_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("users.id", ondelete="SET NULL"), nullable=True, index=True
     )
     action: Mapped[str] = mapped_column(String(128), nullable=False)
-    entity_type: Mapped[str | None] = mapped_column(String(64), nullable=True)
-    entity_id: Mapped[int | None] = mapped_column(Integer, nullable=True)
-    details: Mapped[str | None] = mapped_column(Text, nullable=True)
+    entity_type: Mapped[Optional[str]] = mapped_column(String(64), nullable=True)
+    entity_id: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    details: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)
 
     # Relationships
-    user: Mapped["User | None"] = relationship("User", back_populates="activities")
+    user: Mapped[Optional["User"]] = relationship("User", back_populates="activities")
 
     __table_args__ = (
         Index("ix_activities_entity", "entity_type", "entity_id"),
@@ -344,7 +345,7 @@ class Note(Base):
     company_id: Mapped[int] = mapped_column(
         Integer, ForeignKey("companies.id", ondelete="CASCADE"), nullable=False, index=True
     )
-    user_id: Mapped[int | None] = mapped_column(
+    user_id: Mapped[Optional[int]] = mapped_column(
         Integer, ForeignKey("users.id", ondelete="SET NULL"), nullable=True, index=True
     )
     content: Mapped[str] = mapped_column(Text, nullable=False)
@@ -352,7 +353,7 @@ class Note(Base):
 
     # Relationships
     company: Mapped["Company"] = relationship("Company", back_populates="company_notes")
-    user: Mapped["User | None"] = relationship("User", back_populates="notes")
+    user: Mapped[Optional["User"]] = relationship("User", back_populates="notes")
 
     def __repr__(self) -> str:
         return f"<Note id={self.id} company_id={self.company_id} user_id={self.user_id}>"

@@ -1,5 +1,5 @@
 streamlit==1.45.0
-sqlalchemy==2.0.36
+sqlalchemy>=2.0.48
 anthropic==0.42.0
 google-auth==2.38.0
 google-auth-oauthlib==1.2.1
