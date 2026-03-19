@@ -340,8 +340,8 @@ def main():
             print(f"Total found this session: {total_found}")
 
             if found == 0:
-                print(f"Sleeping {SLEEP_BETWEEN_PASSES}s before next pass...")
-                time.sleep(SLEEP_BETWEEN_PASSES)
+                print(f"\nQueue empty. Scraper finished. Exiting.")
+                break
             else:
                 print("Starting next pass immediately...")
 
