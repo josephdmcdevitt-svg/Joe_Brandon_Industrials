@@ -113,14 +113,30 @@ def extract_emails_with_regex(html):
     pattern = r'[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}'
     found = re.findall(pattern, html)
     # Filter out common false positives
-    blacklist = {"example.com", "domain.com", "email.com", "yoursite.com",
+    blacklist_domains = {"example.com", "domain.com", "email.com", "yoursite.com",
                  "sentry.io", "wixpress.com", "wordpress.com", "googleapis.com",
-                 "w3.org", "schema.org", "googleusercontent.com", "gstatic.com"}
+                 "w3.org", "schema.org", "googleusercontent.com", "gstatic.com",
+                 "squarespace.com", "wix.com", "godaddy.com", "shopify.com",
+                 "mailchimp.com", "hubspot.com", "zendesk.com", "intercom.io",
+                 "crisp.chat", "tawk.to", "livechat.com", "drift.com",
+                 "dentalmarketer.ca", "dentalmarketer.com", "webdesign.com"}
+    # Blacklist usernames commonly belonging to web devs, not the business
+    blacklist_prefixes = {"noreply", "no-reply", "mailer-daemon", "postmaster",
+                          "webmaster", "developer", "dev", "support@wix",
+                          "support@squarespace", "lukas", "developer"}
     cleaned = []
     for email in found:
-        domain = email.split("@")[1].lower()
-        if domain not in blacklist and not email.endswith(".png") and not email.endswith(".jpg"):
-            cleaned.append(email.lower())
+        email_lower = email.lower()
+        domain = email_lower.split("@")[1]
+        prefix = email_lower.split("@")[0]
+        if (domain not in blacklist_domains
+                and prefix not in blacklist_prefixes
+                and not email_lower.endswith(".png")
+                and not email_lower.endswith(".jpg")
+                and not email_lower.endswith(".svg")
+                and "unsubscribe" not in email_lower
+                and "privacy" not in email_lower):
+            cleaned.append(email_lower)
     return list(set(cleaned))
 
 
@@ -141,6 +157,35 @@ Webpage content:
     # Extract email from response
     emails = re.findall(r'[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}', result)
     return emails[0].lower() if emails else None
+
+
+def validate_email_with_qwen(emails, company_name, website):
+    """Ask Qwen to pick the best business email from a list, filtering out web dev junk."""
+    if not emails:
+        return None
+    if len(emails) == 1:
+        # Quick check — does domain match the website?
+        email_domain = emails[0].split("@")[1]
+        website_clean = website.replace("https://", "").replace("http://", "").replace("www.", "").split("/")[0]
+        if email_domain == website_clean or "info@" in emails[0] or "office@" in emails[0] or "contact@" in emails[0] or "hello@" in emails[0]:
+            return emails[0]
+
+    email_list = "\n".join(emails[:10])
+    prompt = f"""I found these email addresses on the website for {company_name} ({website}):
+
+{email_list}
+
+Which one is the actual business contact email for {company_name}?
+Ignore emails belonging to web designers, marketing agencies, software companies, or third-party services.
+Return ONLY the single best business email. If none of them belong to {company_name}, return NONE."""
+
+    result = ask_qwen(prompt)
+    if not result or "NONE" in result.upper():
+        return None
+    found = re.findall(r'[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}', result)
+    if found and found[0].lower() in [e.lower() for e in emails]:
+        return found[0].lower()
+    return None
 
 
 def log_result(company_name, city, website, email, method):
@@ -224,10 +269,11 @@ def scrape_one(lead):
     # Try regex first (fast)
     emails = extract_emails_with_regex(html)
     if emails:
-        email = emails[0]
-        save_scraped_key(key)
-        log_result(company, city, website, email, "regex_homepage")
-        return email
+        email = validate_email_with_qwen(emails, company, website)
+        if email:
+            save_scraped_key(key)
+            log_result(company, city, website, email, "regex_homepage")
+            return email
 
     # Try /contact page (just one, fastest)
     base = website.rstrip("/")
@@ -235,10 +281,11 @@ def scrape_one(lead):
     if contact_html:
         emails = extract_emails_with_regex(contact_html)
         if emails:
-            email = emails[0]
-            save_scraped_key(key)
-            log_result(company, city, website, email, "regex_contact")
-            return email
+            email = validate_email_with_qwen(emails, company, website)
+            if email:
+                save_scraped_key(key)
+                log_result(company, city, website, email, "regex_contact")
+                return email
 
     # Only use Qwen if we got HTML but regex found nothing (skip if pages were empty/failed)
     if html and len(html) > 500:
