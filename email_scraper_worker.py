@@ -34,7 +34,8 @@ from pathlib import Path
 OLLAMA_URL = "http://192.168.1.123:11434/api/generate"
 OLLAMA_MODEL = "qwen3.5:9b"
 DATA_DIR = Path(__file__).parent / "data"
-MASTER_CSV = DATA_DIR / "master_leads_enriched.csv"
+MASTER_CSV = DATA_DIR / "master_leads_enriched.csv"  # read-only source
+STAGING_CSV = DATA_DIR / "qwen_found_emails.csv"    # Qwen writes here, validated before merging
 DRAFTS_CSV = DATA_DIR / "email_drafts.csv"
 EXPORT_CSV = DATA_DIR / "outreach_export.csv"
 LOG_CSV = DATA_DIR / "scraper_log.csv"
@@ -68,7 +69,7 @@ def save_scraped_key(key):
         f.write(key + "\n")
 
 
-def fetch_page(url, timeout=10):
+def fetch_page(url, timeout=5):
     """Fetch a webpage and return its text content."""
     if not url.startswith("http"):
         url = "https://" + url
@@ -219,34 +220,14 @@ def get_targets():
 
 
 def update_master_email(company_name, city, email):
-    """Update a single lead's email in the master CSV."""
-    with open(MASTER_CSV, "r", encoding="utf-8", errors="replace") as f:
-        reader = csv.reader(f)
-        header = next(reader)
-        rows = list(reader)
-
-    email_idx = header.index("email")
-    name_idx = header.index("company_name")
-    city_idx = header.index("city")
-
-    updated = False
-    for row in rows:
-        while len(row) < len(header):
-            row.append("N/A")
-        if (row[name_idx].strip().lower() == company_name.lower() and
-                row[city_idx].strip().lower() == city.lower() and
-                row[email_idx].strip() in ("", "N/A")):
-            row[email_idx] = email
-            updated = True
-            break
-
-    if updated:
-        with open(MASTER_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
-            writer.writerow(header)
-            writer.writerows(rows)
-
-    return updated
+    """Write found email to staging CSV (not master). Must be validated before merging."""
+    file_exists = STAGING_CSV.exists()
+    with open(STAGING_CSV, "a", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        if not file_exists:
+            writer.writerow(["company_name", "city", "email_found", "timestamp"])
+        writer.writerow([company_name, city, email, datetime.now().isoformat()])
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -287,13 +268,8 @@ def scrape_one(lead):
                 log_result(company, city, website, email, "regex_contact")
                 return email
 
-    # Only use Qwen if we got HTML but regex found nothing (skip if pages were empty/failed)
-    if html and len(html) > 500:
-        email = extract_emails_with_qwen(html, company)
-        if email:
-            save_scraped_key(key)
-            log_result(company, city, website, email, "qwen_extract")
-            return email
+    # Skip Qwen fallback — regex is fast and sufficient.
+    # Qwen was too slow (30s per site) and rarely found emails regex missed.
 
     save_scraped_key(key)
     log_result(company, city, website, None, "not_found")
