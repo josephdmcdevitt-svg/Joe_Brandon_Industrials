@@ -1,0 +1,223 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+New Bedford Management Corp.,New York,NY,New York City,Property Management,10,$1M-$3M,Peter von Simson,CEO,(212) 674-6123,peterv@nbmgmt.com,nbmgmt.com
+Prestige Management Inc.,Bronx,NY,New York City,Property Management,8,$1M-$3M,Horace Henry,Principal,(718) 822-7471,hhenry@prestigemgt.com,N/A
+ELH Management LLC,Brooklyn,NY,New York City,Property Management,7,$1M-$2M,Denise DiPalo,Owner,(718) 509-5881,denise@elhmgmt.com,elhmgmt.com
+Harlem Property Management,New York,NY,New York City,Property Management,10,$1M-$3M,Principal,Owner,(212) 280-6823,askai@harlempm.com,harlempm.com
+MD Squared Property Group,New York,NY,New York City,Property Management,12,$2M-$5M,Principal,Managing Director,N/A,N/A,mdsquaredpropertygroup.com
+Citadel Property Corp,New York,NY,New York City,Property Management,15,$3M-$7M,Principal,President,N/A,N/A,citadelnyc.com
+NYC Management,New York,NY,New York City,Property Management,8,$1M-$3M,Principal,Owner,N/A,N/A,nycmgmt.com
+Southern Sky Realty,Nashville,TN,Nashville,Property Management,6,$500K-$1.5M,Jeff Irwin,Principal Broker,(615) 592-5216,N/A,southernskyrealtynashville.com
+Bryant Properties LLC,Goodlettsville,TN,Nashville,Property Management,5,$500K-$1.5M,Larry Bryant,Owner,(615) 851-1953,N/A,N/A
+Browning-Gordon & Company,Nashville,TN,Nashville,Property Management,15,$3M-$7M,Principal,President,(615) 383-3999,N/A,browning-gordon.com
+Omni Realtors and Property Management,Nashville,TN,Nashville,Property Management,8,$1M-$3M,Principal,Owner,N/A,N/A,myomnirealty.com
+CHADY Property Management,Nashville,TN,Nashville,Property Management,6,$500K-$1.5M,Principal,Owner,(615) 307-0716,N/A,N/A
+Pure Property Management of Tennessee,Nashville,TN,Nashville,Property Management,10,$1M-$3M,Principal,Owner,(615) 840-2845,N/A,N/A
+PMI Bay State,Newton,MA,Boston,HOA Management,8,$1M-$3M,Principal,Owner,(617) 564-0802,N/A,newtonpropertymanagementinc.com
+PMI of Greater Boston,Boston,MA,Boston,HOA Management,7,$1M-$2M,Principal,Owner,(617) 420-5245,N/A,bostonpropertymanagementinc.com
+Thayer & Associates,Boston,MA,Boston,HOA Management,10,$1M-$3M,Principal,President,N/A,N/A,thayerassociates.com
+CHARLESGATE,Boston,MA,Boston,HOA Management,15,$2M-$5M,Principal,Managing Director,N/A,N/A,charlesgate.com
+The Dartmouth Group,Boston,MA,Boston,HOA Management,12,$2M-$5M,Principal,President,N/A,N/A,thedartmouthgroup.com
+Contact 1 Inc.,Washington,DC,Washington DC,Staffing Agency,10,$1M-$3M,Principal,Owner,N/A,N/A,contact1inc.com
+The Ford Agency,Washington,DC,Washington DC,Staffing Agency,12,$2M-$5M,Principal,Owner,N/A,N/A,ford-agency.com
+Whitman Associates,Washington,DC,Washington DC,Staffing Agency,15,$2M-$5M,Principal,President,N/A,N/A,whitmanjobs.com
+PrideStaff San Diego,San Diego,CA,San Diego,Recruiting Agency,10,$2M-$5M,Thomas Young,Owner/Strategic-Partner,N/A,N/A,pridestaff.com
+Manpower West,San Diego,CA,San Diego,Staffing Agency,18,$5M-$10M,Phil Blair,Co-Owner,N/A,N/A,manpowersandiego.com
+Insurance Brokers of MN - Minneapolis,Minneapolis,MN,Minneapolis,Insurance Brokerage,12,$2M-$5M,Tyler Flatmoe,Manager,(952) 567-9964,N/A,insurancebrokersmn.com
+Minnesota Insurance Brokers,Inver Grove Heights,MN,Minneapolis,Insurance Brokerage,6,$1M-$2M,Mike,Principal,(651) 432-5555,mike@minnesotaib.com,minnesotaib.com
+The Hegland Agency (BrokerMN),Minneapolis,MN,Minneapolis,Insurance Brokerage,5,$500K-$1.5M,Aaron Bialke,Owner,N/A,N/A,brokermn.com
+Leverage Lending Group,Charlotte,NC,Charlotte,Mortgage Brokerage,8,$1M-$3M,Angelo,Owner,N/A,N/A,lendwithleverage.com
+Peak Financial Group Inc.,Charlotte,NC,Charlotte,Mortgage Brokerage,6,$1M-$2M,Grant,Owner,(704) 215-4724,grant@peakfinancialgroupinc.com,peakfinancialmortgage.com
+Cobblestone Mortgage Corp,Charlotte,NC,Charlotte,Mortgage Brokerage,5,$500K-$1.5M,Norma Rowe,Owner,N/A,N/A,N/A
+Mortgages By Scott,Charlotte,NC,Charlotte,Mortgage Brokerage,5,$500K-$1.5M,Scott Hastings,Owner,N/A,N/A,mortgagesbyscott.com
+Wealth Advisors of Tampa Bay,Tampa,FL,Tampa,Wealth Management,8,$1M-$3M,Fenn,Managing Partner,N/A,N/A,wealthadvtb.com
+Florida Financial Advisors,Tampa,FL,Tampa,Financial Advisory,10,$1M-$3M,Jason Mickool,President,N/A,N/A,N/A
+Instrumental Wealth,Tampa,FL,Tampa,Wealth Management,6,$500K-$1.5M,Principal,Founder,N/A,N/A,instrumentalwealth.com
+The Miami Family Office,Miami,FL,Miami,Family Office,10,$2M-$5M,Richard C. Wilson,CEO,N/A,N/A,themiamifamilyoffice.com
+CV Advisors,Miami,FL,Miami,Family Office,15,$5M-$10M,Principal,Managing Partner,N/A,N/A,cv-advisors.com
+On Par Capital,Miami,FL,Miami,Family Office,8,$2M-$5M,Principal,Managing Director,N/A,N/A,N/A
+Cooke Wealth Management,Orange County,CA,Orange County,Financial Advisory,6,$1M-$2M,Principal,Owner,N/A,N/A,cookewm.com
+Williams Financial Advisors,Orange County,CA,Orange County,Financial Advisory,5,$500K-$1.5M,Principal,Owner,N/A,N/A,williamsfinancialadvisors.com
+Orange Capital Management,Orange County,CA,Orange County,Financial Advisory,8,$1M-$3M,Gaston Escudero,Co-Founder,N/A,N/A,orangecapitalmanagement.com
+Oak Street Advisory Group,Laguna Beach,CA,Orange County,Financial Advisory,5,$500K-$1.5M,Principal,Owner,N/A,N/A,oakstreetadvisory.com
+Eclectic Associates Inc.,Fullerton,CA,Orange County,Financial Advisory,6,$1M-$2M,Principal,President,N/A,N/A,eclecticassociates.com
+Sedai Wealth Partners,Irvine,CA,Orange County,Financial Advisory,5,$500K-$1.5M,Principal,Owner,N/A,N/A,sedaiwealth.com
+Landmark Property Management,Chicago,IL,Chicago,Property Management,10,$1M-$3M,Principal,Owner,N/A,office@landmarkrgc.com,chicagospropertymanagement.com
+33 Realty,Chicago,IL,Chicago,Property Management,15,$3M-$7M,Principal,Managing Director,(773) 327-4975,N/A,33realty.com
+MTD Property Management,Chicago,IL,Chicago,Property Management,12,$2M-$5M,Principal,President,N/A,N/A,mtdpropertymanagement.com
+GC Realty & Development LLC,Chicago,IL,Chicago,Property Management,10,$2M-$5M,Principal,Owner,N/A,N/A,gcrealtyinc.com
+Kass Management Services,Chicago,IL,Chicago,Property Management,18,$3M-$7M,Principal,President,N/A,N/A,kassmanagement.com
+McLennan Companies,Park Ridge,IL,Chicago,Property Management,8,$1M-$3M,Principal,Owner,N/A,N/A,mclennancos.com
+Delta Dallas,Dallas,TX,Dallas,Staffing Agency,15,$3M-$7M,Principal,Owner,(972) 788-2300,N/A,deltadallas.com
+KP Staffing,Dallas,TX,Dallas,Staffing Agency,18,$5M-$10M,Principal,Owner,N/A,N/A,kpstaffing.com
+PrideStaff Dallas,Dallas,TX,Dallas,Staffing Agency,10,$2M-$5M,Principal,Owner,N/A,N/A,staffingindallas.com
+Clayton Services,Houston,TX,Houston,Recruiting Agency,12,$2M-$5M,Principal,Owner,(281) 999-3080,N/A,claytonpersonnel.com
+Brookwoods Group,Houston,TX,Houston,Recruiting Agency,10,$2M-$5M,Principal,Owner,(713) 934-0532,N/A,brookwoods.com
+Unity Search Group,Houston,TX,Houston,Recruiting Agency,6,$1M-$2M,Principal,Owner,N/A,N/A,unitysearch.com
+Frontline Source Group,Houston,TX,Houston,Staffing Agency,15,$3M-$7M,Principal,Owner,(713) 960-6300,N/A,frontlinesourcegroup.com
+Georgia Insurance Brokerage Inc.,Atlanta,GA,Atlanta,Insurance Brokerage,8,$1M-$3M,Principal,Owner,(404) 525-1600,N/A,N/A
+The Ephraim Group,Atlanta,GA,Atlanta,Insurance Brokerage,6,$1M-$2M,Principal,Owner,N/A,N/A,theephraimgroup.com
+Rob Hill Insurance Group,Atlanta,GA,Atlanta,Insurance Brokerage,10,$1M-$3M,Rob Hill,Owner,N/A,N/A,robhillgroup.com
+Insurance Depot,Atlanta,GA,Atlanta,Insurance Brokerage,8,$1M-$3M,Principal,Owner,N/A,N/A,insurancedepotonline.com
+Independent Mortgage Brokers LLC,Denver,CO,Denver,Mortgage Brokerage,8,$1M-$3M,Ryan Davis,Owner,(303) 717-4330,info@imbrokers.net,independentmortgagebrokers.com
+Front Range Mortgage,Arvada,CO,Denver,Mortgage Brokerage,6,$1M-$2M,Brian Murphy,Owner,(303) 500-1900,N/A,frontrangemortgage.com
+Rob's Mortgage Loans,Denver,CO,Denver,Mortgage Brokerage,5,$500K-$1.5M,Rob,Owner,(303) 587-3600,N/A,robsmortgageloans.com
+Fullerton Financial Planning,Phoenix,AZ,Phoenix,Financial Advisory,6,$1M-$2M,Stephanie Fullerton,Co-Founder,N/A,N/A,fullertonfp.com
+Fitzgerald Wealth Management,Phoenix,AZ,Phoenix,Financial Advisory,5,$500K-$1.5M,John Fitzgerald,Owner,N/A,N/A,N/A
+Wealth Engineering,Phoenix,AZ,Phoenix,Financial Advisory,5,$500K-$1.5M,David Fernandez,Founder,N/A,N/A,N/A
+Miller Wealth Management,Phoenix,AZ,Phoenix,Financial Advisory,5,$500K-$1.5M,Rodd Miller,Owner,N/A,N/A,N/A
+Bay Property Management Group,Philadelphia,PA,Philadelphia,Property Management,15,$3M-$7M,Dana Anderson,President,(267) 244-7215,danderson@baymgmtgroup.com,baymgmtgroup.com
+Property Management International Greater Philadelphia,Philadelphia,PA,Philadelphia,Property Management,8,$1M-$3M,M. Simmons,Owner,(215) 995-3093,msimmons@greaterphilapm.com,philadelphiapropertymanagementintl.com
+Chapel Property Management LLC,Philadelphia,PA,Philadelphia,Property Management,10,$1M-$3M,Principal,Owner,N/A,N/A,chapelpm.com
+Rentwell,Philadelphia,PA,Philadelphia,Property Management,12,$2M-$5M,S. Watson,Principal,N/A,swatson@rentwell.com,rentwell.com
+TCS Property Management,Philadelphia,PA,Philadelphia,Property Management,8,$1M-$3M,Principal,Owner,N/A,N/A,tcsmgt.com
+American HOA Management,Los Angeles,CA,Los Angeles,HOA Management,10,$1M-$3M,Principal,President,N/A,N/A,americanhoamanagement.net
+Coast Management of California,Los Angeles,CA,Los Angeles,HOA Management,8,$1M-$3M,Principal,Owner,N/A,N/A,coastmanagementofcalifornia.com
+Optimum Property Management,Irvine,CA,Orange County,HOA Management,12,$2M-$5M,Principal,Owner,(714) 508-9070,N/A,optimumpm.com
+So Cal Property Enterprises,Corona,CA,Los Angeles,HOA Management,8,$1M-$3M,Principal,Owner,(888) 828-9444,N/A,socalenterprise.com
+Denver Wealth Management Inc.,Denver,CO,Denver,Wealth Management,8,$1M-$3M,Blair Braden,Managing Principal,N/A,N/A,denverwealthmanagement.com
+Dodds Wealth Management,Greenwood Village,CO,Denver,Wealth Management,10,$2M-$5M,Andrew T. Dodds,Owner,N/A,info@doddswealth.com,doddswealth.com
+Impact Staffing,Atlanta,GA,Atlanta,Staffing Agency,10,$2M-$5M,Kimberly Shackelford,President & Founder,N/A,N/A,N/A
+Hire Dynamics,Atlanta,GA,Atlanta,Staffing Agency,18,$5M-$10M,Dan Campbell,Founder,N/A,N/A,N/A
+Employ Partners,Atlanta,GA,Atlanta,Staffing Agency,8,$1M-$3M,Larkin Dailey,Owner & CEO,N/A,N/A,employpartners.com
+SelecSource Staffing,Atlanta,GA,Atlanta,Staffing Agency,12,$2M-$5M,Principal,Owner,N/A,N/A,selecsource.com
+Hoffman Realty,Tampa,FL,Tampa,Property Management,8,$1M-$3M,MaryAnn Hoffman,Owner,N/A,N/A,hoffmanrealty.com
+Stress Free Property Management,Tampa,FL,Tampa,Property Management,6,$500K-$1.5M,David Lowrey,Owner,(813) 386-5922,N/A,stressfreepropertymanagement.com
+Dennis Property Management,Lutz,FL,Tampa,Property Management,10,$1M-$3M,Principal,Owner,(813) 949-7444,N/A,dennisrealtyrentals.com
+WrightDavis,Tampa,FL,Tampa,Property Management,8,$1M-$3M,Principal,Owner,N/A,N/A,wrightdavis.com
+O'Connor Insurance Associates,Charlotte,NC,Charlotte,Insurance Brokerage,6,$1M-$2M,Terry O'Connor,Owner,N/A,team@oianc.com,oianc.com
+H.B. Cantrell & Co,Charlotte,NC,Charlotte,Insurance Brokerage,5,$500K-$1.5M,Principal,Owner,(704) 954-9000,N/A,hbcantrell.com
+Litaker Insurance,Charlotte,NC,Charlotte,Insurance Brokerage,5,$500K-$1.5M,Principal,Owner,(704) 376-9896,N/A,litakerinsurance.com
+Capstone Insurance Agency LLC,Charlotte,NC,Charlotte,Insurance Brokerage,6,$500K-$1.5M,Principal,Owner,(704) 391-8483,info@capstoneinsuranceagency.com,capstoneinsuranceagency.com
+Charlotte Insurance,Charlotte,NC,Charlotte,Insurance Brokerage,8,$1M-$3M,Principal,Owner,N/A,N/A,charlotteinsurance.com
+Boston Hire,Boston,MA,Boston,Recruiting Agency,6,$1M-$2M,Principal,Founder,N/A,N/A,bostonhire.net
+Monument Staffing,Boston,MA,Boston,Recruiting Agency,8,$1M-$3M,Principal,Owner,N/A,N/A,monumentstaffing.net
+ID Staffing Solutions,Boston,MA,Boston,Recruiting Agency,5,$500K-$1.5M,Ingrid Drago,Owner,N/A,N/A,N/A
+Manning Personnel Group,Boston,MA,Boston,Recruiting Agency,10,$2M-$5M,Principal,Owner,N/A,N/A,N/A
+Lee Danner & Bass Inc.,Nashville,TN,Nashville,Financial Advisory,15,$3M-$7M,Mark B. Smith,Owner & Director,N/A,N/A,leedannerbass.com
+Menzie & Associates,Nashville,TN,Nashville,Financial Advisory,5,$500K-$1.5M,Principal,Owner,N/A,N/A,menzieandassociates.com
+Nashville Financial Planning,Nashville,TN,Nashville,Financial Advisory,5,$500K-$1.5M,Principal,Founder,N/A,N/A,nashvillefp.com
+Oasis Wealth Planning,Nashville,TN,Nashville,Financial Advisory,6,$1M-$2M,Principal,Owner,N/A,N/A,oasiswealthplanning.com
+AZ Mortgage Broker LLC,Phoenix,AZ,Phoenix,Mortgage Brokerage,6,$1M-$2M,Craig Turley,Owner,N/A,N/A,azmortgagebroker.com
+AZ Mortgage Brothers,Phoenix,AZ,Phoenix,Mortgage Brokerage,8,$1M-$3M,Eddie Knoell,Co-Owner,N/A,N/A,azmortgagebrothers.com
+Blake Mortgage,Scottsdale,AZ,Phoenix,Mortgage Brokerage,5,$500K-$1.5M,Harry Blake Panosian,Founder,(480) 699-1055,info@blakemortgage.com,blakemortgage.com
+Orion Mortgage Corporation,Phoenix,AZ,Phoenix,Mortgage Brokerage,8,$1M-$3M,Brian D. Yampolsky,Co-Owner,(602) 912-0222,briany@orionmtg.com,N/A
+Keymont Community Management,Arlington,VA,Washington DC,HOA Management,10,$1M-$3M,Principal,Owner,(703) 752-8300,N/A,keymontcm.com
+PMI DC Beltway,Washington,DC,Washington DC,HOA Management,8,$1M-$3M,Principal,Owner,(301) 810-3741,N/A,washingtondcassociationmanagement.com
+CAMP Management,Fairfax,VA,Washington DC,HOA Management,12,$2M-$5M,Principal,President,N/A,N/A,gocampmgmt.com
+Chatel Real Estate,Washington,DC,Washington DC,HOA Management,15,$3M-$7M,Principal,President,N/A,N/A,chatelrealestate.com
+Linden Thomas & Company,Charlotte,NC,Charlotte,Wealth Management,10,$2M-$5M,Stephen L. Thomas,Founder,N/A,N/A,lindenthomas.com
+Calamita Wealth Management,Charlotte,NC,Charlotte,Wealth Management,5,$500K-$1.5M,Todd Calamita,Founder,N/A,N/A,calamitawealth.com
+Taylor Wealth Management Group,Charlotte,NC,Charlotte,Wealth Management,6,$1M-$2M,Michael Taylor,Founder,N/A,N/A,taylorwealthmgmt.com
+Newton Wealth Management,Charlotte,NC,Charlotte,Wealth Management,5,$500K-$1.5M,W. Edward Newton Jr.,Founder,N/A,N/A,newtonwealthmanagement.com
+Alloy Wealth Management,Charlotte,NC,Charlotte,Wealth Management,10,$2M-$5M,Mark Henry,CEO & Founder,N/A,N/A,alloywealth.com
+Pasas Property Management,San Diego,CA,San Diego,Property Management,6,$500K-$1.5M,Principal,Owner,(619) 607-7560,N/A,pasaspropertymanagement.com
+The Comana Company,La Mesa,CA,San Diego,Property Management,8,$1M-$3M,Principal,Owner,(619) 741-0052,N/A,comanacompany.com
+Tranquility Management Services,San Diego,CA,San Diego,Property Management,6,$500K-$1.5M,Principal,Owner,(619) 535-8761,info@tranquilitysandiego.com,tranquilitysandiego.com
+FBS Property Management,San Diego,CA,San Diego,Property Management,8,$1M-$3M,Principal,Owner,(619) 286-7600,N/A,fbs-pm.com
+Mercer Properties,San Diego,CA,San Diego,Property Management,7,$1M-$2M,Principal,Owner,N/A,N/A,mercerproperties.com
+City Staffing,Chicago,IL,Chicago,Staffing Agency,10,$2M-$5M,Ellen Dettling,President & Co-Founder,N/A,N/A,citystaffing.com
+Sharp Staff Inc,Chicago,IL,Chicago,Staffing Agency,8,$1M-$3M,Principal,Owner,N/A,N/A,N/A
+Primary Staffing,Chicago,IL,Chicago,Staffing Agency,10,$1M-$3M,Principal,Owner,(773) 376-0486,N/A,primary-staffing.net
+Texas Family Benefits,Houston,TX,Houston,Insurance Brokerage,6,$1M-$2M,J. Casey Lowery,Owner,N/A,jcaseylowery@texfamben.com,texasfamilybenefits.com
+Texan Insurance,Houston,TX,Houston,Insurance Brokerage,10,$1M-$3M,Principal,Owner,N/A,N/A,texaninsurance.com
+Iscential,Houston,TX,Houston,Insurance Brokerage,15,$3M-$7M,Principal,Owner,N/A,N/A,iscential.com
+Allwin Insurance Agency,Houston,TX,Houston,Insurance Brokerage,6,$500K-$1.5M,Principal,Owner,(713) 952-5031,N/A,allwininsurance.com
+American Recruiting & Consulting,Miami,FL,Miami,Recruiting Agency,10,$2M-$5M,Principal,Owner,(305) 940-0422,info@arcgrouponline.com,arcgonline.com
+ACCUR Recruiting Services,Miami,FL,Miami,Recruiting Agency,8,$1M-$3M,Principal,Owner,N/A,N/A,accurservices.com
+Jayce Gray Consulting,Miami,FL,Miami,Recruiting Agency,5,$500K-$1.5M,Principal,Owner,N/A,N/A,jaycegrayyeconsulting.com
+Wescott Financial Advisory Group,Philadelphia,PA,Philadelphia,Financial Advisory,15,$3M-$7M,Grant Rawdin,CEO,N/A,gpinto@wescott.com,wescott.com
+Apex Financial Advisors Inc.,Philadelphia,PA,Philadelphia,Financial Advisory,8,$1M-$3M,Robert A. Connell,CEO & Founder,N/A,N/A,N/A
+Wissahickon Wealth Management,Philadelphia,PA,Philadelphia,Financial Advisory,6,$1M-$2M,Principal,Owner,N/A,N/A,wissahickonwm.com
+Venturi Private Wealth,Philadelphia,PA,Philadelphia,Financial Advisory,8,$1M-$3M,Principal,Owner,N/A,N/A,N/A
+OCRPM,Orange County,CA,Orange County,Property Management,6,$500K-$1.5M,Principal,Owner,(949) 464-7653,info@ocrpm.com,ocrpm.com
+OC Pro Property Management,Orange County,CA,Orange County,Property Management,8,$1M-$3M,Principal,Owner,(714) 202-8100,N/A,ocpropm.com
+TrueDoor Property Management,Orange County,CA,Orange County,Property Management,12,$2M-$5M,Principal,Owner,N/A,N/A,truedoorpm.com
+MLS Mortgage Group,Minneapolis,MN,Minneapolis,Mortgage Brokerage,5,$500K-$1.5M,Eric,Co-Owner,(612) 789-5626,N/A,mlsmortgage.com
+Rainbow Mortgage Inc.,Minneapolis,MN,Minneapolis,Mortgage Brokerage,5,$500K-$1.5M,Gale,President,N/A,N/A,rainbowmortgageinc.com
+KPT Mortgage Advisors,Minneapolis,MN,Minneapolis,Mortgage Brokerage,6,$1M-$2M,Principal,Owner,N/A,N/A,kptmortgage.com
+Professional Insurance Services,Tampa,FL,Tampa,Insurance Brokerage,6,$1M-$2M,Principal,Owner,(813) 963-6701,info@proinsuranceflorida.com,proinsuranceflorida.com
+Florida Risk Partners,Tampa,FL,Tampa,Insurance Brokerage,10,$2M-$5M,Principal,Owner,(888) 601-6660,N/A,floridariskpartners.com
+Mutual Insurance Agency Tampa,Tampa,FL,Tampa,Insurance Brokerage,6,$500K-$1.5M,Principal,Owner,N/A,N/A,mutualinsurancetampa.com
+The Brokerage Insurance Group,Centennial,CO,Denver,Insurance Brokerage,6,$1M-$2M,Rob Whittet,Co-Founder,N/A,N/A,thebrokerageig.com
+Colorado Insurance Broker Inc.,Denver,CO,Denver,Insurance Brokerage,5,$500K-$1.5M,Principal,Owner,(303) 694-1413,N/A,coloradoinsurancebroker.com
+Mountain Insurance,Denver,CO,Denver,Insurance Brokerage,8,$1M-$3M,Principal,Owner,N/A,N/A,mountaininsurance.com
+PMI Los Angeles,Los Angeles,CA,Los Angeles,Property Management,8,$1M-$3M,Robert,Founder & President,(323) 342-5479,robert@losangelespmi.com,losangelespmi.com
+Los Angeles Property Management Group,Studio City,CA,Los Angeles,Property Management,15,$3M-$7M,David Crown,CEO,(323) 255-9400,N/A,losangelespropertymanagementgroup.com
+EGL Properties,Los Angeles,CA,Los Angeles,Property Management,12,$2M-$5M,Principal,Owner,(323) 484-1670,N/A,eglproperties.com
+Kingston Management Group,Los Angeles,CA,Los Angeles,Property Management,8,$1M-$3M,Principal,Owner,(310) 362-3490,N/A,kingston-mg.com
+LRS Realty & Management,Los Angeles,CA,Los Angeles,Property Management,15,$3M-$7M,Gail Bernstein,Co-Founder,N/A,N/A,lrspropertymanagement.com
+Satovsky Asset Management,New York,NY,New York City,Wealth Management,8,$2M-$5M,Principal,Founder,N/A,N/A,satovsky.com
+BBR Partners,New York,NY,New York City,Wealth Management,18,$5M-$10M,Principal,Managing Partner,N/A,N/A,bbrpartners.com
+Leap Wealth Management LLC,Dallas,TX,Dallas,Financial Advisory,5,$500K-$1.5M,Chris Leap,Founder,N/A,N/A,N/A
+Your Richest Life,Dallas,TX,Dallas,Financial Advisory,5,$500K-$1.5M,Katie Brewer,Founder,N/A,N/A,N/A
+Heritage Financial Planning,Dallas,TX,Dallas,Financial Advisory,6,$1M-$2M,Steve Blankenship,Founder,N/A,N/A,N/A
+Chessman Wealth Strategies,Dallas,TX,Dallas,Financial Advisory,6,$1M-$2M,Wade Chessman,Founder,N/A,N/A,N/A
+J.K. Financial Inc.,Dallas,TX,Dallas,Financial Advisory,5,$500K-$1.5M,John A. Kvale,Founder,N/A,N/A,N/A
+Smith Anglin,Dallas,TX,Dallas,Financial Advisory,12,$2M-$5M,Weston Pollock,Managing Partner,N/A,N/A,smithanglin.com
+Arizona HOA Management Inc.,Phoenix,AZ,Phoenix,HOA Management,8,$1M-$3M,Curly Watrous,Co-Owner,N/A,N/A,myazhoa.com
+Heywood Management,Phoenix,AZ,Phoenix,HOA Management,10,$1M-$3M,Principal,Owner,N/A,N/A,heywoodmanagement.com
+Brown Community Management,Phoenix,AZ,Phoenix,HOA Management,12,$2M-$5M,Principal,Owner,N/A,N/A,brownmanagement.com
+Cornerstone Properties LLC,Phoenix,AZ,Phoenix,HOA Management,8,$1M-$3M,Principal,Owner,N/A,N/A,cpihoa.com
+Madison Recruiting Group,Charlotte,NC,Charlotte,Recruiting Agency,6,$1M-$2M,Mark Stevens,Founder,N/A,N/A,madisonrecruitinggroup.com
+GoSource,Charlotte,NC,Charlotte,Recruiting Agency,8,$1M-$3M,E.G. Souder,Co-Founder,N/A,N/A,N/A
+Performance Staffing Solutions,Charlotte,NC,Charlotte,Staffing Agency,10,$2M-$5M,Principal,Owner,N/A,N/A,performss.com
+McCaw Property Management,Keller,TX,Dallas,Property Management,8,$1M-$3M,Principal,Owner,(817) 491-2553,office@mccawpm.com,mccawpropertymanagement.com
+Green Light Property Management,Fort Worth,TX,Dallas,Property Management,10,$1M-$3M,Principal,Owner,(817) 230-8201,N/A,greenlightpropertymanagement.com
+North Texas Property Management,Plano,TX,Dallas,Property Management,8,$1M-$3M,Principal,Owner,(214) 227-7669,N/A,ntxpm.com
+RHOME Companies,Dallas,TX,Dallas,Property Management,10,$2M-$5M,Principal,Owner,(844) 908-0218,support@rhomepm.com,rhomepm.com
+Merino Wealth,Chicago,IL,Chicago,Financial Advisory,5,$500K-$1.5M,Principal,Founder,N/A,N/A,merinowealth.com
+Virtue Asset Management,Chicago,IL,Chicago,Financial Advisory,6,$1M-$2M,Principal,Owner,N/A,N/A,virtueam.com
+The Tranel Financial Group,Chicago,IL,Chicago,Financial Advisory,8,$1M-$3M,Principal,Owner,(847) 680-9050,N/A,thetranelfinancialgroup.com
+Blueprint Wealth Advisors,Chicago,IL,Chicago,Financial Advisory,5,$500K-$1.5M,Ryan F. Evans,Co-Founder,N/A,N/A,N/A
+Staff Force - Phoenix,Phoenix,AZ,Phoenix,Staffing Agency,10,$2M-$5M,Principal,Owner,(623) 471-9292,N/A,staff-force.com
+All Star Labor & Staffing,Phoenix,AZ,Phoenix,Staffing Agency,8,$1M-$3M,Principal,Owner,N/A,N/A,allstarlabor.com
+Lincoln Brokerage,Brooklyn,NY,New York City,Insurance Brokerage,8,$1M-$3M,Principal,Owner,(718) 836-1100,service@lincolnbrokerage.com,lincolnbrokerage.com
+JDI Brokerage,Brooklyn,NY,New York City,Insurance Brokerage,6,$1M-$2M,Principal,Owner,(718) 486-5051,N/A,jdibrokerage.com
+Kathryn E. Murphy Insurance Agency,New York,NY,New York City,Insurance Brokerage,5,$500K-$1.5M,Kathryn E. Murphy,Owner,N/A,N/A,N/A
+C R Mortgage Solutions,Atlanta,GA,Atlanta,Mortgage Brokerage,5,$500K-$1.5M,Constance Garrett,Owner,N/A,N/A,N/A
+Southeastern Mortgage Solutions,Atlanta,GA,Atlanta,Mortgage Brokerage,8,$1M-$3M,Seth Toporek,President & Owner,N/A,N/A,N/A
+Mortgage Brothers LLC,Alpharetta,GA,Atlanta,Mortgage Brokerage,6,$1M-$2M,Principal,Owner,N/A,hello@mortgagebrothersatl.com,mortgagebrothersatl.com
+Moreira Team,Atlanta,GA,Atlanta,Mortgage Brokerage,10,$2M-$5M,Principal,Owner,(404) 238-7888,N/A,moreirateam.com
+Texas Wealth Management,Houston,TX,Houston,Wealth Management,6,$1M-$2M,Mike,President & Founder,N/A,N/A,texaswealthmanagement.com
+Post Oak Private Wealth Advisors,Houston,TX,Houston,Wealth Management,12,$3M-$7M,Robert M. Wyrick Jr.,Managing Director,N/A,N/A,postoakprivatewealth.com
+FCA Corp,Houston,TX,Houston,Wealth Management,10,$2M-$5M,Robert Scharar,Founder,N/A,N/A,fcacorp.com
+CAP Management,Denver,CO,Denver,HOA Management,8,$1M-$3M,Principal,Owner,N/A,N/A,capmanagement.com
+K3 Management,Denver,CO,Denver,HOA Management,6,$500K-$1.5M,Principal,Owner,N/A,N/A,k3mgmt.com
+Haven Community Management,Denver,CO,Denver,HOA Management,10,$1M-$3M,Principal,Owner,N/A,N/A,havencm.com
+Goodwin & Company,Denver,CO,Denver,HOA Management,12,$2M-$5M,Principal,Owner,(303) 693-2118,N/A,goodwin-co.com
+Hiregy,Tampa,FL,Tampa,Staffing Agency,10,$2M-$5M,Principal,Owner,N/A,N/A,hiregy.com
+HH Staffing Services,Tampa,FL,Tampa,Staffing Agency,12,$2M-$5M,Principal,Owner,N/A,N/A,hhstaffingservices.com
+Xclusive Staffing,Tampa,FL,Tampa,Staffing Agency,8,$1M-$3M,Principal,Owner,N/A,N/A,xclusivestaffing.com
+Tidewater Property Management,Baltimore,MD,Washington DC,Property Management,15,$3M-$7M,Principal,Owner,(443) 548-0191,N/A,tidewaterproperty.com
+EJF Real Estate,Washington,DC,Washington DC,HOA Management,12,$2M-$5M,Principal,Owner,N/A,N/A,ejfrealestate.com
+Allstate HOA Management,Los Angeles,CA,Los Angeles,HOA Management,8,$1M-$3M,Principal,Owner,N/A,N/A,hoamgmt.com
+HOA Unity,Los Angeles,CA,Los Angeles,HOA Management,6,$500K-$1.5M,Principal,Owner,N/A,N/A,hoaunity.com
+Executive Mortgage Brokers LLC,Minnetonka,MN,Minneapolis,Mortgage Brokerage,6,$1M-$2M,Principal,Owner,N/A,N/A,executivemortgagebrokers.com
+Mecklenburg Mortgage,Charlotte,NC,Charlotte,Mortgage Brokerage,8,$1M-$3M,Principal,Owner,N/A,N/A,mecklenburgmortgage.com
+Independent Agency Alliance,Oldsmar,FL,Tampa,Insurance Brokerage,5,$500K-$1.5M,Principal,Owner,(714) 860-5567,jdean@aborgia.com,N/A
+Cornerstone Insurance Inc.,Tampa,FL,Tampa,Insurance Brokerage,8,$1M-$3M,Principal,Owner,N/A,N/A,livecovered.com
+Distribution Recruiters,Atlanta,GA,Atlanta,Recruiting Agency,6,$1M-$2M,Russ Baker,Founder,N/A,N/A,N/A
+Odell Medical Search,Dallas,TX,Dallas,Recruiting Agency,5,$500K-$1.5M,Principal,Owner,N/A,N/A,N/A
+Murray Resources,Houston,TX,Houston,Recruiting Agency,15,$3M-$7M,Principal,Owner,N/A,N/A,murrayresources.com
+Burnett Specialists,Houston,TX,Houston,Staffing Agency,18,$5M-$10M,Principal,Owner,N/A,N/A,burnettspecialists.com
+PCR Staffing,Charlotte,NC,Charlotte,Staffing Agency,10,$2M-$5M,Principal,Owner,N/A,N/A,pcr.net
+Goodwin Recruiting,Boston,MA,Boston,Recruiting Agency,8,$1M-$3M,Principal,Owner,N/A,N/A,goodwinrecruiting.com
+Philly Skyline Property Management,Philadelphia,PA,Philadelphia,Property Management,6,$500K-$1.5M,Principal,Owner,N/A,N/A,phillyskylinepm.com
+Power Property Management,Los Angeles,CA,Los Angeles,Property Management,10,$1M-$3M,Principal,Owner,N/A,N/A,powerpropertymanagement.com
+LBPM,Los Angeles,CA,Los Angeles,Property Management,18,$3M-$7M,Principal,Owner,N/A,N/A,lbpm.com
+Elcap Mortgage Inc.,Atlanta,GA,Atlanta,Mortgage Brokerage,5,$500K-$1.5M,Principal,Owner,(404) 671-9460,N/A,elcapmortgage.com
+Sage Financial Group,Philadelphia,PA,Philadelphia,Financial Advisory,10,$2M-$5M,Principal,Owner,N/A,N/A,N/A
+Tristate Financial Advisors - Nashville,Nashville,TN,Nashville,Financial Advisory,6,$1M-$2M,Principal,Owner,N/A,N/A,tristatefa.com
+Tristate Financial Advisors - Philadelphia,Philadelphia,PA,Philadelphia,Financial Advisory,6,$1M-$2M,Principal,Owner,N/A,N/A,tristatefa.com
+Mortgage Maestro Group,Denver,CO,Denver,Mortgage Brokerage,6,$1M-$2M,Principal,Owner,N/A,N/A,mortgage-maestro.com
+Naviga Recruiting,Miami,FL,Miami,Recruiting Agency,10,$2M-$5M,Principal,Owner,N/A,N/A,navigarecruiting.com
+Rent Solutions,Tampa,FL,Tampa,Property Management,8,$1M-$3M,Principal,Owner,N/A,N/A,rentsolutions.com
+Mark McDuffie Insurance Agency,Charlotte,NC,Charlotte,Insurance Brokerage,5,$500K-$1.5M,Mark McDuffie,Owner,N/A,N/A,mcduffieinsurance.com
+Lowry Associates Insurance,Charlotte,NC,Charlotte,Insurance Brokerage,8,$1M-$3M,Principal,Owner,N/A,N/A,lowryassoc.com
+IHS Insurance Group,Houston,TX,Houston,Insurance Brokerage,10,$1M-$3M,Principal,Owner,(281) 255-4444,N/A,ihsinsurance.net
+Insurance Over Texas,Houston,TX,Houston,Insurance Brokerage,8,$1M-$3M,Principal,Owner,(281) 752-6704,N/A,insuranceovertexas.com
+HND Realty LLC,Nashville,TN,Nashville,Property Management,8,$1M-$3M,Principal,Owner,N/A,N/A,hndrealty.com
+TCS Management Nashville,Nashville,TN,Nashville,Property Management,10,$1M-$3M,Principal,Owner,N/A,N/A,tcsmgt.com
+Harland Property Management,San Diego,CA,San Diego,Property Management,10,$1M-$3M,Principal,Owner,N/A,N/A,sandiegopropertymanagement.com
+Good Life Property Management,San Diego,CA,San Diego,Property Management,12,$2M-$5M,Principal,Owner,N/A,N/A,goodlifemgmt.com
+Penny Realty,San Diego,CA,San Diego,Property Management,15,$3M-$7M,Principal,Owner,N/A,N/A,pennyrealty.com

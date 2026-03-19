@@ -1,0 +1,247 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+New York Dental Office,New York,NY,New York City,Dental Practice,8,$1M-$2M,Corey Brick DDS,Owner/Dentist,(212) 548-3261,N/A,https://www.newyorkdentaloffice.com/
+DDS Group NYC,New York,NY,New York City,Dental Practice,10,$1.5M-$3M,Owner,Owner/Dentist,(212) 269-6655,N/A,https://www.ddsgroupnyc.com/
+M.Y. Dental Spa,New York,NY,New York City,Dental Practice,8,$1M-$2M,Owner,Owner/Dentist,(212) 935-3212,N/A,https://www.mydentalspa.net/
+Downtown Dental Studio,New York,NY,New York City,Dental Practice,10,$1.5M-$3M,Alexander Kimon DMD,Owner/Dentist,(680) 205-5994,N/A,https://www.downtowndentalstudio.com/
+Westside Veterinary Center,New York,NY,New York City,Veterinary Clinic,12,$2M-$4M,Owner,Owner/Veterinarian,N/A,N/A,https://westsidevetcenter.com/
+Lenox Hill Veterinarians,New York,NY,New York City,Veterinary Clinic,10,$2M-$3M,Dr. Putter,Owner/Veterinarian,N/A,N/A,https://www.lenoxhillveterinarians.com/
+York Veterinary Center,New York,NY,New York City,Veterinary Clinic,8,$1.5M-$2.5M,Spencer J. Herman DVM,Owner/Veterinarian,N/A,N/A,https://www.yorkveterinarycenter.com/
+Northside Veterinary Clinic,Brooklyn,NY,New York City,Veterinary Clinic,10,$1.5M-$3M,Daniel Leiman DVM,Owner/Veterinarian,N/A,N/A,https://www.northsideveterinaryclinic.com/
+Royal Orthodontics,New York,NY,New York City,Orthodontics,8,$1.5M-$3M,Owner,Owner/Orthodontist,N/A,N/A,https://www.royalorthodontics.com
+Gramercy Orthodontics,New York,NY,New York City,Orthodontics,8,$1.5M-$3M,Dr. Berk,Owner/Orthodontist,N/A,N/A,https://gramercyorthonyc.com/
+Elite Orthodontics,New York,NY,New York City,Orthodontics,8,$1.5M-$3M,Erika Faust,Owner/Orthodontist,N/A,N/A,https://www.eliteorthonyc.com/
+Wall Street Orthodontics,New York,NY,New York City,Orthodontics,7,$1M-$2.5M,Lucas W. Shapiro,Owner/Orthodontist,N/A,N/A,https://www.wallstreetortho.com/
+Avenue South Orthodontics,Nashville,TN,Nashville,Orthodontics,8,$1M-$2.5M,Brandon Foltz,Owner/Orthodontist,N/A,N/A,https://avenuesouthorthodontics.com/
+Nash Orthodontics,Nashville,TN,Nashville,Orthodontics,10,$1.5M-$3M,Dr. Smith,Owner/Orthodontist,N/A,N/A,https://www.mynashortho.com/
+Hall Orthodontics,Nashville,TN,Nashville,Orthodontics,7,$1M-$2M,Dr. Hall,Owner/Orthodontist,N/A,N/A,https://mhallortho.com/
+Sims Orthodontics,Nashville,TN,Nashville,Orthodontics,10,$1.5M-$3M,Robert Sims,Owner/Orthodontist,N/A,N/A,https://www.simsortho.com/
+Collins Orthodontics,Nashville,TN,Nashville,Orthodontics,8,$1M-$2.5M,Sam Collins,Owner/Orthodontist,N/A,N/A,https://collinsorthotn.com/
+Genuine Orthodontics,Brentwood,TN,Nashville,Orthodontics,8,$1M-$2.5M,Alex Blaseio,Owner/Orthodontist,N/A,N/A,https://www.genuineorthodontics.com/
+Warner Parks Family Dental,Nashville,TN,Nashville,Dental Practice,10,$1.5M-$3M,Bob Wilson DMD,Owner/Dentist,N/A,N/A,https://www.warnerparksfamilydental.com/
+Clayton Dental Group,Nashville,TN,Nashville,Dental Practice,8,$1M-$2M,Owner,Owner/Dentist,N/A,N/A,https://www.cdgnashville.com/
+Nations Dental Studio,Nashville,TN,Nashville,Dental Practice,7,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://nationsdentalstudio.com/
+Miller Family Dentistry,Nashville,TN,Nashville,Dental Practice,8,$1M-$2M,Owner,Owner/Dentist,N/A,N/A,https://www.millerfamilydentistrytn.com/
+Nashville Med Spa,Nashville,TN,Nashville,Med Spa,8,$1M-$2.5M,Owner,Owner,(615) 431-3724,info@nashmedspa.com,https://www.nashmedspa.com/
+Skin MB,Nashville,TN,Nashville,Med Spa,7,$800K-$2M,Owner,Owner/Medical Director,N/A,N/A,https://skinmb.com/
+Belle Meade Medical SPA,Nashville,TN,Nashville,Med Spa,8,$1M-$2.5M,Owner,Owner/Medical Director,N/A,N/A,https://www.bellemeademedicalspa.com/
+Donelson Chiropractic Clinic,Nashville,TN,Nashville,Chiropractic Clinic,6,$600K-$1.2M,Rewan Amedi DC,Owner/Chiropractor,N/A,N/A,https://www.donelsonchiropractic.com
+Green Hills Chiropractic Clinic,Nashville,TN,Nashville,Chiropractic Clinic,7,$700K-$1.5M,Cameron Beilke DC,Owner/Chiropractor,N/A,N/A,https://www.greenhillschiropractic.com/
+Roth Wellness and Chiropractic,Nashville,TN,Nashville,Chiropractic Clinic,6,$600K-$1.2M,Dr. Roth,Owner/Chiropractor,N/A,N/A,https://www.rothwellness.com/
+Sweeney Chiropractic,Nashville,TN,Nashville,Chiropractic Clinic,6,$600K-$1.2M,Dr. Sweeney,Owner/Chiropractor,N/A,N/A,https://www.sweeneychiropractic.com/
+Axis Chiropractic,Nashville,TN,Nashville,Chiropractic Clinic,7,$700K-$1.5M,Steve Kim DC,Owner/Chiropractor,N/A,N/A,https://axischirotn.com/
+Nashville Dermatology and Skin Cancer Clinic,Nashville,TN,Nashville,Dermatology Clinic,10,$1.5M-$3M,Dr. Keyes,Owner/Dermatologist,N/A,N/A,https://www.nashvilledermatologynashvilletn.com/
+Curcio Dermatology,Nashville,TN,Nashville,Dermatology Clinic,8,$1.5M-$3M,Natalie Curcio MD,Owner/Dermatologist,N/A,N/A,https://www.curciodermatology.com/
+Nashville Dermatology Physicians,Brentwood,TN,Nashville,Dermatology Clinic,10,$2M-$4M,Jeffrey Berti MD,Owner/Dermatologist,N/A,N/A,https://www.nashvilledermatologyphysicians.com/
+Nashville Psych,Nashville,TN,Nashville,Behavioral Health Clinic,8,$800K-$1.5M,Daniel Goldstein PhD,Owner/Psychologist,N/A,N/A,https://www.nashvillepsych.com/
+The Briggs Institute,Nashville,TN,Nashville,Behavioral Health Clinic,7,$600K-$1.2M,Justin Gregory Briggs PhD,Owner/Therapist,N/A,N/A,https://www.thebriggsinstitute.com/
+Sound Shapes Spa LLC,Boston,MA,Boston,Med Spa,8,$1M-$2M,Paul S.,Owner,(617) 367-1900,pauls@sound-shapes.com,https://www.sound-shapes.com/
+KDR MedSpa + Wellness,Boston,MA,Boston,Med Spa,6,$800K-$1.5M,Kathryn Russo,Owner,N/A,N/A,https://kathrynrussoaesthetics.com/
+Boston Physical Therapy & Wellness,Boston,MA,Boston,Physical Therapy Clinic,8,$800K-$1.5M,David J. Koehn,Owner/Physical Therapist,N/A,N/A,https://bostonptwellness.com/
+Refresh Physical Therapy,Boston,MA,Boston,Physical Therapy Clinic,6,$500K-$1M,Johanna Russell PT DPT,Owner/Physical Therapist,N/A,N/A,https://www.refreshpt.com/
+Paggi Physical Therapy,Brookline,MA,Boston,Physical Therapy Clinic,7,$700K-$1.2M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.paggipt.com/
+Joint Ventures Physical Therapy,Boston,MA,Boston,Physical Therapy Clinic,12,$1.5M-$3M,Dan and Dave,Owners/Physical Therapists,N/A,N/A,https://www.jointventurespt.com/
+Boston Dental,Boston,MA,Boston,Dental Practice,15,$3M-$5M,Maged El-Malecki DMD,Dental Director,N/A,N/A,https://www.bostondental.com/
+Smile Design Boston,Boston,MA,Boston,Dental Practice,10,$2M-$3.5M,Owner,Owner/Dentist,N/A,N/A,https://www.smiledesignboston.com/
+Dental Associates of New England,Boston,MA,Boston,Dental Practice,10,$1.5M-$3M,John D. Meola,Owner/Dentist,N/A,N/A,https://www.bostonsmile.com/
+Turning Leaf Dental,Boston,MA,Boston,Dental Practice,7,$1M-$2M,Rachel Beamer,Owner/Dentist,N/A,N/A,https://www.mybackbaydentist.com/
+The Dermatology Institute of Boston,Boston,MA,Boston,Dermatology Clinic,8,$1.5M-$3M,Emmy M. Graber MD,Founder/Dermatologist,N/A,N/A,https://www.dermboston.com/
+Skin Center Boston,Boston,MA,Boston,Dermatology Clinic,7,$1M-$2M,Vladyslava Doktor MD,Owner/Dermatologist,N/A,N/A,https://skincenterboston.com/
+Evolve Chiropractic & Wellness,Boston,MA,Boston,Chiropractic Clinic,6,$600K-$1.2M,Inyoung Yang DC,Owner/Chiropractor,N/A,N/A,https://evolve-chiropractic.com/
+Waterfront Chiropractic,Boston,MA,Boston,Chiropractic Clinic,5,$500K-$1M,Jeffrey Kennis DC,Owner/Chiropractor,N/A,N/A,https://www.chiroboston.com/
+Beneski Chiropractic & Wellness,Boston,MA,Boston,Chiropractic Clinic,5,$500K-$1M,Dr. Beneski,Owner/Chiropractor,N/A,N/A,https://chiro02109.com/
+Seaport Spine & Sport,Boston,MA,Boston,Chiropractic Clinic,6,$600K-$1.2M,Ryan Hollien DC,Owner/Chiropractor,N/A,N/A,https://www.seaportspine.com/
+Ripple Counseling LLC,Boston,MA,Boston,Behavioral Health Clinic,5,$400K-$800K,Isabelle Grenier LMHC,Owner/Counselor,N/A,N/A,https://www.isabellegrenierlmhc.com/
+Boston Behavioral Medicine LLC,Boston,MA,Boston,Behavioral Health Clinic,10,$1M-$2M,Amaro Laria PhD,Co-Founder,N/A,N/A,https://www.bostonbmed.com/
+District Injury & Spine Center,Washington,DC,Washington DC,Chiropractic Clinic,8,$800K-$1.5M,Powell Shiau DC,Owner/Chiropractor,(202) 599-9069,N/A,https://districtinjury.com/
+Cibelle Chiropractic of Georgetown,Washington,DC,Washington DC,Chiropractic Clinic,6,$600K-$1.2M,Dr. Ritchie,Owner/Chiropractor,N/A,N/A,https://mygeorgetownchiro.com/
+PIA Dental,Washington,DC,Washington DC,Dental Practice,10,$1.5M-$3M,Judy Penski DDS,Owner/Dentist,N/A,N/A,https://www.piadental.com/
+Spring Valley Dental,Washington,DC,Washington DC,Dental Practice,8,$1M-$2.5M,Priya Grewal DDS,Owner/Dentist,N/A,N/A,https://springvalleydentaldc.com/
+The DC Dentist,Washington,DC,Washington DC,Dental Practice,7,$1M-$2M,Terry Victor DDS,Owner/Dentist,N/A,N/A,https://www.thedcdentist.com/
+Washington DC Dentistry,Washington,DC,Washington DC,Dental Practice,7,$1M-$2M,Sai Kham DDS,Owner/Dentist,N/A,N/A,https://www.wdcdentistry.com/
+Capitol Hill Dental Group,Washington,DC,Washington DC,Dental Practice,10,$1.5M-$3M,Owner,Owner/Dentist,N/A,N/A,https://www.chdg.net/
+Metroderm DC,Washington,DC,Washington DC,Dermatology Clinic,8,$1.5M-$3M,Dr. Stolar,Owner/Dermatologist,N/A,N/A,https://metrodermdc.com/
+Cosmedica Dermatology,Washington,DC,Washington DC,Dermatology Clinic,7,$1M-$2.5M,Sara Hogan MD,Founder/Dermatologist,N/A,N/A,https://www.cosmedicadermatology.com/
+FoxHall Dermatology,Washington,DC,Washington DC,Dermatology Clinic,8,$1.5M-$3M,Stephen Suah MD,Owner/Dermatologist,N/A,N/A,https://www.foxhalldermatology.net/
+Union Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,10,$2M-$3.5M,Owner,Owner/Veterinarian,N/A,N/A,https://www.unionvetclinic.com/
+Dupont Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,10,$2M-$3.5M,Owner,Owner/Veterinarian,N/A,N/A,https://dupontvetclinic.com/
+Palisades Veterinary Clinic,Washington,DC,Washington DC,Veterinary Clinic,8,$1.5M-$3M,Owner,Owner/Veterinarian,N/A,N/A,https://www.palisadesvetclinic.com/
+PhysioDC,Washington,DC,Washington DC,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.physiodc.com/
+The PHYT Collective,Washington,DC,Washington DC,Physical Therapy Clinic,6,$500K-$1M,Ashley Speights DPT,Owner/Physical Therapist,N/A,N/A,https://phytcollective.com/
+Release Physical Therapy,Washington,DC,Washington DC,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://releasept.com/
+Peel Haus,Washington,DC,Washington DC,Med Spa,7,$800K-$2M,Sorelle Cooper FNP-BC,Founder,(202) 891-4287,N/A,https://peelhaus.com/
+Georgetown Allure Med Spa,Washington,DC,Washington DC,Med Spa,8,$1M-$2.5M,Adam,Founder,(833) 255-8731,N/A,https://georgetownallure.com/
+Vitalify MedSpa,Washington,DC,Washington DC,Med Spa,6,$800K-$1.5M,Owner,Owner/Medical Director,N/A,N/A,https://vitalifymedspa.com/
+AYA Behavioral Health,Washington,DC,Washington DC,Behavioral Health Clinic,6,$500K-$1M,Samantha A.B. Knox PhD,Owner/Counselor,N/A,N/A,https://ayabehavioralhealth.com/
+M&K Counseling Associates,Washington,DC,Washington DC,Behavioral Health Clinic,7,$600K-$1.2M,Joanne Kim,Co-Owner/Counselor,N/A,N/A,https://mkcounselingdc.com/
+Core Health Spine & Sports Care,San Diego,CA,San Diego,Chiropractic Clinic,8,$800K-$1.5M,Sean Higgins DC,Owner/Chiropractor,N/A,N/A,https://www.corehealthsd.com/
+San Diego Spine and Wellness Center,San Diego,CA,San Diego,Chiropractic Clinic,7,$700K-$1.5M,James Padilla DC,Owner/Chiropractor,N/A,N/A,https://www.drjamespadilla.com/
+San Diego Integrative Spine Center,San Diego,CA,San Diego,Chiropractic Clinic,8,$800K-$1.5M,Dan Spinato DC,Owner/Chiropractor,N/A,N/A,https://sdispinecenter.com/
+North Park Chiropractic,San Diego,CA,San Diego,Chiropractic Clinic,6,$600K-$1.2M,Owner,Owner/Chiropractor,N/A,N/A,https://northparkchiropractic.com/
+Personally Fit Physical Therapy,San Diego,CA,San Diego,Physical Therapy Clinic,8,$800K-$1.5M,Jim Flood PT,Owner/Physical Therapist,N/A,N/A,https://www.personallyfitonline.com/
+Nexus Physical Therapy,San Diego,CA,San Diego,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.nexuspt.com/
+Modern Dentistry Torrey Hills,San Diego,CA,San Diego,Dental Practice,8,$1M-$2M,Dr. Mojaver,Owner/Dentist,N/A,N/A,https://www.drmojaver.com/
+Bay View Dental,San Diego,CA,San Diego,Dental Practice,8,$1M-$2M,Megan Shelton DDS,Owner/Dentist,N/A,N/A,https://www.bayviewdentalsd.com/
+Point Loma Comprehensive Dental,San Diego,CA,San Diego,Dental Practice,8,$1M-$2M,Owner,Owner/Dentist,N/A,N/A,https://pointlomacomprehensivedental.com
+Fifth Avenue Dental Arts,San Diego,CA,San Diego,Dental Practice,10,$1.5M-$3M,Ramin Ghassemi DDS,Owner/Dentist,N/A,N/A,https://mydentistsandiego.com/
+B Medical Spa,San Diego,CA,San Diego,Med Spa,8,$1M-$2.5M,Nadine Haddad MD,Owner/Medical Director,N/A,N/A,https://bmedspa.com/
+Medspa of San Diego,San Diego,CA,San Diego,Med Spa,7,$800K-$2M,Owner,Owner/Medical Director,(800) 766-1759,N/A,https://medspaofsandiego.com/
+Torrey Pines Dermatology,San Diego,CA,San Diego,Dermatology Clinic,8,$1.5M-$3M,Kristen Richards MD,Founder/Dermatologist,N/A,N/A,https://www.torreypinesderm.com/
+San Diego Dermatology and Laser Surgery,San Diego,CA,San Diego,Dermatology Clinic,8,$1.5M-$3M,Jason R. Lupton MD,Founder/Dermatologist,N/A,N/A,https://www.dermsd.com/
+Comprehensive Dermatology Group,San Diego,CA,San Diego,Dermatology Clinic,10,$2M-$3.5M,Bari Cunningham MD,Co-Founder/Dermatologist,N/A,N/A,https://comprehensivederm.com/
+Tierrasanta Veterinary Hospital,San Diego,CA,San Diego,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://www.tierrasantavetsd.com/
+ABC Veterinary Hospital,San Diego,CA,San Diego,Veterinary Clinic,12,$2M-$3.5M,Owner,Owner/Veterinarian,N/A,N/A,https://abcvets.com/
+Colina Veterinary Hospital,San Diego,CA,San Diego,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://www.colinaveterinary.com/
+Uptown Animal Hospital,San Diego,CA,San Diego,Veterinary Clinic,8,$1.5M-$2.5M,Juan Pablo Romero DVM,Owner/Veterinarian,N/A,N/A,https://uptownanimalhospitalsd.com/
+San Diego Kids First,San Diego,CA,San Diego,Behavioral Health Clinic,10,$1M-$2M,Deborah Pontillo PhD,Owner/Psychologist,N/A,N/A,https://sdkidsfirst.com/
+Good Therapy San Diego,San Diego,CA,San Diego,Behavioral Health Clinic,12,$1M-$2.5M,Owner,Owner/Therapist,N/A,N/A,https://www.goodtherapysandiego.com/
+East Lake Animal Clinic,Minneapolis,MN,Minneapolis,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://www.eastlakeanimalclinic.com/
+Pet Doctors Animal Clinic,Minneapolis,MN,Minneapolis,Veterinary Clinic,8,$1M-$2M,Joyce Tesarek DVM,Owner/Veterinarian,N/A,N/A,https://petdoctorsanimalclinic.com/
+Minnehaha Animal Hospital,Minneapolis,MN,Minneapolis,Veterinary Clinic,10,$1.5M-$3M,Joyce Tesarek DVM,Owner/Veterinarian,N/A,N/A,https://minnehahaanimalhospital.com/
+Apache Animal Hospital,Minneapolis,MN,Minneapolis,Veterinary Clinic,8,$1M-$2M,Terry Rapacz DVM,Owner/Veterinarian,N/A,N/A,https://www.apacheanimal.com/
+Modern Love Veterinary,Minneapolis,MN,Minneapolis,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://www.modernlovevet.com/
+Family Orthodontics,St. Louis Park,MN,Minneapolis,Orthodontics,7,$1M-$2M,Rosemary Lelich,Owner/Orthodontist,N/A,N/A,https://www.familyorthomn.com/
+Downtown Orthodontics,Minneapolis,MN,Minneapolis,Orthodontics,8,$1.5M-$3M,Stephen Colby,Owner/Orthodontist,N/A,N/A,https://www.minneapolisbraces.com/
+Kottemann Orthodontics,Minneapolis,MN,Minneapolis,Orthodontics,10,$1.5M-$3M,Dr. Kottemann,Owner/Orthodontist,N/A,N/A,https://kottemannorthodontics.com/
+Mill City Dental,Minneapolis,MN,Minneapolis,Dental Practice,8,$1M-$2M,Owner,Owner/Dentist,N/A,N/A,https://www.millcitydental.com/
+Isles Dental,Minneapolis,MN,Minneapolis,Dental Practice,7,$1M-$2M,Robert Springer DDS,Owner/Dentist,N/A,N/A,https://www.islesdental.com
+Wrinkleboss,Minneapolis,MN,Minneapolis,Med Spa,5,$500K-$1M,Nicole,Owner/Aesthetic Nurse,N/A,N/A,https://www.wrinkleboss.co/
+LAK MedSpa,Wayzata,MN,Minneapolis,Med Spa,7,$800K-$2M,Lisa Erhard MD,Owner/Medical Director,(952) 800-9335,N/A,https://www.lakmedspa.com/
+Uptown Dermatology,Minneapolis,MN,Minneapolis,Dermatology Clinic,8,$1.5M-$3M,Jaime Davis MD,Owner/Dermatologist,N/A,N/A,https://uptowndermatology.com/
+Market Street Dermatology,Minneapolis,MN,Minneapolis,Dermatology Clinic,8,$1.5M-$3M,Dr. Scheurer,Co-Founder/Dermatologist,N/A,N/A,https://marketstreetdermatology.com/
+OrthoRehab Specialists,Minneapolis,MN,Minneapolis,Physical Therapy Clinic,10,$1M-$2M,Mark Siewert PT,Owner/Physical Therapist,N/A,N/A,https://www.orthorehabpt.com/
+PRO Therapy,Minneapolis,MN,Minneapolis,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://protherapymn.com/
+Associated Clinic of Psychology,Minneapolis,MN,Minneapolis,Behavioral Health Clinic,15,$2M-$4M,Owner,Owner/Psychologist,N/A,N/A,https://acp-mn.com/
+Canopy Mental Health & Consulting,Minneapolis,MN,Minneapolis,Behavioral Health Clinic,8,$700K-$1.5M,Owner,Owner/Therapist,N/A,N/A,https://www.canopymhc.com/
+Charlotte Skin & Laser,Charlotte,NC,Charlotte,Dermatology Clinic,8,$1.5M-$3M,Dr. Rostan,Founder/Dermatologist,N/A,N/A,https://charlotteskinandlaser.com/
+Esse Dermatology,Charlotte,NC,Charlotte,Dermatology Clinic,7,$1M-$2.5M,Ada Agidi Ogunsiakan MD,Founder/Dermatologist,N/A,N/A,https://essedermatology.com/
+Jon Ric Charlotte Medical Spa,Charlotte,NC,Charlotte,Med Spa,8,$1M-$2.5M,Matt Jones MD,Owner/Physician,N/A,N/A,https://jonriccharlottemedicalspa.com/
+Voci MedSpa,Charlotte,NC,Charlotte,Med Spa,8,$1M-$2.5M,Elaine Voci BSN,Owner,(704) 752-8030,info@vocimedspa.com,https://vocimedspa.com/
+Eden MedSpa,Charlotte,NC,Charlotte,Med Spa,8,$1M-$2.5M,Obinna Oriaku MD,Founder/CEO,(980) 272-5085,N/A,https://www.myedenmedspa.com/
+Plumped Aesthetic Boutique,Charlotte,NC,Charlotte,Med Spa,6,$500K-$1.2M,Kristin Cabeda PA,Founder,N/A,N/A,https://plumpedclt.com/
+Central Providence Veterinary Hospital,Charlotte,NC,Charlotte,Veterinary Clinic,12,$2M-$3.5M,Cierra Tabony DVM,Owner/Veterinarian,N/A,N/A,https://www.centralprovidence.com/
+Ballantyne Veterinary Clinic,Charlotte,NC,Charlotte,Veterinary Clinic,10,$1.5M-$3M,Dr. Humphrey,Owner/Veterinarian,N/A,N/A,https://www.ballantynevet.com/
+Archdale Animal Hospital,Charlotte,NC,Charlotte,Veterinary Clinic,8,$1.5M-$2.5M,Barry George DVM,Owner/Veterinarian,N/A,N/A,https://www.archdaleanimalhospital.com/
+East Side Animal Hospital,Charlotte,NC,Charlotte,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://eastsideahclt.com/
+Bowker Clinic of Chiropractic,Charlotte,NC,Charlotte,Chiropractic Clinic,7,$700K-$1.5M,Dr. Bowker,Owner/Chiropractor,N/A,N/A,https://bowkerchiropractic.com/
+ChiroCarolina,Charlotte,NC,Charlotte,Chiropractic Clinic,8,$800K-$1.5M,Dr. Ali,Owner/Chiropractor,N/A,N/A,https://chirocarolinacharlotte.com/
+Complete Healthcare Chiropractic,Charlotte,NC,Charlotte,Chiropractic Clinic,8,$800K-$1.5M,Dr. Beller,Owner/Chiropractor,N/A,N/A,https://www.charlottecompletechiropractichealthcare.com/
+Park Crossing Dentistry,Charlotte,NC,Charlotte,Dental Practice,10,$1.5M-$3M,Owner,Owner/Dentist,N/A,N/A,https://www.parkcrossingdentistry.com/
+Charlotte Dentistry,Charlotte,NC,Charlotte,Dental Practice,12,$2M-$3.5M,Dr. Woodroof,Owner/Dentist,N/A,N/A,https://www.charlottedentistry.com/
+Cotswold Family Dentistry,Charlotte,NC,Charlotte,Dental Practice,10,$1.5M-$3M,Owner,Owner/Dentist,N/A,N/A,https://cotswoldfamilydentistry.com/
+Dental Wellness of Charlotte,Charlotte,NC,Charlotte,Dental Practice,8,$1M-$2M,Sergei Shirman DDS,Owner/Dentist,N/A,N/A,https://www.dentalwellnessofcharlotte.com/
+KCP Physical Therapy,Charlotte,NC,Charlotte,Physical Therapy Clinic,7,$700K-$1.5M,Joy,Owner/Physical Therapist,N/A,N/A,https://kcpphysicaltherapy.com/
+Uncommon Physical Therapy,Charlotte,NC,Charlotte,Physical Therapy Clinic,6,$500K-$1M,Owner,Owner/Physical Therapist,N/A,N/A,https://uncommonphysicaltherapy.com/
+Congruency Therapy & Wellness,Charlotte,NC,Charlotte,Physical Therapy Clinic,6,$500K-$1M,Owner,Owner/Physical Therapist,N/A,N/A,https://congruencypt.com
+Integrated Behavioral Health Mgmt,Charlotte,NC,Charlotte,Behavioral Health Clinic,8,$700K-$1.5M,Maryann C. Richardson,Founder/Owner,N/A,N/A,https://www.ibhmgmt.org/
+Pediatric & Family Behavioral Health,Charlotte,NC,Charlotte,Behavioral Health Clinic,8,$800K-$1.5M,Owner,Owner/Psychiatrist,N/A,N/A,https://www.pfbhnc.com
+Heights Dental Tampa,Tampa,FL,Tampa,Dental Practice,8,$1M-$2M,Kenneth Jainandan DDS,Owner/Dentist,N/A,N/A,https://www.heightsdentaltampa.com/
+Giunta Dentistry,Tampa,FL,Tampa,Dental Practice,10,$1.5M-$3M,Matthew A. Giunta DMD,Owner/Dentist,(813) 875-9367,N/A,https://www.giuntadentistry.com/
+Advanced Dental Associates of Tampa Palms,Tampa,FL,Tampa,Dental Practice,12,$2M-$3.5M,Justin Elikofer DDS,Owner/Dentist,N/A,N/A,https://www.dentisttampa.com/
+Bayshore Animal Clinic,Tampa,FL,Tampa,Veterinary Clinic,10,$1.5M-$3M,Jacob Drewes DVM,Owner/Veterinarian,N/A,N/A,https://bayshoreanimalclinic.com/
+Dale Mabry Animal Hospital,Tampa,FL,Tampa,Veterinary Clinic,10,$1.5M-$3M,Owner,Owner/Veterinarian,N/A,N/A,https://dalemabryanimalhospital.com/
+Physique Physical Therapy,Tampa,FL,Tampa,Physical Therapy Clinic,6,$500K-$1M,Keith,Owner/Physical Therapist,N/A,N/A,https://physiquetherapy.com/
+Competitive Edge Performance,Tampa,FL,Tampa,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://goceppro.com/
+Brisa Wellness,Tampa,FL,Tampa,Physical Therapy Clinic,5,$400K-$800K,Kelly Baez PT DPT,Owner/Physical Therapist,N/A,N/A,https://brisawellness.com/
+VIVIFY Med Spa,Tampa,FL,Tampa,Med Spa,6,$800K-$1.5M,Michelle Buchanan NP,Owner/Nurse Practitioner,N/A,N/A,https://www.vivifyps.com/
+TAO Wellness Med Spa,Tampa,FL,Tampa,Med Spa,7,$800K-$2M,Owner,Owner,(813) 344-1393,N/A,https://www.taowellnessmedspa.com/
+Tre MedSpa,Tampa,FL,Tampa,Med Spa,6,$800K-$1.5M,Owner,Owner,(813) 749-0918,info@tremedspa.com,https://www.tremedspa.com/
+Bespoke Rx,Tampa,FL,Tampa,Med Spa,6,$800K-$1.5M,Amanda,Owner,N/A,N/A,https://www.bespokerx.us/
+Skin Health Forever,Tampa,FL,Tampa,Dermatology Clinic,10,$1.5M-$3M,Dr. Taylor,Owner/Dermatologist,N/A,N/A,https://www.skinhealthforever.com/
+Dermatology Associates of Tampa Bay,Tampa,FL,Tampa,Dermatology Clinic,8,$1.5M-$3M,Dr. Millns,Owner/Dermatologist,N/A,N/A,https://www.dermassociatesoftb.com/
+SanaMente Counseling LLC,Tampa,FL,Tampa,Behavioral Health Clinic,5,$400K-$800K,Owner,Owner/Counselor,N/A,N/A,https://www.smctampa.com/
+South Tampa Therapy & Wellness,Tampa,FL,Tampa,Behavioral Health Clinic,6,$500K-$1M,Yvette,Owner/Counselor,N/A,N/A,https://southtampatherapywellness.com/
+Tampa Palms Psychology,Tampa,FL,Tampa,Behavioral Health Clinic,5,$500K-$1M,Brian Wilson PhD,Owner/Psychologist,N/A,N/A,https://www.tampapalmspsychology.com/
+Relax and Smile Dental Care,Miami,FL,Miami,Dental Practice,8,$1M-$2M,Laura Cabrera DDS,Owner/Dentist,N/A,N/A,https://www.relaxandsmile.com/
+Dental World Miami,Miami,FL,Miami,Dental Practice,8,$1M-$2M,Norbert Camacho DDS,Owner/Dentist,N/A,N/A,http://dentalworldmiami.com/
+Miami Beach Dental Solutions,Miami Beach,FL,Miami,Dental Practice,8,$1M-$2M,Gabriela Flores DDS,Owner/Dentist,N/A,N/A,https://www.miamibeachds.com/
+Sonrisas Dental Miami,North Miami Beach,FL,Miami,Dental Practice,8,$1M-$2M,Viviana L. Waich DDS,Owner/Dentist,N/A,N/A,https://sonrisasdentalmiami.com/
+Miami Center for Cosmetic Dermatology,Miami,FL,Miami,Dermatology Clinic,10,$2M-$4M,Deborah Longwill MD,Founder/Dermatologist,N/A,N/A,https://miamicenterfordermatology.com/
+Lincoln Road Dermatology,Miami Beach,FL,Miami,Dermatology Clinic,8,$1.5M-$3M,Owner,Owner/Dermatologist,N/A,N/A,https://www.lincolnderm.com/
+Miami Dermatology and Laser Institute,Miami,FL,Miami,Dermatology Clinic,10,$2M-$4M,Jill Waibel MD,Owner/Dermatologist,N/A,N/A,https://www.miamidermlaser.com/
+Miami Animal Clinic,Miami,FL,Miami,Veterinary Clinic,10,$1.5M-$3M,Mileydi Perez DVM,Owner/Veterinarian,N/A,N/A,https://www.miamianimalclinic.net/
+The Falls Animal Clinic,Palmetto Bay,FL,Miami,Veterinary Clinic,10,$1.5M-$3M,Doly Baquero DVM,Owner/Veterinarian,N/A,N/A,https://www.thefallsanimalclinic.com/
+Dixie Animal Hospital,Palmetto Bay,FL,Miami,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://www.dixieanimalhospital.com/
+Westbird Animal Hospital,Miami,FL,Miami,Veterinary Clinic,10,$1.5M-$3M,Owner,Owner/Veterinarian,N/A,N/A,https://westbirdvet.com/
+Mental Health of Miami Inc,Miami,FL,Miami,Behavioral Health Clinic,8,$700K-$1.5M,Yahaira Castro PhD,President/Owner,N/A,N/A,https://www.mentalhealthofmiami.com
+Gomez Behavior Services,Miami,FL,Miami,Behavioral Health Clinic,10,$800K-$1.5M,Gabriela Gomez BCBA,Owner/Behavior Analyst,N/A,N/A,https://miamibehaviortherapy.com/
+Regenerative Chiropractic,Miami,FL,Miami,Chiropractic Clinic,7,$700K-$1.5M,Octavio Espinoza DC,Owner/Chiropractor,N/A,N/A,https://www.espinozachiro.com/
+Eastside Chiropractic,Miami,FL,Miami,Chiropractic Clinic,6,$600K-$1.2M,Curtis Garner DC,Owner/Chiropractor,N/A,N/A,https://www.mymiamichiropractor.net/
+Miami Spine Clinic,Miami,FL,Miami,Chiropractic Clinic,7,$700K-$1.5M,Randall Thompson DC,Owner/Chiropractor,N/A,N/A,https://www.miamispineclinic.com/
+Baum Chiropractic Clinic,Miami Beach,FL,Miami,Chiropractic Clinic,6,$600K-$1.2M,Michael Baum DC,Owner/Chiropractor,N/A,N/A,https://www.miamibeachchiro.com/
+Symmetry Physical Therapy,Miami,FL,Miami,Physical Therapy Clinic,7,$700K-$1.5M,Natalia Sikaczowski DPT,Owner/Physical Therapist,N/A,N/A,https://symmetryptmiami.com/
+Care360 Physical Therapy,Miami,FL,Miami,Physical Therapy Clinic,5,$500K-$1M,Claudio,Owner/Physical Therapist,N/A,N/A,https://care360physicaltherapy.com/
+Physical Therapy Associates PA,South Miami,FL,Miami,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.ptapa.com/
+Med Aesthetics Miami,Coral Gables,FL,Miami,Med Spa,8,$1M-$2.5M,Rosanna Bermejo,Founder,(305) 356-7402,coralgables@medaestheticsmiami.com,https://www.medaestheticsmiami.com/
+Elegant Med Spa Center,Miami,FL,Miami,Med Spa,6,$800K-$1.5M,Owner,Owner,(305) 456-4921,elegantmedspa111@yahoo.com,https://elegantmedspa.com/
+Miami Elegance Medspa,Miami,FL,Miami,Med Spa,7,$800K-$2M,Annette Bode,Owner/Master Injector,N/A,N/A,https://www.miamielegance.com/
+Skinsation OC,Newport Beach,CA,Orange County,Med Spa,7,$800K-$2M,Lusanik Galustanian MD,Owner/Medical Director,(949) 216-0770,N/A,https://skinsationoc.com/
+American Beauty Med Spa,Lake Forest,CA,Orange County,Med Spa,8,$1M-$2.5M,Nina Farokhian NMD,Owner,(949) 649-8184,N/A,https://www.americanbeautymedispa.com/
+Image Perfect Laser,Newport Beach,CA,Orange County,Med Spa,7,$800K-$2M,Teresa Cadwallader,Founder,N/A,N/A,https://imageperfectlaser.com/
+Skin Perfect Medical Spa,Costa Mesa,CA,Orange County,Med Spa,8,$1M-$2.5M,Erin Borini,Owner,N/A,N/A,https://skinperfectmedical.com/
+Orange County Orthodontics,Mission Viejo,CA,Orange County,Orthodontics,8,$1.5M-$3M,Corey Corpodian,Owner/Orthodontist,N/A,N/A,https://myocortho.com/
+Miller Orthodontics,Orange,CA,Orange County,Orthodontics,8,$1.5M-$3M,Shawn L. Miller DMD,Owner/Orthodontist,N/A,N/A,https://www.millerbraces.com/
+Life Orthodontics,Tustin,CA,Orange County,Orthodontics,10,$2M-$3.5M,Robert Lee DDS,Owner/Orthodontist,N/A,N/A,https://www.lifeorthodontics.com/
+Orange and Magnolia Dental Studio,Costa Mesa,CA,Orange County,Dental Practice,8,$1M-$2M,Joyce Kahng DDS,Owner/Dentist,N/A,N/A,https://www.omdentalstudio.com/
+Precision Dental,Garden Grove,CA,Orange County,Dental Practice,5,$700K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://www.ocprecisiondental.com/
+Orange County Dental Care,Orange,CA,Orange County,Dental Practice,8,$1M-$2M,Ali-Reza Etemadieh DDS,Owner/Dentist,N/A,N/A,https://orangecounty-dentalcare.com/
+Physical Therapy Specialists,Brea,CA,Orange County,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://ptsphysicaltherapy.com/
+Orange County Physical Therapy,Newport Beach,CA,Orange County,Physical Therapy Clinic,6,$600K-$1.2M,Victor Rusenescu DPT,Owner/Physical Therapist,N/A,N/A,https://ocptclinic.com/
+OC Skin Institute,Orange County,CA,Orange County,Dermatology Clinic,8,$1.5M-$3M,Tony Nakhla MD,Owner/Dermatologist,N/A,N/A,https://www.ocskininstitute.com/
+Orange Dermatology,Orange,CA,Orange County,Dermatology Clinic,10,$1.5M-$3M,Steven Stanowicz MD,Owner/Dermatologist,N/A,N/A,https://ocderms.com/
+Irvine Dermatology,Irvine,CA,Orange County,Dermatology Clinic,6,$1M-$2M,Marjon,Founder/Dermatologist,N/A,N/A,https://dermatologyirvine.com/
+Orange Coast Dermatology,Rancho Santa Margarita,CA,Orange County,Dermatology Clinic,8,$1.5M-$3M,Daniel Di Cesare MD,Owner/Dermatologist,N/A,N/A,https://www.orangecoastdermatology.com/
+Affordable Animal Hospital Orange,Orange,CA,Orange County,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://affordableanimalhospitalorange.com/
+Sendero Animal Hospital,Rancho Mission Viejo,CA,Orange County,Veterinary Clinic,8,$1.5M-$2.5M,Louis Mauna DVM,Owner/Veterinarian,N/A,N/A,https://senderoah.com/
+South Orange County Animal Hospital,Orange County,CA,Orange County,Veterinary Clinic,10,$1.5M-$3M,Dr. Tani,Owner/Veterinarian,N/A,N/A,https://www.socvets.com
+Boston Health & Wellness Med Spa,Stoneham,MA,Boston,Med Spa,8,$1M-$2M,Owner,Owner,(617) 843-5320,stoneham@bostonhealthwellness.com,https://bostonhealthwellness.com/
+DAM MedSpa,Boston,MA,Boston,Med Spa,7,$800K-$2M,Owner,Owner/Medical Director,N/A,N/A,https://www.dammedspa.com/
+Regeneris MedSpa,Boston,MA,Boston,Med Spa,8,$1M-$2.5M,Owner,Owner/Medical Director,N/A,N/A,https://regenerisboston.com/
+Lisa Scialla Physical Therapy,Boston,MA,Boston,Physical Therapy Clinic,6,$600K-$1M,Lisa Scialla DPT,Owner/Physical Therapist,N/A,N/A,https://www.localtherapistdirectory.com/
+Dermatology Specialists of Charlotte,Charlotte,NC,Charlotte,Dermatology Clinic,15,$3M-$5M,Owner,Owner/Dermatologist,N/A,N/A,https://www.dscmd.com/
+Mirando Chiropractic Center,Washington,DC,Washington DC,Chiropractic Clinic,7,$700K-$1.5M,Owner,Owner/Chiropractor,N/A,N/A,https://www.mirandochiropractic.com/
+Agape Family Chiropractic,Washington,DC,Washington DC,Chiropractic Clinic,6,$600K-$1.2M,Owner,Owner/Chiropractor,N/A,N/A,https://www.agapefamilychiropractic.com/
+Hi Finch,Nashville,TN,Nashville,Med Spa,8,$1M-$2.5M,Owner,Owner/Medical Director,N/A,N/A,https://hifinch.com/
+Amalie Aesthetics,Nashville,TN,Nashville,Med Spa,7,$800K-$2M,Owner,Owner/Medical Director,N/A,N/A,https://www.amalieaesthetics.com/
+East Nashville Family Dentistry,Nashville,TN,Nashville,Dental Practice,8,$1M-$2M,Owner,Owner/Dentist,N/A,N/A,https://enfdentistry.com/
+Intouch Chiropractic,San Diego,CA,San Diego,Chiropractic Clinic,6,$600K-$1.2M,Owner,Owner/Chiropractor,N/A,N/A,https://sandiegonucca.com/
+Inner Balance Institute,San Diego,CA,San Diego,Chiropractic Clinic,7,$700K-$1.5M,Owner,Owner/Chiropractor,N/A,N/A,https://innerbalanceinstitute.com/
+Coastal Medical & Cosmetic Dermatology,La Jolla,CA,San Diego,Dermatology Clinic,8,$1.5M-$3M,Darrell Gonzales MD,Founder/Dermatologist,N/A,N/A,https://www.coastaldermonline.com/
+The inFURmary,San Diego,CA,San Diego,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://theinfurmary.com/
+Nokomis Pet Clinic,Minneapolis,MN,Minneapolis,Veterinary Clinic,8,$1.5M-$2.5M,Owner,Owner/Veterinarian,N/A,N/A,https://nokomispetclinic.com/
+Metropolitan Skin Clinic,Edina,MN,Minneapolis,Med Spa,10,$1.5M-$3M,Owner,Owner/Medical Director,(952) 288-2230,N/A,https://metropolitanskinclinic.com/
+Tangletown Dental,Minneapolis,MN,Minneapolis,Dental Practice,8,$1M-$2M,Owner,Owner/Dentist,N/A,N/A,https://tangletowndental.com/
+Novo Behavioral Health,Minneapolis,MN,Minneapolis,Behavioral Health Clinic,6,$500K-$1M,Owner,Owner/Therapist,N/A,N/A,https://www.novobehavioralhealth.com/
+LynLake Centers for WellBeing,Minneapolis,MN,Minneapolis,Behavioral Health Clinic,10,$1M-$2M,Owner,Owner/Therapist,N/A,N/A,https://therapy-mn.com/
+Charlotte Veterinary Hospital,Charlotte,NC,Charlotte,Veterinary Clinic,12,$2M-$3.5M,Owner,Owner/Veterinarian,N/A,N/A,https://charlottevethospital.com/
+Charlotte One on One PT,Charlotte,NC,Charlotte,Physical Therapy Clinic,6,$500K-$1M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.charlotteoneononept.com/
+Prosperity Chiropractic,Charlotte,NC,Charlotte,Chiropractic Clinic,6,$600K-$1.2M,Brett Kubricht DC,Owner/Chiropractor,N/A,N/A,https://www.prosperitychiro.com/
+District Performance & Physio,Washington,DC,Washington DC,Physical Therapy Clinic,7,$700K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.districtperformancephysio.com/
+The District Injector,Washington,DC,Washington DC,Med Spa,6,$800K-$1.5M,Owner,Owner/Injector,N/A,N/A,https://thedistrictinjector.com/
+New Image Works Miami,Miami,FL,Miami,Med Spa,8,$1M-$2.5M,Humberto Palladino MD,Medical Director,(786) 438-0778,info-miami@newimageworks.com,https://newimageworks.com/
+Biscayne Chiropractic Center,North Miami Beach,FL,Miami,Chiropractic Clinic,6,$600K-$1.2M,Randy Schulman DC,Owner/Chiropractor,N/A,N/A,https://www.miamibeachchiro.com/
+Advance Therapy Center,Miami,FL,Miami,Physical Therapy Clinic,7,$700K-$1.5M,Dr. Garrote PT,Owner/Physical Therapist,N/A,N/A,https://advancetherapycenter.com/
+Libre Physical Therapy,Homestead,FL,Miami,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://librephysicaltherapy.com/
+South Tampa Dentistry,Tampa,FL,Tampa,Dental Practice,10,$1.5M-$3M,Owner,Owner/Dentist,N/A,N/A,https://southtampadentistry.com/
+The Cat Doctors,Tampa,FL,Tampa,Veterinary Clinic,8,$1M-$2M,Owner,Owner/Veterinarian,N/A,N/A,https://catdoctors.info/
+Veterinary Medical Clinic Tampa,Tampa,FL,Tampa,Veterinary Clinic,12,$2M-$3.5M,Owner,Owner/Veterinarian,N/A,N/A,https://vmctampa.com/
+Elixir Aesthetics Med Spa,Tampa,FL,Tampa,Med Spa,7,$800K-$2M,Owner,Co-Owner,N/A,N/A,https://www.elixiraestheticsmedspa.com/
+SynergyMD Cosmetic Dermatology,Tampa,FL,Tampa,Dermatology Clinic,8,$1.5M-$3M,Milan Lombardi MD,Owner/Dermatologist,N/A,N/A,https://www.synergymdcosmeticdermatology.com/
+Florida Behavioral Medicine,Tampa,FL,Tampa,Behavioral Health Clinic,8,$800K-$1.5M,Owner,Owner/Psychiatrist,N/A,N/A,https://fbm-fl.com/
+R. Andrew Powless DMD Special Care,Tampa,FL,Tampa,Dental Practice,8,$1M-$2M,R. Andrew Powless DMD,Owner/Dentist,N/A,N/A,https://flspecialcaredentistry.com/
+Devonshire Dental of Boston,Boston,MA,Boston,Dental Practice,8,$1M-$2M,Dr. Levy,Owner/Dentist,N/A,N/A,https://www.devonshiredental.net/
+South Shore Dermatology Physicians,Boston,MA,Boston,Dermatology Clinic,10,$2M-$3.5M,Owner,Owner/Dermatologist,N/A,N/A,https://www.southshorederm.com/
+East Boston Chiropractic,East Boston,MA,Boston,Chiropractic Clinic,5,$500K-$1M,David Tracy DC,Owner/Chiropractor,N/A,N/A,https://www.eastbostonchiropractic.com/
+Chiropractic & Sports Services Boston,Boston,MA,Boston,Chiropractic Clinic,5,$500K-$1M,Kristie McLean DC,Owner/Chiropractor,N/A,N/A,https://www.mybostonchiropractor.com/
+Veterinary Out-Patient Clinic,Orange,CA,Orange County,Veterinary Clinic,6,$1M-$2M,Owner,Owner/Veterinarian,N/A,N/A,http://www.vetopc.com/
+A Mobile Vet,Orange County,CA,Orange County,Veterinary Clinic,5,$800K-$1.5M,Dr. Wiekamp,Owner/Veterinarian,N/A,N/A,https://www.amobilevet.org
+Ascend Physical Therapy,Orange County,CA,Orange County,Physical Therapy Clinic,6,$600K-$1.2M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.ascendpt.net/
+DC Dental Care,Washington,DC,Washington DC,Dental Practice,7,$1M-$2M,Owner,Owner/Dentist,N/A,N/A,https://www.dcdentalcare.net/
+Premier Dental Care DC,Washington,DC,Washington DC,Dental Practice,8,$1M-$2.5M,Owner,Owner/Dentist,N/A,N/A,https://takomadentist.com/
+Breaking Through SD Physical Therapy,San Diego,CA,San Diego,Physical Therapy Clinic,8,$800K-$1.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.breakthroughsdphysicaltherapy.com
+Physio on the Go,San Diego,CA,San Diego,Physical Therapy Clinic,6,$500K-$1M,Sean Kuhn PT DPT,Owner/Physical Therapist,N/A,N/A,https://physio-on-the-go.com
+Dermacare Medical Aesthetics,San Diego,CA,San Diego,Med Spa,12,$2M-$4M,Jeff Birchall MD,Owner/Medical Director,N/A,N/A,https://www.dermacaresandiego.com/
+San Diego Skin Medical Spa,San Diego,CA,San Diego,Med Spa,8,$1M-$2.5M,Mark Mofid MD,Owner/Medical Director,N/A,N/A,https://www.sandiegoskin.com/
+Saunders Physical Therapy,Minneapolis,MN,Minneapolis,Physical Therapy Clinic,15,$2M-$3.5M,Owner,Owner/Physical Therapist,N/A,N/A,https://saunders-therapy.com/
+Core Lifestyle Clinic,Minneapolis,MN,Minneapolis,Physical Therapy Clinic,6,$500K-$1M,Owner,Owner/Physical Therapist,N/A,N/A,https://www.corelifestylemn.com/
+Darabi Dermatology,Minneapolis,MN,Minneapolis,Dermatology Clinic,7,$1M-$2.5M,Dr. Darabi,Owner/Dermatologist,N/A,N/A,https://darabidermatology.com/
+Mental Health Counseling Services,Minneapolis,MN,Minneapolis,Behavioral Health Clinic,8,$700K-$1.5M,Owner,Owner/Counselor,N/A,N/A,https://www.mhcs.online/

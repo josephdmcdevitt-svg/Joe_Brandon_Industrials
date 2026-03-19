@@ -1,0 +1,255 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+CrossFit Nashville,Nashville,TN,Nashville,CrossFit Gym,8,$500K-$1M,John,Owner,(615) 555-0100,john@crossfitnashville.com,crossfitnashville.com
+CrossFit West Nashville,Nashville,TN,Nashville,CrossFit Gym,6,$400K-$800K,Owner,Owner,(615) 909-4136,info@crossfitwestnashville.com,crossfitwestnashville.com
+CrossFit Music City,Nashville,TN,Nashville,CrossFit Gym,8,$500K-$1M,Owner,Owner,(615) 378-5541,crossfitmusiccity615@gmail.com,cfmusiccity.com
+CrossFit East Nashville,Nashville,TN,Nashville,CrossFit Gym,7,$400K-$800K,Jordyn Elrod,Owner,(615) 578-1172,jordyn.elrod@gmail.com,crossfiteastnashville.com
+PRVN Nashville,Nashville,TN,Nashville,CrossFit Gym,10,$600K-$1.2M,Owner,Owner,N/A,prvnnashville@prvnfitness.com,prvnnashville.com
+CrossFit Breakthrough,Nashville,TN,Nashville,CrossFit Gym,6,$400K-$800K,Owner,Owner,N/A,N/A,crossfitbreakthrough.com
+Zanshin Dojo Nashville,Nashville,TN,Nashville,Martial Arts School,6,$300K-$600K,Eric Silver,Owner,N/A,zanshindojo@comcast.net,N/A
+SOUK Studio,New York,NY,New York City,Yoga Studio,10,$800K-$1.5M,Rima Rabbath,Co-Founder,N/A,N/A,soukstudio.com
+Harlem Yoga Studio,New York,NY,New York City,Yoga Studio,8,$500K-$1M,Erica Barth,Owner,N/A,N/A,harlemyogastudio.com
+ONEYOGAHOUSE,Brooklyn,NY,New York City,Yoga Studio,7,$400K-$800K,Anna Haddad,Founder,N/A,N/A,oneyogahouse.com
+Sui Yoga,New York,NY,New York City,Yoga Studio,8,$500K-$1M,Owner,Owner,N/A,N/A,suiyoga.com
+The Yoga Common,New York,NY,New York City,Yoga Studio,6,$400K-$800K,Owner,Owner,N/A,N/A,yogacommonstudio.com
+Julian Walker Studio,New York,NY,New York City,Personal Training Studio,5,$300K-$600K,Julian Walker,Founder,(212) 532-1383,info@julianwalkerstudio.com,julianwalkerstudio.com
+Focus Integrated Fitness,New York,NY,New York City,Personal Training Studio,6,$400K-$800K,Owner,Owner,(212) 319-3816,pt@focusnyc.com,focusnyc.com
+Momentum Fitness NYC,New York,NY,New York City,Boutique Fitness Studio,8,$500K-$1M,Marco,Owner,N/A,N/A,momentumfitnessnyc.com
+Score At The Top NYC,New York,NY,New York City,Test Prep Company,10,$800K-$1.5M,Owner,Owner,(917) 423-6202,nyc@scoreatthetop.com,scoreatthetop.com
+Kweller Prep,New York,NY,New York City,Test Prep Company,12,$1M-$2M,Francis Kweller,Owner,N/A,N/A,kwellerprep.com
+Prestige Prep,New York,NY,New York City,Test Prep Company,8,$600K-$1.2M,Owner,Owner,(800) 381-3266,info@prestigeprep.com,prestigeprep.com
+The Handle Bar,Boston,MA,Boston,Boutique Fitness Studio,15,$1M-$2M,Owner,Owner,N/A,N/A,thehandlebarstudios.com
+Body By Gab,Arlington,MA,Boston,Boutique Fitness Studio,5,$300K-$600K,Gabrielle Bak,Owner/Founder,N/A,N/A,bodybygab.com
+BURN Fitness Studios,Boston,MA,Boston,Boutique Fitness Studio,8,$500K-$1M,Owner,Owner,N/A,N/A,burnfitboston.com
+Boston Tutoring Services,Dracut,MA,Boston,Tutoring Center,6,$300K-$600K,Alexandra Berube,Founder,(781) 248-4558,BostonTutoringServices@gmail.com,bostontutoringservices.com
+Boston Tutoring Center,West Roxbury,MA,Boston,Tutoring Center,5,$250K-$500K,Anne,Owner,(617) 553-0251,bostoniseeprep@rcn.com,bostontutoringcenter.com
+Boston School of Music Arts,Boston,MA,Boston,Music School,8,$400K-$800K,Sharon & Yury,Co-Founders,N/A,N/A,bostonschoolofmusicarts.com
+Davis Square Martial Arts,Somerville,MA,Boston,Martial Arts School,6,$300K-$600K,Mark Carletti,Owner,N/A,dsma.office408@gmail.com,davissquaremartialarts.com
+Boston Martial Arts Center,Boston,MA,Boston,Martial Arts School,8,$400K-$800K,Mark Davis,Owner,(617) 789-5524,N/A,bostonmartialarts.com
+YMAA Boston,Roslindale,MA,Boston,Martial Arts School,7,$350K-$700K,Owner,Owner,(617) 363-9622,ymaaboston@ymaa.com,ymaaboston.com
+Boston Shotokan Karate Dojo,Boston,MA,Boston,Martial Arts School,5,$200K-$400K,Owner,Owner,N/A,boston.ska@gmail.com,boston.ska.org
+District Pilates,Washington,DC,Washington DC,Pilates Studio,10,$600K-$1.2M,Bailey,Founder,N/A,allison@districtpilatesdc.com,districtpilatesdc.com
+Plus Pilates Studio,Washington,DC,Washington DC,Pilates Studio,6,$400K-$800K,Kelly Duquin Pollitt,Owner,(202) 595-4808,info@pluspilates.studio,pluspilates.studio
+Quantum Pilates,Washington,DC,Washington DC,Pilates Studio,5,$300K-$600K,Mark Trudeau,Owner,N/A,N/A,quantumpilates.com
+Capital Pilates Studio,Washington,DC,Washington DC,Pilates Studio,6,$350K-$700K,Fidel Enrique Garcia Rendon,Founder,N/A,N/A,capitalpilates.com
+Georgetown Pilates,Washington,DC,Washington DC,Pilates Studio,5,$300K-$600K,Heather,Owner,N/A,N/A,georgetownpilates.co
+Joy of Motion Dance Center,Washington,DC,Washington DC,Dance Studio,18,$1.5M-$3M,Owner,Owner,N/A,info@joyofmotion.org,joyofmotion.org
+BETA Academy,Washington,DC,Washington DC,Martial Arts School,10,$500K-$1M,Owner,Owner,N/A,community@betaacademy.com,betaacademy.com
+DC Dojo,Washington,DC,Washington DC,Martial Arts School,6,$300K-$600K,Owner,Owner,N/A,Dcdojo4u@yahoo.com,dc-dojo.com
+Freestyle Martial Arts,San Diego,CA,San Diego,Martial Arts School,10,$500K-$1M,Owner,Owner,N/A,N/A,freestylesd.com
+Full Potential Martial Arts,San Diego,CA,San Diego,Martial Arts School,6,$300K-$600K,Brian Sagi,Owner,N/A,N/A,fullpotentialma.com
+House of Discipline,San Diego,CA,San Diego,Martial Arts School,8,$400K-$800K,Master D,Owner,(619) 697-6475,N/A,martialartssandiegoca.com
+SwiftKick Martial Arts,San Diego,CA,San Diego,Martial Arts School,10,$500K-$1M,Brian Cowell,Founder,N/A,N/A,swiftkickma.com
+Werk Fitness,San Diego,CA,San Diego,Personal Training Studio,8,$400K-$800K,Owner,Owner,N/A,N/A,werkfitness.com
+Unbroken Fitness San Diego,San Diego,CA,San Diego,Boutique Fitness Studio,8,$500K-$1M,Eugene Neal,Founder,N/A,N/A,unbrokensd.com
+BodyFit Complete Fitness,San Diego,CA,San Diego,Personal Training Studio,6,$350K-$700K,Scott Bassler,Co-Owner,N/A,N/A,bodyfitsandiego.com
+Dance & Company,San Diego,CA,San Diego,Dance Studio,10,$500K-$1M,Katie Collins,Artistic Director,N/A,inquiries@danceandcompany.net,danceandcompany.com
+A Dawn Of Music Studios,San Diego,CA,San Diego,Music School,6,$300K-$600K,Owner,Owner,N/A,info@adawnofmusicstudios.com,adawnofmusicstudios.com
+Chitown Tutoring,Chicago,IL,Chicago,Tutoring Center,8,$500K-$1M,Owner,Owner,(312) 210-2261,N/A,chitowntutoring.com
+Test Prep Chicago,Chicago,IL,Chicago,Test Prep Company,6,$400K-$800K,Owner,Owner,(312) 848-1266,N/A,testprepchicago.com
+National Karate Chicago,Chicago,IL,Chicago,Martial Arts School,15,$800K-$1.5M,Cristian Nelson,Owner,N/A,N/A,chicagonk.com
+Guardian Way Martial Arts,Chicago,IL,Chicago,Martial Arts School,6,$300K-$600K,Christopher Van Mieghem,Founder,(773) 631-8989,N/A,guardianwaymartialarts.com
+Beverly Pagoda Martial Arts,Chicago,IL,Chicago,Martial Arts School,6,$300K-$600K,Owner,Owner,N/A,beverlypagodamaa1@wowway.biz,beverlypagodamartialartsacademy.com
+Dovetail Studios,Chicago,IL,Chicago,Dance Studio,8,$400K-$800K,Joanna Read,Owner/Education Director,N/A,info@dovetail-studios.com,dovetail-studios.com
+Christine Belpedio Dance,Chicago,IL,Chicago,Dance Studio,6,$300K-$600K,Christine Belpedio,Owner,(773) 745-1383,dance@christinebelpediodance.com,christinebelpediodance.com
+Definition Dance Academy,Chicago,IL,Chicago,Dance Studio,8,$400K-$800K,Owner,Owner,(773) 270-4246,info@definitiondance.org,definitiondance.org
+Yoga Horizons of Chicago,Chicago,IL,Chicago,Yoga Studio,6,$300K-$600K,Owner,Owner,(312) 363-3229,hello@yhchicago.com,yhchicago.com
+Yoga Loft Studios,Chicago,IL,Chicago,Yoga Studio,5,$250K-$500K,Owner,Owner,(312) 560-8668,info@yogaloftstudios.com,yogaloftstudios.com
+Hot Yoga Chicago,Chicago,IL,Chicago,Yoga Studio,8,$500K-$1M,Owner,Owner,N/A,Info@HotYogaChicago.com,hotyogachicago.com
+Studio Yogi,Chicago,IL,Chicago,Yoga Studio,5,$300K-$600K,Julia Perkins,Owner,N/A,N/A,studioyogi.com
+Gray School of Music,Dallas,TX,Dallas,Music School,10,$500K-$1M,Owner,Owner,N/A,owner@grayschoolofmusic.com,grayschoolofmusic.com
+The Dallas School of Music,Dallas,TX,Dallas,Music School,8,$400K-$800K,Owner,Owner,(972) 380-8050,tdsm@thedallasschoolofmusic.com,thedallasschoolofmusic.com
+Park Cities School of Music,Dallas,TX,Dallas,Music School,6,$300K-$600K,Owner,Owner,(214) 455-1477,parkcitiesschoolofmusic@gmail.com,parkcitiesschoolofmusic.com
+Pure Pilates Dallas,Dallas,TX,Dallas,Pilates Studio,6,$400K-$800K,Stormi Truesdell,Owner,N/A,purepilatesdallas@gmail.com,purepilatesdallas.com
+KIVA Pilates,Dallas,TX,Dallas,Pilates Studio,8,$500K-$1M,Janine Ferris,Owner,N/A,N/A,kivapilates.com
+MoveStudio,Dallas,TX,Dallas,Pilates Studio,7,$400K-$800K,Candace,Owner,N/A,N/A,movestudio.com
+Fit180 Personal Training,Dallas,TX,Dallas,Personal Training Studio,8,$500K-$1M,Julie,Owner,N/A,N/A,fit180.com
+The Atlanta Dance Academy,Atlanta,GA,Atlanta,Dance Studio,10,$500K-$1M,Kara,Owner,(678) 827-3737,N/A,tadaatlanta.com
+Atlanta Dance Ballroom,Atlanta,GA,Atlanta,Dance Studio,8,$400K-$800K,Rachel Champion,Owner,N/A,N/A,atlantadance.com
+Get Up & Dance Studio,Atlanta,GA,Atlanta,Dance Studio,6,$300K-$600K,Leah Boresow Groover,Owner,N/A,N/A,N/A
+CrossFit Atlanta,Atlanta,GA,Atlanta,CrossFit Gym,10,$600K-$1.2M,Travis Harkey,Owner,N/A,travis@crossfitatlanta.com,crossfitatlanta.com
+CrossFit Midtown Atlanta,Atlanta,GA,Atlanta,CrossFit Gym,8,$500K-$1M,Michael,Owner,(678) 223-3308,michael@crossfitmidtown.com,N/A
+Venture CrossFit,Atlanta,GA,Atlanta,CrossFit Gym,7,$400K-$800K,Owner,Owner,(256) 733-1494,info@venturecrossfit.com,venturecrossfit.com
+CrossFit Paragon,Atlanta,GA,Atlanta,CrossFit Gym,8,$500K-$1M,Nate,Owner,(404) 556-5885,N/A,crossfitparagon.com
+Access Test Prep & Tutoring,Atlanta,GA,Atlanta,Test Prep Company,10,$600K-$1.2M,Charles Mendels,Co-Founder,N/A,N/A,accesstestprep.com
+Dynamis Learning Academy,Atlanta,GA,Atlanta,Tutoring Center,6,$300K-$600K,Helen,Owner,(770) 282-9931,N/A,dynamislearningacademy.com
+Mathnasium of Morningside,Atlanta,GA,Atlanta,Tutoring Center,8,$400K-$800K,Sam,Owner,N/A,morningside@mathnasium.com,mathnasium.com/morningside
+Morningside Day Out,Atlanta,GA,Atlanta,Preschool,12,$600K-$1.2M,Amanda Jones,Executive Director,(404) 634-5889,office@morningsidedayout.org,morningsidedayout.com
+Kids Kondo,Atlanta,GA,Atlanta,Daycare Center,10,$500K-$1M,Owner,Owner,(404) 897-1936,info@kidkondo.com,kidskondo.com
+PUSH GYM,Denver,CO,Denver,Personal Training Studio,6,$400K-$800K,Marty,Owner,(303) 903-8174,info@pushgym.com,pushgym.com
+Club Form Denver,Denver,CO,Denver,Personal Training Studio,8,$500K-$1M,Sean Gale,Owner,(303) 324-8207,clubformmanager@gmail.com,clubformdenver.com
+The Studio at 6900 Layton,Denver,CO,Denver,Personal Training Studio,5,$300K-$600K,Dee Tidwell,Owner,(303) 883-0435,deetidwell@gmail.com,thestudioat6900layton.com
+Nourished Training Denver,Denver,CO,Denver,Personal Training Studio,6,$350K-$700K,Owner,Owner,(720) 365-2344,contact@nourishedtraining.com,nourishedtraining.com
+CrossFit Verve,Denver,CO,Denver,CrossFit Gym,12,$700K-$1.5M,Eric,Owner,(720) 238-7783,eric@crossfitverve.com,crossfitverve.com
+CrossFit RIGAR,Denver,CO,Denver,CrossFit Gym,8,$500K-$1M,Owner,Owner,(719) 413-8260,Info@rigarperformance.com,rigarperformance.com
+CrossFit LoDo,Denver,CO,Denver,CrossFit Gym,10,$600K-$1.2M,Ryan,Owner,(303) 946-1721,ryan@crossfitlodo.com,crossfitlodo.com
+CrossFit Cuspis,Denver,CO,Denver,CrossFit Gym,8,$500K-$1M,Tom Ashby,Owner,(412) 491-2106,tomashby1@gmail.com,crossfitcuspis.com
+ONE8 CrossFit,Denver,CO,Denver,CrossFit Gym,7,$400K-$800K,Ethan,Owner,(720) 347-8579,ethan@one8.us,N/A
+Yoga Social,Denver,CO,Denver,Yoga Studio,8,$400K-$800K,Owner,Owner,(720) 464-7718,info@yogasocial.org,yogasocial.org
+ONE Yoga Denver,Denver,CO,Denver,Yoga Studio,7,$400K-$800K,Owner,Owner,(720) 722-1756,info@ONEYogaDenver.com,oneyogadenver.com
+Primrose School Denver Central Park,Denver,CO,Denver,Preschool,15,$1M-$2M,Beth Deasy,Owner,N/A,N/A,primroseschools.com/schools/denver-central-park
+Sweet Pea Kids Preschool,Phoenix,AZ,Phoenix,Preschool,10,$500K-$1M,Owner,Owner,(602) 604-9137,123.sweetpealearning@gmail.com,sweetpeakidspreschool.com
+Kids Prep Academy,Phoenix,AZ,Phoenix,Daycare Center,12,$600K-$1.2M,Owner,Owner,(623) 234-8912,N/A,kpaaz.com
+CrossFit Full Strength,Phoenix,AZ,Phoenix,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,info@crossfitfullstrength.com,crossfitfullstrength.com
+TriFit Wellness,Phoenix,AZ,Phoenix,Boutique Fitness Studio,8,$500K-$1M,Alli,Founder,N/A,Alli@trifitwellness.com,trifitwellness.com
+Jump Ship Phoenix,Phoenix,AZ,Phoenix,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,info@jumpshipphoenix.com,jumpshipphoenix.com
+Origins Barbell Fitness,Phoenix,AZ,Phoenix,CrossFit Gym,6,$400K-$800K,Joe Costanza,Owner,N/A,N/A,originscrossfit.com
+A+ Test Prep & Tutoring,Jenkintown,PA,Philadelphia,Test Prep Company,12,$800K-$1.5M,Lucy Zhang,President/Owner,N/A,N/A,aplustutoring.com
+Tutor Doctor Main Line,Philadelphia,PA,Philadelphia,Tutoring Center,8,$400K-$800K,Joe Ford,Owner,N/A,N/A,tutordoctor.com/main-line
+Premier College Prep,Philadelphia,PA,Philadelphia,Test Prep Company,6,$400K-$800K,Eric Hahn,Founder,N/A,N/A,premiercollegeprep.com
+CrossFit Fairmount,Philadelphia,PA,Philadelphia,CrossFit Gym,8,$500K-$1M,Paul Donovan,Founder,N/A,cffmount@gmail.com,crossfitfairmount.com
+CrossFit Rittenhouse,Philadelphia,PA,Philadelphia,CrossFit Gym,7,$400K-$800K,Owner,Owner,N/A,aturner03@gmail.com,N/A
+CrossFit Ridge Ave,Philadelphia,PA,Philadelphia,CrossFit Gym,6,$400K-$800K,Jim,Owner,N/A,jim@breakingpointfitness.com,breakingpointfitness.com
+CrossFit Renaissance,Philadelphia,PA,Philadelphia,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,info@crossfitrenaissance.com,N/A
+CrossFit Frankford Ave,Philadelphia,PA,Philadelphia,CrossFit Gym,6,$350K-$700K,Gary Samson,Owner,N/A,garyk.samson@hotmail.com,N/A
+FitCity CrossFit,Tampa,FL,Tampa,CrossFit Gym,10,$600K-$1.2M,Sarah,Owner,(813) 966-0930,sarah@fitcitycrossfit.com,fitcitycrossfit.com
+Seminole Heights CrossFit,Tampa,FL,Tampa,CrossFit Gym,7,$400K-$800K,Owner,Owner,(813) 501-6534,N/A,shathleticcenter.com
+Palm Yoga,Tampa,FL,Tampa,Yoga Studio,6,$300K-$600K,Rebecca Wood,Owner,N/A,N/A,palmyoga.com
+Essential You Yoga,Tampa,FL,Tampa,Yoga Studio,5,$250K-$500K,Libby Gayle,Owner,N/A,N/A,essentialyouyoga.com
+Studio 108 Tampa,Tampa,FL,Tampa,Yoga Studio,5,$250K-$500K,Missy,Owner,N/A,N/A,studio108tampa.com
+Creative World School Tampa Palms,Tampa,FL,Tampa,Daycare Center,18,$1M-$2M,Bobby Singh,Franchise Owner,N/A,tampapalms@creativeworldschool.com,creativeworldschool.com
+Lightbridge Academy Tampa,Tampa,FL,Tampa,Daycare Center,15,$800K-$1.5M,Alison Friedman,Managing Owner,N/A,N/A,lightbridgeacademy.com/tampa-westchase-fl
+The Goddard School South Tampa,Tampa,FL,Tampa,Preschool,18,$1M-$2M,Megan Reeves,Owner,N/A,N/A,goddardschool.com/schools/fl/tampa/south-tampa
+Primrose School Carrollwood,Tampa,FL,Tampa,Preschool,16,$1M-$2M,Sandy Deng,Franchise Owner,N/A,N/A,primroseschools.com/schools/carrollwood
+CrossFit Wynwood,Miami,FL,Miami,CrossFit Gym,10,$600K-$1.2M,Owner,Owner,N/A,info@crossfitwynwood.com,crossfitwynwood.com
+CrossFit Downtown Miami,Miami,FL,Miami,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,Support@boxrgym.com,N/A
+CrossFit Invictus Miami,Miami,FL,Miami,CrossFit Gym,8,$500K-$1M,Chad,Owner,N/A,chad@crossfitarmed.com,N/A
+Caution CrossFit Miami Lakes,Miami,FL,Miami,CrossFit Gym,7,$400K-$800K,Dominick,Owner,N/A,dominick@cautioncrossfit.com,N/A
+CrossFit Coconut Grove,Miami,FL,Miami,CrossFit Gym,6,$400K-$800K,Gioconda Pico,Owner,N/A,gioconda.pico@gmail.com,N/A
+CV Studio Miami,Miami,FL,Miami,Boutique Fitness Studio,6,$400K-$800K,Owner,Owner,N/A,admin@cvstudiomiami.com,cvstudiomiami.com
+Jeff Fitt Miami Fitness,Miami,FL,Miami,Personal Training Studio,5,$300K-$600K,Jeff,Owner,N/A,jefffittmiami@gmail.com,N/A
+SunSpark Yoga,Orange,CA,Orange County,Yoga Studio,6,$300K-$600K,Owner,Owner,(714) 786-5994,info@sunsparkyoga.com,sunsparkyoga.com
+Orange People Pilates,Irvine,CA,Orange County,Pilates Studio,8,$500K-$1M,Owner,Owner,(949) 533-8575,orangepeople@mail.com,oppilates.com
+The Dance Studio of OC,Huntington Beach,CA,Orange County,Dance Studio,8,$400K-$800K,Owner,Owner,(714) 374-0317,dancestudiooc@gmail.com,dancestudiooc.com
+OC Dance Studio,Orange,CA,Orange County,Dance Studio,6,$300K-$600K,Rostislav,Owner,(714) 912-7729,N/A,N/A
+OCPAA Dance Studio,Anaheim Hills,CA,Orange County,Dance Studio,10,$500K-$1M,Owner,Owner,N/A,info@ocpaadance.com,ocpaadance.com
+True Pilates OC,Dana Point,CA,Orange County,Pilates Studio,5,$300K-$600K,Sara Thornton,Owner,N/A,N/A,truepilatesoc.com
+Rhodes School of Music,Los Angeles,CA,Los Angeles,Music School,10,$500K-$1M,Owner,Owner,(323) 522-4888,larchmont@rhodesschoolofmusic.com,rhodesschoolofmusic.com
+Angeles Academy of Music,Los Angeles,CA,Los Angeles,Music School,15,$800K-$1.5M,Beha Pangrazio,Owner,(310) 907-8687,info@angelesacademyofmusic.com,angelesacademyofmusic.com
+Los Angeles Music Teachers,Burbank,CA,Los Angeles,Music School,8,$400K-$800K,Rick,Owner,(818) 902-1233,rick@losangelesmusicteachers.com,losangelesmusicteachers.com
+Music Teacher LA,Los Angeles,CA,Los Angeles,Music School,10,$500K-$1M,Olesya MacNeil,Founder,(310) 220-0405,N/A,musicteacherla.com
+Torrance Arts Academy,Torrance,CA,Los Angeles,Music School,8,$400K-$800K,Owner,Owner,N/A,hello@torranceartsacademy.com,torranceartsacademy.com
+LA Music Lessons,Los Angeles,CA,Los Angeles,Music School,5,$250K-$500K,Andrew Boyle,Owner,(213) 538-2988,andrewboylepiano@gmail.com,lamusiclessons.com
+Palestra Spa & Studio,Charlotte,NC,Charlotte,Yoga Studio,8,$500K-$1M,Owner,Owner,(704) 342-4660,info@palestraboutiquespa.com,palestraboutiquespa.com
+Arrichion Hot Yoga Charlotte,Charlotte,NC,Charlotte,Yoga Studio,10,$600K-$1.2M,Owner,Owner,(704) 201-4586,info@arrichion.com,arrichion.com
+CrossFit Charlotte,Charlotte,NC,Charlotte,CrossFit Gym,10,$600K-$1.2M,Andy Hendel,Owner,(704) 519-6693,andy.hendel@crossfit.com,crossfitcharlotte.fit
+The Grit Haus,Charlotte,NC,Charlotte,CrossFit Gym,8,$500K-$1M,Kevin,Owner,N/A,kevin@thegrithaus.com,thegrithaus.com
+The Early Learning Center,Charlotte,NC,Charlotte,Preschool,10,$500K-$1M,Owner,Owner,(704) 529-5397,pawp58@gmail.com,earlylearningcenternc.com
+Creative Play Preschool,Charlotte,NC,Charlotte,Preschool,8,$400K-$800K,Shanita,Owner,N/A,N/A,creativeplaycharlotte.com
+Lightbridge Academy Steele Creek,Charlotte,NC,Charlotte,Daycare Center,15,$800K-$1.5M,Alison Friedman,Managing Owner,N/A,N/A,lightbridgeacademy.com/steele-creek-nc
+Studio ME Fitness,Minneapolis,MN,Minneapolis,Boutique Fitness Studio,8,$500K-$1M,Megan Cooper,Owner,(612) 656-9306,N/A,studiomefitness.com
+Balance Fitness Studio,Minneapolis,MN,Minneapolis,Boutique Fitness Studio,6,$400K-$800K,Owner,Owner,N/A,N/A,balancempls.com
+The Pilates Center of SF,San Francisco,CA,San Francisco Bay Area,Pilates Studio,6,$400K-$800K,Martt Lawrence,Owner,(415) 294-3505,martt@pilatescentersf.com,N/A
+Evolve Pilates Studio,San Francisco,CA,San Francisco Bay Area,Pilates Studio,5,$300K-$600K,Hanan,Owner,(650) 797-5858,Hanan@evolvestronger.com,evolvestronger.com
+Elevate Pilates,San Francisco,CA,San Francisco Bay Area,Pilates Studio,6,$400K-$800K,Owner,Owner,(415) 374-7877,info@elevatepilates.net,elevatepilates.net
+CrossFit 7x7,San Francisco,CA,San Francisco Bay Area,CrossFit Gym,10,$600K-$1.2M,Owner,Owner,N/A,info@crossfit7x7.com,crossfit7x7.com
+CrossFit Potrero Hill,San Francisco,CA,San Francisco Bay Area,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,coachingstaff@crossfitpotrerohill.com,N/A
+Mills 50 Fitness,Orlando,FL,Orlando,Boutique Fitness Studio,6,$350K-$700K,Nate,Owner,N/A,N/A,mills50fitness.com
+The HIIT Fitness Studio,Orlando,FL,Orlando,Boutique Fitness Studio,6,$400K-$800K,Owner,Owner,(305) 746-3799,getfit@hiitnxtlvl.com,N/A
+Iron Religion Gym,Orlando,FL,Orlando,Gym,10,$500K-$1M,Owner,Owner,N/A,ironreligiongym@gmail.com,ironreligiongym.com
+BODYBAR Pilates Orlando,Orlando,FL,Orlando,Pilates Studio,8,$500K-$1M,Owner,Owner,(407) 545-4710,orlandosodo@bodybarpilates.com,bodybarpilates.com
+Orlando Power Yoga,Orlando,FL,Orlando,Yoga Studio,8,$400K-$800K,Kelly,Owner,(407) 719-0101,N/A,orlandopoweryoga.com
+Barron's Martial Arts,Houston,TX,Houston,Martial Arts School,8,$400K-$800K,Bob Barron,Owner,(832) 600-0121,N/A,barronsmartialarts.com
+Houston Karate Academy,Houston,TX,Houston,Martial Arts School,10,$500K-$1M,April Cunningham,Founder/Owner,N/A,N/A,houstonkarate.com
+Houston Martial Arts Academy,Houston,TX,Houston,Martial Arts School,8,$400K-$800K,Owner,Owner,N/A,info@houstonmartialartsacademy.com,houstonmartialartsacademy.com
+Iron Dragon Martial Arts,Houston,TX,Houston,Martial Arts School,6,$300K-$600K,Tola Rose,Owner,N/A,N/A,irondragonhouston.com
+Mousel's MMA Academy,Houston,TX,Houston,Martial Arts School,8,$400K-$800K,Tim Mousel,Owner,N/A,N/A,defend.net
+The Good Space,Houston,TX,Houston,Pilates Studio,6,$400K-$800K,Melody Mortan,Founder,(713) 784-8555,thegoodspace@gmail.com,thegoodspace.com
+Studio 22 Pilates,The Woodlands,TX,Houston,Pilates Studio,6,$350K-$700K,Lee Raymond,Owner,(832) 299-4779,N/A,studio22pilates.com
+Timberline Fitness,Houston,TX,Houston,Personal Training Studio,8,$500K-$1M,Dean Theriot,Owner,N/A,N/A,timberlinefitness.com
+The Body Master Fitness,Houston,TX,Houston,Personal Training Studio,5,$300K-$600K,Ron Russell,Owner,N/A,N/A,thebodymaster.com
+Catalyst Personal Training,Houston,TX,Houston,Personal Training Studio,5,$300K-$600K,Scott,Owner,N/A,N/A,catalysthouston.com
+Pilates by Galiya,Houston,TX,Houston,Pilates Studio,5,$250K-$500K,Galiya,Owner,N/A,N/A,galiyasfitness.com
+Downtown Strength and Conditioning,Miami,FL,Miami,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,contact@downtownstrengthandconditioning.com,downtownstrengthandconditioning.com
+Legendary Fitness Miami,Miami,FL,Miami,Boutique Fitness Studio,8,$500K-$1M,Lazaro Angel Gonzalez,Owner,N/A,N/A,N/A
+Elite Martial Arts Brentwood,Nashville,TN,Nashville,Martial Arts School,10,$500K-$1M,Owner,Owner,N/A,N/A,emabrentwood.com
+KSA Martial Academy,Nashville,TN,Nashville,Martial Arts School,6,$300K-$600K,Owner,Owner,N/A,N/A,ksamartialacademy.com
+Degerberg Academy,Chicago,IL,Chicago,Martial Arts School,10,$500K-$1M,Owner,Owner,(773) 728-5300,N/A,degerbergacademy.com
+Warrior Institute of Chicago,Chicago,IL,Chicago,Martial Arts School,8,$400K-$800K,Oren E. Headen,Owner,N/A,N/A,wichicago.com
+Redzovic Jiu-Jitsu,Chicago,IL,Chicago,Martial Arts School,8,$400K-$800K,Professor Redzovic,Owner,N/A,N/A,chicagojiujitsu.com
+Gus Giordano Dance School,Chicago,IL,Chicago,Dance Studio,15,$800K-$1.5M,Amy P. Giordano,Executive Director,N/A,N/A,guslegacy.org
+The Chicago School of Ballet,Chicago,IL,Chicago,Dance Studio,8,$400K-$800K,Steve Norman,Owner/Director,(630) 418-5525,N/A,thechicagoschoolofballet.com
+CrossFit South Atlanta,Atlanta,GA,Atlanta,CrossFit Gym,7,$400K-$800K,Owner,Owner,N/A,N/A,N/A
+Dance 411,Atlanta,GA,Atlanta,Dance Studio,10,$500K-$1M,Owner,Owner,(404) 622-4110,N/A,dance411.com
+Elite Dance Studios,Atlanta,GA,Atlanta,Dance Studio,8,$400K-$800K,Owner,Owner,(404) 500-1738,N/A,elitestudiosatl.com
+Dogwood Tutoring & Test Prep,Sandy Springs,GA,Atlanta,Test Prep Company,6,$400K-$800K,Ivan,Owner,N/A,N/A,dogwoodtutoring.com
+McGinnis Woods Country Day,Alpharetta,GA,Atlanta,Preschool,20,$1.5M-$3M,Owner,Owner,(770) 664-7764,preschool@mcginniswoods.org,mcginniswoods.org
+San Diego Personal Training,San Diego,CA,San Diego,Personal Training Studio,6,$350K-$700K,Owner,Owner,(858) 261-4279,N/A,sandiegopersonaltraining.com
+San Diego Premier Training,Carlsbad,CA,San Diego,Personal Training Studio,5,$300K-$600K,Owner,Owner,(760) 268-1023,N/A,sandiegopremiertraining.com
+4S Dance Academy,San Diego,CA,San Diego,Dance Studio,8,$400K-$800K,Shay and Jason,Owners,N/A,N/A,4sdanceacademy.com
+Manna's Martial Arts,San Diego,CA,San Diego,Martial Arts School,8,$400K-$800K,Owner,Owner,N/A,N/A,manna.us
+Ignition Martial Arts,San Diego,CA,San Diego,Martial Arts School,6,$300K-$600K,Owner,Owner,N/A,N/A,ignitionmartialarts.com
+Urban Pump,Denver,CO,Denver,Personal Training Studio,6,$400K-$800K,Owner,Owner,(303) 587-0149,N/A,urbanpump.com
+Samadhi Yoga,Denver,CO,Denver,Yoga Studio,8,$400K-$800K,Owner,Owner,(303) 736-2941,N/A,samadhiyoga.com
+Canopy Yoga,Denver,CO,Denver,Yoga Studio,5,$250K-$500K,Owner,Owner,N/A,N/A,canopyyoga.com
+Denver Child Care Academy,Denver,CO,Denver,Daycare Center,15,$800K-$1.5M,Owner,Owner,N/A,N/A,denverchild.com
+Lil People Learning Center,Denver,CO,Denver,Daycare Center,10,$500K-$1M,Owner,Owner,N/A,N/A,lilpeoplelearningctr.com
+Magical Star Preschool,Phoenix,AZ,Phoenix,Preschool,10,$400K-$800K,Owner,Owner,N/A,N/A,magicalstarpreschool.com
+Raising Arizona Preschool,Phoenix,AZ,Phoenix,Preschool,12,$500K-$1M,Owner,Owner,N/A,N/A,raisingarizonapreschool.com
+Happy Dayz Learning Center,Phoenix,AZ,Phoenix,Daycare Center,10,$400K-$800K,Owner,Owner,(602) 942-6662,N/A,N/A
+Back Alley CrossFit,Phoenix,AZ,Phoenix,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,N/A,backalleycrossfit.com
+WildFire CrossFit,Phoenix,AZ,Phoenix,CrossFit Gym,7,$400K-$800K,Owner,Owner,N/A,N/A,wildfirecrossfit.com
+Sol CrossFit,Phoenix,AZ,Phoenix,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,N/A,solcrossfit.com
+CrossFit ATP Charlotte,Charlotte,NC,Charlotte,CrossFit Gym,7,$400K-$800K,Owner,Owner,N/A,N/A,cfatp.com
+Feel Better Yoga,Charlotte,NC,Charlotte,Yoga Studio,6,$300K-$600K,Owner,Owner,N/A,N/A,feelbetteryoganc.com
+Y2 Yoga,Charlotte,NC,Charlotte,Yoga Studio,10,$600K-$1.2M,Owner,Owner,N/A,N/A,y2yoga.com
+Be Yoga Collective,Charlotte,NC,Charlotte,Yoga Studio,5,$250K-$500K,Owner,Owner,N/A,N/A,beyogacollective.com
+First United Methodist CDC,Charlotte,NC,Charlotte,Daycare Center,12,$600K-$1.2M,Owner,Director,(704) 333-4882,firstcharlottecdcadm@gmail.com,firstcharlottecdc.org
+Early Beginnings CDC,Charlotte,NC,Charlotte,Daycare Center,10,$500K-$1M,Owner,Owner,(704) 392-5530,N/A,earlybeginningscdc.com
+Fog City Community Fitness,San Francisco,CA,San Francisco Bay Area,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,N/A,fogcitycf.com
+United Barbell,San Francisco,CA,San Francisco Bay Area,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,N/A,unitedbarbell.com
+Bright Star Pilates,San Francisco,CA,San Francisco Bay Area,Pilates Studio,5,$300K-$600K,Artemis,Owner,N/A,N/A,brightstarpilates.com
+Club Pilates SOMA,San Francisco,CA,San Francisco Bay Area,Pilates Studio,8,$500K-$1M,Owner,Owner,(415) 251-3000,soma@clubpilates.com,clubpilates.com/location/soma
+Club Pilates Union Street,San Francisco,CA,San Francisco Bay Area,Pilates Studio,8,$500K-$1M,Owner,Owner,(415) 593-7779,unionstreet@clubpilates.com,clubpilates.com/location/unionstreet
+Jai Dee Yoga & Wellness,Tampa,FL,Tampa,Yoga Studio,5,$250K-$500K,Owner,Owner,N/A,N/A,jaideeyoga.com
+Lotus Pond Yoga,Tampa,FL,Tampa,Yoga Studio,5,$250K-$500K,Katie,Co-Owner,N/A,N/A,lotuspondyoga.com
+College Park Fitness Studio,Orlando,FL,Orlando,Personal Training Studio,6,$350K-$700K,Owner,Owner,N/A,N/A,collegeparkfs.com
+XYMOGYM,Orlando,FL,Orlando,Boutique Fitness Studio,8,$500K-$1M,Owner,Owner,(321) 342-3385,N/A,xymogym.com
+FIT 407 Reformer Pilates,Orlando,FL,Orlando,Pilates Studio,10,$600K-$1.2M,Owner,Owner,(407) 775-0130,N/A,fit407.com
+Project 7 Yoga,Orlando,FL,Orlando,Yoga Studio,6,$300K-$600K,Owner,Owner,N/A,N/A,project7yoga.com
+ARC Studio Orlando,Orlando,FL,Orlando,Yoga Studio,5,$250K-$500K,Owner,Owner,N/A,N/A,arcstudioorlando.com
+Tiffany Music Academy,Los Angeles,CA,Los Angeles,Music School,6,$350K-$700K,Owner,Owner,(310) 425-8322,N/A,tiffanymusicacademy.com
+Richman Music School,Los Angeles,CA,Los Angeles,Music School,8,$400K-$800K,Owner,Owner,N/A,N/A,richmanmusicschool.com
+Red Pelican Music,Los Angeles,CA,Los Angeles,Music School,10,$500K-$1M,Brian,Owner,N/A,N/A,redpelicanmusic.com
+West Coast School of the Arts,Orange,CA,Orange County,Dance Studio,10,$500K-$1M,Paula Kessinger,Owner,N/A,N/A,wcdance.com
+Soul on Fire Dance,Santa Ana,CA,Orange County,Dance Studio,6,$300K-$600K,Owner,Owner,(657) 484-9470,N/A,soulonfiredance.com
+Los Cab Fitness,Costa Mesa,CA,Orange County,Yoga Studio,8,$400K-$800K,Peggy Pocher,Owner,(714) 546-8560,fitness@loscab.com,loscab.com
+Hello Yoga,Costa Mesa,CA,Orange County,Yoga Studio,5,$250K-$500K,Owner,Owner,N/A,N/A,helloyoga.life
+Pilates on Main OC,Orange County,CA,Orange County,Pilates Studio,5,$300K-$600K,Boroka Nagy,Owner,N/A,N/A,pilatesonmain.net
+PARADIGM Gym,Dallas,TX,Dallas,Personal Training Studio,8,$500K-$1M,Owner,Owner,(469) 619-1159,N/A,paradigmgyms.com
+Extreme Studio Performance,Dallas,TX,Dallas,Personal Training Studio,8,$600K-$1.2M,Owner,Owner,(214) 389-4001,N/A,extremestudioperformance.com
+Pilates214,Dallas,TX,Dallas,Pilates Studio,6,$350K-$700K,Melissa,Owner,N/A,N/A,pilates214.com
+Carrie's Pilates Trinity Groves,Dallas,TX,Dallas,Pilates Studio,6,$400K-$800K,Carrie,Owner,N/A,info@carriespilatestrinitygroves.com,trinitygroves.carriespilatesplus.com
+Dallas Academy of Music,Dallas,TX,Dallas,Music School,12,$600K-$1.2M,Todd,Owner,N/A,N/A,dallasacademyofmusic.com
+Arthur Murray Atlanta,Kennesaw,GA,Atlanta,Dance Studio,10,$500K-$1M,Owner,Owner,(770) 514-7772,AtlMurray1@gmail.com,arthurmurrayatl.com
+Yong Studios Martial Arts,Washington,DC,Washington DC,Martial Arts School,8,$400K-$800K,Owner,Owner,N/A,N/A,yongstudios.com
+KenZen-do,Washington,DC,Washington DC,Martial Arts School,6,$300K-$600K,Owner,Owner,N/A,N/A,kenzendo.com
+District Martial Arts,Washington,DC,Washington DC,Martial Arts School,8,$400K-$800K,Owner,Owner,N/A,N/A,districtmartialarts.com
+Khali Yoga Center,Charlotte,NC,Charlotte,Yoga Studio,6,$300K-$600K,Owner,Owner,N/A,N/A,khaliyogacenter.com
+Land of Learning Academy,Tampa,FL,Tampa,Daycare Center,15,$700K-$1.5M,Nicole Mella,Owner,(813) 886-6494,N/A,landoflearning.com
+Cigar City CrossFit,Tampa,FL,Tampa,CrossFit Gym,8,$500K-$1M,Owner,Owner,N/A,N/A,cigarcitycrossfit.com
+CrossFit Downtown Heights,Tampa,FL,Tampa,CrossFit Gym,7,$400K-$800K,Owner,Owner,N/A,N/A,crossfitdowntownheights.com
+Solve Tutoring,Atlanta,GA,Atlanta,Tutoring Center,6,$300K-$600K,Owner,Owner,N/A,N/A,solvetutoring.com
+Connections Learning Center,Chicago,IL,Chicago,Tutoring Center,8,$400K-$800K,Owner,Owner,N/A,N/A,connectionslearningcenter.com
+Advance Tutoring LLC,Chicago,IL,Chicago,Tutoring Center,5,$250K-$500K,Owner,Owner,N/A,N/A,advancetutoring.net
+Moksha Yoga Center,Chicago,IL,Chicago,Yoga Studio,8,$400K-$800K,Owner,Owner,N/A,N/A,mokshayoga.com
+Zen Yoga Garage,Chicago,IL,Chicago,Yoga Studio,8,$500K-$1M,Owner,Owner,N/A,N/A,zenyogagarage.com
+Big Shoulders Yoga,Chicago,IL,Chicago,Yoga Studio,5,$250K-$500K,Owner,Owner,N/A,N/A,bigshouldersyoga.com
+BMAC Boston,Boston,MA,Boston,Martial Arts School,10,$500K-$1M,Marcelo Siqueira,Owner,(617) 628-3800,N/A,bmacboston.com
+Btone Fitness,Boston,MA,Boston,Boutique Fitness Studio,12,$800K-$1.5M,Jody Merrill,Founder,N/A,N/A,N/A
+Pearl St. Fitness,Boston,MA,Boston,Boutique Fitness Studio,6,$400K-$800K,Owner,Owner,N/A,N/A,pearlstfitness.com
+TRAIN Fitness Studio,Boston,MA,Boston,Personal Training Studio,5,$300K-$600K,Owner,Owner,N/A,N/A,trainfitnessstudioboston.com
+Sweat + Soul Studios,Houston,TX,Houston,Boutique Fitness Studio,6,$400K-$800K,Owner,Latina Owner,N/A,N/A,sweatandsoulfitness.com
+3D Fitness,Houston,TX,Houston,Pilates Studio,6,$400K-$800K,Owner,Owner,(713) 533-1500,N/A,3dfitnesstx.com
+Inner Me Studios,Houston,TX,Houston,Dance Studio,8,$400K-$800K,Owner,Owner,(713) 533-1455,N/A,innermestudios.com
+The Pilates Firm,Cypress,TX,Houston,Pilates Studio,6,$350K-$700K,Owner,Owner,N/A,N/A,thepilatesfirm.com
+Silverake Conservatory of Music,Los Angeles,CA,Los Angeles,Music School,15,$1M-$2M,Owner,Owner,N/A,N/A,silverlakeconservatory.org
+LA School of Music,Los Angeles,CA,Los Angeles,Music School,8,$400K-$800K,Owner,Owner,N/A,N/A,laschoolofmusic.com
+Danceology,San Diego,CA,San Diego,Dance Studio,8,$400K-$800K,Owner,Owner,N/A,N/A,danceology.biz
+Malashock Dance,San Diego,CA,San Diego,Dance Studio,10,$500K-$1M,Owner,Owner,N/A,N/A,malashockdance.org
+Evolution Dance San Diego,San Diego,CA,San Diego,Dance Studio,8,$400K-$800K,Owner,Owner,N/A,N/A,evolutiondancesandiego.com
+CrossFit Golden Gate,San Francisco,CA,San Francisco Bay Area,CrossFit Gym,10,$600K-$1.2M,Owner,Owner,N/A,N/A,crossfitgoldengate.com
+Fior Fitness,San Francisco,CA,San Francisco Bay Area,CrossFit Gym,7,$400K-$800K,Owner,Owner,N/A,N/A,fiorfitness.org
+Nice Pilates Studio,San Francisco,CA,San Francisco Bay Area,Pilates Studio,5,$300K-$600K,Owner,Owner,N/A,N/A,nicepilates.studio
+The Pilates School SF,San Francisco,CA,San Francisco Bay Area,Pilates Studio,6,$350K-$700K,Owner,Owner,N/A,N/A,pilatesschoolsf.com
+Kodawari Studios,Tampa,FL,Tampa,Yoga Studio,8,$500K-$1M,Owner,Owner,N/A,N/A,kodawaristudios.com
+Union Three,Tampa,FL,Tampa,Boutique Fitness Studio,8,$500K-$1M,Owner,Owner,N/A,N/A,unionthree.com

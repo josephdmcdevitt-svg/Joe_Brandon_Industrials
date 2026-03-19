@@ -4,3 +4,7 @@ data/outreach.db
 __pycache__/
 *.pyc
 .venv/
+data/outreach.db-shm
+data/outreach.db-wal
+data/ws3_chunk_*
+data/master_leads_enriched_backup.csv

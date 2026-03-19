@@ -1,0 +1,247 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+Super Cool HVAC,Brooklyn,NY,New York City,HVAC,8,$1M-$3M,Owner,Owner,(718) 415-6091,N/A,supercoolhvac.com
+AirCool HVAC,Queens,NY,New York City,HVAC,10,$1M-$3M,Owner,Owner,(718) 465-1653,info@aircoolpro.com,aircool-hvac.com
+Figlia & Sons,Manhattan,NY,New York City,HVAC,12,$2M-$5M,Owner,Owner,N/A,N/A,figliasons.com
+Always On HVAC,New York,NY,New York City,HVAC,8,$1M-$3M,Owner,Owner,N/A,N/A,alwaysonhvac.com
+Prestige HVAC,New York,NY,New York City,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,prestigemcc.com
+MJ Frick Co.,Nashville,TN,Nashville,Plumbing,15,$2M-$5M,Owner,Owner,(615) 431-8095,N/A,mjfrickco.com
+Holt Plumbing Company,Nashville,TN,Nashville,Plumbing,12,$2M-$5M,Owner,Owner,N/A,N/A,holtplumbing.com
+Music City Remodels,Nashville,TN,Nashville,Plumbing,8,$1M-$3M,Owner,Owner,N/A,N/A,musiccityremodels.com
+Jack Ward & Sons Plumbing,Nashville,TN,Nashville,Plumbing,15,$2M-$5M,Owner,Owner,N/A,N/A,jackwardandsonsplumbing.com
+Colman Electric,Boston,MA,Boston,Electrical,10,$1M-$3M,Kevin Colman,Owner,N/A,N/A,colmanelectric.com
+Paul Macrina Electrical,Boston,MA,Boston,Electrical,12,$2M-$5M,Paul Macrina,Owner,N/A,N/A,paulmacrina.com
+Sartell Electrical Services,Boston,MA,Boston,Electrical,15,$2M-$5M,Owner,Owner,(781) 944-9152,N/A,sartellelectrical.com
+Kuhlman Electric,Boston,MA,Boston,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,kuhlmanelectricalservices.com
+Boston Electrical Solutions,Boston,MA,Boston,Electrical,8,$1M-$3M,Owner,Owner,N/A,N/A,bostonelectricalsolutions.com
+G & G Home Improvements,Washington,DC,Washington DC,Roofing,10,$1M-$3M,Owner,Owner,N/A,gandghomeimprovements@gmail.com,gandghomeimprovements.net
+Keith Roofing,Washington,DC,Washington DC,Roofing,8,$1M-$3M,Hugh,Owner,(202) 486-7359,N/A,keith-roofing.com
+ASAP Roofing & Exteriors,Washington,DC,Washington DC,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,asaproofingandexteriors.com
+William Mackay Roofing,Washington,DC,Washington DC,Roofing,12,$2M-$5M,Owner,Owner,N/A,N/A,williammackayroofing.com
+National Roofing DC,Washington,DC,Washington DC,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,nationalroofingdc.com
+Marsol Construction,San Diego,CA,San Diego,Remodeling,10,$1M-$3M,Owner,Owner,(619) 285-2118,N/A,marsolconstruction.com
+Marrokal Design & Remodeling,San Diego,CA,San Diego,Remodeling,18,$3M-$7M,Owner,Owner,(619) 441-9300,marrokal.info@gmail.com,marrokal.com
+Creations Construction,San Diego,CA,San Diego,Remodeling,10,$1M-$3M,Owner,Owner,(619) 604-6665,N/A,creationsremodel.com
+JDC Build Construction,San Diego,CA,San Diego,Remodeling,8,$1M-$3M,Owner,Owner,(619) 800-3205,N/A,jdcbuild.com
+First Choice Home Builders,San Diego,CA,San Diego,Remodeling,10,$1M-$3M,Igor,Owner,(619) 305-2041,N/A,1homebuilders.com
+Eclipse Painting,Minneapolis,MN,Minneapolis,Painting,8,$500K-$1.5M,Owner,Owner,(952) 495-1141,eclipsepaintinginc@gmail.com,eclipsepaintinginc.com
+Chileen Painting,Minneapolis,MN,Minneapolis,Painting,12,$1M-$3M,Owner,Owner,(612) 850-0325,info@chileen.com,chileenpainting.com
+Varsity Painters,Minneapolis,MN,Minneapolis,Painting,10,$1M-$3M,Joe Perry,Co-Owner,N/A,N/A,varsitypainters.com
+William Nunn Painting,Minneapolis,MN,Minneapolis,Painting,8,$500K-$1.5M,William Nunn,Owner,(612) 825-3875,N/A,williamnunnpainting.com
+Headwaters Painting,Minneapolis,MN,Minneapolis,Painting,10,$1M-$3M,Owner,Owner,N/A,N/A,headwaterspainting.com
+Noosa Pest Management,Charlotte,NC,Charlotte,Pest Control,12,$1M-$3M,Fred Wingate,Owner,(704) 499-9922,N/A,noosapest.com
+City Wide Exterminating,Charlotte,NC,Charlotte,Pest Control,15,$2M-$5M,Owner,Owner,(704) 850-6091,N/A,citywideexterm.com
+Black Pest Prevention,Charlotte,NC,Charlotte,Pest Control,18,$3M-$7M,Owner,Owner,(704) 529-9496,N/A,blackpest.com
+Cardinal Environmental Solutions,Charlotte,NC,Charlotte,Pest Control,8,$500K-$1.5M,Owner,Owner,N/A,N/A,cardinalenvironmentalsolutions.com
+K&M Lawn Services,Tampa,FL,Tampa,Landscaping,8,$500K-$1.5M,Owner,Owner,N/A,N/A,kmlawnservices.com
+Medscapes LLC,Tampa,FL,Tampa,Landscaping,10,$1M-$3M,Owner,Owner,(813) 382-5801,N/A,medscapes.net
+J & M Lawn Service and More LLC,Tampa,FL,Tampa,Landscaping,6,$500K-$1.5M,Owner,Owner,(813) 401-5988,N/A,jandmlawnserviceandmore.com
+Onorato Landscape Design,Tampa,FL,Tampa,Landscaping,8,$500K-$1.5M,Owner,Owner,(727) 817-1288,N/A,onoratoslandscapedesign.com
+Sunrise Landscape,Tampa,FL,Tampa,Landscaping,15,$2M-$5M,Owner,Owner,(813) 985-9381,N/A,sunriselandscape.com
+Centry Air Designs,Miami,FL,Miami,HVAC,10,$1M-$3M,Owner,Owner,(305) 458-5022,N/A,centryairdesigns.com
+Ameri Temp Air Conditioning,Miami,FL,Miami,HVAC,12,$1M-$3M,Owner,Owner,(305) 221-2255,N/A,ameritempac.com
+TemPros Air Conditioning,Miami,FL,Miami,HVAC,8,$1M-$3M,Owner,Owner,(305) 609-5132,N/A,temprosair.com
+Hi-Tech Air Service,Miami,FL,Miami,HVAC,12,$2M-$5M,Owner,Owner,N/A,N/A,hi-techairservice.com
+Emergency AC Corp,Miami,FL,Miami,HVAC,10,$1M-$3M,Owner,Owner,(855) 783-2080,N/A,emergencyaccorp.com
+Sweeney Plumbing and Heating,Philadelphia,PA,Philadelphia,Plumbing,10,$1M-$3M,Anthony Sweeney,Owner,N/A,N/A,sweeneyph.com
+Edward Hughes & Son,Philadelphia,PA,Philadelphia,Plumbing,12,$2M-$5M,Owner,Owner,N/A,N/A,edwardhughesplumbing.net
+Bill Frusco Plumbing,Philadelphia,PA,Philadelphia,Plumbing,18,$3M-$7M,Owner,Owner,N/A,N/A,billfrusco.com
+Mount Airy Plumbing,Philadelphia,PA,Philadelphia,Plumbing,8,$1M-$3M,Owner,Owner,N/A,N/A,mountairyplumbing.com
+City Plumbing,Philadelphia,PA,Philadelphia,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,mycityplumbing.com
+Toth Electric,North Jersey,NJ,Northern New Jersey,Electrical,8,$1M-$3M,Owner,Owner,N/A,N/A,tothelectricllc.com
+Gladiator Electric,Bergen County,NJ,Northern New Jersey,Electrical,8,$1M-$3M,Mike,Owner,N/A,N/A,gladiatorelectric.com
+Garrett Electric,Chester,NJ,Northern New Jersey,Electrical,10,$1M-$3M,Garrett Lombardo,Owner,N/A,N/A,garrettelectric.com
+Nardone Electric,Andover,NJ,Northern New Jersey,Electrical,10,$1M-$3M,Owner,Owner,(908) 684-4680,N/A,nardone-electric.com
+Wire Works Electric,Morris County,NJ,Northern New Jersey,Electrical,12,$1M-$3M,Owner,Owner,(973) 328-3333,N/A,wireworkselectricnj.com
+Don Kennedy Roofing,Nashville,TN,Nashville,Roofing,15,$2M-$5M,Owner,Owner,N/A,N/A,donkennedyroofing.com
+MidSouth Construction,Nashville,TN,Nashville,Roofing,18,$3M-$7M,Owner,Owner,N/A,N/A,roofingbymidsouth.com
+Southern Roofing,Nashville,TN,Nashville,Roofing,20,$3M-$7M,Rick Ragan,Founder,N/A,N/A,srctn.com
+Smith's Pest Management,San Francisco,CA,San Francisco Bay Area,Pest Control,15,$2M-$5M,Zach Smith,Owner,N/A,N/A,smithspestmanagement.com
+ATCO Pest Control,San Francisco,CA,San Francisco Bay Area,Pest Control,10,$1M-$3M,Owner,Owner,N/A,N/A,atcopestcontrol.com
+Day & Nite Pest Control,San Francisco,CA,San Francisco Bay Area,Pest Control,12,$1M-$3M,Owner,Owner,N/A,N/A,bayareapestcontrol.us
+Pestec,San Francisco,CA,San Francisco Bay Area,Pest Control,15,$2M-$5M,Owner,Owner,N/A,N/A,pestec.com
+Forever Young Landscape,Orange County,CA,Orange County,Landscaping,10,$1M-$3M,Owner,Owner,N/A,N/A,foreveryounglandscape.com
+Pacific Coast Landscaping,Fullerton,CA,Orange County,Landscaping,15,$2M-$5M,Owner,Owner,N/A,N/A,pacificcoastlandscaping.com
+Terra Coast Landscape,Orange County,CA,Orange County,Landscaping,10,$1M-$3M,Owner,Owner,N/A,N/A,terracoastlandscape.net
+Connor's Landscape,Orange County,CA,Orange County,Landscaping,8,$500K-$1.5M,Mike,Owner,N/A,N/A,connorlandscape.com
+OCD Orange County Dreamscape,Orange County,CA,Orange County,Landscaping,6,$500K-$1.5M,Ivan Conde,Owner,N/A,N/A,N/A
+Mark's Painting,Tampa,FL,Tampa,Painting,10,$1M-$3M,Mark Savino,Owner,(813) 831-5433,N/A,markspainting.com
+PAINT CORPS Tampa,Tampa,FL,Tampa,Painting,8,$1M-$3M,Burgess Perry,Owner,N/A,N/A,paintcorps.com
+AIC Painting,Tampa,FL,Tampa,Painting,12,$1M-$3M,Owner,Owner,(813) 927-1375,N/A,aicpainting.com
+Don's Painting,Tampa,FL,Tampa,Painting,15,$2M-$5M,Owner,Owner,N/A,N/A,donsbayareapainting.com
+Carolina Home Remodeling,Charlotte,NC,Charlotte,Remodeling,15,$2M-$5M,Bob Anderson,Owner,N/A,N/A,carolinahomeremodeling.com
+Gibson Custom Construction,Charlotte,NC,Charlotte,Remodeling,10,$1M-$3M,Owner,Owner,N/A,N/A,gibsoncustomconstruction.com
+Henderson Building Group,Charlotte,NC,Charlotte,Remodeling,12,$2M-$5M,Brooks Henderson,Owner,N/A,N/A,N/A
+Hopedale Builders,Charlotte,NC,Charlotte,Remodeling,10,$1M-$3M,Owner,Owner,N/A,N/A,hopedalebuilders.com
+San Diego Air Comfort,San Diego,CA,San Diego,HVAC,8,$1M-$3M,Owner,Owner,(858) 860-4438,N/A,sandiegoaircomfort.com
+HVAC Experts Inc,San Diego,CA,San Diego,HVAC,10,$1M-$3M,Owner,Owner,(619) 800-0110,N/A,hvacexpertssd.com
+Airmaxx HVAC,San Diego,CA,San Diego,HVAC,15,$2M-$5M,Owner,Owner,N/A,N/A,airmaxx.com
+Southcoast Heating and Air,San Diego,CA,San Diego,HVAC,12,$2M-$5M,Owner,Owner,(760) 941-7000,N/A,southcoastkoolsyou.com
+THA Heating & Air,San Diego,CA,San Diego,HVAC,10,$1M-$3M,Owner,Owner,(858) 571-8865,N/A,thaheatingandair.com
+South End Plumbing,Boston,MA,Boston,Plumbing,6,$500K-$1.5M,Owner,Owner,(617) 669-8964,N/A,south-end-plumbing.com
+T-Flow Plumbing,Boston,MA,Boston,Plumbing,6,$500K-$1.5M,Owner,Owner,(617) 818-1229,N/A,bostonsplumber.com
+The Boston Plumber,Boston,MA,Boston,Plumbing,6,$500K-$1.5M,Ryan Hilke,Owner,(617) 249-4831,N/A,thebostonplumber.com
+High Quality Plumbing LLC,Boston,MA,Boston,Plumbing,8,$1M-$3M,Owner,Owner,N/A,N/A,highqualityplumber.com
+Foukas Plumbing & Heating,Boston,MA,Boston,Plumbing,8,$1M-$3M,Paul Foukas,Owner,(978) 332-6857,N/A,foukasplumbing.com
+O'Hagan Electric,Orange County,CA,Orange County,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,ohaganelectricians.com
+Express Electrical Services,Orange County,CA,Orange County,Electrical,15,$2M-$5M,Owner,Owner,N/A,N/A,expresselectricalservices.com
+Steve Cavenee Electric,Orange County,CA,Orange County,Electrical,8,$1M-$3M,Steve Cavenee,Owner,N/A,N/A,N/A
+Orange Electrical Contractors,Orange,CA,Orange County,Electrical,12,$1M-$3M,Owner,Owner,N/A,N/A,orangeelectricalinc.com
+J. Robert Roofing,Eden Prairie,MN,Minneapolis,Roofing,8,$1M-$3M,Bob,Co-Owner,(612) 998-1673,N/A,jrobertroofing.com
+D.S. Bahr Construction,Minneapolis,MN,Minneapolis,Roofing,10,$1M-$3M,David S. Bahr,Owner,(612) 722-1448,N/A,dsbahr.com
+Perfect Exteriors of Minnesota,Minneapolis,MN,Minneapolis,Roofing,15,$2M-$5M,Owner,Owner,N/A,N/A,perfectexteriorsmn.com
+Oasis Urban Gardening,Washington,DC,Washington DC,Landscaping,6,$500K-$1.5M,Carolina Turcios,Owner,N/A,N/A,myoasisgarden.com
+Terraform My Yard,Washington,DC,Washington DC,Landscaping,8,$500K-$1.5M,Owner,Owner,N/A,N/A,N/A
+Johnson's Landscaping Service,Washington,DC,Washington DC,Landscaping,15,$2M-$5M,Owner,Owner,N/A,N/A,jlsinc.net
+SML Services,Washington,DC,Washington DC,Landscaping,10,$1M-$3M,Owner,Owner,N/A,N/A,smldmv.com
+Insetti Pest Services,Bergen County,NJ,Northern New Jersey,Pest Control,6,$500K-$1.5M,Owner,Owner,(201) 350-7931,N/A,insettipest.com
+Kapture Pest Control,Bergen County,NJ,Northern New Jersey,Pest Control,8,$500K-$1.5M,Owner,Owner,N/A,N/A,kapturepest.com
+Abarb Pest Services,Passaic County,NJ,Northern New Jersey,Pest Control,10,$1M-$3M,Owner,Owner,N/A,N/A,abarbpest.com
+Proline Painting,Boston,MA,Boston,Painting,10,$1M-$3M,Owner,Owner,(617) 818-5763,N/A,prolinepaintersboston.com
+Boston Painting Co.,Boston,MA,Boston,Painting,12,$1M-$3M,Owner,Owner,(781) 680-5066,N/A,bostonpaintingco.com
+Artisan Painting & Decorating,Rockland,MA,Boston,Painting,8,$1M-$3M,Owner,Owner,(617) 947-0524,N/A,artisanpaintinganddecoratingcompany.com
+Prestige Painting Inc,Boston,MA,Boston,Painting,8,$1M-$3M,Owner,Owner,N/A,N/A,prestigepaintinginc.us
+Altus Home Renovations,Miami,FL,Miami,Remodeling,10,$1M-$3M,Owner,Owner,(786) 553-5579,N/A,altusrenovations.com
+JMK Contractor,Miami Beach,FL,Miami,Remodeling,12,$2M-$5M,Owner,Owner,(305) 367-8392,N/A,jmkcontractor.com
+CF Construction and Remodeling,Miami,FL,Miami,Remodeling,15,$2M-$5M,Claudio Fernandez,Owner,N/A,N/A,cfconstructionandremodeling.com
+Remodeling Miami,Aventura,FL,Miami,Remodeling,8,$1M-$3M,Nick K.,Owner,(786) 285-1637,N/A,N/A
+Travis Crawford HVAC,Charlotte,NC,Charlotte,HVAC,12,$1M-$3M,Travis Crawford,Owner,(704) 999-9174,N/A,traviscrawfordhvac.com
+Ross & Witmer,Charlotte,NC,Charlotte,HVAC,18,$3M-$7M,Owner,Owner,(704) 392-6188,N/A,rossandwitmer.com
+My Air Today,Charlotte,NC,Charlotte,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,myairtoday.com
+McClintock Heating & Cooling,Charlotte,NC,Charlotte,HVAC,8,$1M-$3M,Owner,Owner,N/A,N/A,mcclintockhvac.com
+R & L Plumbing,San Francisco,CA,San Francisco Bay Area,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,rlplumbingsanfrancisco.com
+Advanced Plumbing & Drain,San Francisco,CA,San Francisco Bay Area,Plumbing,6,$500K-$1.5M,Owner,Owner,N/A,N/A,advancedplumbingsf.com
+Renstrom Plumbing,San Francisco,CA,San Francisco Bay Area,Plumbing,12,$2M-$5M,Chris Renstrom,Owner,N/A,N/A,renstromplumbing.com
+Atlas Plumbing & Rooter,San Francisco,CA,San Francisco Bay Area,Plumbing,8,$1M-$3M,Owner,Owner,N/A,N/A,atlasplumbingandrooter.com
+Bacon Plumbing Co,San Francisco,CA,San Francisco Bay Area,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,baconplumbing.com
+Groves Electric,Tampa,FL,Tampa,Electrical,8,$1M-$3M,Chris Groves,Owner,N/A,N/A,groveselectricinc.com
+Small Jobs Electric,Tampa,FL,Tampa,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,smalljobselectric.com
+I & C Electrical,Tampa,FL,Tampa,Electrical,10,$1M-$3M,Andre Williams,Owner,N/A,N/A,electricalgeneratortampa.com
+Kazar's Electric,Tampa,FL,Tampa,Electrical,8,$1M-$3M,Owner,Owner,N/A,N/A,kazarselectric.com
+Jordan Roof Company,Garden Grove,CA,Orange County,Roofing,12,$2M-$5M,Bill Jordan,Owner,N/A,N/A,jordanroofoc.com
+Luke Roofing,Orange County,CA,Orange County,Roofing,10,$1M-$3M,Caleb Luke,Owner,N/A,N/A,lukeroofing.com
+Orange County Roof Repair,Orange County,CA,Orange County,Roofing,8,$1M-$3M,Owner,Owner,N/A,N/A,orangecountyroofrepair.com
+Four Seasons Total Landscaping,Philadelphia,PA,Philadelphia,Landscaping,15,$2M-$5M,Owner,Owner,N/A,N/A,fstl1992.com
+Sabia Landscaping & Tree Service,Philadelphia,PA,Philadelphia,Landscaping,10,$1M-$3M,Owner,Owner,N/A,N/A,N/A
+MGC Landscaping,Philadelphia,PA,Philadelphia,Landscaping,12,$1M-$3M,Owner,Owner,N/A,N/A,mgclandscaping.com
+Parkyn Landscape & Hardscape,Philadelphia,PA,Philadelphia,Landscaping,15,$2M-$5M,Owner,Owner,N/A,N/A,parkynlnh.com
+Active Pest Control,North Miami,FL,Miami,Pest Control,10,$1M-$3M,Owner,Owner,N/A,activepestcontrol1957@gmail.com,activepests.com
+All Dade Exterminators,Miami,FL,Miami,Pest Control,12,$1M-$3M,Owner,Owner,N/A,N/A,N/A
+Miami Eco-Pest,Miami,FL,Miami,Pest Control,8,$1M-$3M,Owner,Owner,N/A,N/A,N/A
+Pristine Painters NYC,New York,NY,New York City,Painting,10,$1M-$3M,Jose Ortez,Founder,(347) 618-7787,N/A,pristinepaintersnyc.com
+Soho Painters,New York,NY,New York City,Painting,8,$1M-$3M,Owner,Owner,(917) 284-8864,hello@sohopainters.com,sohopainters.com
+Superior NYC Painting,New York,NY,New York City,Painting,12,$1M-$3M,Owner,Owner,(646) 681-2770,N/A,superiornycpainting.com
+MSK & Sons Construction,North Jersey,NJ,Northern New Jersey,Remodeling,12,$2M-$5M,Michael S. Kubrin,Owner,N/A,N/A,mskandsons.com
+Mr. Fix It Remodeling,North Jersey,NJ,Northern New Jersey,Remodeling,8,$1M-$3M,Rob DiPiazza,Owner,N/A,N/A,cnjhomeservice.com
+MC Home Improvements,North Jersey,NJ,Northern New Jersey,Remodeling,10,$1M-$3M,Owner,Owner,N/A,N/A,mchomenj.com
+The Renovation Company,North Jersey,NJ,Northern New Jersey,Remodeling,10,$1M-$3M,Christopher Guerriero,Co-Owner,N/A,N/A,njrenovate.com
+Worthing Air,North Jersey,NJ,Northern New Jersey,HVAC,12,$2M-$5M,Owner,Owner,(973) 575-5276,N/A,worthingair.com
+Reiner Group,Fair Lawn,NJ,Northern New Jersey,HVAC,15,$2M-$5M,Owner,Owner,(201) 371-7980,N/A,reinerac.com
+Warren Heating & Cooling,Morris County,NJ,Northern New Jersey,HVAC,10,$1M-$3M,Owner,Owner,(908) 735-0791,N/A,warrenheatingandcooling.com
+C & M Refrigeration,Springfield,NJ,Northern New Jersey,HVAC,10,$1M-$3M,Owner,Owner,(973) 912-0211,N/A,cnmhvac.com
+Barker & Sons Plumbing,Orange County,CA,Orange County,Plumbing,15,$2M-$5M,Owner,Owner,(714) 630-8766,N/A,barkerandsonsplumbing.com
+Shafer Plumbing Contractors,Orange County,CA,Orange County,Plumbing,12,$2M-$5M,Owner,Owner,N/A,N/A,shaferplumbing.com
+Pacific Plumbing of Southern California,Orange County,CA,Orange County,Plumbing,18,$3M-$7M,Owner,Owner,(714) 699-9936,N/A,pacificplumbingsocal.com
+Jacob the Electrician,Nashville,TN,Nashville,Electrical,8,$1M-$3M,Owner,Owner,N/A,N/A,jacobtheelectrician.com
+Parker Electric,Nashville,TN,Nashville,Electrical,12,$1M-$3M,Wayne Parker,Owner,N/A,N/A,parkerelectricco.com
+Moss Electric,Nashville,TN,Nashville,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,mosselectrictn.com
+Gervais Electric,Nashville,TN,Nashville,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,gervaiselectric.com
+Boston Landscaping Company,Boston,MA,Boston,Landscaping,8,$500K-$1.5M,Owner,Owner,(617) 506-3448,N/A,bostonlandscapingcompany.com
+Vision Landscaping Inc,Boston,MA,Boston,Landscaping,10,$1M-$3M,Owner,Owner,(781) 844-1101,N/A,visionlandscapingboston.com
+Done Right Landscape,Boston,MA,Boston,Landscaping,12,$1M-$3M,Owner,Owner,(781) 246-1211,N/A,donerightlandscape.com
+EP Landscape,Boston,MA,Boston,Landscaping,8,$500K-$1.5M,Owner,Owner,(617) 655-8163,N/A,eplandscapedemo.com
+NBK Pest Control,Minneapolis,MN,Minneapolis,Pest Control,8,$500K-$1.5M,Brad Adam,Founder,N/A,N/A,nbkpestcontrol.com
+Adam's Pest Control,Minneapolis,MN,Minneapolis,Pest Control,18,$3M-$7M,Owner,Owner,N/A,N/A,adamspestcontrol.com
+Done Right Pest Solutions,Minneapolis,MN,Minneapolis,Pest Control,10,$1M-$3M,Owner,Owner,N/A,N/A,donerightpestsolutions.com
+Mike McCurdy Roofing,South San Francisco,CA,San Francisco Bay Area,Roofing,12,$2M-$5M,Mike McCurdy,Owner,N/A,N/A,mikemccurdyroofinginc.com
+Central Bay Roofing,San Francisco,CA,San Francisco Bay Area,Roofing,15,$2M-$5M,Owner,Owner,N/A,N/A,centralbayroofing.com
+San Carlos Roofing Company,San Carlos,CA,San Francisco Bay Area,Roofing,12,$2M-$5M,Owner,Owner,N/A,N/A,sancarlosroofingco.net
+Ben's Roofing,Oakland,CA,San Francisco Bay Area,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,bensroofing.com
+Royal Roofing CA,San Francisco,CA,San Francisco Bay Area,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,royalroofingca.com
+PB Painting,San Diego,CA,San Diego,Painting,8,$500K-$1.5M,Owner,Owner,N/A,N/A,pbpaintingpros.com
+King of the Painters,San Diego,CA,San Diego,Painting,10,$1M-$3M,Owner,Owner,N/A,N/A,kingofthepainters.com
+San Diego Paint Pros,San Diego,CA,San Diego,Painting,10,$1M-$3M,Owner,Owner,N/A,N/A,sandiegopaintpros.com
+SMD Painting,San Diego,CA,San Diego,Painting,8,$1M-$3M,Owner,Owner,N/A,N/A,smdpainting.com
+JCE Painting,San Diego,CA,San Diego,Painting,6,$500K-$1.5M,Justin Eickholt,Owner,N/A,N/A,jcepainting.com
+Kaufmann Remodeling,Philadelphia,PA,Philadelphia,Remodeling,10,$1M-$3M,Owner,Owner,N/A,N/A,kaufmannremodelingllc.com
+Family & Friends Builders,Philadelphia,PA,Philadelphia,Remodeling,12,$2M-$5M,Owner,Owner,N/A,N/A,familyandfriendsbuilders.com
+SNA Renovations,Philadelphia,PA,Philadelphia,Remodeling,8,$1M-$3M,Owner,Owner,N/A,N/A,snarenovations.com
+JCF Construction,Philadelphia,PA,Philadelphia,Remodeling,8,$1M-$3M,Joseph Falco,Owner,N/A,N/A,N/A
+Merc Air Inc,Tampa,FL,Tampa,HVAC,8,$1M-$3M,Owner,Owner,(813) 586-2448,N/A,hvaccontractortampa.com
+Tampa Bay Air Conditioning,Land O' Lakes,FL,Tampa,HVAC,10,$1M-$3M,Owner,Owner,(813) 797-5364,N/A,tampabayac.net
+The A/C Guy of Tampa Bay,Tampa,FL,Tampa,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,acguyoftampa.com
+Gulf Coast Air Systems,Tampa,FL,Tampa,HVAC,15,$2M-$5M,Owner,Owner,(813) 689-2082,N/A,gulfcoastairsystems.com
+Fry Plumbing,Washington,DC,Washington DC,Plumbing,18,$3M-$7M,Owner,Owner,N/A,N/A,fryplumbing.com
+Iconic Plumbing,Washington,DC,Washington DC,Plumbing,8,$1M-$3M,Owner,Owner,N/A,N/A,iconicplumbing.com
+Plumber In DC,Washington,DC,Washington DC,Plumbing,6,$500K-$1.5M,Owner,Owner,N/A,N/A,plumberindc.com
+Tom Kennedy Electric,San Diego,CA,San Diego,Electrical,10,$1M-$3M,Tom Kennedy,Owner,(619) 464-6568,N/A,tomkennedyelectric.com
+Premo Electric,San Diego,CA,San Diego,Electrical,10,$1M-$3M,George Premo,President,(619) 908-1286,N/A,premoelectric.com
+Swinson Electric,San Diego,CA,San Diego,Electrical,15,$2M-$5M,Owner,Owner,(858) 874-2506,N/A,swinsonelectric.com
+Eco Electric San Diego,San Diego,CA,San Diego,Electrical,10,$1M-$3M,Derek Schneider,Owner/CEO,N/A,N/A,ecoelectricsandiego.com
+Hammond Roofing,Philadelphia,PA,Philadelphia,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,richardhammondroofing.com
+215 Roofing Pros,Philadelphia,PA,Philadelphia,Roofing,10,$1M-$3M,Ed Baker,Owner,N/A,N/A,N/A
+Loonstyn Roofing,Philadelphia,PA,Philadelphia,Roofing,8,$1M-$3M,Joe Loonstyn,Owner,N/A,N/A,N/A
+Doyle Roofing Company,Philadelphia,PA,Philadelphia,Roofing,8,$1M-$3M,Owner,Owner,(267) 855-4046,N/A,doyleroofingcompany.com
+Big Visions Landscaping,Charlotte,NC,Charlotte,Landscaping,8,$500K-$1.5M,Lauren Katz,Owner,N/A,N/A,bigvisionslandscaping.com
+Stewart's Lawn and Landscaping,Charlotte,NC,Charlotte,Landscaping,12,$1M-$3M,Preston Stewart,Owner,N/A,N/A,stewartslawnandlandscaping.com
+Soloscape Landscaping,Charlotte,NC,Charlotte,Landscaping,5,$250K-$750K,Lucas,Owner,N/A,N/A,soloscapelandscapes.com
+Bushwackers Landscaping,Charlotte,NC,Charlotte,Landscaping,10,$1M-$3M,Owner,Owner,N/A,N/A,bushwackerslandscaping.com
+Pest Solutions of Tampa Bay,Tampa,FL,Tampa,Pest Control,10,$1M-$3M,Ivan Grajales,Founder,N/A,N/A,pestsolutionsoftampabay.com
+EcoTech Pest Control,Tampa,FL,Tampa,Pest Control,10,$1M-$3M,Owner,Owner,N/A,N/A,ecotechpcs.com
+Cross Pest Control,Tampa,FL,Tampa,Pest Control,12,$1M-$3M,Owner,Owner,N/A,N/A,crosspestcontrol.com
+Gil Painting Company,Silver Spring,MD,Washington DC,Painting,10,$1M-$3M,Owner,Owner,N/A,N/A,N/A
+Liberty Painting,Arlington,VA,Washington DC,Painting,8,$1M-$3M,Owner,Owner,N/A,N/A,N/A
+PAINTech Inc,Washington,DC,Washington DC,Painting,15,$2M-$5M,Owner,Owner,N/A,N/A,paintechinc.com
+ABCO Mechanical Contractors,San Francisco,CA,San Francisco Bay Area,HVAC,18,$3M-$7M,Owner,Owner,N/A,N/A,abcoair.com
+Schmitt Heating,San Francisco,CA,San Francisco Bay Area,HVAC,15,$2M-$5M,Owner,Owner,N/A,N/A,schmittheating.com
+AC Heating and Cooling Service,San Francisco,CA,San Francisco Bay Area,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,acheatingandair.net
+Allegiance Heating & Air,San Diego,CA,San Diego,HVAC,8,$1M-$3M,Owner,Owner,N/A,N/A,allegianceheatingandairsd.com
+Benmanis Plumbing,Philadelphia,PA,Philadelphia,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,benmanisplumbing.com
+Sam Wexler Plumbing,Philadelphia,PA,Philadelphia,Plumbing,8,$1M-$3M,Owner,Owner,N/A,N/A,samwexlerplumbing.com
+Homelight Boston,Boston,MA,Boston,Electrical,8,$1M-$3M,Owner,Owner,N/A,N/A,homelightboston.com
+Gaston Electrical,Boston,MA,Boston,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,gastonelectrical.com
+P2 Electrical Contracting,Nashville,TN,Nashville,Electrical,8,$1M-$3M,Owner,Owner,N/A,N/A,p2electricalcontracting.com
+Fast Electric,Nashville,TN,Nashville,Electrical,10,$1M-$3M,Owner,Owner,(615) 360-2300,N/A,fastelect.com
+Erwin Electric,Tampa,FL,Tampa,Electrical,12,$1M-$3M,Owner,Owner,N/A,N/A,erwinelectric.com
+Mandy's Electric,Tampa,FL,Tampa,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,mandyselectric.com
+Buell Electric,Clearwater,FL,Tampa,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,buellelectric.com
+Family Home Improvement,Washington,DC,Washington DC,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,family-roofing.com
+Brax Roofing,Washington,DC,Washington DC,Roofing,15,$2M-$5M,Owner,Owner,N/A,N/A,braxroofing.com
+DC Roofing,Washington,DC,Washington DC,Roofing,8,$1M-$3M,Owner,Owner,N/A,N/A,dc-roofing.ueniweb.com
+San Diego Home Remodeling,San Diego,CA,San Diego,Remodeling,10,$1M-$3M,Owner,Owner,(619) 877-2999,N/A,sandiego-homeremodeling.com
+Lars Remodeling & Design,San Diego,CA,San Diego,Remodeling,15,$2M-$5M,Owner,Owner,N/A,N/A,larsremodel.com
+Precision Home Design & Remodeling,San Diego,CA,San Diego,Remodeling,12,$2M-$5M,Owner,Owner,N/A,N/A,precision-sd.com
+Magic Painting Company,Minneapolis,MN,Minneapolis,Painting,10,$1M-$3M,Owner,Owner,N/A,N/A,magicpainting.com
+Brennan Heikes Painting,Minneapolis,MN,Minneapolis,Painting,8,$500K-$1.5M,Brennan Heikes,Owner,N/A,N/A,brennanheikespainting.com
+Edina Painting,Minneapolis,MN,Minneapolis,Painting,12,$1M-$3M,Owner,Owner,N/A,N/A,edinapainting.com
+Tonka Roofing,Minneapolis,MN,Minneapolis,Roofing,8,$1M-$3M,Rich,Owner,N/A,N/A,N/A
+Walker Roofing,St. Paul,MN,Minneapolis,Roofing,12,$2M-$5M,Owner,Owner,N/A,N/A,walkerroofing.com
+MN Pro Contractors,Minneapolis,MN,Minneapolis,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,mnprocontractors.com
+Lifetime Custom Painting,San Diego,CA,San Diego,Painting,10,$1M-$3M,Owner,Owner,N/A,N/A,lifetimecustom.com
+AMK Painting,San Diego,CA,San Diego,Painting,8,$500K-$1.5M,Owner,Owner,N/A,N/A,amkpaintingca.com
+Heritage Pest Control,North Jersey,NJ,Northern New Jersey,Pest Control,12,$1M-$3M,Owner,Owner,N/A,N/A,heritagepestcontrolnj.com
+Arrow Pest Control,North Jersey,NJ,Northern New Jersey,Pest Control,15,$2M-$5M,Owner,Owner,N/A,N/A,arrownj.com
+Cooper Pest Solutions,North Jersey,NJ,Northern New Jersey,Pest Control,18,$3M-$7M,Owner,Owner,N/A,N/A,cooperpest.com
+Paragon Exterior,Philadelphia,PA,Philadelphia,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,paragonexterior.com
+DiFabion Remodeling,Charlotte,NC,Charlotte,Remodeling,12,$2M-$5M,Owner,Owner,N/A,N/A,N/A
+Fine Line Construction,Charlotte,NC,Charlotte,Remodeling,10,$1M-$3M,Owner,Owner,N/A,N/A,finelineconstruction.net
+Emerald Painting,Washington,DC,Washington DC,Painting,8,$1M-$3M,Owner,Owner,N/A,N/A,emerald-painting.com
+Washington House Painters,Washington,DC,Washington DC,Painting,10,$1M-$3M,Owner,Owner,N/A,N/A,washingtonhousepainters.com
+Carolina Pest Management,Charlotte,NC,Charlotte,Pest Control,20,$3M-$7M,Owner,Owner,N/A,N/A,carolinapest.com
+Green Leaf Outdoor Services,Philadelphia,PA,Philadelphia,Landscaping,10,$1M-$3M,Owner,Owner,N/A,N/A,greenleaf-outdoorservices.com
+Roots Landscape,Philadelphia,PA,Philadelphia,Landscaping,8,$1M-$3M,Owner,Owner,N/A,N/A,rootslandscape.com
+D. Muzzioli Landscaping,Boston,MA,Boston,Landscaping,8,$500K-$1.5M,D. Muzzioli,Owner,N/A,N/A,dmuzzioli.com
+DD Elite Landscaping,Boston,MA,Boston,Landscaping,10,$1M-$3M,Owner,Owner,N/A,N/A,ddelitelandscaping.com
+Merrifield Garden & Design,Boston,MA,Boston,Landscaping,6,$500K-$1.5M,Owner,Owner,N/A,N/A,merrifieldgardendesign.com
+Miami Pro Construction,Miami,FL,Miami,Remodeling,10,$1M-$3M,Owner,Owner,N/A,N/A,miamiproconstruction.com
+MT Construction Group,Miami,FL,Miami,Remodeling,12,$2M-$5M,Owner,Owner,N/A,N/A,miamitile.com
+FlowTech AC,Miami,FL,Miami,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,flowtechac.com
+Master Cooling Contractors,Miami,FL,Miami,HVAC,8,$1M-$3M,Owner,Owner,N/A,N/A,mastercoolingcontractorsllc.com
+Cusano Air Conditioning,Miami,FL,Miami,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,cusanoairconditioning.com
+Infinity Plumbing & Rooter,San Francisco,CA,San Francisco Bay Area,Plumbing,6,$500K-$1.5M,Owner,Owner,N/A,N/A,sanfranciscoplumbingrepair.com
+Mid Peninsula Plumbing,San Francisco,CA,San Francisco Bay Area,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,midpeninsulaplumbing.com
+Eco Smart Roofer,San Francisco,CA,San Francisco Bay Area,Roofing,10,$1M-$3M,Owner,Owner,N/A,N/A,ecosmartroofer.com
+Marina Bay Roofing,San Francisco,CA,San Francisco Bay Area,Roofing,8,$1M-$3M,Owner,Owner,N/A,N/A,marinabayroofing.com
+Golden Heights Roofing,San Francisco,CA,San Francisco Bay Area,Roofing,8,$1M-$3M,Owner,Owner,N/A,N/A,goldenheightsroofing.com
+SOF Contractors,Philadelphia,PA,Philadelphia,Remodeling,12,$2M-$5M,Owner,Owner,N/A,N/A,sofcontractors.com
+Mr. Contractor Inc,Philadelphia,PA,Philadelphia,Remodeling,10,$1M-$3M,Owner,Owner,N/A,N/A,mrcontractorinc.com
+Bright Star Handyman Service,Philadelphia,PA,Philadelphia,Remodeling,8,$1M-$3M,Owner,Owner,N/A,N/A,N/A
