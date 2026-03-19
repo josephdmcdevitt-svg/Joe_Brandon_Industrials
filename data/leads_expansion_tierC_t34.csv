@@ -1,0 +1,392 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+MIN+ Architecture,St. Louis,MO,St. Louis,Architecture,8,$1M-$3M,N/A,Principal,N/A,N/A,https://minplusarchitecture.com
+Killeen Studio Architects,St. Louis,MO,St. Louis,Architecture,10,$1M-$3M,N/A,Principal,N/A,N/A,https://killeenstudio.com
+JEMA Architects,St. Louis,MO,St. Louis,Architecture,8,$1M-$3M,N/A,Principal,N/A,N/A,https://jemastl.com
+Jim Bulejski Architects,St. Louis,MO,St. Louis,Architecture,5,$500K-$1M,Jim Bulejski,Owner,N/A,N/A,N/A
+St. Louis Design Alliance,St. Louis,MO,St. Louis,Architecture,10,$1M-$3M,N/A,Principal,N/A,N/A,N/A
+TAI+LEE Architects,Pittsburgh,PA,Pittsburgh,Architecture,6,$1M-$2M,Yoko Tai,Owner/Principal,(412) 281-2964,N/A,https://taipluslee.com
+Wildman Chalmers Design,Pittsburgh,PA,Pittsburgh,Architecture,8,$1M-$3M,N/A,Principal,N/A,N/A,https://www.wildmanchalmers.com
+Pappas Architects,Pittsburgh,PA,Pittsburgh,Architecture,8,$1M-$2M,N/A,Owner,N/A,N/A,https://pappasarchitects.net
+Hamilton Anderson Associates,Detroit,MI,Detroit,Architecture,20,$3M-$5M,Rainy Hamilton Jr.,Founding Partner,N/A,N/A,N/A
+McIntosh Poris Associates,Detroit,MI,Detroit,Architecture,15,$2M-$5M,Michael Poris,Principal,N/A,N/A,N/A
+Kraemer Design Group,Detroit,MI,Detroit,Architecture,12,$2M-$4M,N/A,Principal,N/A,N/A,https://thekraemeredge.com
+Krieger Klatt Architects,Royal Oak,MI,Detroit,Architecture,8,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+The Hopkins Company Architects,New Orleans,LA,New Orleans,Architecture,8,$1M-$3M,George Hopkins,Principal,N/A,N/A,https://hopkinsco.com
+NANO Architecture,New Orleans,LA,New Orleans,Architecture,20,$3M-$5M,N/A,Principal,N/A,N/A,https://nanollc.net
+Adamick Architecture,New Orleans,LA,New Orleans,Architecture,6,$1M-$2M,N/A,Owner,N/A,N/A,https://adamickarchitecture.com
+practis architecture + design,New Orleans,LA,New Orleans,Architecture,8,$1M-$3M,Tracie Ashe,Co-Owner,N/A,N/A,https://www.practis.design
+Seaver Franks Architects,New Orleans,LA,New Orleans,Architecture,10,$1M-$3M,N/A,Principal,N/A,N/A,https://nola.seaverfranks.com
+Self+Tucker Architects,Memphis,TN,Memphis,Architecture,15,$2M-$5M,N/A,Principal,N/A,N/A,https://selftucker.com
+SAM Studio,Memphis,TN,Memphis,Architecture,6,$1M-$2M,N/A,Principal,N/A,N/A,https://www.mysamstudio.com
+Crump Firm Architects,Memphis,TN,Memphis,Architecture,10,$1M-$3M,N/A,Principal,N/A,N/A,https://www.crumpfirm.com
+SBJ Architects,Memphis,TN,Memphis,Architecture,6,$500K-$1.5M,N/A,Principal,N/A,N/A,N/A
+TP Architecture,Oklahoma City,OK,Oklahoma City,Architecture,8,$1M-$2M,Tim Palone,Principal Architect,N/A,N/A,https://www.tp-arch.com
+Green Couch Design,Oklahoma City,OK,Oklahoma City,Architecture,6,$1M-$2M,Cale Lopp,Co-Owner,N/A,N/A,https://www.greencouchdesign.net
+Sam Gresham Architecture,Oklahoma City,OK,Oklahoma City,Architecture,8,$1M-$2M,Sam Gresham,Founder,N/A,N/A,N/A
+Bockus Payne,Oklahoma City,OK,Oklahoma City,Architecture,15,$2M-$5M,Bruce Bockus,Founder,N/A,N/A,https://www.bockus-payne.com
+Joseph A Buchek AIA Architect,West Hartford,CT,Hartford,Architecture,5,$500K-$1M,Joseph Buchek,Owner,N/A,N/A,https://www.westhartfordarchitect.com
+Stone Howley Architects,West Hartford,CT,Hartford,Architecture,8,$1M-$3M,N/A,Principal,(860) 561-2931,N/A,https://www.stonehowley.com
+Greenwald Architects,Hartford,CT,Hartford,Architecture,6,$1M-$2M,N/A,Principal,N/A,N/A,https://www.greenwaldarchitects.com
+L'ARC Architects,West Hartford,CT,Hartford,Architecture,8,$1M-$2M,N/A,Principal,N/A,N/A,https://larcarchitects.com
+Collective Efforts LLC,Pittsburgh,PA,Pittsburgh,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Orbital Engineering,Pittsburgh,PA,Pittsburgh,Engineering,15,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+Gateway Engineers,Pittsburgh,PA,Pittsburgh,Engineering,20,$3M-$7M,N/A,Owner,N/A,N/A,N/A
+Mackin Engineering,Pittsburgh,PA,Pittsburgh,Engineering,18,$3M-$5M,N/A,Owner,N/A,N/A,https://www.mackinengineering.com
+Caprine Engineering LLC,Birmingham,AL,Birmingham,Engineering,8,$1M-$2M,N/A,Owner,N/A,N/A,https://caprineeng.com
+Engineers of the South,Birmingham,AL,Birmingham,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.engineersofthesouth.com
+Dynamic Civil Solutions,Birmingham,AL,Birmingham,Engineering,15,$2M-$5M,N/A,Principal,N/A,N/A,https://dcseng.com
+CCI Planning & Engineering,Birmingham,AL,Birmingham,Engineering,12,$2M-$4M,N/A,Owner,N/A,N/A,https://www.ccipe.com
+Forst & Associates,Louisville,KY,Louisville,Engineering,10,$1M-$3M,Susan Forst,Owner/Operator,N/A,N/A,https://www.forstengineering.com
+Innovative Engineering Services LLC,Memphis,TN,Memphis,Engineering,8,$1M-$2M,Jeremiah Watson,Founder/Owner,N/A,N/A,http://innovativees-llc.com
+Haltom Engineering LLC,Memphis,TN,Memphis,Engineering,6,$1M-$2M,N/A,Owner,N/A,N/A,https://haltomengineering.com
+The Reaves Firm,Memphis,TN,Memphis,Engineering,12,$2M-$4M,N/A,Owner,N/A,N/A,https://reavesfirm.com
+Chief Engineering,Germantown,TN,Memphis,Engineering,8,$1M-$2M,Casey Shockey,Founder,N/A,N/A,https://www.chiefengineering.us
+ABES Engineering,Memphis,TN,Memphis,Engineering,10,$1M-$3M,N/A,Principal,N/A,N/A,https://www.abesengineering.com
+Pivotal Engineering,New Orleans,LA,New Orleans,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.pivotaleng.com
+ILSI Engineering,New Orleans,LA,New Orleans,Engineering,12,$2M-$4M,N/A,Owner,N/A,N/A,https://www.ilsiengineering.com
+Moses Engineers,New Orleans,LA,New Orleans,Engineering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://mosesengineers.com
+Marais Consultants,New Orleans,LA,New Orleans,Engineering,8,$1M-$3M,N/A,Owner,N/A,N/A,https://www.maraisconsultants.com
+Lucien T. Vivien Jr. & Associates,New Orleans,LA,New Orleans,Engineering,10,$1M-$3M,N/A,President,N/A,N/A,https://vivienengineers.com
+SMC Consulting Engineers,Oklahoma City,OK,Oklahoma City,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.smcokc.com
+DA Engineering,Oklahoma City,OK,Oklahoma City,Engineering,12,$2M-$4M,N/A,Owner,N/A,N/A,https://www.daemep.com
+Poe & Associates,Oklahoma City,OK,Oklahoma City,Engineering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.poeandassociates.com
+Russell and Dawson Inc.,East Hartford,CT,Hartford,Engineering,18,$3M-$7M,N/A,President,N/A,N/A,https://www.rdaep.com
+Macchi Engineers LLC,Hartford,CT,Hartford,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://macchiengineers.com
+Freeman Companies LLC,Hartford,CT,Hartford,Engineering,12,$2M-$4M,N/A,Owner,N/A,N/A,https://freemancos.com
+East-West Engineering,Hartford,CT,Hartford,Engineering,8,$1M-$3M,N/A,Owner,N/A,N/A,https://east-westengineering.com
+Aztech Engineers Inc.,Hartford,CT,Hartford,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,http://www.aztecheng.com
+Onyx Enterprise Inc.,Detroit,MI,Detroit,Engineering,15,$2M-$5M,N/A,Owner,N/A,N/A,http://www.onyx-enterprise.com
+Giffels Webster,Detroit,MI,Detroit,Engineering,20,$3M-$7M,N/A,President,N/A,N/A,https://giffelswebster.com
+Concetti Studio,Detroit,MI,Detroit,Interior Design,8,$1M-$2M,Rachel,Founder,N/A,N/A,https://concetti.studio
+Parini Design,Detroit,MI,Detroit,Interior Design,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.parini.design
+Decor and More Design Studio,Grosse Pointe,MI,Detroit,Interior Design,5,$500K-$1M,Paige Loperfido,Principal Designer,N/A,N/A,https://decorandmoredesigns.com
+Patrick Thompson Design,Detroit,MI,Detroit,Interior Design,6,$500K-$1.5M,Patrick Thompson,Owner,N/A,N/A,N/A
+Micah & Co. Interiors,Oklahoma City,OK,Oklahoma City,Interior Design,8,$1M-$2M,Micah Abbananto,CEO/Owner,N/A,N/A,https://micahandco.com
+Kelsey Leigh Design Co.,Oklahoma City,OK,Oklahoma City,Interior Design,6,$1M-$2M,Kelsey Leigh,Founder,N/A,N/A,https://www.kelseyleighdesignco.com
+A-Line Designs,Oklahoma City,OK,Oklahoma City,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.a-linedesigns.com
+Neely+Queen Design,Oklahoma City,OK,Oklahoma City,Interior Design,10,$1M-$3M,N/A,Principal,N/A,N/A,https://neelyqueen.com
+Maggie Clarke Interiors,Memphis,TN,Memphis,Interior Design,8,$1M-$2M,Maggie Clarke,CEO,N/A,N/A,https://www.maggieclarkeinteriors.com
+Tara Felice Interiors,Memphis,TN,Memphis,Interior Design,6,$500K-$1.5M,Tara Engelberg,Founder/Creative Director,N/A,N/A,https://www.tarafeliceinteriors.com
+B. Gaines Interior Design,Germantown,TN,Memphis,Interior Design,6,$500K-$1.5M,Becca Gaines,Owner,N/A,N/A,https://www.bgainesinteriordesign.com
+GCD Interiors,Memphis,TN,Memphis,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,https://gcdinteriors.com
+Ridgewood Designs,West Hartford,CT,Hartford,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.ridgewooddesigners.com
+Linda P. Black Interiors,West Hartford,CT,Hartford,Interior Design,5,$500K-$1M,Linda P. Black,Owner,N/A,N/A,https://www.lindapblackinteriors.com
+Heidi Core Interiors,Birmingham,AL,Birmingham,Interior Design,8,$1M-$2M,Heidi Core,Owner,N/A,N/A,https://heidicore.com
+Kristen McGee Interiors,Birmingham,AL,Birmingham,Interior Design,6,$500K-$1.5M,Kristen McGee,CEO/Creative Director,N/A,N/A,https://kristenmcgeeinteriors.com
+Birmingham Design House,Birmingham,AL,Birmingham,Interior Design,5,$500K-$1M,Jessica,Founder,N/A,N/A,https://www.birminghamdesignhouse.com
+Cure Design Group,St. Louis,MO,St. Louis,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,https://curedesigngroup.com
+Yours by Design,St. Louis,MO,St. Louis,Interior Design,6,$500K-$1.5M,CJ Knapp,Owner,N/A,N/A,https://www.yoursbydesign.net
+JCR Design Group,St. Louis,MO,St. Louis,Interior Design,8,$1M-$2M,Jenny Rapp,Owner/Principal Designer,N/A,N/A,https://jcrdesigngroupstl.com
+Amie Corley Interiors,St. Louis,MO,St. Louis,Interior Design,6,$1M-$2M,Amie Corley,Founder,N/A,N/A,https://amiecorley.com
+Lisa Lynn Designs,Louisville,KY,Louisville,Interior Design,6,$500K-$1.5M,Lisa Knight,Owner,N/A,N/A,https://lisalynndesignsllc.com
+Lady of the House Interior Design,Louisville,KY,Louisville,Interior Design,5,$500K-$1M,Lauren Harp,Founder,N/A,N/A,https://www.ladyofthehouseinteriordesign.com
+Hubbuch & Company,Louisville,KY,Louisville,Interior Design,12,$2M-$4M,N/A,Owner,N/A,N/A,http://www.hubbuch.com
+Susan Muschweck Interior Design,Pittsburgh,PA,Pittsburgh,Interior Design,5,$500K-$1M,Susan Muschweck,Owner,N/A,N/A,https://www.pittsburghinteriordecorator.com
+Montague Design,Pittsburgh,PA,Pittsburgh,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,https://montaguedesign.com
+Jennifer Janeway Designs,Pittsburgh,PA,Pittsburgh,Interior Design,6,$500K-$1.5M,Jennifer Janeway,Owner,N/A,N/A,https://www.jenniferjanewaydesigns.com
+Pang Wangle,New Orleans,LA,New Orleans,Ecommerce,8,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Privy Label,New Orleans,LA,New Orleans,Ecommerce,10,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Orleans Coffee,New Orleans,LA,New Orleans,Ecommerce,12,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+Southern Paws,New Orleans,LA,New Orleans,Ecommerce,10,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Specialty Luggage,Pittsburgh,PA,Pittsburgh,Ecommerce,8,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Romeo Delivers,Pittsburgh,PA,Pittsburgh,Ecommerce,6,$500K-$2M,N/A,Owner,N/A,N/A,N/A
+Miranda Creative Inc.,Hartford,CT,Hartford,Ecommerce,10,$1M-$3M,Maria Miranda,Founder,N/A,N/A,N/A
+Infinity Events,Memphis,TN,Memphis,Event Planning,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.infinityeventsmemphis.com
+Connor & Co.,Memphis,TN,Memphis,Event Planning,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://connorandco.com
+TreSure Events,Memphis,TN,Memphis,Event Planning,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://tresureevents.com
+Behind the Scenes,Memphis,TN,Memphis,Event Planning,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.btsmemphis.com
+Borrowed Charm,Oklahoma City,OK,Oklahoma City,Event Planning,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.borrowedcharm.com
+Meg Owen Events,Oklahoma City,OK,Oklahoma City,Event Planning,6,$500K-$1.5M,Meg Owen,Owner,N/A,N/A,https://megowenevents.com
+A.D. Parties & Events,Oklahoma City,OK,Oklahoma City,Event Planning,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.adpartiesandevents.com
+Epic Events,Oklahoma City,OK,Oklahoma City,Event Planning,8,$1M-$2M,N/A,Owner,N/A,N/A,http://epiceventsok.com
+The Kelly Way LLC,Louisville,KY,Louisville,Event Planning,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.thekellywayllc.com
+Certe Management,Louisville,KY,Louisville,Event Planning,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.certemanagement.com
+ShaFox Events,Louisville,KY,Louisville,Event Planning,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.shafox.com
+Limestone Events,Louisville,KY,Louisville,Event Planning,6,$500K-$1.5M,Audrey Petty,Owner,N/A,N/A,https://www.limestoneeventsky.com
+Moby's Auto Spa,Louisville,KY,Louisville,Car Wash (Multi-Location),18,$2M-$5M,N/A,Owner,N/A,N/A,https://www.mobysautospa.com
+Prestige Car Wash,Louisville,KY,Louisville,Car Wash (Multi-Location),12,$1M-$3M,N/A,Owner,N/A,N/A,https://prestigecarwashky.com
+Unrivaled Car Wash,Louisville,KY,Louisville,Car Wash (Multi-Location),15,$2M-$4M,N/A,Owner,N/A,N/A,https://unrivaledcarwash.com
+Dirks Car Washes,Pittsburgh,PA,Pittsburgh,Car Wash (Multi-Location),18,$2M-$5M,N/A,Owner,N/A,N/A,https://dirkscarwash.com
+Sweet Pea's Wash Works,Pittsburgh,PA,Pittsburgh,Car Wash (Multi-Location),10,$1M-$3M,N/A,Owner,N/A,N/A,https://sweetpeaswashworks.com
+Drake's Carwash,Pittsburgh,PA,Pittsburgh,Car Wash (Multi-Location),12,$1M-$3M,N/A,Owner,N/A,N/A,https://drakescarwash.com
+The Car Wash Guys,Birmingham,AL,Birmingham,Car Wash (Multi-Location),10,$1M-$3M,N/A,Owner,N/A,N/A,https://thecarwashguysllc.com
+Anthony's Car Wash,Birmingham,AL,Birmingham,Car Wash (Multi-Location),12,$1M-$3M,N/A,Owner,N/A,N/A,https://anthonyscarwash.com
+Tracy's Treasure Daycare,Birmingham,AL,Birmingham,Daycare Chain,15,$1M-$2M,Tracy,Owner,N/A,N/A,https://www.tracysdaycare.com
+ABC Child Development Center,Birmingham,AL,Birmingham,Daycare Chain,12,$1M-$2M,N/A,Owner,N/A,N/A,https://www.abcchilddevelopment.net
+Moxi Childcare,Birmingham,AL,Birmingham,Daycare Chain,15,$1M-$3M,Cori Fain-Forrest,Founder,N/A,N/A,https://www.moxichildcare.com
+Mary Margaret's Day Care,St. Louis,MO,St. Louis,Daycare Chain,20,$3M-$5M,N/A,Owner,N/A,N/A,https://www.marymargaretdaycare.com
+North American Montessori,St. Louis,MO,St. Louis,Daycare Chain,18,$2M-$5M,N/A,Owner,N/A,N/A,https://www.namontessori.com
+Our Angels Child Care Center,Louisville,KY,Louisville,Daycare Chain,15,$1M-$3M,N/A,Owner,N/A,N/A,https://www.ourangelschildcare.com
+Little Hands Academy,Louisville,KY,Louisville,Daycare Chain,12,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Early Learning Childcare,Louisville,KY,Louisville,Daycare Chain,15,$1M-$3M,N/A,Owner,N/A,N/A,https://www.earlylearningchild.com
+HumanKind Hospitality,Oklahoma City,OK,Oklahoma City,Restaurant Group,20,$3M-$7M,Shaun Fiaccone,Co-Founder,N/A,N/A,https://feedhumankind.com
+One Table Hospitality,Oklahoma City,OK,Oklahoma City,Restaurant Group,18,$2M-$5M,Jonathon Stranger,Founder/Chef,N/A,N/A,https://onetablehospitality.com
+A Good Egg Dining Group,Oklahoma City,OK,Oklahoma City,Restaurant Group,20,$3M-$7M,N/A,Owner,N/A,N/A,N/A
+Richard DeShantz Restaurant Group,Pittsburgh,PA,Pittsburgh,Restaurant Group,20,$5M-$10M,Richard DeShantz,Chef/Owner,N/A,N/A,https://richarddeshantz.com
+Legacy Hospitality Group,Pittsburgh,PA,Pittsburgh,Restaurant Group,18,$3M-$7M,Herky Pollock,Co-Owner,N/A,N/A,N/A
+NPL Restaurant Group,Pittsburgh,PA,Pittsburgh,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+Spell Restaurant Group,Memphis,TN,Memphis,Restaurant Group,20,$3M-$7M,Rick Spell,Co-Owner,N/A,N/A,https://spellrestaurantgroup.com
+Eat Across the Board,Memphis,TN,Memphis,Restaurant Group,15,$2M-$5M,Ryan Trimm,Owner/Chef,N/A,N/A,https://www.eatacrosstheboard.com
+Enjoy A|M Restaurant Group,Memphis,TN,Memphis,Restaurant Group,20,$3M-$7M,Andy Ticer,Co-Owner/Chef,N/A,N/A,N/A
+Huey's Restaurants,Memphis,TN,Memphis,Restaurant Group,20,$5M-$10M,N/A,Owner (Boggs Family),N/A,N/A,N/A
+Dickie Brennan & Company,New Orleans,LA,New Orleans,Restaurant Group,20,$5M-$10M,Dickie Brennan,Owner,N/A,N/A,https://www.frenchquarter-dining.com
+The Link Restaurant Group,New Orleans,LA,New Orleans,Restaurant Group,20,$5M-$10M,Donald Link,Co-Founder/Chef,N/A,N/A,https://linkrestaurantgroup.com
+Rizzuto Restaurant Group,New Orleans,LA,New Orleans,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,https://management.rizzutosristorante.com
+Niche Food Group,St. Louis,MO,St. Louis,Restaurant Group,20,$5M-$10M,Gerard Craft,Founder/Chef,N/A,N/A,https://nichefoodgroup.com
+O+O Hospitality,St. Louis,MO,St. Louis,Restaurant Group,18,$3M-$7M,N/A,Owner,N/A,N/A,https://oohosp.com
+Hamilton Hospitality STL,St. Louis,MO,St. Louis,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,https://hamiltonhospitality.net
+Bengelina Hospitality Group,St. Louis,MO,St. Louis,Restaurant Group,18,$3M-$7M,N/A,Owner,N/A,N/A,https://bengelina.com
+Bluegrass Hospitality Group,Louisville,KY,Louisville,Restaurant Group,20,$5M-$10M,Brian McCarty,Co-Founder,N/A,N/A,https://bluegrasshospitality.com
+Ole Restaurant Group,Louisville,KY,Louisville,Restaurant Group,18,$3M-$7M,N/A,Owner,N/A,N/A,https://www.ole-restaurants.com
+Endeavor Restaurant Group,Louisville,KY,Louisville,Restaurant Group,18,$3M-$7M,Steve Ritchie,Founder,N/A,N/A,https://endeavorrestaurantgroup.com
+Vicari Restaurant Group,Detroit,MI,Detroit,Restaurant Group,20,$5M-$10M,Joe Vicari,Owner,N/A,N/A,https://vicarirestaurants.com
+Heirloom Hospitality,Detroit,MI,Detroit,Restaurant Group,18,$3M-$7M,N/A,Owner,N/A,N/A,https://heirloomhospitality.com
+Prime Concepts Detroit,Detroit,MI,Detroit,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.primeconceptsdetroit.com
+Max Hospitality,Hartford,CT,Hartford,Restaurant Group,20,$5M-$10M,Scott Smith,Co-Owner,N/A,N/A,https://www.maxrestaurantgroup.com
+Hartford Restaurant Group,Hartford,CT,Hartford,Restaurant Group,20,$5M-$10M,Phil Barnett,Partner,N/A,N/A,http://www.hartfordrestaurantgroup.com
+DORO Restaurant Group,West Hartford,CT,Hartford,Restaurant Group,18,$3M-$7M,N/A,Owner,N/A,N/A,https://www.dororg.com
+Fire by Forge Catering,Hartford,CT,Hartford,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.firebyforge.com
+Delicacy Catering,West Hartford,CT,Hartford,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.delicacycatering.com
+Bourassa Catering & Events,Hartford,CT,Hartford,Catering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://bourassacatering.com
+Cafe Louise,Hartford,CT,Hartford,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://cafelouise.com
+Shaken and Stirred Events,Hartford,CT,Hartford,Catering,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.shakenandstirredevents.com
+Savoie Catering,Birmingham,AL,Birmingham,Catering,10,$1M-$3M,Nico Berg,Owner,N/A,N/A,https://www.savoiecatering.com
+Table & Thyme,Birmingham,AL,Birmingham,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,https://tableandthyme.co
+Corretti Catering,Birmingham,AL,Birmingham,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://corretticatering.com
+Happy Catering Company,Birmingham,AL,Birmingham,Catering,8,$1M-$2M,N/A,Owner,N/A,N/A,https://happycatering.net
+Majestic Catering Services,Birmingham,AL,Birmingham,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.majesticcatering.com
+The Art of Entertaining,St. Louis,MO,St. Louis,Catering,15,$2M-$5M,Ann Marie Lemcke,Owner,N/A,N/A,https://www.theaofe.com
+Catering St. Louis Events,St. Louis,MO,St. Louis,Catering,20,$5M-$7M,Mark Erker,Founder,N/A,N/A,https://cateringstlouis.com
+Ces & Judy's Catering,St. Louis,MO,St. Louis,Catering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.cesandjudys.com
+Callier's Catering,St. Louis,MO,St. Louis,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.callierscatering.com
+Muddy's Bake Shop,Memphis,TN,Memphis,Bakery (Wholesale),12,$1M-$3M,Kat,Owner,N/A,N/A,https://www.muddysbakeshop.com
+Ricki's Cookie Corner,Memphis,TN,Memphis,Bakery (Wholesale),8,$1M-$2M,Ricki Krupp,Owner,N/A,N/A,N/A
+Sugar Avenue Bakery,Memphis,TN,Memphis,Bakery (Wholesale),8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.sugaravenue.com
+Daughters Baking,Birmingham,AL,Birmingham,Bakery (Wholesale),8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.daughtersbaking.com
+Bae's Baekery,Louisville,KY,Louisville,Bakery (Wholesale),8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://baesbaekerylou.com
+Adam Matthews,Louisville,KY,Louisville,Bakery (Wholesale),12,$1M-$3M,N/A,Owner,N/A,N/A,https://adammatthews.com
+Plehn's Bakery,Louisville,KY,Louisville,Bakery (Wholesale),10,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Wagner Garage Door,St. Louis,MO,St. Louis,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://wagnergaragedoor.com
+EntryPoint Door and Fence,St. Louis,MO,St. Louis,Garage Door Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://entrypointstl.com
+Bourgeois Door Company,St. Louis,MO,St. Louis,Garage Door Contractor,12,$1M-$3M,N/A,Owner,N/A,N/A,https://bourgeoisdoorco.com
+Precision Garage Door of St. Louis,St. Louis,MO,St. Louis,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://precisiongaragedoorstl.com
+Town & Country Door,Oakland County,MI,Detroit,Garage Door Contractor,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.townandcountrydoor.net
+J & G Garage Door Services,Detroit,MI,Detroit,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://jggaragedoors.com
+ABC Door Company,Roseville,MI,Detroit,Garage Door Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.abcgaragedoorllc.com
+Anderson Door Company,Clinton Township,MI,Detroit,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.andersondoorcompany.com
+Memphis Garage Door,Memphis,TN,Memphis,Garage Door Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.memphisgaragedoor.com
+Dixie Door,Memphis,TN,Memphis,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://dixiedooronline.com
+Mid-South Door Co.,Memphis,TN,Memphis,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://midsouthdoor.com
+Swimming Pool Services LLC,Birmingham,AL,Birmingham,Pool Service,10,$1M-$2M,Glen Jacobson,Founder,N/A,N/A,N/A
+Cox Pools,Birmingham,AL,Birmingham,Pool Service,15,$2M-$5M,Gordie Robinson,Owner,N/A,N/A,https://coxpoolsinc.com
+Elite Pool Services,Birmingham,AL,Birmingham,Pool Service,10,$1M-$3M,Brad,Owner,N/A,N/A,https://elitepoolservices.com
+Aquabama Pool Spa & Patio,Birmingham,AL,Birmingham,Pool Service,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.aquabama.com
+Shoemaker Pool Service,Birmingham,AL,Birmingham,Pool Service,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.shoemakerpools.com
+Hammerhead Pools,New Orleans,LA,New Orleans,Pool Service,6,$500K-$1.5M,Derek,Owner,N/A,N/A,https://www.hammerheadnola.com
+Pleasure Pools,New Orleans,LA,New Orleans,Pool Service,15,$2M-$5M,Charles,Owner,N/A,N/A,https://pleasurepoolsno.com
+Maestri Pools,Covington,LA,New Orleans,Pool Service,10,$1M-$3M,Gary Maestri Sr.,Owner,N/A,N/A,https://www.maestripools.com
+DPK Pools,New Orleans,LA,New Orleans,Pool Service,8,$1M-$2M,Doug King,Owner/Project Manager,N/A,N/A,https://dpkpools.com
+Oasis Pools and Spas,New Orleans,LA,New Orleans,Pool Service,8,$1M-$2M,Mike Stanton Sr.,Owner,N/A,N/A,https://www.oasispoolsandspasllc.com
+American Pool Service,Southfield,MI,Detroit,Pool Service,12,$1M-$3M,Steve Richardson,Owner,N/A,N/A,https://americanpoolsvcmi.com
+Crystal Clear Pools & Spas,Detroit,MI,Detroit,Pool Service,8,$1M-$2M,Robert McGee,Owner,N/A,N/A,http://crystalclearpoolsmi.com
+The Pool Guys LLC,Detroit,MI,Detroit,Pool Service,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.thepoolguysllc.com
+Ultimate Pool Service Inc.,Detroit,MI,Detroit,Pool Service,8,$1M-$2M,Ken Clements,Founder,N/A,N/A,https://ultimatepoolservice.net
+CK Flooring,Louisville,KY,Louisville,Flooring Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.ckflooringdesign.com
+Dynasty Flooring,Louisville,KY,Louisville,Flooring Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://dynastyflooring.biz
+Footprints Floors Louisville,Louisville,KY,Louisville,Flooring Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://footprintsfloors.com/louisville
+Dillon Carpet and Flooring,Etna,PA,Pittsburgh,Flooring Contractor,8,$1M-$2M,Jim Dillon,Owner,N/A,N/A,N/A
+Allegheny Installations,Pittsburgh,PA,Pittsburgh,Flooring Contractor,12,$2M-$4M,N/A,Owner (Toole Family),N/A,N/A,https://alleghenyinstallations.com
+Hamilton Flooring LLC,Pittsburgh,PA,Pittsburgh,Flooring Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.hamiltonflooringpgh.com
+Soto Flooring,Oklahoma City,OK,Oklahoma City,Flooring Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://sotoflooring.com
+Temple Johnson Floor Company,Oklahoma City,OK,Oklahoma City,Flooring Contractor,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.templejohnsonfloorco.com
+Jenkins Contract Flooring,Oklahoma City,OK,Oklahoma City,Flooring Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Fred the Fence Guy,Pittsburgh,PA,Pittsburgh,Fence Company,8,$1M-$2M,Fred,Owner/Operator,N/A,N/A,https://fredthefenceguy.com
+Big Jerry's Fencing Pittsburgh,Pittsburgh,PA,Pittsburgh,Fence Company,8,$1M-$2M,Andrew Harbin,Owner/Operator,N/A,N/A,https://bigjerrysfencing.com
+Watt Fencing,Pittsburgh,PA,Pittsburgh,Fence Company,10,$1M-$3M,Jack Watt,Owner,N/A,N/A,https://www.wattfencing.com
+Metro Fence Co Inc.,Pittsburgh,PA,Pittsburgh,Fence Company,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.metrofence.com
+76 Fence,Birmingham,AL,Birmingham,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,https://76fence.com
+Fencing Unlimited,Birmingham,AL,Birmingham,Fence Company,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.fencingunlimited.com
+Spartan Fence Co.,Birmingham,AL,Birmingham,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,https://spartanfenceco.com
+All Steel Fence,Birmingham,AL,Birmingham,Fence Company,10,$1M-$3M,N/A,Owner,N/A,N/A,https://allsteelfence.com
+Amko Fence Company,New Orleans,LA,New Orleans,Fence Company,20,$2M-$5M,N/A,Owner,N/A,N/A,https://amkofencecompany.com
+The Fenceman New Orleans,New Orleans,LA,New Orleans,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,https://thefenceman-neworleans.com
+Professional Fence,Metairie,LA,New Orleans,Fence Company,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.theprofenceneworleans.com
+Forsythe Fence Co.,New Orleans,LA,New Orleans,Fence Company,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.forsythefence.com
+Simple Moves,St. Louis,MO,St. Louis,Moving Company,12,$1M-$3M,Chris Gianino,Owner,N/A,N/A,https://www.simplemoves.com
+Arch Moving,St. Louis,MO,St. Louis,Moving Company,15,$1M-$3M,N/A,Owner,N/A,N/A,https://archmoving.com
+McGuire Moving & Storage,St. Louis,MO,St. Louis,Moving Company,18,$2M-$5M,N/A,Owner,N/A,N/A,https://mcguiremoving.com
+Balance Detroit Moving,Detroit,MI,Detroit,Moving Company,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.balancedetroit.com
+White Star Movers,Detroit,MI,Detroit,Moving Company,10,$1M-$2M,N/A,Owner,N/A,N/A,https://whitestarmovers.com
+Professional Movers,Detroit,MI,Detroit,Moving Company,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.professionalmovers.com
+Nola Family Movers,New Orleans,LA,New Orleans,Moving Company,10,$1M-$2M,Brenton Shaw,Owner,N/A,N/A,https://www.familymoversnola.com
+Atmosphere Movers,Mandeville,LA,New Orleans,Moving Company,15,$2M-$5M,Chat Stockstill,Owner,N/A,N/A,https://atmospheremovers.com
+Moving Nola,New Orleans,LA,New Orleans,Moving Company,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://movingnola.com
+You Move Me Oklahoma City,Oklahoma City,OK,Oklahoma City,Moving Company,10,$1M-$2M,Andrew Wilson,Owner,N/A,N/A,https://okc.youmoveme.com
+Emrick's Van & Storage,Oklahoma City,OK,Oklahoma City,Moving Company,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.emricksallied.com
+The Junk Llamas,Memphis,TN,Memphis,Junk Removal,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://thejunkllamas.com
+Clean City Hauling,Memphis,TN,Memphis,Junk Removal,8,$500K-$1.5M,N/A,Owner,(901) 585-7032,N/A,https://cleancityhauling.com
+Mid South Removal,Memphis,TN,Memphis,Junk Removal,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://midsouthremoval.com
+Junky Dunky Hauling,Louisville,KY,Louisville,Junk Removal,8,$500K-$1.5M,Frank Eaves,Owner,N/A,N/A,https://www.junky-dunky.com
+Sgt Junk-It,Louisville,KY,Louisville,Junk Removal,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.sgtjunkit.com
+Clean Slate Junk Removal & Moving,Louisville,KY,Louisville,Junk Removal,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.junkremovallouisvilleky.com
+Mattingly Junk Hauling,Louisville,KY,Louisville,Junk Removal,6,$500K-$1M,N/A,Owner,N/A,N/A,https://mattinglyjunkhauling.com
+Slimmetry Medical Center,Metairie,LA,New Orleans,Weight Loss Clinic,8,$1M-$3M,N/A,Owner,N/A,N/A,https://www.slimmetrymedical.com
+Nightwater Medical Center,New Orleans,LA,New Orleans,Weight Loss Clinic,8,$1M-$2M,Dr. Paul Ikemire,Owner/Physician,N/A,N/A,https://www.nightwatermc.com
+Integrity Behavioral Management,New Orleans,LA,New Orleans,Weight Loss Clinic,6,$500K-$1.5M,Dr. Sarah Lain,Physician/Owner,N/A,N/A,https://integritybehavioralmanagement.com
+The Weight Clinic,Birmingham,AL,Birmingham,Weight Loss Clinic,8,$1M-$2M,Dr. William Summers,Owner/Physician,N/A,N/A,http://summersweightclinic.com
+Infinity Med-I-Spa,Birmingham,AL,Birmingham,Weight Loss Clinic,10,$1M-$3M,N/A,Owner,N/A,N/A,https://med-i-spa.com
+Weigh to Wellness,Birmingham,AL,Birmingham,Weight Loss Clinic,8,$1M-$2M,N/A,Owner,N/A,N/A,https://weightowellnessllc.com
+Pounds Transformation,West Hartford,CT,Hartford,Weight Loss Clinic,10,$1M-$3M,Dr. Charlie Cavo,Founder,N/A,N/A,https://www.poundsmwlt.com
+Rejuvenate IV Therapy,Oklahoma City,OK,Oklahoma City,IV Therapy,8,$500K-$1.5M,N/A,Owner,(405) 393-5961,N/A,https://www.rejuvenateokc.com
+Elite Care IV,Oklahoma City,OK,Oklahoma City,IV Therapy,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://elitecareiv.com
+Revive Clinic,Oklahoma City,OK,Oklahoma City,IV Therapy,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.reviveokc.com
+Hydrate You IV Therapy,Oklahoma City,OK,Oklahoma City,IV Therapy,6,$500K-$1M,N/A,Owner,N/A,N/A,https://www.hydrateyouiv.com
+The Health & Wellness Center,St. Louis,MO,St. Louis,IV Therapy,8,$1M-$2M,Dr. Secil Schodroski,Owner,N/A,N/A,https://stlthwc.com
+Fresh Infusion,St. Louis,MO,St. Louis,IV Therapy,6,$500K-$1.5M,Amy,Owner/Head Nurse,N/A,N/A,https://www.freshinfusioniv.com
+STL Hydration LLC,St. Louis,MO,St. Louis,IV Therapy,6,$500K-$1M,N/A,Owner,N/A,N/A,https://www.stlhydration.com
+Park Avenue Fertility,Hartford,CT,Hartford,Fertility Clinic,8,$2M-$5M,Dr. Andrew Levi,Owner/Physician,N/A,N/A,https://parkavefertility.com
+Alabama Center for Reproductive Medicine,Birmingham,AL,Birmingham,Fertility Clinic,12,$3M-$7M,Dr. Cecil Long,Founder,N/A,N/A,https://alabamareproductive.com
+Innovative Fertility Specialists,Birmingham,AL,Birmingham,Fertility Clinic,10,$2M-$5M,Dr. Karen Hammond,Owner/Physician,N/A,N/A,https://www.ifsinvo.health
+All Around Healthcare,Louisville,KY,Louisville,Urgent Care,12,$2M-$5M,N/A,Owner,N/A,N/A,https://allaroundhealthcare.com
+New Family Urgent Care,Louisville,KY,Louisville,Urgent Care,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.newfamilyurgentcare.com
+City Urgent Care,Detroit,MI,Detroit,Urgent Care,10,$1M-$3M,Victor Faris,Owner/Medical Director,N/A,N/A,N/A
+Detroit Sherwood Urgent Care,Detroit,MI,Detroit,Urgent Care,8,$1M-$2M,Deon Middlebrook MD,Owner/Physician,N/A,N/A,https://detroitsherwoodurgentcare.com
+Hazel Park Urgent Care,Hazel Park,MI,Detroit,Urgent Care,8,$1M-$2M,Jawad Agha,Medical Director,N/A,N/A,N/A
+Collective Therapy,St. Louis,MO,St. Louis,Speech Therapy,8,$500K-$1.5M,Jasmine,Owner/Founder,N/A,N/A,https://collectivetherapyservices.com
+The Speech Spot,St. Louis,MO,St. Louis,Speech Therapy,10,$1M-$2M,Kate Robertson,Owner,N/A,N/A,https://www.thespeechspotstl.com
+Speech Language Learning Systems,St. Louis,MO,St. Louis,Speech Therapy,8,$1M-$2M,Dana Gooden-Schroeder,President/Owner,N/A,N/A,https://speechlanguagelearningsystems.com
+The Therapy Station,Kirkwood,MO,St. Louis,Speech Therapy,8,$1M-$2M,Gretchen Findley,Owner,N/A,N/A,https://www.therapystationstl.com
+Tiny Speech,St. Louis,MO,St. Louis,Speech Therapy,5,$500K-$1M,Marissa Riley,Owner,N/A,N/A,https://tinyspeechstl.com
+Sandy Speaks Therapy,Detroit,MI,Detroit,Speech Therapy,5,$500K-$1M,Mikayla Treynor,Owner,N/A,N/A,https://sandyspeakstherapy.com
+The Therapy SPOT,Detroit,MI,Detroit,Speech Therapy,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://therapyspotmi.com
+Mindful Speech Solutions,Detroit,MI,Detroit,Speech Therapy,5,$500K-$1M,Kala,Owner,N/A,N/A,https://www.mindfulspeechsolutions.com
+Speech Unbound,Clinton Township,MI,Detroit,Speech Therapy,6,$500K-$1.5M,Sarah Puvalowski,Director/Lead SLP,N/A,N/A,https://www.speechunbound.com
+Detroit Speech Therapy,Detroit,MI,Detroit,Speech Therapy,5,$500K-$1M,Molly,Owner,N/A,N/A,https://detroitspeechtherapy.com
+HearWell Center,Pittsburgh,PA,Pittsburgh,Audiology,8,$1M-$2M,Dr. Suzanne Yoder,Founder,(412) 208-4451,N/A,https://www.hearwellcenter.com
+Pittsburgh Audiology & Hearing Aid Center,Pittsburgh,PA,Pittsburgh,Audiology,10,$1M-$3M,N/A,Owner,N/A,N/A,https://pghaudiology.com
+Eartique,Pittsburgh,PA,Pittsburgh,Audiology,6,$500K-$1.5M,N/A,Owner,(412) 906-9677,N/A,https://eartique.com
+Professional Audiological Services,Memphis,TN,Memphis,Audiology,10,$1M-$3M,Dr. Loretta Coltharp Morton,Founder,N/A,N/A,https://www.professionalaudiologicalservices.com
+Memphis Audiology,Collierville,TN,Memphis,Audiology,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://memphisaudiology.com
+Memphis Hearing Aid & Audiological Services,Germantown,TN,Memphis,Audiology,12,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Holloway Restaurant Group,Oklahoma City,OK,Oklahoma City,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,https://hrgok.com
+84 Hospitality,Oklahoma City,OK,Oklahoma City,Restaurant Group,18,$3M-$7M,N/A,Owner,N/A,N/A,https://www.84hospitality.com
+Resource Entertainment,Memphis,TN,Memphis,Event Planning,12,$1M-$3M,N/A,Owner,(901) 543-1155,N/A,https://www.resourceentertainment.com
+Bella Poggio Events,Memphis,TN,Memphis,Event Planning,5,$500K-$1M,Claire Lopez,Owner,N/A,N/A,N/A
+DORO Catering & Events,Hartford,CT,Hartford,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.dorocateringandevents.com
+Sparkle Brite Car Wash,Louisville,KY,Louisville,Car Wash (Multi-Location),8,$1M-$2M,N/A,Owner,N/A,N/A,https://sparklebritecarwash.com
+Speak Wonders LLC,St. Louis,MO,St. Louis,Speech Therapy,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://speakwondersspeechtherapy.com
+Who Dat Pool Service,New Orleans,LA,New Orleans,Pool Service,6,$500K-$1M,Brett Rosiere,Owner,N/A,N/A,https://www.whodatpoolservice.com
+Kingfish Pool,New Orleans,LA,New Orleans,Pool Service,10,$1M-$3M,N/A,Owner,N/A,N/A,https://kingfishpool.com
+Safari Pools,New Orleans,LA,New Orleans,Pool Service,8,$1M-$2M,Tony,Owner,N/A,N/A,https://safaripools.co
+Billy Branch Pool Service,Birmingham,AL,Birmingham,Pool Service,6,$500K-$1.5M,Billy Branch,Owner,N/A,N/A,https://billybranchpoolservice.com
+Bob Clement Pool Service,Clinton Township,MI,Detroit,Pool Service,8,$1M-$2M,Bob Clement,Owner,N/A,N/A,https://www.bobclementpoolservice.net
+Westside Fence Company,New Orleans,LA,New Orleans,Fence Company,20,$3M-$5M,N/A,Owner,N/A,N/A,https://www.westsidefence.com
+Birmingham Fence Company,Birmingham,AL,Birmingham,Fence Company,15,$1M-$3M,N/A,Owner,N/A,N/A,http://bhamfence.com
+Bethlehem Wire Fence Company,Pittsburgh,PA,Pittsburgh,Fence Company,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.bethlehemwireandfence.com
+Penn Fencing,Pittsburgh,PA,Pittsburgh,Fence Company,12,$1M-$3M,N/A,Owner,N/A,N/A,https://pennfence.com
+OGD Overhead Garage Door,Memphis,TN,Memphis,Garage Door Contractor,15,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+DoorPro,Memphis,TN,Memphis,Garage Door Contractor,15,$2M-$5M,N/A,Owner,N/A,N/A,https://doorproinc.com
+West Metro Door,Taylor,MI,Detroit,Garage Door Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.westmetrodoor.com
+Motor City Door,Detroit,MI,Detroit,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://motorcitydoor.com
+Suburban Door,Livonia,MI,Detroit,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://suburbandoormi.com
+The Birdsong Company,St. Louis,MO,St. Louis,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.birdsongcompany.com
+Zumwalt Corporation,St. Louis,MO,St. Louis,Garage Door Contractor,12,$2M-$4M,N/A,Owner,N/A,N/A,https://www.zumwaltcorporation.com
+Martin Door,St. Louis,MO,St. Louis,Garage Door Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.mdstl.com
+Premier Flooring,Louisville,KY,Louisville,Flooring Contractor,15,$2M-$5M,N/A,Owner,N/A,N/A,https://premierflooringky.com
+Ground Floor Contractors,Louisville,KY,Louisville,Flooring Contractor,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.groundfloorcontractors.com
+Peaks Floors,Pittsburgh,PA,Pittsburgh,Flooring Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Floor Coverings International Pittsburgh,Pittsburgh,PA,Pittsburgh,Flooring Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://floorcoveringsinternational.com/locations/us/pa/greater-pittsburgh
+Footprints Floors Oklahoma City,Oklahoma City,OK,Oklahoma City,Flooring Contractor,8,$1M-$2M,N/A,Owner,N/A,N/A,https://footprintsfloors.com/oklahoma-city
+Big Wally's Hauling,Louisville,KY,Louisville,Junk Removal,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.bigwallyshaulingandjunkremoval.com
+Right Way Hauling,Louisville,KY,Louisville,Junk Removal,6,$500K-$1M,N/A,Owner,N/A,N/A,https://rightwayhauling.com
+Sebastian Moving,St. Peters,MO,St. Louis,Moving Company,10,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Palmer Moving Services,Detroit,MI,Detroit,Moving Company,18,$3M-$7M,N/A,Owner,N/A,N/A,https://www.palmermoving.com
+Detroit Moving Company,Detroit,MI,Detroit,Moving Company,10,$1M-$2M,N/A,Owner,N/A,N/A,https://www.detroitmovingco.com
+Maloney Moving,New Orleans,LA,New Orleans,Moving Company,8,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.maloneymoving.net
+Flood Brothers Moving,New Orleans,LA,New Orleans,Moving Company,10,$1M-$2M,N/A,Owner,N/A,N/A,https://www.floodbrothers.net
+IBA Detroit,Detroit,MI,Detroit,Restaurant Group,12,$2M-$5M,N/A,Owner,N/A,N/A,https://www.ibadetroitgroup.com
+Mission Restaurant Group,Detroit,MI,Detroit,Restaurant Group,18,$3M-$7M,N/A,Owner,N/A,N/A,https://www.missionrestaurantgroup.com
+BRG Hospitality,New Orleans,LA,New Orleans,Restaurant Group,20,$5M-$10M,N/A,Owner,N/A,N/A,https://www.brg-hospitality.com
+Neighborhood Restaurant Group,New Orleans,LA,New Orleans,Restaurant Group,20,$5M-$10M,N/A,Owner,N/A,N/A,https://www.neighborhoodrestaurantgroup.com
+The Napoli Group,St. Louis,MO,St. Louis,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.napolistl.com
+Medicus Weight Loss Clinic,New Orleans,LA,New Orleans,Weight Loss Clinic,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.medicusweightloss.com
+RescueMD,Birmingham,AL,Birmingham,Weight Loss Clinic,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.myrescuemd.com
+HydraCare IV,Oklahoma City,OK,Oklahoma City,IV Therapy,6,$500K-$1M,N/A,Owner,N/A,N/A,https://hydracareiv.com
+IV Nutrition Oklahoma City,Oklahoma City,OK,Oklahoma City,IV Therapy,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://ivnutrition.com
+Alabama Fertility,Birmingham,AL,Birmingham,Fertility Clinic,12,$3M-$7M,N/A,Owner,N/A,N/A,https://alabamafertility.com
+Connecticut Facial Plastic Surgery,Hartford,CT,Hartford,Weight Loss Clinic,10,$2M-$5M,Dr. Brook Seeley,Owner,N/A,N/A,https://www.ctfacialplasticsurgery.com
+Absolutely Thin,Hartford,CT,Hartford,Weight Loss Clinic,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.absolutelythin.com
+Surgical Specialists of Louisiana,New Orleans,LA,New Orleans,Weight Loss Clinic,15,$3M-$7M,N/A,Owner,N/A,N/A,https://whyweight.com
+Splendid Events,Louisville,KY,Louisville,Event Planning,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://splendideventsllc.org
+Essential Details,Louisville,KY,Louisville,Event Planning,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.essentialdetailsky.com
+Sweet Water Event Planning,Memphis,TN,Memphis,Event Planning,6,$500K-$1.5M,N/A,Owner,N/A,N/A,N/A
+Vaughan & Co. Catering,Birmingham,AL,Birmingham,Catering,8,$500K-$1.5M,N/A,Owner,(205) 999-9097,N/A,https://vaughantogo.com
+Ashley Mac's Kitchen,Birmingham,AL,Birmingham,Catering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.ashleymacs.com
+Homewood Gourmet,Birmingham,AL,Birmingham,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://homewoodgourmet.com
+Pure Catering STL,St. Louis,MO,St. Louis,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.purecateringstl.com
+Hollyberry Catering,St. Louis,MO,St. Louis,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.hollyberrycatering.com
+Pasta House Catering,St. Louis,MO,St. Louis,Catering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.pastahousecatering.com
+Butler's Pantry,St. Louis,MO,St. Louis,Catering,20,$5M-$10M,N/A,Owner,N/A,N/A,https://www.butlerspantry.com
+Grandma's Desserts,Memphis,TN,Memphis,Bakery (Wholesale),10,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Butteriffic Bakery & Cafe,Memphis,TN,Memphis,Bakery (Wholesale),8,$500K-$1.5M,N/A,Owner,N/A,N/A,N/A
+Bud's Best Cookies,Birmingham,AL,Birmingham,Bakery (Wholesale),15,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+Cinnaholic Birmingham,Birmingham,AL,Birmingham,Bakery (Wholesale),8,$500K-$1.5M,N/A,Owner,N/A,N/A,N/A
+Wiltshire Pantry,Louisville,KY,Louisville,Bakery (Wholesale),10,$1M-$3M,N/A,Owner,N/A,N/A,https://wiltshirepantry.com
+Staggeringly Delicious,Louisville,KY,Louisville,Bakery (Wholesale),8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.staggeringlydelicious.com
+La Patisserie Francaise,Louisville,KY,Louisville,Bakery (Wholesale),8,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Penny & Pearls Bakeshop,Louisville,KY,Louisville,Bakery (Wholesale),6,$500K-$1M,N/A,Owner,N/A,N/A,N/A
+Speech Play Love Therapy Services,Plymouth,MI,Detroit,Speech Therapy,5,$500K-$1M,N/A,Owner,N/A,N/A,https://www.speechplaylovetherapyservices.com
+Word Play Speech Therapy,St. Louis,MO,St. Louis,Speech Therapy,5,$500K-$1M,N/A,Owner,N/A,N/A,https://wordplayspeechtherapy.com
+Pittsburgh Ear Associates,Pittsburgh,PA,Pittsburgh,Audiology,10,$1M-$3M,N/A,Owner,N/A,N/A,https://pittsburghear.com
+Kaufman Children's Center,Detroit,MI,Detroit,Speech Therapy,15,$2M-$5M,N/A,Owner,N/A,N/A,http://www.kidspeech.com
+Expressable Speech Therapy,Detroit,MI,Detroit,Speech Therapy,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.expressable.com
+Precision Garage Door Memphis,Memphis,TN,Memphis,Garage Door Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://garagedoormemphis.com
+Conway Designs Architecture,Memphis,TN,Memphis,Architecture,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.conway-designs.com
+Fleming Architects,Memphis,TN,Memphis,Architecture,6,$500K-$1.5M,N/A,Owner,N/A,N/A,N/A
+Fitzgerald Associates Architecture,Oklahoma City,OK,Oklahoma City,Architecture,10,$1M-$3M,N/A,Owner,N/A,N/A,https://fitzarch.com
+MA+ Architecture,Oklahoma City,OK,Oklahoma City,Architecture,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.maplusarch.com
+Cornerstone Architecture,Oklahoma City,OK,Oklahoma City,Architecture,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.ca-ok.com
+HSE Architects,Oklahoma City,OK,Oklahoma City,Architecture,12,$2M-$4M,N/A,Owner,N/A,N/A,https://hsearchitects.com
+Elliott Architects,Oklahoma City,OK,Oklahoma City,Architecture,8,$1M-$2M,N/A,Owner,N/A,N/A,https://elliottarchitects.com
+JWM Architects,Hartford,CT,Hartford,Architecture,6,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Tecton Architects,Hartford,CT,Hartford,Architecture,12,$2M-$4M,N/A,Owner,N/A,N/A,https://www.tectonarchitects.com
+CHK Architects,Hartford,CT,Hartford,Architecture,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.chkarch.com
+Koch and Wilson Architects,New Orleans,LA,New Orleans,Architecture,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.kochandwilson.com
+SCNZ Architects,New Orleans,LA,New Orleans,Architecture,8,$1M-$2M,N/A,Owner,N/A,N/A,https://scnz.net
+Mathes Brierre Architects,New Orleans,LA,New Orleans,Architecture,15,$2M-$5M,N/A,Owner,N/A,N/A,https://mathesbrierre.com
+Myers Engineering,Oklahoma City,OK,Oklahoma City,Engineering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.mecokc.com
+Johnson and Associates,Oklahoma City,OK,Oklahoma City,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://jaokc.com
+Kerr Greulich Engineers,Louisville,KY,Louisville,Engineering,12,$2M-$4M,N/A,Owner,N/A,N/A,https://kerr-greulich.com
+Shrout Tate Wilson,Louisville,KY,Louisville,Engineering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.stweng.com
+Alabama Engineering Company,Birmingham,AL,Birmingham,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://alaeng.com
+Schrenk Endom & Flanagan,New Orleans,LA,New Orleans,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://schrenkandpeterson.com
+Thompson Floor Company,Oklahoma City,OK,Oklahoma City,Flooring Contractor,10,$1M-$3M,N/A,Owner,N/A,N/A,https://thompsonfloorco.com
+Butler Floor & Carpet,Pittsburgh,PA,Pittsburgh,Flooring Contractor,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.butlerfloor.com
+Colleen Simonds Interior Design,Pittsburgh,PA,Pittsburgh,Interior Design,5,$500K-$1M,Colleen Simonds,Owner,N/A,N/A,https://www.colleensimonds.com
+Cave Studio,Pittsburgh,PA,Pittsburgh,Interior Design,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://bycavestudio.com
+J. Waddell Interiors,Louisville,KY,Louisville,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Studio Nine Interiors,Louisville,KY,Louisville,Interior Design,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.studionineinteriors.com
+Lindsey Black Interiors,Memphis,TN,Memphis,Interior Design,5,$500K-$1M,Lindsey Black,Owner,N/A,N/A,https://www.lindseyblackinteriors.com
+Murphy Maude Interiors,Memphis,TN,Memphis,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,https://murphymaude.com
+Caroline V. Smith Interiors,Memphis,TN,Memphis,Interior Design,6,$500K-$1.5M,Caroline V. Smith,Owner,N/A,N/A,https://www.cvsmith.com
+Verce Design,Oakland County,MI,Detroit,Interior Design,5,$500K-$1M,N/A,Owner,N/A,N/A,https://www.vercedesign.com
+Lauren Figueroa Interior Design,Detroit,MI,Detroit,Interior Design,6,$500K-$1.5M,Lauren Figueroa,Owner,N/A,N/A,https://www.lfdesigns.co
+Design Studio Detroit,Detroit,MI,Detroit,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.designstudiodetroit.com
+Kristine Bates Interiors,Oklahoma City,OK,Oklahoma City,Interior Design,6,$1M-$2M,Kristine Bates,Owner,N/A,N/A,https://www.kristinebatesinteriors.com
+Thomson + Thomson Design,Oklahoma City,OK,Oklahoma City,Interior Design,8,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Office Interiors OK,Oklahoma City,OK,Oklahoma City,Interior Design,10,$1M-$3M,N/A,Owner,N/A,N/A,https://officeinteriorsok.com
+Kellie Burke Interiors,Hartford,CT,Hartford,Interior Design,6,$500K-$1.5M,Kellie Burke,Owner,N/A,N/A,https://kellieburke.com
+Camden Grace Interiors,Hartford,CT,Hartford,Interior Design,5,$500K-$1M,N/A,Owner,N/A,N/A,https://www.camden-grace.com
+Christopher Architecture and Interiors,Birmingham,AL,Birmingham,Interior Design,12,$2M-$4M,N/A,Owner,N/A,N/A,https://christopherai.com
+JML Interiors,St. Louis,MO,St. Louis,Interior Design,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://www.jmlinteriors.net
+Oculus Inc.,St. Louis,MO,St. Louis,Interior Design,10,$1M-$3M,N/A,Owner,N/A,N/A,https://oculusinc.com
+Srote & Co Architects,St. Louis,MO,St. Louis,Architecture,10,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+V Three Studios,St. Louis,MO,St. Louis,Architecture,8,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Pickering Firm,Memphis,TN,Memphis,Engineering,18,$3M-$7M,N/A,Owner,N/A,N/A,https://www.pickeringfirm.com
+BrightWork Building Engineering,Birmingham,AL,Birmingham,Engineering,6,$500K-$1.5M,N/A,Owner,N/A,N/A,https://brightworkeng.com
+ASP of New Orleans Pool Co.,New Orleans,LA,New Orleans,Pool Service,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.asppoolco.com
+Tropical Pool Service,Mandeville,LA,New Orleans,Pool Service,10,$1M-$3M,N/A,Owner,N/A,N/A,https://tropicalpool.com
+Agave Grill Catering,Hartford,CT,Hartford,Catering,10,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Bear's Smokehouse BBQ Catering,Hartford,CT,Hartford,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Executive Cuisine Catering,Hartford,CT,Hartford,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,https://ecinflight.com
+Michaelis Events,Louisville,KY,Louisville,Event Planning/Catering,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.mymestory.com

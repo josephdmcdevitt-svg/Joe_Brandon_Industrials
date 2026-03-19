@@ -1,0 +1,353 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+SMILES ON 35th,Seattle,WA,Seattle,Dental Practice,8,$1M-$2M,Rubecca Shahid,Owner/Dentist,N/A,N/A,https://www.smileson35th.com/
+Espresso Dental,Seattle,WA,Seattle,Dental Practice,8,$1M-$2M,Connie M. Manuel,Owner/DDS,N/A,N/A,https://espressodental.com/
+Northgate Smiles,Seattle,WA,Seattle,Dental Practice,10,$1M-$3M,Dr. Lu,Owner/Dentist,N/A,N/A,https://www.northgatesmiles.com/
+Dental Care Seattle,Seattle,WA,Seattle,Dental Practice,8,$1M-$2M,Michael Mulick,Owner/Dentist,N/A,N/A,https://www.dentalcareseattle.com/
+Floss Seattle,Seattle,WA,Seattle,Dental Practice,8,$1M-$2M,Dr. Pietsch,Owner/Dentist,N/A,N/A,https://www.flossseattle.com/
+Highland West Dental Care,Austin,TX,Austin,Dental Practice,6,$800K-$1.5M,Dr. Pevzner,Owner/Dentist,N/A,N/A,https://www.highlandwestdentalcare.com/
+South Austin Dental Associates,Austin,TX,Austin,Dental Practice,10,$1M-$3M,Dr. Matthysse,Owner/Dentist,N/A,N/A,https://southaustindentalassociates.com/
+Smile Creations ATX,Austin,TX,Austin,Dental Practice,10,$1M-$3M,Matthew Heck,Owner/DDS,N/A,N/A,https://www.smilecreationsatx.com
+Walden Dental,Austin,TX,Austin,Dental Practice,8,$1M-$2M,Dr. Frank,Owner/Dentist,N/A,N/A,https://www.waldendentaltx.com/
+512 Smiles,Austin,TX,Austin,Dental Practice,12,$1.5M-$3M,Priya Meghpara,Owner/Dentist,N/A,N/A,https://512smiles.com/
+Downtown Dental Associates,Portland,OR,Portland,Dental Practice,8,$1M-$2M,Jonathan Becker,Owner/Dentist,N/A,N/A,https://portlandor.dental/
+RiverPlace Dental,Portland,OR,Portland,Dental Practice,6,$800K-$1.5M,Megan McInnis,Owner/Dentist,N/A,N/A,https://www.riverplacedds.com/
+Wagner Dental Care,Portland,OR,Portland,Dental Practice,6,$800K-$1.5M,Robert Wagner,Owner/DMD,N/A,N/A,N/A
+Portland Family Dentistry,Portland,OR,Portland,Dental Practice,8,$1M-$2M,Dr. Agee,Owner/Dentist,N/A,N/A,https://portlandfamilydentistry.com/
+Bethany Family Dental,Portland,OR,Portland,Dental Practice,8,$1M-$2M,Dr. Austria,Owner/Dentist,N/A,N/A,https://bethanyfamilydental.com/
+Dalton Hunt Dentistry,Raleigh,NC,Raleigh,Dental Practice,8,$1M-$2M,Dalton Carruthers Hunt,Owner/Dentist,N/A,N/A,https://www.daltonhuntdentistry.com/
+Fusion Dental Care,Raleigh,NC,Raleigh,Dental Practice,10,$1M-$3M,Hoda Bassiri,Owner/Dentist,N/A,N/A,https://fusiondentalcare.com/
+Ashley Lloyd DDS,Raleigh,NC,Raleigh,Dental Practice,6,$800K-$1.5M,Ashley Lloyd,Owner/DDS,N/A,N/A,https://www.drashleylloyd.com
+Leesville Dental Care,Raleigh,NC,Raleigh,Dental Practice,6,$800K-$1.5M,Justin Russo,Owner/Dentist,N/A,N/A,N/A
+Dental Architects of Millcreek,Salt Lake City,UT,Salt Lake City,Dental Practice,8,$1M-$2M,Scott Updyke,Owner/Dentist,N/A,N/A,https://www.dentalarchitectsofmillcreek.com/
+Salt Lake Dental Clinic,Salt Lake City,UT,Salt Lake City,Dental Practice,8,$1M-$2M,Scott Elder,Owner/Dentist,N/A,N/A,https://www.slcdental.com/
+Natural Smiles Dentistry,Salt Lake City,UT,Salt Lake City,Dental Practice,8,$1M-$2M,Thomas Brickey,Owner/DMD,N/A,N/A,https://www.naturalsmilesdentistry.com/
+Avenues Dentistry,Salt Lake City,UT,Salt Lake City,Dental Practice,8,$1M-$2M,Paul Porter,Owner/Dentist,N/A,N/A,https://www.avenuesfamilydentist.com/
+Thousand Oaks Dental,San Antonio,TX,San Antonio,Dental Practice,8,$1M-$2M,Dr. Thompson,Owner/Dentist,N/A,N/A,https://www.yoursanantoniodentists.com/
+Smile Structure Dentistry,San Antonio,TX,San Antonio,Dental Practice,15,$2M-$4M,Adam Smith,Owner/DDS,N/A,N/A,https://www.smilestructure.com/
+North Babcock Dental Care,San Antonio,TX,San Antonio,Dental Practice,8,$1M-$2M,Dr. Herod,Owner/Dentist,N/A,N/A,https://www.northbabcockdentalcare.com/
+LV Smile Designers,Las Vegas,NV,Las Vegas,Dental Practice,8,$1M-$2M,Dr. Amy,Owner/Dentist,N/A,N/A,https://www.lvsmiledesigners.com/
+Smile Mas Dental,Las Vegas,NV,Las Vegas,Dental Practice,8,$1M-$2M,Ben Abrams,Owner/Dentist,N/A,N/A,https://smilemasdental.com
+Lone Mountain Dental,Las Vegas,NV,Las Vegas,Dental Practice,8,$1M-$2M,Dr. Godfrey,Owner/Dentist,N/A,N/A,https://lonemtndental.com/
+Smiles Today Dental,Las Vegas,NV,Las Vegas,Dental Practice,8,$1M-$2M,Amar Kerio,Owner/Dentist,N/A,N/A,https://smilestodaydental.com/
+Southern Smiles,Jacksonville,FL,Jacksonville,Dental Practice,8,$1M-$2M,Bethany Burton,Owner/Dentist,N/A,N/A,https://www.southernsmilesjax.com/
+River City Dental,Jacksonville,FL,Jacksonville,Dental Practice,8,$1M-$2M,Leah Lovett,Owner/Dentist,N/A,N/A,https://www.rivercitydentaljax.com/
+Vitalize Dental,Jacksonville,FL,Jacksonville,Dental Practice,8,$1M-$2M,Dr. Patel,Owner/Dentist,N/A,N/A,https://www.vitalizedentalfl.com/
+Glow Medispa,Seattle,WA,Seattle,Med Spa / Aesthetics,10,$1M-$3M,Kate Dee,Owner/Physician,N/A,N/A,https://glowspaseattle.com/
+Blue Haven Medical Spa,Seattle,WA,Seattle,Med Spa / Aesthetics,8,$1M-$2M,Benjamin Killey,Founder/Physician,N/A,N/A,https://www.bluehavenmedicalspa.com/
+NuMe Aesthetics,Seattle,WA,Seattle,Med Spa / Aesthetics,8,$1M-$2M,Kevin Fung,Medical Director,N/A,N/A,https://numeaesthetics.com/
+Seattle Aesthetics,Seattle,WA,Seattle,Med Spa / Aesthetics,6,$500K-$1.5M,Ronda Nelson,Founder,N/A,N/A,https://seattleaesthetics.com/
+Glo Med Spa,Austin,TX,Austin,Med Spa / Aesthetics,8,$800K-$2M,Sherry Salehi,Owner/Manager,N/A,N/A,https://www.glomedspaaustin.com/
+Bare Body Spa,Austin,TX,Austin,Med Spa / Aesthetics,6,$500K-$1.5M,Jeannette,Owner,N/A,N/A,https://www.barebodyspa.com/
+Aesthetica Med Spa,Austin,TX,Austin,Med Spa / Aesthetics,10,$1M-$3M,Dr. Sneed,Owner/Physician,N/A,N/A,https://amedspa.com/
+Simple Radiance Medspa,Austin,TX,Austin,Med Spa / Aesthetics,8,$800K-$2M,Betty Cravens,Owner,N/A,N/A,https://simpleradianceaustin.com/
+Refine Aesthetics,Austin,TX,Austin,Med Spa / Aesthetics,6,$500K-$1.5M,Courtney Gill,CEO,N/A,N/A,https://refineaesthetics.com/
+Komal Aesthetics & Wellness,Portland,OR,Portland,Med Spa / Aesthetics,6,$500K-$1.5M,Megha,Owner/NP,N/A,N/A,https://www.komalaestheticsandwellness.com/
+West Linn Aesthetics,Portland,OR,Portland,Med Spa / Aesthetics,6,$500K-$1.5M,Jerilyn Hanson,Founder/Owner,N/A,N/A,https://westlinnaesthetics.com/
+Aluma Aesthetic Medicine,Portland,OR,Portland,Med Spa / Aesthetics,8,$800K-$2M,Nathaniel Brigham,Owner/MD,N/A,N/A,https://alumapdx.com/
+La Miel Aesthetics,Raleigh,NC,Raleigh,Med Spa / Aesthetics,6,$500K-$1.5M,Adriana Sandoval Veliz,Co-Owner,N/A,N/A,https://www.lamielaesthetics.com/
+The Aesthetics Lounge and Spa,Raleigh,NC,Raleigh,Med Spa / Aesthetics,10,$1M-$3M,Blake Stonebraker,Owner,N/A,N/A,https://raleigh.theaestheticsloungeandspa.com/
+Aesthetics by Eileen,Raleigh,NC,Raleigh,Med Spa / Aesthetics,6,$500K-$1.5M,Eileen M. Slutsky,Owner/RN,N/A,N/A,https://aesthetics-by-eileen.com/
+Beauty CO,Raleigh,NC,Raleigh,Med Spa / Aesthetics,6,$500K-$1.5M,Kelly,Founder,N/A,N/A,https://btyco.com/
+Nuance Aesthetics,Salt Lake City,UT,Salt Lake City,Med Spa / Aesthetics,8,$800K-$2M,Dr. Rhudy,Owner/Medical Director,N/A,N/A,https://nuanceaesthetics.com/
+Anew You Medical Aesthetics,San Antonio,TX,San Antonio,Med Spa / Aesthetics,8,$800K-$2M,Sherry Wehner,Owner/MD,N/A,N/A,https://anewyousa.com/
+Cutella Med Spa,San Antonio,TX,San Antonio,Med Spa / Aesthetics,8,$800K-$2M,Eildar Abyar,Founder,N/A,N/A,https://cutellamedspa.com/
+BLUME Med Spa,San Antonio,TX,San Antonio,Med Spa / Aesthetics,6,$500K-$1.5M,Zyann Fuentes,Owner,N/A,N/A,https://mobilemedspasa.com/
+My Best Face Forward,San Antonio,TX,San Antonio,Med Spa / Aesthetics,6,$500K-$1.5M,Tara Rodriguez,Owner/RN,N/A,N/A,https://mybffmedspa.com/
+Sinfully Beautiful,Las Vegas,NV,Las Vegas,Med Spa / Aesthetics,6,$500K-$1.5M,Kerstin Margiotti,Owner/NP,N/A,N/A,https://sinfully-beautiful.com/
+Simply Radiant,Las Vegas,NV,Las Vegas,Med Spa / Aesthetics,6,$500K-$1.5M,Peggy Pruchnicki,Owner/APRN,N/A,N/A,https://simplyradiant-lv.com/
+Timeless Med Spa,Jacksonville,FL,Jacksonville,Med Spa / Aesthetics,8,$800K-$2M,Chidi Uche,Owner/Physician,N/A,N/A,https://timelessmedspa.org/
+Bartram Spa & Salon,Jacksonville,FL,Jacksonville,Med Spa / Aesthetics,10,$800K-$2M,Jenean Bullard,Owner,N/A,N/A,https://www.bartramspa.com/
+Greenwood Heating and Home Services,Seattle,WA,Seattle,HVAC,15,$2M-$5M,Michael Porter,Owner,N/A,N/A,https://greenwoodheating.com/
+Brennan Heating,Seattle,WA,Seattle,HVAC,18,$3M-$6M,Darrin Erdahl,Owner,N/A,N/A,https://www.brennanheating.com/
+Hoefer Heating & Cooling,Seattle,WA,Seattle,HVAC,8,$1M-$2M,Gerald Hoefer,Owner,N/A,N/A,N/A
+Ware Heating & Cooling,Seattle,WA,Seattle,HVAC,8,$1M-$2M,John Ware,Owner,N/A,N/A,N/A
+Del's Heating & Air Conditioning,Austin,TX,Austin,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.delsacservice.com/
+Oasis Services LLC,Austin,TX,Austin,HVAC,8,$1M-$2M,Richard,Owner,N/A,N/A,https://atxoasis.com/
+Trusted Heating and Cooling,Austin,TX,Austin,HVAC,8,$1M-$2M,James,Owner,N/A,N/A,https://trustedacaustin.com/
+DAMAR Heating Inc,Portland,OR,Portland,HVAC,10,$1M-$3M,Rick Wiggins,Owner,N/A,N/A,https://www.damarheating.com/
+Advanced Heating & Air Conditioning,Portland,OR,Portland,HVAC,8,$1M-$2M,Owner,Owner,N/A,N/A,https://advancedheatinginc.com/
+Efficiency Heating & Cooling,Portland,OR,Portland,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.eheatcool.com
+Klimatology HVAC,Raleigh,NC,Raleigh,HVAC,8,$1M-$2M,Nihat Yucel,Owner,N/A,N/A,https://www.klimatologyhvac.com/
+Jay's Heating and Cooling,Raleigh,NC,Raleigh,HVAC,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.jaysraleighhvac.com/
+Allen Kelly & Co.,Raleigh,NC,Raleigh,HVAC,15,$2M-$5M,Owner,Owner,N/A,N/A,https://allenkelly.com/
+Comfort Monster Heating & Air,Raleigh,NC,Raleigh,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,https://comfortmonster.com/
+Hill Heating & Air,Salt Lake City,UT,Salt Lake City,HVAC,5,$500K-$1M,Steve Hill,Owner,N/A,N/A,N/A
+Hartman Heating Air and Fireplaces,Salt Lake City,UT,Salt Lake City,HVAC,8,$1M-$2M,Paul Hartman,Owner,N/A,N/A,https://www.hartmanheating.com/
+I Know A Guy HVAC,Salt Lake City,UT,Salt Lake City,HVAC,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.iknowaguyhvac.com/
+Beyer Air Conditioning and Heating,San Antonio,TX,San Antonio,HVAC,15,$2M-$5M,Owner,Owner,N/A,N/A,https://beyerairconditioningheating.com/
+Westerly Air,San Antonio,TX,San Antonio,HVAC,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.westerlyair.com/
+Mr. Wilson Heating & Air Conditioning,San Antonio,TX,San Antonio,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.mrwilsonair.com/
+Desert West,Las Vegas,NV,Las Vegas,HVAC,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.dwsnv.com/
+Black Mountain Air,Las Vegas,NV,Las Vegas,HVAC,10,$1M-$3M,Todd,Owner,N/A,N/A,https://blackmountainair.com/
+Active Plumbing & Air Conditioning,Las Vegas,NV,Las Vegas,HVAC,12,$1.5M-$3M,Eddie S.,Owner,N/A,N/A,N/A
+Tropic Aire,Jacksonville,FL,Jacksonville,HVAC,15,$2M-$5M,Owner,Owner,N/A,N/A,https://www.tropicaire.net/
+AC Systems of Jacksonville,Jacksonville,FL,Jacksonville,HVAC,8,$1M-$2M,Greg Kinser,Owner,N/A,N/A,https://acsystemsofjax.com/
+Ideal Conditions Heating & Air,Jacksonville,FL,Jacksonville,HVAC,8,$1M-$2M,Mr. Massey,Owner,N/A,N/A,https://idealconditionsjax.com/
+Knockout Plumbing & Mechanical,Seattle,WA,Seattle,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,https://knockoutplumbingseattle.com/
+2 Sons Plumbing,Seattle,WA,Seattle,Plumbing,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.2sonsplumbing.com/
+Puget Sound Plumbing & Heating,Seattle,WA,Seattle,Plumbing,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://pugetsoundplumbing.com/
+Quality Plumbing,Seattle,WA,Seattle,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,https://qualityplumbing.cc/
+Peanut Plumbing,Austin,TX,Austin,Plumbing,8,$1M-$2M,Raul Eric Meza,Owner,N/A,N/A,https://www.peanutplumbingtx.com/
+G & M Plumbing Inc,Austin,TX,Austin,Plumbing,8,$1M-$2M,Sonny Martinez,Owner,N/A,N/A,https://gandmplumbingtx.com/
+Chabert Plumbing LLC,Austin,TX,Austin,Plumbing,8,$1M-$2M,Owner,Owner,N/A,N/A,https://chabertplumbing.com/
+All Pro Plumbing Services,Portland,OR,Portland,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,https://allproplumbingpdx.com/
+D&F Plumbing Heating and Cooling,Portland,OR,Portland,Plumbing,15,$2M-$5M,Owner,Owner,N/A,N/A,https://dandfplumbing.com/
+Crouchley Plumbing Company,Portland,OR,Portland,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,https://crouchleyplumbing.com/
+Plumbing Services of Raleigh,Raleigh,NC,Raleigh,Plumbing,8,$1M-$2M,David Dobbs,Owner,N/A,N/A,https://plumbingservicesraleigh.com/
+PipeTechs Plumbing,Raleigh,NC,Raleigh,Plumbing,8,$1M-$2M,Lloyd Nichols,Owner,N/A,N/A,https://www.pipetechsplumbing.com/
+Cary Plumbing,Raleigh,NC,Raleigh,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.caryplumbing.com/
+Shamrock Plumbing,Salt Lake City,UT,Salt Lake City,Plumbing,10,$1M-$3M,Michael Morrell,Owner,N/A,N/A,https://www.shamrockplumbing.net/
+Millcreek Plumbing,Salt Lake City,UT,Salt Lake City,Plumbing,8,$1M-$2M,Owner,Owner,N/A,N/A,https://millcreekplumbinginc.com/
+Neerings Plumbing,Salt Lake City,UT,Salt Lake City,Plumbing,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://neeringsplumbing.com/
+Reliant Plumbing,San Antonio,TX,San Antonio,Plumbing,12,$1.5M-$3M,Max Hicks,Owner,N/A,N/A,https://reliantplumbing.com/
+Chavarria's Plumbing of SA,San Antonio,TX,San Antonio,Plumbing,8,$1M-$2M,Fernando Chavarria Jr.,Owner,N/A,N/A,https://chavarriasplumbingsa.com/
+Juan's Plumbing Services,San Antonio,TX,San Antonio,Plumbing,6,$500K-$1.5M,Juan Lopez,Owner/Master Plumber,N/A,N/A,N/A
+J.R.'s Plumbing,San Antonio,TX,San Antonio,Plumbing,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.jrsplumbing.net/
+Pipe Dreams Plumbing,Las Vegas,NV,Las Vegas,Plumbing,8,$1M-$2M,Chance Vanek,Owner/Founder,N/A,N/A,https://pipedreamsplumbingco.com/
+Will's Plumbing,Las Vegas,NV,Las Vegas,Plumbing,6,$500K-$1.5M,Will,Owner,N/A,N/A,https://www.willsplumbingllc.net/
+Adaven Plumbing,Las Vegas,NV,Las Vegas,Plumbing,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.adavenplumbinginc.com
+Royalty Plumbing LLC,Las Vegas,NV,Las Vegas,Plumbing,8,$1M-$2M,Anthony,Owner,N/A,N/A,https://royaltyplumbingllc.com/
+Darley's Plumbing,Jacksonville,FL,Jacksonville,Plumbing,10,$1M-$3M,Carl Darley,Owner,N/A,N/A,https://darleysplumbing.com/
+Celtic Custom Plumbing,Jacksonville,FL,Jacksonville,Plumbing,8,$1M-$2M,Chris,Owner,N/A,N/A,https://www.celticplumbing.com/
+Aldridge & Sons Plumbing,Jacksonville,FL,Jacksonville,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,https://aldridgesonsplumbing.com/
+Gary Rodgers Plumbing,Jacksonville,FL,Jacksonville,Plumbing,10,$1M-$3M,Owner,Owner,N/A,N/A,https://garyrodgersplumbing.com/
+360 Electrical Contractors,Austin,TX,Austin,Electrical,10,$1M-$3M,Rita,Owner,N/A,N/A,https://360electricalcontractors.com
+PowerHouse Electrical Services,Austin,TX,Austin,Electrical,8,$1M-$2M,Bryan Neal,Founder,N/A,N/A,https://www.powerhouse-es.com/
+Beckett Electrical Services,Austin,TX,Austin,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,https://beckettelectrical.com/
+Simply Shocking Electric,Portland,OR,Portland,Electrical,10,$1M-$3M,Doug Janis,Owner/Master Electrician,N/A,N/A,https://simplyshockingelectric.com/
+Pacific Northwest Electric Inc,Portland,OR,Portland,Electrical,8,$1M-$2M,John Ramirez,Owner,N/A,N/A,https://pacificnwelectric.com/
+AC Electrical Contractor LLC,Portland,OR,Portland,Electrical,6,$500K-$1.5M,Owner,Owner,N/A,N/A,http://www.acelectricalcontractorllc.com/
+Tripp Electric,Raleigh,NC,Raleigh,Electrical,10,$1M-$3M,Lee Jefferys,Owner,N/A,N/A,https://www.trippelectric.com/
+DSE Electrical Contractors,Raleigh,NC,Raleigh,Electrical,8,$1M-$2M,Shane,Owner,N/A,N/A,https://dseelectricalcontractorsnc.com/
+Raleigh Electric Company,Raleigh,NC,Raleigh,Electrical,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://raleighelectriccompany.com/
+Millcreek Electric,Salt Lake City,UT,Salt Lake City,Electrical,8,$1M-$2M,Bob,Owner,N/A,N/A,https://millcreekelectriccompany.com/
+K-Bar Electric Inc,Salt Lake City,UT,Salt Lake City,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,N/A
+Northern Electric Company,Salt Lake City,UT,Salt Lake City,Electrical,8,$1M-$2M,Tim Komlos,Owner,N/A,N/A,N/A
+Citywide Electric LLC,San Antonio,TX,San Antonio,Electrical,8,$1M-$2M,Daniel,Owner,N/A,N/A,https://www.citywideelectric.net/
+Cappadonna Electric,San Antonio,TX,San Antonio,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.cappadonnaelectric.com/
+McLeod Electric,San Antonio,TX,San Antonio,Electrical,8,$1M-$2M,Owner,Owner,N/A,N/A,https://mcleodelectrictx.com/
+Ampere Electric,Las Vegas,NV,Las Vegas,Electrical,10,$1M-$3M,Shane,Owner,N/A,N/A,https://ampereelectricnv.com/
+Sant Electric LLC,Las Vegas,NV,Las Vegas,Electrical,8,$1M-$2M,Randy Sant,Owner,N/A,N/A,https://www.santelectriclv.com/
+Big Red Electric Company,Las Vegas,NV,Las Vegas,Electrical,6,$500K-$1.5M,AJ,Owner,N/A,N/A,https://www.bigredelectriccompany.com/
+Penny Electric,Las Vegas,NV,Las Vegas,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,https://pennyelectric.com/
+Jacksonville Electrical Contractors,Jacksonville,FL,Jacksonville,Electrical,8,$1M-$2M,Tim,Owner,904-993-1678,N/A,N/A
+Bolt Electric,Jacksonville,FL,Jacksonville,Electrical,8,$1M-$2M,Owner,Owner,N/A,N/A,https://boltelectricnfl.com/
+American Electrical Contracting,Jacksonville,FL,Jacksonville,Electrical,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.american-electrical.com/
+Victor Jones CPA PC,Seattle,WA,Seattle,CPA / Accounting,8,$1M-$2M,Victor Jones,Owner/CPA,N/A,N/A,https://www.victorjonescpa.com/
+Huddleston Tax CPAs,Seattle,WA,Seattle,CPA / Accounting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://huddlestontaxcpas.com/
+Raymond Lyle CPA PLLC,Seattle,WA,Seattle,CPA / Accounting,6,$800K-$1.5M,Raymond Lyle,Owner/CPA,N/A,N/A,https://www.raymondlylecpa.com/
+Seattle Tax Group LLC,Seattle,WA,Seattle,CPA / Accounting,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.seattletaxgroup.com/
+David French CPA,Austin,TX,Austin,CPA / Accounting,6,$800K-$1.5M,David French,Owner/CPA,N/A,N/A,https://davidfrenchcpa.com/
+Thomson CPA Firm,Austin,TX,Austin,CPA / Accounting,6,$800K-$1.5M,David Thomson,Owner/CPA,N/A,N/A,https://www.thomsoncpafirm.com/
+Victoria Bogdanovich CPA,Austin,TX,Austin,CPA / Accounting,5,$500K-$1M,Victoria Bogdanovich,Owner/CPA,N/A,N/A,https://victoria-cpa.com/
+Timothy R. Rossmiller CPA PC,Austin,TX,Austin,CPA / Accounting,6,$800K-$1.5M,Timothy Rossmiller,Owner/CPA,N/A,N/A,https://www.rossmillercpa.com
+Bartolme and Associates,Portland,OR,Portland,CPA / Accounting,8,$1M-$2M,David Bartolme,Owner/CPA,N/A,N/A,https://bartolmecpa.com/
+Downing & Company LLC,Portland,OR,Portland,CPA / Accounting,8,$1M-$2M,Tim Downing,Owner/CPA,N/A,N/A,https://downingpdx.com/
+Neumann Curtis CPAs,Portland,OR,Portland,CPA / Accounting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.neumanncurtis.com/
+C.E. Thorn CPA PLLC,Raleigh,NC,Raleigh,CPA / Accounting,6,$800K-$1.5M,C.E. Thorn,Owner/CPA,N/A,N/A,https://www.carsonthorncpa.com/
+Mark Vitek CPA PA,Raleigh,NC,Raleigh,CPA / Accounting,6,$800K-$1.5M,Mark Vitek,Owner/CPA,N/A,N/A,https://www.markvitekcpa.com/
+Oak City Accounting,Raleigh,NC,Raleigh,CPA / Accounting,6,$500K-$1.5M,Owner,Owner,N/A,N/A,https://oakcityaccounting.com/
+Robert L. Gomez CPA PC,Raleigh,NC,Raleigh,CPA / Accounting,6,$800K-$1.5M,Robert L. Gomez,Owner/CPA,N/A,N/A,https://www.robertgomezcpa.com/
+Klingler & Associates,Salt Lake City,UT,Salt Lake City,CPA / Accounting,8,$1M-$2M,Larry N. Klingler,Founder/CPA,N/A,N/A,https://klinglercpa.com/
+Clark & Clark PC,Salt Lake City,UT,Salt Lake City,CPA / Accounting,6,$800K-$1.5M,Ray Clark,Owner/CPA,N/A,N/A,N/A
+Mills & Company CPA,Salt Lake City,UT,Salt Lake City,CPA / Accounting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.millsandcompany.com/
+BC&V Advisors + CPAs,San Antonio,TX,San Antonio,CPA / Accounting,8,$1M-$2M,Adam Valdez,Owner/CPA,N/A,N/A,https://bcvcpa.com/
+Jim Clark CPA,San Antonio,TX,San Antonio,CPA / Accounting,6,$800K-$1.5M,Jim Clark,Owner/CPA,N/A,N/A,https://www.jimclarkcpa.com/
+Richard J. Garcia CPA PC,San Antonio,TX,San Antonio,CPA / Accounting,6,$800K-$1.5M,Richard J. Garcia,Owner/CPA,N/A,N/A,https://richardjgarciacpa.com/
+Mark Sherman CPA,Las Vegas,NV,Las Vegas,CPA / Accounting,6,$800K-$1.5M,Mark Sherman,Owner/CPA,N/A,N/A,https://shermancpas.com/
+Adam Hodson CPA,Las Vegas,NV,Las Vegas,CPA / Accounting,6,$800K-$1.5M,Adam Hodson,Owner/CPA,N/A,N/A,https://adamhodsoncpa.com/
+Kim Walker CPA,Las Vegas,NV,Las Vegas,CPA / Accounting,5,$500K-$1M,Kim Walker,Owner/CPA,N/A,N/A,https://kimwalkercpa.com/
+Campbell Jones Cohen CPAs,Las Vegas,NV,Las Vegas,CPA / Accounting,8,$1M-$2M,Jack Cohen,Partner/CPA,N/A,N/A,https://www.yournevadacpa.com/
+Brock CPA,Jacksonville,FL,Jacksonville,CPA / Accounting,6,$800K-$1.5M,Daniel Brock,Owner/CPA,N/A,N/A,https://brockcpa.com/
+Coastal CPA Group PA,Jacksonville,FL,Jacksonville,CPA / Accounting,8,$1M-$2M,Curt Eisemann,Owner/CPA,N/A,N/A,https://coastalcpagroup.com/
+Ennis Pellum & Associates,Jacksonville,FL,Jacksonville,CPA / Accounting,10,$1M-$3M,Owner,Owner,N/A,N/A,https://jaxcpa.com/
+Seattle Property Management Associates,Seattle,WA,Seattle,Property Management,8,$800K-$2M,Gudrun K. Snyder,Designated Broker,N/A,N/A,https://www.seattlepma.com/
+Real Property Associates,Seattle,WA,Seattle,Property Management,12,$1M-$3M,Owner,Owner,N/A,N/A,https://www.rentseattle.com/
+Jevons Property Management,Seattle,WA,Seattle,Property Management,8,$800K-$2M,Enrique Jevons,Founder,N/A,N/A,https://www.jevonsproperties.com/
+SYLO Property Management,Portland,OR,Portland,Property Management,20,$1.5M-$3M,Owner,Owner,N/A,N/A,http://www.sylopm.com/
+PropM Inc,Portland,OR,Portland,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.propmhomes.com/
+The Alpine Group,Portland,OR,Portland,Property Management,8,$800K-$2M,Owner,Owner,N/A,N/A,https://www.alpinepdx.com/
+1836 Property Management,Austin,TX,Austin,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://1836propertymanagement.com/
+Tri-State Management,Austin,TX,Austin,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.tri-statemgmt.com/
+ATX Property Management,Austin,TX,Austin,Property Management,8,$800K-$2M,Owner,Owner,N/A,N/A,https://www.atxpropertymanagement.com/
+Property Specific Management,Raleigh,NC,Raleigh,Property Management,8,$800K-$2M,Owner,Owner,N/A,N/A,https://www.propertyspecificmanagement.com/
+Barker Realty Inc,Raleigh,NC,Raleigh,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://barker-inc.com/
+Rhyne Management Assoc,Raleigh,NC,Raleigh,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.rhynerentals.com/
+Concept Property Management,Salt Lake City,UT,Salt Lake City,Property Management,8,$800K-$2M,Scott S. Cruze,President,801-662-0066,N/A,https://www.conceptproperty.com/
+Nestwell Property Management,Salt Lake City,UT,Salt Lake City,Property Management,10,$1M-$2M,Adam Willis,Principal Broker,N/A,N/A,https://www.nestwellpropertymanagement.com/
+Atara Property Management,Salt Lake City,UT,Salt Lake City,Property Management,8,$800K-$2M,Owner,Owner,N/A,N/A,https://www.saltlakecityspropertymanagement.com/
+Wright Property Group,San Antonio,TX,San Antonio,Property Management,8,$800K-$2M,Owner,Owner,N/A,N/A,https://www.wrightpg.com/
+Davidson Properties Inc,San Antonio,TX,San Antonio,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.davidsonproperties.com/
+Alderson Properties,San Antonio,TX,San Antonio,Property Management,6,$500K-$1.5M,Owner,Owner,N/A,N/A,http://www.aldersonproperties.com/
+Five Star Property Management,Las Vegas,NV,Las Vegas,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://fivestarpm.com/
+Brady Realty Group,Las Vegas,NV,Las Vegas,Property Management,8,$800K-$2M,Owner,Owner,N/A,N/A,https://bradyrglasvegas.com/
+SMART Property Management,Las Vegas,NV,Las Vegas,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://managevegas.com/
+Valiant Realty & Management,Jacksonville,FL,Jacksonville,Property Management,8,$800K-$2M,Owner,Owner,N/A,N/A,https://www.valiantrealtypm.com/
+Nest Finders Property Management,Jacksonville,FL,Jacksonville,Property Management,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.nestfinders.com/
+Green River Property Management,Jacksonville,FL,Jacksonville,Property Management,8,$800K-$2M,Owner,Owner,N/A,N/A,https://www.jacksonvillespropertymanagement.com/
+ZafiroLaw,Seattle,WA,Seattle,Law Firm,6,$800K-$2M,Katrina S. Zafiro,Founding Attorney,N/A,N/A,https://zafirolaw.com/
+ERM Immigration Law PLLC,Seattle,WA,Seattle,Law Firm,8,$1M-$2M,Emily Reber-Mariniello,Managing Attorney/Owner,N/A,N/A,https://www.ermimmigrationlaw.com/
+Phinney Estate Law,Seattle,WA,Seattle,Law Firm,6,$800K-$2M,Owner,Owner,N/A,N/A,https://www.phinneyestatelaw.com/
+Choquette Immigration Law Group,Seattle,WA,Seattle,Law Firm,8,$1M-$2M,Paul Choquette,Founder,N/A,N/A,https://www.choquettelaw.com/
+Robbins Estate Law,Austin,TX,Austin,Law Firm,8,$1M-$2M,Kyle Robbins,Founder,N/A,N/A,https://robbinsestatelaw.com/
+Thrash Carroll & Sanchez Law Group,Austin,TX,Austin,Law Firm,10,$1M-$3M,Erin Thrash,Partner,N/A,N/A,https://estateplanningaustin.com/
+John M. Lane Law PLLC,Austin,TX,Austin,Law Firm,6,$800K-$2M,John M. Lane,Owner/Attorney,N/A,N/A,https://johnlanelaw.com/
+Sheehan Law PLLC,Austin,TX,Austin,Law Firm,6,$800K-$2M,Owner,Owner,N/A,N/A,https://www.farrensheehanlaw.com/
+Caress Law PC,Portland,OR,Portland,Law Firm,6,$800K-$2M,Tammi M. Caress,Founder/Attorney,N/A,N/A,https://caresslaw.estate/
+Skinner Law PC,Portland,OR,Portland,Law Firm,6,$800K-$2M,Ginger Skinner,Founder/Attorney,N/A,N/A,https://www.skinnerlawpdx.com/
+Vanderwall Immigration,Portland,OR,Portland,Law Firm,6,$800K-$2M,Owner,Owner,N/A,N/A,https://www.vanderwallimmigration.com/
+Immigrant Law Group LLC,Portland,OR,Portland,Law Firm,10,$1M-$3M,Owner,Owner,N/A,N/A,https://ilgrp.com/
+Edgerton Immigration Law,Raleigh,NC,Raleigh,Law Firm,6,$800K-$2M,Ms. Edgerton,Owner/Attorney,N/A,N/A,https://www.edgertonimmigration.com/
+The Matta Law Firm LLC,Raleigh,NC,Raleigh,Law Firm,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Guirguis Law PA,Raleigh,NC,Raleigh,Law Firm,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.guirguislaw.com/
+Paul J. Barton Law Offices,Salt Lake City,UT,Salt Lake City,Law Firm,6,$800K-$2M,Paul J. Barton,Owner/Attorney,N/A,N/A,https://www.paulbartonlaw.com/
+AGS Law,Salt Lake City,UT,Salt Lake City,Law Firm,6,$800K-$2M,Ashley Garbe Smith,Founder/Attorney,N/A,N/A,https://www.agslawfirm.com/
+Stephen J. Buhler Attorney at Law,Salt Lake City,UT,Salt Lake City,Law Firm,5,$500K-$1.5M,Stephen J. Buhler,Owner/Attorney,N/A,N/A,N/A
+Rosenblatt Law Firm,San Antonio,TX,San Antonio,Law Firm,8,$1M-$2M,James D. Rosenblatt,President,N/A,N/A,https://rosenblattlawfirm.com/
+The South Texas Business Lawyers,San Antonio,TX,San Antonio,Law Firm,8,$1M-$2M,Matt Duke,Owner/Attorney,N/A,N/A,https://www.thesouthtexasbusinesslawyers.com/
+Dan Burke Attorney at Law,San Antonio,TX,San Antonio,Law Firm,5,$500K-$1.5M,Daniel Burke,Owner/Attorney,N/A,N/A,https://www.danburkelaw.com/
+JK Nelson Law,Las Vegas,NV,Las Vegas,Law Firm,8,$1M-$2M,Jonathan K. Nelson,Founder/Attorney,N/A,N/A,https://jknelsonlaw.com/
+The Jacks Law Group,Las Vegas,NV,Las Vegas,Law Firm,8,$1M-$2M,David Jacks,Founder/Attorney,N/A,N/A,https://www.thejackslawgroup.com/
+Lasso Injury Law LLC,Las Vegas,NV,Las Vegas,Law Firm,6,$800K-$2M,Owner,Owner,N/A,N/A,https://www.lassoinjurylaw.com/
+Sahyers Firm LLC,Jacksonville,FL,Jacksonville,Law Firm,6,$800K-$2M,Christine Sahyers,Founder/Attorney,N/A,N/A,https://sahyerslaw.com/
+Hayden Law,Jacksonville,FL,Jacksonville,Law Firm,6,$800K-$2M,Owner,Owner/Attorney,N/A,N/A,https://www.haydenlawfl.com/
+Edwards & Edwards,Jacksonville,FL,Jacksonville,Law Firm,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.edwardsedwardslaw.com/
+Trades Labor Corporation,Seattle,WA,Seattle,Staffing / Recruiting,12,$2M-$5M,Owner,Owner,N/A,N/A,https://www.tradeslabor.com/
+NW Recruiting Partners,Seattle,WA,Seattle,Staffing / Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,N/A
+Emerald Search Partners,Seattle,WA,Seattle,Staffing / Recruiting,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Burnett Specialists,Austin,TX,Austin,Staffing / Recruiting,15,$3M-$6M,Owner,Owner,N/A,N/A,https://burnettspecialists.com/
+Peak Performers,Austin,TX,Austin,Staffing / Recruiting,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.peakperformers.org/
+Emerald Staffing,Portland,OR,Portland,Staffing / Recruiting,12,$2M-$4M,Owner,Owner,N/A,N/A,https://emeraldstaffing.com/
+BeginRight Employment Services,Portland,OR,Portland,Staffing / Recruiting,15,$2M-$5M,Joanne Bell,Owner/CEO,N/A,N/A,https://beginright.com/
+VanderHouwen,Portland,OR,Portland,Staffing / Recruiting,15,$3M-$6M,Kirby VanderHouwen,Founder,N/A,N/A,https://www.vanderhouwen.com/
+Skyline Personnel,Raleigh,NC,Raleigh,Staffing / Recruiting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://skylinepersonnel.com/
+TRC Talent Solutions,Raleigh,NC,Raleigh,Staffing / Recruiting,12,$2M-$4M,Owner,Owner,N/A,N/A,https://www.trctalent.com/
+Recruiting Connection,Salt Lake City,UT,Salt Lake City,Staffing / Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://recruitingconnection.org/
+Synergy Staffing,Salt Lake City,UT,Salt Lake City,Staffing / Recruiting,12,$2M-$4M,Owner,Owner,N/A,N/A,https://synergystaffing4u.com/
+TalentTeam Utah,Salt Lake City,UT,Salt Lake City,Staffing / Recruiting,15,$2M-$5M,Owner,Owner,N/A,N/A,https://talentteam.com/
+Trinity Staffing Services,San Antonio,TX,San Antonio,Staffing / Recruiting,10,$1.5M-$3M,Connie Rodriguez,VP/Owner,210-805-9920,N/A,https://trinitystaffing.com/
+Green Lion Search Group,San Antonio,TX,San Antonio,Staffing / Recruiting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.greenlionsearch.com/
+My Next Career Path Staffing,Las Vegas,NV,Las Vegas,Staffing / Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://mynextcareerpath.com/
+PrideStaff Las Vegas,Las Vegas,NV,Las Vegas,Staffing / Recruiting,10,$1.5M-$3M,Bob,Owner,N/A,N/A,https://www.pridestaff.com/locations/lasvegas/
+Millenium Staffing Solutions,Las Vegas,NV,Las Vegas,Staffing / Recruiting,12,$2M-$4M,Owner,Owner,N/A,N/A,https://milleniumstaff.com/
+ICX Group,Jacksonville,FL,Jacksonville,Staffing / Recruiting,10,$1.5M-$3M,Owner,Founder,N/A,N/A,https://icxgroup.com/
+All Purpose Staffing,Jacksonville,FL,Jacksonville,Staffing / Recruiting,12,$2M-$4M,Owner,Owner,N/A,N/A,https://allpurposestaff.com/
+Magnolia Insurance Agency,Seattle,WA,Seattle,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.magnolia-insurance.com/
+Secord Insurance Agency,Seattle,WA,Seattle,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://secordagency.com/
+Gurry & Rogers Insurance,Seattle,WA,Seattle,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.gurryandrogers.com/
+Central Insurance Agency,Austin,TX,Austin,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.centralins.com/
+Britton & Britton Insurance,Austin,TX,Austin,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.brittonandbritton.com/
+Eckert Insurance Group,Austin,TX,Austin,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://eckertgroup.com/
+Oliver Insurance Brokerage,Austin,TX,Austin,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.oliverinsurancebrokerage.com/
+Chamberlain Insurance Agency,Portland,OR,Portland,Insurance Brokerage,8,$1M-$2M,Owner,Owner,503-256-1448,info@chamberlaininsurance.com,https://www.chamberlaininsurance.com/
+EPB&B Insurance,Portland,OR,Portland,Insurance Brokerage,15,$2M-$5M,Owner,Owner,N/A,N/A,https://epbb.com/
+Portland Benefits Group,Portland,OR,Portland,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner,N/A,N/A,N/A
+Carter Glass Insurance,Raleigh,NC,Raleigh,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.carterglassinsurance.com/
+Carolina Insurance Professionals,Raleigh,NC,Raleigh,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.carolinainsuranceprofessionals.com/
+Archibald Insurance Agency,Salt Lake City,UT,Salt Lake City,Insurance Brokerage,6,$800K-$1.5M,Marc Archibald,Owner,N/A,N/A,https://archibald-insurance.com/
+Beehive Insurance,Salt Lake City,UT,Salt Lake City,Insurance Brokerage,15,$2M-$5M,Owner,Owner,N/A,N/A,https://beehiveinsurance.com/
+Texas Independent Insurance Brokers,San Antonio,TX,San Antonio,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://txiib.com/
+Fidelis Insurance Brokers,San Antonio,TX,San Antonio,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://fidelisinsurancebrokers.com/
+Texan's Choice Insurance,San Antonio,TX,San Antonio,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://texanschoice.com/
+Cusick Insurance Brokers,Las Vegas,NV,Las Vegas,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.cusickbrokers.com/
+NIS Insurance,Las Vegas,NV,Las Vegas,Insurance Brokerage,8,$1M-$2M,Owner,Founder/President,N/A,N/A,https://www.nis.vegas/
+LV Premier Insurance,Las Vegas,NV,Las Vegas,Insurance Brokerage,6,$800K-$1.5M,Owner,Agent/Owner,N/A,N/A,https://lvpremierinsurance.com/
+Ricci Insurance Group,Jacksonville,FL,Jacksonville,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://ricciinsurancegroup.com/
+Augustyniak Insurance Group,Jacksonville,FL,Jacksonville,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.weshopinsurance.com/
+Bacon Insurance,Jacksonville,FL,Jacksonville,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.nflins.com/
+Home Comfort Heating & Cooling,Seattle,WA,Seattle,HVAC,8,$1M-$2M,Peter,Owner,N/A,N/A,https://seattlehvaccompanies.com/
+Energy Technologies LLC,Seattle,WA,Seattle,HVAC,8,$1M-$2M,Al,Owner,N/A,N/A,https://www.energytechnologiesllc.com/
+Forest Park Dental Studio,Portland,OR,Portland,Dental Practice,6,$800K-$1.5M,Ashley Bennett,Owner/Dentist,N/A,N/A,https://www.forestparkdentalstudio.com/
+Brio Dental,Portland,OR,Portland,Dental Practice,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.briosmiles.com/
+Summit Dental Health,Portland,OR,Portland,Dental Practice,8,$1M-$2M,Jeff Dewey,Owner/DDS,N/A,N/A,https://www.summitdentalhealth.com
+Carolina Dental Spa,Raleigh,NC,Raleigh,Dental Practice,6,$800K-$1.5M,James Sarant,Owner/Dentist,N/A,N/A,N/A
+Olympus View Dental,Salt Lake City,UT,Salt Lake City,Dental Practice,8,$1M-$2M,Scott Stanfield,Owner/Dentist,N/A,N/A,https://www.olympusview.com/
+Foothill Dental,Salt Lake City,UT,Salt Lake City,Dental Practice,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.foothilldentalsaltlake.com/
+6 to 9 Dental PLLC,San Antonio,TX,San Antonio,Dental Practice,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.vphumphrey2dds.com/
+Sonrisa Dental,San Antonio,TX,San Antonio,Dental Practice,8,$1M-$2M,Owner,Owner,N/A,N/A,https://yoursonrisa.com/
+North Ranch Dental Care,Las Vegas,NV,Las Vegas,Dental Practice,8,$1M-$2M,Owner,Owner,N/A,N/A,https://northranchdentalcare.com/
+Las Vegas Dental Group,Las Vegas,NV,Las Vegas,Dental Practice,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.lasvegasdentalgroup.com/
+Jacksonville Complete Dentistry,Jacksonville,FL,Jacksonville,Dental Practice,10,$1M-$3M,Owner,Owner,N/A,N/A,https://jacksonvillecompletedentistry.com/
+Caven Dental Group,Jacksonville,FL,Jacksonville,Dental Practice,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.cavendental.com/
+Skinlogic Med Spa,Seattle,WA,Seattle,Med Spa / Aesthetics,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.skinlogicmedspa.com/
+Seattle Beauty,Seattle,WA,Seattle,Med Spa / Aesthetics,6,$500K-$1.5M,Desiree Wood,Owner/NP,N/A,N/A,https://seattlebeauty.org/
+Austin Luxury Medspa,Austin,TX,Austin,Med Spa / Aesthetics,6,$500K-$1.5M,Sarah,Owner,N/A,N/A,https://austinluxurymedspa.com/
+Gorg Wellness & Aesthetics,Austin,TX,Austin,Med Spa / Aesthetics,6,$500K-$1.5M,Owner,Owner,N/A,N/A,https://gorglifestyle.com/
+VIP Aesthetics & Wellness,Portland,OR,Portland,Med Spa / Aesthetics,8,$800K-$2M,Owner,Owner/Physician,N/A,N/A,https://vipmedispa.com/
+Aura Aesthetics,Portland,OR,Portland,Med Spa / Aesthetics,6,$500K-$1.5M,Owner,Owner,N/A,N/A,https://www.aurapdx.com/
+Regenesis MD,Raleigh,NC,Raleigh,Med Spa / Aesthetics,8,$800K-$2M,Bhavna Vaidya,Owner/MD,N/A,N/A,https://regenesismd.com/
+Blossum Aesthetics Co,Raleigh,NC,Raleigh,Med Spa / Aesthetics,6,$500K-$1.5M,Owner,Owner,N/A,N/A,https://www.blossumaesthetics.com/
+Beauty Now Med Spa,Salt Lake City,UT,Salt Lake City,Med Spa / Aesthetics,8,$800K-$2M,Dr. Mobley,Medical Director,N/A,N/A,https://beautynowmedspa.com/
+SLC Med Spa,Salt Lake City,UT,Salt Lake City,Med Spa / Aesthetics,8,$800K-$2M,Brent L.,Owner,N/A,N/A,https://www.slcmedspa.com/
+Marcos Medical Care,San Antonio,TX,San Antonio,Med Spa / Aesthetics,8,$800K-$2M,Yolanda Marcos,Owner/MD,N/A,N/A,https://marcosmedical.com/
+Stadia Med Spa,San Antonio,TX,San Antonio,Med Spa / Aesthetics,6,$500K-$1.5M,Owner,Owner,N/A,N/A,https://www.stadiamedspa.com/
+Moderna Laser & Med Spa,Las Vegas,NV,Las Vegas,Med Spa / Aesthetics,8,$800K-$2M,Dan,Owner,N/A,N/A,https://modernalaser.com/
+Flawless Med Spas,Las Vegas,NV,Las Vegas,Med Spa / Aesthetics,6,$500K-$1.5M,Melanie Speed,Owner/APRN,N/A,N/A,https://www.flawlessmedspas.com/
+CMA Medicine,Jacksonville,FL,Jacksonville,Med Spa / Aesthetics,8,$800K-$2M,Konika Schallen,Owner/MD,N/A,N/A,https://cmamedicine.com/
+Coastal Health & Medical Spa,Jacksonville,FL,Jacksonville,Med Spa / Aesthetics,6,$500K-$1.5M,Olivia,Owner/NP,N/A,N/A,https://coastalmedicalspa.com/
+Champion Cooling Heating & Plumbing,Austin,TX,Austin,HVAC,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.championacaustin.com/
+A-Plus Air Conditioning,Austin,TX,Austin,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.aplusac.com/
+Rosenberg Plumbing & Air,San Antonio,TX,San Antonio,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,https://rosenberghvac.com/
+Legacy Cooling Heating Plumbing,Las Vegas,NV,Las Vegas,HVAC,15,$2M-$5M,Owner,Owner,N/A,N/A,https://legacyac.com/
+Guardian Heating and Air,Jacksonville,FL,Jacksonville,HVAC,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.getcooljax.com/
+AC Designs Heating and Air,Jacksonville,FL,Jacksonville,HVAC,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.acdesignsinc.net/
+Red's Electric,Portland,OR,Portland,Electrical,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://redselectric.com
+Mike's Electric,Portland,OR,Portland,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,https://mikeselectric.biz/
+Hollis CPA Firm,Austin,TX,Austin,CPA / Accounting,6,$800K-$1.5M,Cameron Hollis,Owner/CPA,N/A,N/A,https://www.holliscpa.com/
+Hemingway & Buchanan CPA PC,Austin,TX,Austin,CPA / Accounting,6,$800K-$1.5M,Jeanine Hemingway,Owner/CPA,N/A,N/A,https://www.austinaccountingservices.com/
+Perpetual CPA,Portland,OR,Portland,CPA / Accounting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://perpetualcpa.com/
+Foster & Associates CPA LLC,Portland,OR,Portland,CPA / Accounting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.fostercpas.com
+Faith Bynum CPA PC,Raleigh,NC,Raleigh,CPA / Accounting,5,$500K-$1M,Faith Bynum,Owner/CPA,N/A,N/A,https://faithbynum.com/
+Thorne and Associates,Salt Lake City,UT,Salt Lake City,CPA / Accounting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.thorne-cpa.com
+VCB PC,Salt Lake City,UT,Salt Lake City,CPA / Accounting,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.vcb-cpa.com/
+Michael Johnson CPA and Associates,Las Vegas,NV,Las Vegas,CPA / Accounting,6,$800K-$1.5M,Michael Johnson,Owner/CPA,N/A,N/A,https://michaeljohnsoncpa.com/
+Gerety and Associates CPAs,Las Vegas,NV,Las Vegas,CPA / Accounting,8,$1M-$2M,Owner,Owner/CPA,N/A,N/A,https://www.geretycpa.com/
+Hale Wood,Salt Lake City,UT,Salt Lake City,Law Firm,7,$1M-$3M,Owner,Owner,N/A,N/A,https://www.halewoodlaw.com/
+Alder Law Group,Salt Lake City,UT,Salt Lake City,Law Firm,6,$800K-$2M,Owner,Owner,N/A,N/A,https://www.utahtrustattorneys.com/
+Clausewitz Reyes,San Antonio,TX,San Antonio,Law Firm,6,$800K-$2M,Tiffanie S. Clausewitz,Partner,N/A,N/A,https://www.clausewitzreyes.com/
+Geoff Mayfield Attorney at Law,San Antonio,TX,San Antonio,Law Firm,5,$500K-$1.5M,Geoff Mayfield,Owner/Attorney,N/A,N/A,https://www.geoffmayfieldlaw.com/
+Gonzalez Law Firm,Las Vegas,NV,Las Vegas,Law Firm,6,$800K-$2M,Owner,Owner,N/A,N/A,https://www.gonzalezfirmnv.com/
+GrigLaw,Jacksonville,FL,Jacksonville,Law Firm,8,$1M-$2M,Owner,Owner,N/A,N/A,https://griglaw.com/
+Wood Atter & Wolf PA,Jacksonville,FL,Jacksonville,Law Firm,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.woodatter.com/
+Seattle Corporate Search,Seattle,WA,Seattle,Staffing / Recruiting,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+The HT Group,Austin,TX,Austin,Staffing / Recruiting,15,$3M-$6M,Owner,Owner,N/A,N/A,https://www.thehtgroup.com/
+PrideStaff Portland,Portland,OR,Portland,Staffing / Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.pridestaff.com/locations/portlandwest/
+Spherion Raleigh,Raleigh,NC,Raleigh,Staffing / Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.spherion.com/our-offices/raleigh_1278/
+All Team Staffing,Raleigh,NC,Raleigh,Staffing / Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.allteamstaffing.com/
+Reliable Staffing San Antonio,San Antonio,TX,San Antonio,Staffing / Recruiting,12,$2M-$4M,Owner,Owner,N/A,N/A,https://reliablestaffing.com/san-antonio/
+Eastridge Las Vegas,Las Vegas,NV,Las Vegas,Staffing / Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.eastridge.com/
+SNI Companies Jacksonville,Jacksonville,FL,Jacksonville,Staffing / Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.snicompanies.com/
+INSURE Raleigh,Raleigh,NC,Raleigh,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.insure-nc.com/
+Allen Thomas Group,Salt Lake City,UT,Salt Lake City,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,https://allenthomasgroup.com/
+Leavitt Insurance Agency,Las Vegas,NV,Las Vegas,Insurance Brokerage,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.leavitt.com/lasvegas/
+Saunders & Company,Jacksonville,FL,Jacksonville,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Einstein Insurance,Seattle,WA,Seattle,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.einsteinins.com/
+Watkins Insurance Group,Austin,TX,Austin,Insurance Brokerage,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://watkinsinsurancegroup.com/
+The Texas Insurance Broker,Austin,TX,Austin,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.thetexasinsurancebroker.com/
+Meridian Insurance,Portland,OR,Portland,Insurance Brokerage,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://youreprotected.net/
+Excel Benefits,San Antonio,TX,San Antonio,Insurance Brokerage,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Big City Plumbing LLC,San Antonio,TX,San Antonio,Plumbing,8,$1M-$2M,Owner,Owner,N/A,N/A,https://bigcityplumbingsa.com/
+Power Plumbing,Portland,OR,Portland,Plumbing,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.powerplumbingco.com/
+Midtown Plumbing LLC,Raleigh,NC,Raleigh,Plumbing,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.midtownplumbingllc.com/
+Valley Plumbing Heating & Cooling,Salt Lake City,UT,Salt Lake City,Plumbing,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.valleyplumbing.com/
+Andrews Plumbing & Repair,Las Vegas,NV,Las Vegas,Plumbing,5,$500K-$1M,Owner,Owner,N/A,N/A,https://andrewsplumbinglv.com/
+Eagerton Plumbing Co Inc,Jacksonville,FL,Jacksonville,Plumbing,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.eagertonplumbing.com/
+Allegiant Electric LLC,Las Vegas,NV,Las Vegas,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,https://allegiantelectricllcnv.com/
+Friends Electric,Las Vegas,NV,Las Vegas,Electrical,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.friendselectriclv.com/
+Lin's Electric Inc,Jacksonville,FL,Jacksonville,Electrical,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.linselectric.com/
+Presto Electric,Jacksonville,FL,Jacksonville,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.prestoelectricjax.com/
+A-C Electric,Salt Lake City,UT,Salt Lake City,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,N/A
+I-D Electric Inc,Salt Lake City,UT,Salt Lake City,Electrical,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Bolt Electric SA,San Antonio,TX,San Antonio,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,https://www.boltelectricsa.com/
+Absolute Power Electrical,San Antonio,TX,San Antonio,Electrical,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.absolute-pwr.com/
+Right Electrical Services,Raleigh,NC,Raleigh,Electrical,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Box Electric Company,Raleigh,NC,Raleigh,Electrical,10,$1M-$3M,Owner,Owner,N/A,N/A,https://box-electric.com/
+Molitor Electric,Austin,TX,Austin,Electrical,6,$500K-$1.5M,Owner,Owner,N/A,N/A,N/A
+KDR Electrical Services Inc,Austin,TX,Austin,Electrical,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Orin Rice Recruiting,Seattle,WA,Seattle,Staffing / Recruiting,8,$1M-$2M,Meredith Sprangers,Founder,N/A,N/A,N/A
+HAAS CPA PLLC,Seattle,WA,Seattle,CPA / Accounting,6,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.haascpas.com/
+Carl Muniz CPA,San Antonio,TX,San Antonio,CPA / Accounting,5,$500K-$1M,Carl Muniz,Owner/CPA,N/A,N/A,https://muniz.cpa/
+Wapner Presley PLLC,Raleigh,NC,Raleigh,CPA / Accounting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://www.wapnerpresley.com/
+Anderson Bradshaw PLLC,Salt Lake City,UT,Salt Lake City,CPA / Accounting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://abcpas.net/
+Hoshi CPA,Portland,OR,Portland,CPA / Accounting,5,$500K-$1M,Owner,Owner,N/A,N/A,https://hoshicpa.com/
+MOLVI CPA LLC,Portland,OR,Portland,CPA / Accounting,5,$500K-$1M,Owner,Owner,N/A,N/A,https://www.molvicpa.com/

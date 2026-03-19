@@ -1,0 +1,365 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+Ellis Dental,Crestwood,MO,St. Louis,Dental Practice,8,$800K-$1.5M,Dr. Holly Ellis,Owner/Dentist,N/A,N/A,https://www.ellisdental.com/
+St. Louis Dental West,Kirkwood,MO,St. Louis,Dental Practice,7,$700K-$1.2M,Dr. Victoria Daugherty,Owner/Dentist,N/A,N/A,https://stldentalwest.com/
+Southampton Dental,St. Louis,MO,St. Louis,Dental Practice,8,$800K-$1.5M,Dr. Harmon,Owner/Dentist,N/A,N/A,https://www.southampton-dental.com/
+Sinha Family Dentistry,St. Louis,MO,St. Louis,Dental Practice,7,$700K-$1.2M,Pallavi Sinha,Owner/Dentist,N/A,N/A,https://sinhafamilydentistry.com/
+South St. Louis Dental Group,St. Louis,MO,St. Louis,Dental Practice,8,$800K-$1.5M,Dr. Tyler Aholt,Owner/Dentist,N/A,N/A,https://southstlouisdentalgroup.net/
+Thomas Hoffmann Air Conditioning,St. Louis,MO,St. Louis,HVAC Contractor,12,$1.5M-$3M,Thomas Hoffmann,Owner,(314) 471-7625,N/A,https://tomhoffmannairconditioning.com/
+Meyer Heating and Air,St. Louis,MO,St. Louis,HVAC Contractor,10,$1M-$2.5M,Owner,Owner,N/A,N/A,https://meyerair.com/
+Galmiche & Sons Inc.,St. Louis,MO,St. Louis,HVAC Contractor,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.galmicheandsons.com/
+Classic Aire Care,St. Louis,MO,St. Louis,HVAC Contractor,18,$2M-$4M,Owner,Owner,N/A,N/A,https://www.classicairecare.com/hvac
+STL Tax,St. Louis,MO,St. Louis,CPA/Accounting,6,$500K-$1M,James Coats,Owner/CPA,N/A,N/A,https://www.stltax.com/
+Smith Patrick CPA,St. Louis,MO,St. Louis,CPA/Accounting,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://smithpatrickcpa.com/
+Elder & Isaac,Clayton,MO,St. Louis,CPA/Accounting,7,$500K-$1M,Owner,Owner,N/A,N/A,https://www.elder-assoc-cpa.com/
+Croghan & Croghan CPA,Kirkwood,MO,St. Louis,CPA/Accounting,6,$400K-$900K,Owner,Owner,N/A,N/A,https://www.croghancpa.com/
+Dunn CPA Firm,St. Louis,MO,St. Louis,CPA/Accounting,5,$400K-$800K,Tom Dunn,Owner/CPA,N/A,N/A,https://tomdunncpa.com/
+Farmer & Associates CPA,St. Louis,MO,St. Louis,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://farmer.cpa/
+Deca Property Management,St. Louis,MO,St. Louis,Property Management,10,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.decarealty.com/
+4U Property Management,St. Louis,MO,St. Louis,Property Management,6,$400K-$800K,Owner,Owner,N/A,N/A,https://4upropertymanagement.com/
+Intersection Real Estate,St. Louis,MO,St. Louis,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://intersectionstl.com/
+Insurance Advisors of St. Louis,St. Louis,MO,St. Louis,Insurance Brokerage,8,$800K-$1.5M,Owner,Owner,(314) 842-0960,N/A,https://iastl.com/
+Premier Insurance Agency,St. Louis,MO,St. Louis,Insurance Brokerage,7,$700K-$1.2M,Owner,Owner,N/A,N/A,https://www.premierinsagency.com/
+Crestwood Insurance Agency,St. Louis,MO,St. Louis,Insurance Brokerage,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.crestwoodinsurance.com/
+Anderson & Gilbert L.C.,St. Louis,MO,St. Louis,Small Law Firm,10,$1M-$2.5M,Owner,Owner,N/A,N/A,https://www.anderson-gilbert.com/
+James & James Law PC,St. Louis,MO,St. Louis,Small Law Firm,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.jameslawpc.com/
+Lutfiyya Law Firm LLC,Town and Country,MO,St. Louis,Small Law Firm,6,$600K-$1.2M,Owner,Owner,N/A,N/A,https://metrostllaw.com/
+Schlapprizzi Attorneys at Law,St. Louis,MO,St. Louis,Small Law Firm,7,$800K-$1.5M,Owner,Owner,N/A,N/A,https://schlawyer.com/
+ABACUS Recruiting,St. Louis,MO,St. Louis,Staffing/Recruiting,8,$1M-$2M,Tamara Tucker,Founder,N/A,N/A,N/A
+PACE Alternatives,St. Louis,MO,St. Louis,Staffing/Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,N/A
+PEG Staffing & Recruiting,Creve Coeur,MO,St. Louis,Staffing/Recruiting,12,$2M-$4M,Owner,Owner,N/A,N/A,https://www.pegstaff.com/
+Patrick David Plumbing,Pittsburgh,PA,Pittsburgh,Plumbing Contractor,8,$800K-$1.5M,Patrick David,Owner,N/A,N/A,https://www.pghplumbing.com/
+Professional Plumbing & Heating,Pittsburgh,PA,Pittsburgh,Plumbing Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://professionalplumbingpittsburgh.com/
+Pawlak Plumbing LLC,Pittsburgh,PA,Pittsburgh,Plumbing Contractor,7,$700K-$1.2M,Owner,Owner,N/A,N/A,https://www.pawlakplumbing.com/
+Cuccaro Plumbing,Pittsburgh,PA,Pittsburgh,Plumbing Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://www.cuccaroplumbing.com/
+Stahl Plumbing and Drain,Pittsburgh,PA,Pittsburgh,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.stahlplumbinganddrain.com/
+Oakland Aesthetic Dentistry,Pittsburgh,PA,Pittsburgh,Dental Practice,8,$900K-$1.5M,Dr. Rose & Dr. Sack,Co-Owners,N/A,N/A,https://www.oaklandaestheticdentistry.com/
+Poling Family Dental Care,Pittsburgh,PA,Pittsburgh,Dental Practice,7,$700K-$1.2M,Dr. William Scott Poling,Owner/Dentist,N/A,N/A,https://polingfamilydentistry.com/
+Warwick Dentistry,Pittsburgh,PA,Pittsburgh,Dental Practice,8,$800K-$1.5M,Dr. Joyce Warwick,Owner/Dentist,N/A,N/A,https://www.downtownpittsburghdentist.com/
+Conicella Family Dentistry,Sharpsburg,PA,Pittsburgh,Dental Practice,6,$600K-$1M,Owner,Owner/Dentist,N/A,N/A,https://www.conicellafamilydentistry.com/
+Acqua Blu Medical Spa,Wexford,PA,Pittsburgh,Med Spa/Aesthetics,12,$1.5M-$3M,Dr. Brian Heil,Founder,N/A,N/A,https://www.acquablumedicalspa.com/
+Aetheria Aesthetics & Wellness,Pittsburgh,PA,Pittsburgh,Med Spa/Aesthetics,6,$500K-$1M,Melissa Kolowitz,Owner/PA-C,N/A,N/A,https://www.aetheriaaesthetics.com/
+Ethereal Skin Medical Spa,Pittsburgh,PA,Pittsburgh,Med Spa/Aesthetics,7,$600K-$1.2M,Taylor Martinkovich,Founder,N/A,N/A,https://etherealskinmedspa.com/
+Aesthetic Skin & Laser Center,Pittsburgh,PA,Pittsburgh,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. Roxana Barad,Owner,N/A,N/A,https://aestheticpittsburgh.com/
+Icon Electrical Solutions,Pittsburgh,PA,Pittsburgh,Electrical Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.iconelectricalsolutions.com/
+Gumpher Electrical Service,Pittsburgh,PA,Pittsburgh,Electrical Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://www.gumpherinc.com/
+Smith Electric Service,Pittsburgh,PA,Pittsburgh,Electrical Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://smithelectricservice.com/
+Hufnagel Electric,Pittsburgh,PA,Pittsburgh,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://hufnagelelectric.com/
+Findon & Associates CPAs,Pittsburgh,PA,Pittsburgh,CPA/Accounting,6,$500K-$1M,Heather Findon,Owner/CPA,N/A,N/A,https://www.findoncpa.com/
+H2R CPA,Pittsburgh,PA,Pittsburgh,CPA/Accounting,15,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.h2rcpa.com/
+Davis Davis & Associates,Pittsburgh,PA,Pittsburgh,CPA/Accounting,8,$700K-$1.2M,Owner,Owner,(412) 391-2226,N/A,https://www.ddacpas.com/
+Kathy L. Hess & Associates,Pittsburgh,PA,Pittsburgh,CPA/Accounting,6,$500K-$1M,Kathy L. Hess,Owner/CPA,N/A,N/A,https://www.klhesscpa.com/
+Pierson and Scott Insurance Agency,Pittsburgh,PA,Pittsburgh,Insurance Brokerage,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.piersonandscott.com/
+Christie & Associates,Pittsburgh,PA,Pittsburgh,Insurance Brokerage,10,$1M-$2M,Owner,Owner,N/A,N/A,https://christie-associates.com/
+McElhinny Insurance Agency,Pittsburgh,PA,Pittsburgh,Insurance Brokerage,7,$700K-$1.2M,Owner,Owner,N/A,N/A,https://www.mcelhinny.com/
+Sharp Insurance Agency,Pittsburgh,PA,Pittsburgh,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.sharpinsagency.com/
+Oxford Solutions,Pittsburgh,PA,Pittsburgh,Staffing/Recruiting,15,$2M-$4M,Matt Fenton,Founder,N/A,N/A,https://www.oxfordsolutionsinc.com/
+Career Concepts Staffing,Pittsburgh,PA,Pittsburgh,Staffing/Recruiting,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.careerconcepts.com/pittsburgh
+Revive Medical Spa,Farmington Hills,MI,Detroit,Med Spa/Aesthetics,8,$800K-$1.5M,Ardis Schmitt RN BSN,Founder,N/A,N/A,https://www.revivema.com/
+Beauty & Wellness Med Spa,Dearborn,MI,Detroit,Med Spa/Aesthetics,7,$600K-$1.2M,Zeina Alawieh,Owner,N/A,N/A,https://beautyandwellnessmedspa.com/
+Accents Cosmetic Surgery,Sterling Heights,MI,Detroit,Med Spa/Aesthetics,10,$1.2M-$2.5M,Dr. Mark Berkowitz,Owner,N/A,N/A,https://www.accentscosmeticsurgery.com/
+BRS Property Management,Detroit,MI,Detroit,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.detroitpropertymanagement.co/
+Reserve Management Company,Hazel Park,MI,Detroit,Property Management,7,$500K-$1M,Owner,Owner,N/A,N/A,https://reservepropertymanagementcompany.com/
+Nelson Property Management,Detroit,MI,Detroit,Property Management,10,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.nelsonpropertymanagement.com/
+McWire Electric,Detroit,MI,Detroit,Electrical Contractor,8,$800K-$1.5M,Owner,Owner/Master Electrician,N/A,N/A,https://www.mcwireelectric.com/
+Metro Electric,Detroit,MI,Detroit,Electrical Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://www.metroelectricmichigan.com/
+Sawyer Services,Detroit,MI,Detroit,Electrical Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.sawyer-services.com/
+TNT Plumbing,Detroit,MI,Detroit,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,(313) 340-0312,N/A,https://www.tntplumbingdetroit.com/
+Expert Master Plumbers LLC,Detroit,MI,Detroit,Plumbing Contractor,7,$700K-$1.2M,Owner,Owner,N/A,N/A,https://www.plumbingcontractordetroit.com/
+Plumbing Techs,Oak Park,MI,Detroit,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.plumbingtechs.com/
+Brushery,Detroit,MI,Detroit,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,https://www.brusherydetroit.com/
+J. Pernas Law PLC,Detroit,MI,Detroit,Small Law Firm,6,$500K-$1M,J. Pernas,Owner,(248) 679-8886,jpernas@jpernaslaw.com,N/A
+K-M Law PLLC,Lincoln Park,MI,Detroit,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://k-m-law.com/
+Walker & Associates of Michigan,Detroit,MI,Detroit,Small Law Firm,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.walker-nunez.com/
+Midwest Underwriters,Detroit,MI,Detroit,Insurance Brokerage,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.midwestunderwriters.com/
+Bologna Agency Inc.,Detroit,MI,Detroit,Insurance Brokerage,6,$500K-$1M,Owner,Owner,(313) 962-0373,N/A,N/A
+The Advance Group,Detroit,MI,Detroit,Staffing/Recruiting,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.theadvancegroupjobs.com/
+Transnational Staffing,Southfield,MI,Detroit,Staffing/Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://transnationalstaffing.com/
+NOLA Pediatric Dentistry,New Orleans,LA,New Orleans,Dental Practice,8,$800K-$1.5M,Dr. Kris,Owner/Dentist,N/A,N/A,https://nolapediatricdentistry.com/
+District Dental Spa,New Orleans,LA,New Orleans,Dental Practice,7,$700K-$1.2M,Dr. Douglas A. Rodrigue Jr.,Owner/Dentist,N/A,N/A,https://www.districtdentalspa.com/
+Gentilly Family Dental LLC,New Orleans,LA,New Orleans,Dental Practice,8,$800K-$1.5M,Dr. Martin,Owner/Dentist,N/A,N/A,https://www.gentillyfamilydental.com/
+Dental Arts of New Orleans,New Orleans,LA,New Orleans,Dental Practice,8,$800K-$1.5M,Dr. Gabrielle Richard,Owner/Dentist,N/A,N/A,https://dentalartsnola.com/
+Dumas Family Dentistry,New Orleans,LA,New Orleans,Dental Practice,7,$700K-$1.2M,Dr. Dumas,Owner/Dentist,N/A,N/A,https://www.dumasfamilydentistry.com/
+Stephenson Chavarri & Dawson,New Orleans,LA,New Orleans,Small Law Firm,10,$1M-$2.5M,Owner,Owner,N/A,N/A,https://www.smclattorneys.com/
+Zollinger Immigration,New Orleans,LA,New Orleans,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.zollingerlaw.com/
+Wheatley Immigration Law LLC,New Orleans,LA,New Orleans,Small Law Firm,5,$400K-$900K,Owner,Owner,N/A,N/A,https://www.wheatleyimmigrationlaw.com/
+A-1 Electrical Contractors,New Orleans,LA,New Orleans,Electrical Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,N/A
+B Powered Electric LLC,New Orleans,LA,New Orleans,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://bpoweredelectric.com/
+OHM Electrical Contractors LLC,New Orleans,LA,New Orleans,Electrical Contractor,7,$700K-$1.2M,Owner,Owner,N/A,N/A,https://ohm.services/
+Lolas Medical Spa,Chalmette,LA,New Orleans,Med Spa/Aesthetics,7,$600K-$1.2M,Jamie Reyes NP,Owner,N/A,N/A,https://lolasmedspa.com/
+Regenesis Medical Spa,New Orleans,LA,New Orleans,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. William Hudson,Founder,N/A,N/A,https://regenesisspa.com/
+Belle Aesthetics,New Orleans,LA,New Orleans,Med Spa/Aesthetics,5,$400K-$800K,Katherine,Founder,N/A,N/A,https://belleaestheticsnola.com/
+Cowart Roe CPA LLC,New Orleans,LA,New Orleans,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.cowartroecpa.com/
+Gordon F. Schafer Jr. CPA,New Orleans,LA,New Orleans,CPA/Accounting,5,$400K-$800K,Gordon F. Schafer Jr.,Owner/CPA,(504) 314-6928,N/A,https://www.gordonschafercpa.com/
+Luther Speight & Company CPAs,New Orleans,LA,New Orleans,CPA/Accounting,8,$700K-$1.2M,Luther Speight,Owner/CPA,(504) 561-8600,N/A,https://www.speightcpa.com/
+Toni McCord CPA,New Orleans,LA,New Orleans,CPA/Accounting,5,$400K-$800K,Toni McCord,Owner/CPA,N/A,N/A,https://www.tonimccordcpa.com/
+Natals Air Conditioning Plumbing & Electrical,New Orleans,LA,New Orleans,HVAC Contractor,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.natalsairconditioning.com/
+JC Services AC LLC,New Orleans,LA,New Orleans,HVAC Contractor,10,$1M-$2.5M,Charlie Blanque,Co-Owner,N/A,N/A,https://www.jcservicesac.com/
+Stuart Services,New Orleans,LA,New Orleans,HVAC Contractor,18,$2.5M-$5M,Owner,Owner,N/A,N/A,https://www.stuartservices.com/
+HELP Air Conditioning,New Orleans,LA,New Orleans,HVAC Contractor,12,$1.5M-$3M,Knobloch Family,Owner,N/A,N/A,https://helpserviceco.com/
+NOLA Staffing,New Orleans,LA,New Orleans,Staffing/Recruiting,8,$1M-$2M,Owner,Owner,N/A,N/A,https://nolastaffing.com/
+Adeeta Corporate Staffing,New Orleans,LA,New Orleans,Staffing/Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://adeeta.com/
+Titans Electric,Memphis,TN,Memphis,Electrical Contractor,12,$1.2M-$2.5M,Owner,Founder,N/A,N/A,https://www.titanselectric.com/
+A/C Electric Company Inc.,Memphis,TN,Memphis,Electrical Contractor,15,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.acelectric901.com/
+Rush Electric,Memphis,TN,Memphis,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,(901) 660-5040,N/A,https://rushelectrictn.com/
+Power Source Electric LLC,Memphis,TN,Memphis,Electrical Contractor,10,$1M-$2M,David Payne,Co-Owner,N/A,N/A,https://www.powersourceelectricllc.com/
+McCrory Electric Co. Inc.,Memphis,TN,Memphis,Electrical Contractor,15,$1.5M-$3M,Owner,Owner,N/A,N/A,https://mccroryelec.com/
+Precision Air Conditioning & Heating,Memphis,TN,Memphis,HVAC Contractor,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.precisionhvac.com/
+Choates HVAC,Memphis,TN,Memphis,HVAC Contractor,18,$2.5M-$5M,Owner,Owner,N/A,N/A,https://choateshvac.com/
+Memphis Air Conditioning & Heating,Memphis,TN,Memphis,HVAC Contractor,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.memphisacandheating.com/
+AirMasters Air Conditioning & Heating,Memphis,TN,Memphis,HVAC Contractor,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.airmastersac.com/
+Bryko Heating & Air Conditioning,Memphis,TN,Memphis,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.brykohvac.com/
+Patterson Bray,Memphis,TN,Memphis,Small Law Firm,10,$1M-$2.5M,Owner,Owner,N/A,N/A,https://pattersonbray.com/
+The Estate and Family Law Group,Memphis,TN,Memphis,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.theestateandfamilylawgroup.com/
+Advantage Property Management,Memphis,TN,Memphis,Property Management,10,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.advantagepropertymgmt.com/
+RiverTown Realty,Memphis,TN,Memphis,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.myrivertownrealty.com/
+Enterprise Property Management,Memphis,TN,Memphis,Property Management,7,$500K-$1M,Owner,Owner,N/A,N/A,https://propertymanagementmemphis.com/
+Pete Mitchell and Associates,Memphis,TN,Memphis,Insurance Brokerage,8,$800K-$1.5M,Pete Mitchell,Owner,N/A,N/A,https://petemitchellins.com/
+Smith-Berclair Insurance,Memphis,TN,Memphis,Insurance Brokerage,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.smithberclair.com/
+A-One Staffing,Memphis,TN,Memphis,Staffing/Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,N/A
+McCune & Bell CPAs PLLC,Memphis,TN,Memphis,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.jmccunecpa.com/
+Hill CPA Firm PLLC,Memphis,TN,Memphis,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.cpamemphis.com/
+Chaliff & Associates CPA,Memphis,TN,Memphis,CPA/Accounting,5,$400K-$800K,Gregory Chaliff,Founder/CPA,N/A,N/A,https://chaliffcpa.com/
+Robinson CPA Firm PLLC,Memphis,TN,Memphis,CPA/Accounting,5,$400K-$800K,Owner,Owner,N/A,N/A,https://www.robinsoncpafirm.com/
+De La Belle Body & Wellness,Memphis,TN,Memphis,Med Spa/Aesthetics,7,$600K-$1.2M,Renee Pinlac MSN/FNP,Owner,N/A,N/A,https://delabelle.net/
+Soneks Medical Aesthetics Spa,Memphis,TN,Memphis,Med Spa/Aesthetics,5,$400K-$800K,Sonek Ferrell,Founder,N/A,N/A,https://www.soneksmedicalaestheticsspa.com/
+DFH Company,Louisville,KY,Louisville,HVAC Contractor,12,$1.5M-$3M,Chris & Alex Hinkebein,Co-Owners,N/A,N/A,https://dfhcompany.com/
+Elder Heating and Air,Louisville,KY,Louisville,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.elderheatingandair.com/
+Quality Heating & Air LLC,Louisville,KY,Louisville,HVAC Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.qualityairlouisville.com/
+Blackburn & Davis Inc.,Louisville,KY,Louisville,HVAC Contractor,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.blackburnanddavis.com/
+M&W Property Management,Louisville,KY,Louisville,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://mwmgtinc.com/
+Schempp Realty & Management,Louisville,KY,Louisville,Property Management,7,$500K-$1M,Owner,Owner,N/A,N/A,https://www.srmky.com/
+Premier Property Management Services,Louisville,KY,Louisville,Property Management,6,$400K-$800K,Owner,Owner,N/A,N/A,https://www.ppmky.com/
+John H. Ruby & Associates,Louisville,KY,Louisville,Small Law Firm,8,$800K-$1.5M,John H. Ruby,Owner,N/A,N/A,https://www.rubylawfirm.com/
+Gibson Law Offices,Louisville,KY,Louisville,Small Law Firm,5,$500K-$1M,Ken Gibson,Owner,N/A,N/A,https://www.gibsonlawlouisville.com/
+Tibbs Law Firm,Louisville,KY,Louisville,Small Law Firm,6,$600K-$1.2M,Krsna Tibbs,Owner,N/A,N/A,https://tibbslaw.com/
+Dixie Law Group,Louisville,KY,Louisville,Small Law Firm,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://dixielawgroup.com/
+JD Electric LLC,Louisville,KY,Louisville,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.jdelectricky.com/
+Zwicker Electric Inc.,Louisville,KY,Louisville,Electrical Contractor,10,$1M-$2M,Owner,Owner/Master Electrician,N/A,N/A,https://www.zwickerelectricky.com/
+Mullins Electric Inc.,Louisville,KY,Louisville,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.mullinselectriclouisville.com/
+Herrick Electric,Louisville,KY,Louisville,Electrical Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://herrickelectriclou.com/
+Vibrant Med Spa,Louisville,KY,Louisville,Med Spa/Aesthetics,7,$600K-$1.2M,Erica Chowning NP,Owner,N/A,N/A,https://vibrantmed.com/
+Scout Aesthetics,Louisville,KY,Louisville,Med Spa/Aesthetics,6,$500K-$1M,Jennifer Fick,Owner/NP,N/A,N/A,https://www.scoutaesthetics.com/
+Louisville Aesthetics,Louisville,KY,Louisville,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. Rimy Grewal,Owner,N/A,N/A,https://www.thelouisvilleaesthetics.com/
+Ackerman CPAs,Louisville,KY,Louisville,CPA/Accounting,8,$700K-$1.2M,Owner,Owner,N/A,N/A,https://ack.cpa/
+Roberts CPA Group,Louisville,KY,Louisville,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.roberts.cpa/
+ParsonCPA,Louisville,KY,Louisville,CPA/Accounting,5,$400K-$800K,Loni Parson,Owner/CPA,N/A,N/A,https://parsoncpa.com/
+Family Select Insurance,Louisville,KY,Louisville,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,https://familyselectinsurance.com/
+Schwartz Insurance Group,Louisville,KY,Louisville,Insurance Brokerage,7,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.schwartzinsgrp.com/
+Elite Smiles of Louisville,Louisville,KY,Louisville,Dental Practice,8,$800K-$1.5M,Dr. Music & Dr. Casconi,Co-Owners,N/A,N/A,https://www.elitesmileslou.com/
+Magnolia Dental,Louisville,KY,Louisville,Dental Practice,7,$700K-$1.2M,Dr. Crowl,Owner/Dentist,N/A,N/A,https://magnoliadentalky.com/
+Pleasure Ridge Park Dentistry,Louisville,KY,Louisville,Dental Practice,7,$700K-$1.2M,Dr. Sauk,Owner/Dentist,N/A,N/A,https://prp-dentistry.com/
+Parkway Family Dental,Louisville,KY,Louisville,Dental Practice,7,$700K-$1.2M,Dr. Monali Haldankar,Owner/Dentist,N/A,N/A,https://www.pkwyfamilydental.com/
+Nextaff of Louisville,Louisville,KY,Louisville,Staffing/Recruiting,8,$1M-$2M,Miriam,Owner,N/A,N/A,https://www.nextaff.com/locations/louisville/
+Unique Staffing LLC,Louisville,KY,Louisville,Staffing/Recruiting,6,$800K-$1.5M,John Fleming,Owner,N/A,N/A,N/A
+Iron City Insurance Brokers,Vestavia Hills,AL,Birmingham,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.ironcityins.com/
+Petra RMS,Birmingham,AL,Birmingham,Insurance Brokerage,8,$800K-$1.5M,Owner,Founder,N/A,N/A,N/A
+Briggs Insurance Agency,Birmingham,AL,Birmingham,Insurance Brokerage,7,$600K-$1.2M,Owner,Owner,N/A,N/A,https://briggsins.com/
+New Era Plumbing,Birmingham,AL,Birmingham,Plumbing Contractor,8,$800K-$1.5M,Joseph Stephens,Owner,N/A,N/A,https://newera-plumbing.com/
+Spartan Services LLC,Birmingham,AL,Birmingham,Plumbing Contractor,7,$700K-$1.2M,Owner,Owner,(205) 400-0332,N/A,https://www.spartanservicesal.com/
+Plumb One,Birmingham,AL,Birmingham,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.plumbone.com/
+Latta Plumbing,Birmingham,AL,Birmingham,Plumbing Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.lattaplumbing.com/
+Rousso Adams Aesthetic Medical Spa,Birmingham,AL,Birmingham,Med Spa/Aesthetics,10,$1.2M-$2.5M,Dr. Rousso & Dr. Adams,Co-Owners,N/A,N/A,https://www.drrousso.com/
+Azia Medical Spa,Birmingham,AL,Birmingham,Med Spa/Aesthetics,7,$600K-$1.2M,Jerry & Kerri Hincy,Co-Owners,N/A,N/A,https://aziamedispa.com/
+BhamElectrical,Birmingham,AL,Birmingham,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://bhamelectrical.com/
+Advanced Electrical Company,Birmingham,AL,Birmingham,Electrical Contractor,10,$1M-$2M,Mark,Owner,N/A,N/A,https://advancedelectricalcompany.com/
+Johns Electric Service,Birmingham,AL,Birmingham,Electrical Contractor,7,$700K-$1.2M,John,Owner,N/A,N/A,https://www.johnselectricservice.com/
+Caldwell Crossings Dentistry,Birmingham,AL,Birmingham,Dental Practice,8,$800K-$1.5M,Dr. L. Frank Melazzo,Owner/Dentist,N/A,N/A,https://ccdsmiles.com/
+West Princeton Dental Clinic,Birmingham,AL,Birmingham,Dental Practice,7,$700K-$1.2M,Dr. Adolphus M. Jackson,Owner/Dentist,N/A,N/A,https://westprincetondentalclinic.com/
+Complete Dental Care PC,Birmingham,AL,Birmingham,Dental Practice,8,$800K-$1.5M,Drs. Kim & Rob Harradine,Co-Owners,N/A,N/A,https://www.completedental-al.com/
+The Earle Law Firm,Birmingham,AL,Birmingham,Small Law Firm,8,$800K-$1.5M,Owner,Founder,N/A,N/A,https://earlelawfirm.com/
+Ritchey & Ritchey,Birmingham,AL,Birmingham,Small Law Firm,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.ritcheylaw.com/
+Awbrey Law,Birmingham,AL,Birmingham,Small Law Firm,5,$500K-$1M,Owner,Owner,N/A,N/A,https://www.awbreylaw.com/
+Maddox CPA & Associates,Hoover,AL,Birmingham,CPA/Accounting,5,$400K-$800K,Michele Maddox,Owner/CPA,N/A,N/A,https://www.mmaddoxcpa.com/
+Barringer CPA LLC,Birmingham,AL,Birmingham,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.barringercpa.com/
+Sovereign CPA Group LLC,Birmingham,AL,Birmingham,CPA/Accounting,8,$700K-$1.2M,Owner,Owner,N/A,N/A,https://sovereigncpa.com/
+Accounting Complete,Birmingham,AL,Birmingham,CPA/Accounting,5,$400K-$800K,Owner,Owner,N/A,N/A,https://accounting-complete.com/
+Force Personnel,Oklahoma City,OK,Oklahoma City,Staffing/Recruiting,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.forcepersonnelok.com/
+Pragma Dental,Oklahoma City,OK,Oklahoma City,Dental Practice,7,$700K-$1.2M,Dr. Kaylee Ring,Owner/Dentist,N/A,N/A,https://www.pragmadental.com/
+Stover Heating and Air,Oklahoma City,OK,Oklahoma City,HVAC Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,N/A
+Yarbrough & Sons,Oklahoma City,OK,Oklahoma City,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://yarbroughandsons.com/
+Advantage Heating & Air Conditioning,Oklahoma City,OK,Oklahoma City,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://advantageairokc.com/
+TS Heat & Air,Oklahoma City,OK,Oklahoma City,HVAC Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://tsheatandair.com/
+Plumbing Masters,Oklahoma City,OK,Oklahoma City,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.plumbingmastersokc.com/
+Arnolds Plumbing,Oklahoma City,OK,Oklahoma City,Plumbing Contractor,8,$800K-$1.5M,Dale Eads,Founder,N/A,N/A,https://arnoldsplumbingllc.com/
+Andys Plumbing,Oklahoma City,OK,Oklahoma City,Plumbing Contractor,10,$1M-$2M,Andy,Owner,N/A,N/A,https://andysplumbinginc.com/
+Code 3 Plumbing And Drain,Oklahoma City,OK,Oklahoma City,Plumbing Contractor,7,$700K-$1.2M,Owner,Owner,N/A,N/A,https://code3plumbinganddrain.com/
+Law Office of Tai Stevenson,Oklahoma City,OK,Oklahoma City,Small Law Firm,6,$500K-$1M,Tai Stevenson,Owner,(405) 600-9910,N/A,https://www.stevensonkim.com/
+Taylor Law Firm PLLC,Oklahoma City,OK,Oklahoma City,Small Law Firm,5,$500K-$1M,Owner,Owner,(405) 525-2232,N/A,https://www.taylorlawfirmok.com/
+Mazaheri Law Firm,Oklahoma City,OK,Oklahoma City,Small Law Firm,8,$800K-$1.5M,Owner,Owner,(405) 645-6022,N/A,https://www.mazaherilawfirm.com/
+OKC Insurance Brokers,Oklahoma City,OK,Oklahoma City,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,https://okcinsurancebrokers.com/
+Perimeter Insurance Agency,Oklahoma City,OK,Oklahoma City,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,https://perimeterins.com/
+MWI Insurance Brokers,Oklahoma City,OK,Oklahoma City,Insurance Brokerage,8,$700K-$1.2M,Owner,Owner,N/A,N/A,https://mwi-insurancebrokers.com/
+SkinFitOKC,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,6,$500K-$1M,Shyla Ryan,Owner/Founder,N/A,N/A,https://skinfitokc.com/
+The Treatment Room,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,7,$600K-$1.2M,Rebekah Voda,Founder/Owner,N/A,N/A,https://thetreatmentroomokc.com/
+LOU LOU Med Spa,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,6,$500K-$1M,Amanda Lindenberg RN,Owner,N/A,N/A,https://louloumedspa.com/
+Longevity Med Spa,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. Darryl Robinson,Founder,N/A,N/A,https://longevityok.com/
+Boulanger CPA,Oklahoma City,OK,Oklahoma City,CPA/Accounting,5,$400K-$800K,Owner,Founder/CPA,N/A,N/A,https://www.boulangercpa.com/
+Ascension CPA,Oklahoma City,OK,Oklahoma City,CPA/Accounting,6,$500K-$1M,Jamie Ward & Cassidi Heltcel,Co-Founders,N/A,N/A,https://www.ascensioncpa.com/
+Keith Stingley CPA,Oklahoma City,OK,Oklahoma City,CPA/Accounting,5,$400K-$800K,Keith Stingley,Owner/CPA,N/A,N/A,https://www.stingleycpa.com/
+OKC Home Realty Services,Oklahoma City,OK,Oklahoma City,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.yourokcpropertymanager.com/
+Oklahoma Red Door Property Management,Oklahoma City,OK,Oklahoma City,Property Management,10,$800K-$1.5M,Owner,Owner,N/A,N/A,https://okreddoors.com/
+OKC Homes 4 You,Oklahoma City,OK,Oklahoma City,Property Management,6,$400K-$800K,Owner,Owner,N/A,N/A,N/A
+William Brighenti CPA,Berlin,CT,Hartford,CPA/Accounting,5,$400K-$800K,William Brighenti,Owner/CPA,N/A,N/A,http://www.cpa-connecticut.com/
+Padgett Business Services Hartford,Hartford,CT,Hartford,CPA/Accounting,5,$400K-$800K,Kurt J. Krauland,Owner/CPA,N/A,N/A,N/A
+SDO CPA,Hartford,CT,Hartford,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.sdocpa.com/
+Blue Back Dental,West Hartford,CT,Hartford,Dental Practice,10,$1M-$2M,Dr. Ted Wu & Dr. Tim Holzhauer,Co-Owners,N/A,N/A,https://www.bluebackdental.com/
+Healthy Smiles,Hartford,CT,Hartford,Dental Practice,7,$700K-$1.2M,Dr. Desai,Owner/Dentist,N/A,N/A,https://healthysmilesct.com/
+Advance Dental,East Hartford,CT,Hartford,Dental Practice,6,$600K-$1M,Owner,Owner/Dentist,N/A,N/A,https://www.advancedentalct.com/
+Dynamic Heating Cooling & Geothermal,Hartford,CT,Hartford,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://dynamichvac.net/
+Hometown Heating & Cooling LLC,Farmington,CT,Hartford,HVAC Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://hometown-heatingcooling.com/
+Chiarillos,West Hartford,CT,Hartford,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.chiarillos.com/
+Hi-TECH Mechanical Services LLC,West Hartford,CT,Hartford,HVAC Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.hitechmechanicalservicesllc.com/
+Macca Plumbing & Heating,Hartford,CT,Hartford,Plumbing Contractor,10,$1M-$2M,Owner,Owner,(860) 560-1200,N/A,https://www.maccaplumbing.com/
+Tony Marzano Plumbing & Heating LLC,Hartford,CT,Hartford,Plumbing Contractor,8,$800K-$1.5M,Tony Marzano,Owner,N/A,N/A,https://tonymarzanoplumbingandheating.com/
+SI Plumbing,Hartford,CT,Hartford,Plumbing Contractor,6,$600K-$1M,Owner,Owner,N/A,N/A,https://siplumbingct.com/
+Farmington Valley Plumbing,Hartford,CT,Hartford,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://farmingtonvalleyplumbing.com/
+Le Foll Law,Hartford,CT,Hartford,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.lefoll.com/
+Furey Donovan Cooney & Dyer PC,West Hartford,CT,Hartford,Small Law Firm,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://www.fureydonovan.com/
+Law Offices of Linda K. Bertolette LLC,West Hartford,CT,Hartford,Small Law Firm,5,$500K-$1M,Linda K. Bertolette,Owner,N/A,N/A,https://www.bertolettelaw.com/
+Kenny Brimmer & Mahoney LLC,Wethersfield,CT,Hartford,Small Law Firm,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.kennybrimmer.com/
+Vivesse Med Spa,Bloomfield,CT,Hartford,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. Lori Greenwald,Owner,N/A,N/A,https://vivesse.net/
+Ignite Med Spa & Wellness,West Hartford,CT,Hartford,Med Spa/Aesthetics,6,$500K-$1M,Jessica Fett APRN,Owner,N/A,N/A,https://ignite-medspa.com/
+A Midas Touch Med Spa,East Hartford,CT,Hartford,Med Spa/Aesthetics,6,$500K-$1M,HJ McHugh APRN,Owner,N/A,N/A,https://www.amidastouchmedspa.com/
+Allconnecticut Insurance Brokers LLC,West Hartford,CT,Hartford,Insurance Brokerage,6,$500K-$1M,Owner,Owner,(860) 232-7076,N/A,N/A
+Parkville Management,Hartford,CT,Hartford,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://parkvillemanagement.com/
+Stanton Management,Hartford,CT,Hartford,Property Management,6,$400K-$800K,Owner,Owner,N/A,N/A,https://www.stantonpm.com/
+Property Manage CT,Hartford,CT,Hartford,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.propertymanagect.com/
+R&M Property Management Solutions,Hartford,CT,Hartford,Property Management,7,$500K-$1M,Rick & Marc Bush,Co-Founders,N/A,N/A,https://www.bushre.com/
+Prestige Dental Care,St. Louis,MO,St. Louis,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,https://www.prestigedentalcarestl.com/
+SmartHouse Heating & Cooling,St. Louis,MO,St. Louis,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.callsmarthouse.com/
+Scott Scott & Co CPA,Kirkwood,MO,St. Louis,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.scottcpa.com/
+Lindenwood Insurance Agency,St. Charles,MO,St. Louis,Insurance Brokerage,7,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.lindenwoodagency.net/
+Meyer Insurance,St. Louis,MO,St. Louis,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.meyerins.com/
+Micucci Family Dentistry,Pittsburgh,PA,Pittsburgh,Dental Practice,7,$700K-$1.2M,Bryan Micucci DMD,Owner/Dentist,N/A,N/A,https://www.micuccifamilydentistry.com/
+Leong Aesthetics,Pittsburgh,PA,Pittsburgh,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. Paul Leong,Owner,N/A,N/A,https://www.leongaesthetics.com/
+Refine Medical Aesthetics,Pittsburgh,PA,Pittsburgh,Med Spa/Aesthetics,6,$500K-$1M,Dr. Peter M. Grondziowski,Owner,N/A,N/A,https://refinemyself.com/
+Holsinger PC,Pittsburgh,PA,Pittsburgh,CPA/Accounting,8,$700K-$1.2M,Owner,Owner,N/A,N/A,https://www.holsinger.cpa/
+Staffing Solutions Enterprises,Pittsburgh,PA,Pittsburgh,Staffing/Recruiting,15,$2M-$4M,Owner,Owner,N/A,N/A,N/A
+Commercial Comfort Systems,Detroit,MI,Detroit,HVAC Contractor,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.commercialcomfort.com/
+The Air King,Detroit,MI,Detroit,HVAC Contractor,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://theairking.com/
+Michigan Planners,Detroit,MI,Detroit,Insurance Brokerage,10,$1M-$2M,Owner,Owner,(800) 674-9235,N/A,https://www.miplanners.com/
+Quick Hire,Detroit,MI,Detroit,Staffing/Recruiting,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+New Orleans Aesthetics,New Orleans,LA,New Orleans,Med Spa/Aesthetics,7,$600K-$1.2M,Dr. Zeena Al-Dujaili,Founder,N/A,N/A,https://www.neworleansaesthetics.com/
+Gores Services,New Orleans,LA,New Orleans,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.goresservices.com/
+Wegmann Dazet CPA,New Orleans,LA,New Orleans,CPA/Accounting,10,$1M-$2M,Owner,Owner,N/A,N/A,https://wd.cpa/
+Pelican Electrical Contractors,Jefferson,LA,New Orleans,Electrical Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.pelicanelectrical.com/
+Chickasaw Air Conditioning,Memphis,TN,Memphis,HVAC Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.chickasawac.com/
+Rikard & Neal CPAs PLLC,Memphis,TN,Memphis,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.rikardneal.com/
+Larry Banks CPA,Memphis,TN,Memphis,CPA/Accounting,5,$400K-$800K,Larry Banks,Owner/CPA,N/A,N/A,https://www.larrybankscpa.com/
+Prestigious Placement Staffing,Memphis,TN,Memphis,Staffing/Recruiting,6,$800K-$1.5M,Owner,Owner,N/A,N/A,N/A
+Kentuckiana Property Management,Louisville,KY,Louisville,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.kentuckianapropertymanagement.com/
+Bill Stout Properties,Louisville,KY,Louisville,Property Management,6,$400K-$800K,Bill Stout,Owner,N/A,N/A,https://www.billstoutproperties.com/
+Bluegrass Professional Associates,Louisville,KY,Louisville,CPA/Accounting,5,$400K-$800K,Matthew L. Ward,Owner/CPA,N/A,N/A,https://bpa.tax/
+Malone Workforce Solutions,Louisville,KY,Louisville,Staffing/Recruiting,15,$2.5M-$5M,Owner,Owner,N/A,N/A,https://www.malonesolutions.com/
+Breckenridge Dental Care,Louisville,KY,Louisville,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,https://www.breckenridgedentalcare.com/
+Meiners Electric,Louisville,KY,Louisville,Electrical Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://meinerselectric.com/
+Seiler Skin Cosmetic Laser,Birmingham,AL,Birmingham,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. Seiler,Owner,N/A,N/A,N/A
+Cohn Plastic Surgery and Medspa,Birmingham,AL,Birmingham,Med Spa/Aesthetics,10,$1.2M-$2.5M,Dr. Al Cohn,Owner,N/A,N/A,https://www.cohnplasticsurgery.com/
+Xcalibur Services,Birmingham,AL,Birmingham,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://xcaliburservice.com/
+Jackson Howard & Whatley CPA,Birmingham,AL,Birmingham,CPA/Accounting,8,$700K-$1.2M,Owner,Owner,N/A,N/A,https://www.jhwcpas.com/
+Advantage Property Management,Birmingham,AL,Birmingham,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,N/A
+AccuTemp Air,Oklahoma City,OK,Oklahoma City,HVAC Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://accutempairok.com/
+Airco Service,Oklahoma City,OK,Oklahoma City,HVAC Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.aircoservice.com/
+Jimbos Plumbing and Drain Cleaning,Oklahoma City,OK,Oklahoma City,Plumbing Contractor,5,$400K-$800K,Jimbo,Owner,N/A,N/A,N/A
+Ever-Ready Plumbing Heat and Air,Oklahoma City,OK,Oklahoma City,Plumbing Contractor,6,$500K-$1M,Tim Doty,Owner,N/A,N/A,N/A
+Birchall & Hampton,Oklahoma City,OK,Oklahoma City,Insurance Brokerage,10,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Radiance Medical Aesthetics,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,7,$600K-$1.2M,Kasey L. Swayden PA,Owner,N/A,N/A,https://www.rmaok.com/
+Wheeler Med Spa,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,6,$500K-$1M,Adrienne Jantz APRN,Owner,N/A,N/A,https://www.wheelermedspa.com/
+Gillispie & Ogilbee CPAs,Oklahoma City,OK,Oklahoma City,CPA/Accounting,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.gocpas.com/
+Simple Property Management,Oklahoma City,OK,Oklahoma City,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.thesimplebrands.com/
+Lily Debrah Cruickshank & Associates,Oklahoma City,OK,Oklahoma City,Small Law Firm,5,$500K-$1M,Lily Debrah Cruickshank,Owner,(405) 694-4309,N/A,N/A
+Foshee & Yaffe,Oklahoma City,OK,Oklahoma City,Small Law Firm,10,$1M-$2.5M,Owner,Owner,N/A,N/A,https://www.fosheeyaffe.com/
+Mid-State Mechanical,Middletown,CT,Hartford,HVAC Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://mid-statemechanical.com/
+Boisvert Plumbing & Mechanical,Hartford,CT,Hartford,Plumbing Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://boisvertservices.com/
+Rome Clifford Katz & Koerner LLP,Hartford,CT,Hartford,Small Law Firm,10,$1M-$2.5M,Owner,Owner,N/A,N/A,https://www.rckklaw.com/
+Hersh & Crockett,Hartford,CT,Hartford,Small Law Firm,6,$600K-$1.2M,Owner,Owner,N/A,N/A,https://hershcrockett.com/
+Idoni Property Management,Hartford,CT,Hartford,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.idonimanagement.com/
+CT Property Management,Hartford,CT,Hartford,Property Management,6,$400K-$800K,Owner,Owner,N/A,N/A,https://wemanagect.com/
+Gorgeous Smiles Dental,Hartford,CT,Hartford,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://gorgeoussmilesdental.com/
+Elmwood Dental LLC,West Hartford,CT,Hartford,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,https://www.elmwooddentalllc.com/
+Roya Medspa,West Hartford,CT,Hartford,Med Spa/Aesthetics,7,$600K-$1.2M,Owner,Owner,N/A,N/A,https://royamedspa.com/
+Radiance Medspa,Avon,CT,Hartford,Med Spa/Aesthetics,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.radianceavon.com/
+Sirena Medical Aesthetics,Hartford,CT,Hartford,Med Spa/Aesthetics,5,$400K-$800K,Owner,Owner,N/A,N/A,https://www.sirenamedspact.com/
+DET Homes Property Management,Detroit,MI,Detroit,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://detrealestategroup.com/
+McChesney Electric Inc.,Detroit,MI,Detroit,Electrical Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.mcchesneyelectric.com/
+Cregger Plumbing Heating Cooling,Detroit,MI,Detroit,Plumbing Contractor,15,$2M-$4M,Owner,Owner,N/A,N/A,https://www.creggerplumbing.com/
+Detroit Dental Company,Berkley,MI,Detroit,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://www.detroitdentalcompany.com/
+Motor City Dental Group,Detroit,MI,Detroit,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,http://www.motorcitydentalgroup.com/
+Jeelani Law Firm,Detroit,MI,Detroit,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,N/A
+PrideStaff Detroit,Detroit,MI,Detroit,Staffing/Recruiting,10,$1.5M-$3M,Owner,Owner/Franchisee,N/A,N/A,https://www.pridestaff.com/detroitwest/
+Kennerly Dental Group,St. Louis,MO,St. Louis,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://www.kennerlydental.com/
+Kingsland Properties,St. Louis,MO,St. Louis,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.kingslandstl.com/
+PMI STL Metro,St. Louis,MO,St. Louis,Property Management,6,$400K-$800K,Owner,Owner,N/A,N/A,https://www.stlouispropertymanagementinc.com/
+Snelling Staffing,St. Louis,MO,St. Louis,Staffing/Recruiting,10,$1.5M-$3M,Owner,Owner,N/A,N/A,https://www.snellingstl.com/
+Page Law,St. Louis,MO,St. Louis,Small Law Firm,8,$800K-$1.5M,Tonya D. Page,Partner,N/A,N/A,https://www.pagelaw.com/
+Gartner Law Firm,St. Louis,MO,St. Louis,Small Law Firm,6,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.gartnerlawfirm.com/
+Hufnagel Electric,Pittsburgh,PA,Pittsburgh,Electrical Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://hufnagelelectric.com/
+Padgett Pittsburgh CPA,Pittsburgh,PA,Pittsburgh,CPA/Accounting,5,$400K-$800K,Owner,Owner,N/A,N/A,https://www.padgettpgh.com/
+Synergy Staffing,Pittsburgh,PA,Pittsburgh,Staffing/Recruiting,8,$1M-$2M,Owner,Owner,N/A,N/A,N/A
+Premier Family Dentistry,Pittsburgh,PA,Pittsburgh,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,https://www.pfdofpgh.com/
+Edgewood Dental Associates,Pittsburgh,PA,Pittsburgh,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://www.edgewooddentalassociates.com/
+Kyle Farr Aesthetics,Plymouth,MI,Detroit,Med Spa/Aesthetics,6,$500K-$1M,Dr. Jerry Huss,Medical Director,N/A,N/A,https://www.kylefarraesthetics.com/
+My Detroit Dentist,Detroit,MI,Detroit,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,https://mydetroitdentist.com/
+Interiano Law Firm,New Orleans,LA,New Orleans,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.interianolaw.com/
+Hayes Law Firm PLC,New Orleans,LA,New Orleans,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://hayes-lawfirm.com/
+Frischhertz Electric,New Orleans,LA,New Orleans,Electrical Contractor,18,$2.5M-$5M,Owner,Owner,N/A,N/A,https://www.frischhertz.com/
+MK Electric Man,New Orleans,LA,New Orleans,Electrical Contractor,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.mkelectricman.com/
+Above and Beyond Electric,Memphis,TN,Memphis,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.aboveandbeyondelectric.com/
+Excalibur Electrician Memphis,Memphis,TN,Memphis,Electrical Contractor,7,$700K-$1.2M,Owner,Owner,N/A,N/A,https://electriciansmemphis.com/
+Lipscomb & Pitts Insurance,Memphis,TN,Memphis,Insurance Brokerage,15,$2M-$4M,Owner,Owner,N/A,N/A,https://lpinsurance.com/
+Boyle Insurance Agency,Memphis,TN,Memphis,Insurance Brokerage,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://boyleinsuranceagency.com/
+Jamie Homa & Associates,Memphis,TN,Memphis,Staffing/Recruiting,5,$500K-$1M,Jamie Homa,Owner,N/A,N/A,N/A
+Key Greer,Pelham,AL,Birmingham,Small Law Firm,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.keygreer.net/
+Fob James Law Firm,Birmingham,AL,Birmingham,Small Law Firm,10,$1M-$2.5M,Owner,Owner,N/A,N/A,https://callfob.com/
+Southern Dental,Birmingham,AL,Birmingham,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://southerndentalbirmingham.com/
+Gooch Family Dental,Birmingham,AL,Birmingham,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,https://www.goochdental.com/
+Allen Electrical Louisville,Louisville,KY,Louisville,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.allenelectrical.com/
+Ready Electric,Louisville,KY,Louisville,Electrical Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.readyelec.com/
+Durrett & Kersting PLLC,Louisville,KY,Louisville,Small Law Firm,6,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.mylouisvillelawyer.com/
+XO Aesthetic Refinery,Louisville,KY,Louisville,Med Spa/Aesthetics,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.xoaestheticrefinery.com/
+Corbett Aesthetic Surgery,Louisville,KY,Louisville,Med Spa/Aesthetics,10,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://www.corbettcosmeticsurgery.com/
+Louis T. Roth & Co PLLC,Louisville,KY,Louisville,CPA/Accounting,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.ltroth.com/
+Burns Insurance,Louisville,KY,Louisville,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,N/A
+Braden Insurance Agency,Louisville,KY,Louisville,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,N/A
+St. Matthews Dental Care,Louisville,KY,Louisville,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://stmatthewsdental.com/
+Chapman Heating and Cooling,Louisville,KY,Louisville,HVAC Contractor,12,$1.5M-$3M,Owner,Owner,N/A,N/A,https://chapmanengineering.net/
+Revid Realty,Memphis,TN,Memphis,Property Management,15,$1.5M-$3M,Owner,Owner,N/A,N/A,https://revidrealty.com/
+Specialized Property Management Memphis,Memphis,TN,Memphis,Property Management,10,$800K-$1.5M,Owner,Owner,N/A,N/A,https://specializedpropertymanagementmemphis.com/
+Williams Surgical Arts,Memphis,TN,Memphis,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. Micheal A. Williams,Owner,N/A,N/A,https://www.williamssurgicalarts.com/
+A Beautiful You Medical Spa,Memphis,TN,Memphis,Med Spa/Aesthetics,8,$800K-$1.5M,JL & Lorrie,Co-Owners,N/A,N/A,https://www.abeautifulyoumedicalspa.com/
+SkinBody Memphis,Memphis,TN,Memphis,Med Spa/Aesthetics,6,$500K-$1M,Owner,Owner,N/A,N/A,https://skinbodymemphis.com/
+Birmingham Family Dental,Birmingham,AL,Birmingham,Dental Practice,10,$1M-$2M,Owner,Owner/Dentist,N/A,N/A,https://www.birminghamfamilydental.com/
+Magic City Dentistry,Birmingham,AL,Birmingham,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,https://www.magiccitydentistry.com/
+Dr. Electric,Birmingham,AL,Birmingham,Electrical Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.doctorelectricnow.com/
+Polar Bear Services,Birmingham,AL,Birmingham,Plumbing Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://polarbearservicesco.com/
+Masters Plumbing,Birmingham,AL,Birmingham,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.johnsplumbingbham.com/
+OKCREAL,Oklahoma City,OK,Oklahoma City,Property Management,8,$600K-$1.2M,Owner,Owner,N/A,N/A,https://www.okcreal.com/
+RDS Homes,Oklahoma City,OK,Oklahoma City,Property Management,7,$500K-$1M,Owner,Owner,N/A,N/A,https://www.rdshomesok.com/
+Belle Ame Med Spa,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,7,$600K-$1.2M,Ana Kumar MD,Owner,N/A,N/A,https://belleamemedspa.com/
+Sculpted Med Spas,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,10,$1M-$2M,Eddie Lorents,Founder,N/A,N/A,https://www.sculptedmedspas.com/
+Renew Wellness & Aesthetics,Oklahoma City,OK,Oklahoma City,Med Spa/Aesthetics,8,$800K-$1.5M,Dr. Julie Shelley,Owner,N/A,N/A,https://www.renewoklahoma.com/
+James Dee Johnson & Company CPAs,Oklahoma City,OK,Oklahoma City,CPA/Accounting,6,$500K-$1M,James Dee Johnson,Owner/CPA,N/A,N/A,https://www.jdjcpa.com/
+CPAOKC PLLC,Oklahoma City,OK,Oklahoma City,CPA/Accounting,5,$400K-$800K,Owner,Owner/CPA,N/A,N/A,https://www.cpaokc.net/
+WJG & Associates CPA,Oklahoma City,OK,Oklahoma City,CPA/Accounting,6,$500K-$1M,Owner,Owner/CPA,N/A,N/A,https://wjgcpa.com/
+Gitlin & Company LLC CPA,West Hartford,CT,Hartford,CPA/Accounting,6,$500K-$1M,Owner,Owner/CPA,N/A,N/A,http://www.gc-cpas.com/
+Sunrise Accounting & Taxation,Hartford,CT,Hartford,CPA/Accounting,5,$400K-$800K,Owner,Owner,N/A,N/A,https://www.sunrisetax.net/
+Comprehensive Dental Associates,East Hartford,CT,Hartford,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://www.compdentalct.com/
+West Hartford Dental Group,West Hartford,CT,Hartford,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://www.westhartforddentalgroup.com/
+Ugo Digrazia Heating and Cooling,Hartford,CT,Hartford,HVAC Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.ugodigraziaheatingandcooling.com/
+Riley Plumbing & Heating,Hartford,CT,Hartford,Plumbing Contractor,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://rileyplumbingcompany.com/
+The O'Neil Law Firm,Hartford,CT,Hartford,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,N/A
+BPS Lawyers,Glastonbury,CT,Hartford,Small Law Firm,8,$800K-$1.5M,Owner,Owner,N/A,N/A,https://www.bpslawyers.com/
+Crest Mechanical Services,Hartford,CT,Hartford,HVAC Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,https://www.crestmechanical.com/
+Gasparian Spivey Immigration,New Orleans,LA,New Orleans,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://gsimmigrationlaw.com/
+Immigration & Nationality Law Group,New Orleans,LA,New Orleans,Small Law Firm,5,$400K-$800K,Owner,Owner,N/A,N/A,https://inlg-usa.com/
+Revid Realty New Orleans,New Orleans,LA,New Orleans,Property Management,10,$800K-$1.5M,Owner,Owner,N/A,N/A,N/A
+Stump & Associates Immigration,Oklahoma City,OK,Oklahoma City,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://usvisagroup.com/
+Laiturner Law,Oklahoma City,OK,Oklahoma City,Small Law Firm,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.laiturnerlaw.com/
+Pepper Johnstone & Company,Birmingham,AL,Birmingham,Insurance Brokerage,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.pjcoinsurance.com/
+Birmingham Insurance Brokers,Birmingham,AL,Birmingham,Insurance Brokerage,6,$500K-$1M,Owner,Owner,N/A,N/A,https://www.bhaminsurancebrokers.com/
+Narrows Family Dentistry,Birmingham,AL,Birmingham,Dental Practice,7,$700K-$1.2M,Owner,Owner/Dentist,N/A,N/A,N/A
+Double Oak Mountain Family Dentistry,Birmingham,AL,Birmingham,Dental Practice,8,$800K-$1.5M,Owner,Owner/Dentist,N/A,N/A,https://www.domfamilydentistry.com/
+MD Wellness & Aesthetics,Birmingham,AL,Birmingham,Med Spa/Aesthetics,6,$500K-$1M,Owner,Owner,N/A,N/A,https://mdwellnessandaestheticsreviews.com/
+Smart Skin Med Spa,Birmingham,AL,Birmingham,Med Spa/Aesthetics,7,$600K-$1.2M,Owner,Owner,N/A,N/A,https://smartskinmedspa.com/
+PLUMCORE,Birmingham,AL,Birmingham,Plumbing Contractor,10,$1M-$2M,Owner,Owner,N/A,N/A,https://www.plumcore.com/
+BHAM Electrical Contractors,Birmingham,AL,Birmingham,Electrical Contractor,12,$1.2M-$2.5M,Owner,Owner,N/A,N/A,http://www.birminghamec.com/

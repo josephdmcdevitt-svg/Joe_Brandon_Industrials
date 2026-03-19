@@ -1,0 +1,307 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+Levite Construction Co,Seattle,WA,Seattle WA,Remodeling Contractors,8,$1M-$3M,N/A,Owner,425-998-8958,info@leviteconstruction.com,https://seattleconstructionco.com
+J & M Remodel,Seattle,WA,Seattle WA,Remodeling Contractors,10,$1M-$3M,N/A,Owner,(206) 915-5667,N/A,https://jandmremodel.com
+Remodelic,Seattle,WA,Seattle WA,Remodeling Contractors,6,$500K-$1M,N/A,Owner,(425) 406-0874,info@remodelic.com,https://remodelic.com
+Haas Development & Construction,Seattle,WA,Seattle WA,Remodeling Contractors,10,$1M-$3M,N/A,Owner,N/A,info@haasbuilding.com,https://www.haasbuilding.com
+Model Remodel,Seattle,WA,Seattle WA,Remodeling Contractors,12,$2M-$5M,N/A,Owner,N/A,N/A,https://modelremodel.com
+S. Watts Group,Austin,TX,Austin TX,General Contractors,15,$3M-$7M,Shane Watts,Founder/Owner,N/A,N/A,https://swattsgroup.com
+Teamwork Home Designs,Austin,TX,Austin TX,General Contractors,8,$1M-$3M,N/A,Owner,N/A,N/A,https://teamworkhomedesigns.com
+Select Home Care Portland,Portland,OR,Portland OR,Senior Care Services,15,$1M-$3M,Scott Witt,Owner,N/A,N/A,https://www.selecthomecareportland.com
+Affordable Home Health Care Agency,Portland,OR,Portland OR,Home Health Agencies,10,$1M-$2M,N/A,Owner,N/A,N/A,https://www.affordablehhca.com
+Preferred Digital Solutions,Raleigh,NC,Raleigh NC,Digital Marketing Agencies,8,$500K-$2M,Jonathan Kamin,Owner/Principal,N/A,N/A,https://preferreddigitalsolutions.com
+The Marketing Machine,Raleigh,NC,Raleigh NC,Digital Marketing Agencies,10,$1M-$3M,Paul,Owner,N/A,N/A,https://www.themmachine.com
+Holladay Dermatology & Aesthetics,Salt Lake City,UT,Salt Lake City UT,Dermatology,10,$1M-$3M,Dr. Robert Topham,Owner/Physician,N/A,N/A,https://www.holladaydermatology.com
+Bahr Dermatology,Bountiful,UT,Salt Lake City UT,Dermatology,8,$1M-$2M,Dr. Brooks A. Bahr,Owner/Physician,N/A,N/A,https://www.bahrdermatology.com
+Swinyer Woseth Dermatology,Salt Lake City,UT,Salt Lake City UT,Dermatology,12,$2M-$5M,Dr. Woseth,Owner/Physician,N/A,N/A,https://www.dwoseth.com
+Jensen Dermatology,Salt Lake City,UT,Salt Lake City UT,Dermatology,8,$1M-$2M,Dr. Joseph D. Jensen,Owner/Physician,N/A,N/A,https://www.jensenderm.com
+Dad's Garage Auto Repair,Las Vegas,NV,Las Vegas NV,Auto Repair Shops,6,$500K-$1M,Wayne,Owner,(702) 880-0992,N/A,https://dadsgaragerepair.com
+Kensington Motor Cars,Las Vegas,NV,Las Vegas NV,Auto Repair Shops,8,$1M-$2M,Andrew,Owner,N/A,N/A,https://kmcnv.com
+Vegas Auto Repair,Las Vegas,NV,Las Vegas NV,Auto Repair Shops,5,$500K-$1M,Vitali C.,Owner,(702) 337-4440,N/A,N/A
+Desert Oasis European Auto Service,Las Vegas,NV,Las Vegas NV,Auto Repair Shops,7,$1M-$2M,Armando,Owner,702-255-4090,N/A,https://desertoasisautorepair.com
+Merdzic Transportation Services,Jacksonville,FL,Jacksonville FL,Freight Brokerages,10,$2M-$5M,N/A,Owner,N/A,N/A,https://www.merdzic.com
+Jax Logistics,Jacksonville,FL,Jacksonville FL,Freight Brokerages,8,$1M-$3M,N/A,Owner,N/A,N/A,https://jaxlog.com
+Taddeo Logistics,Jacksonville,FL,Jacksonville FL,Freight Brokerages,6,$1M-$2M,N/A,Owner,N/A,N/A,https://taddeologistics.com
+Alamo City Cleaning,San Antonio,TX,San Antonio TX,Commercial Cleaning,12,$1M-$3M,N/A,Owner,N/A,N/A,https://alamocitycleaning.com
+J&J Commercial Cleaning LLC,San Antonio,TX,San Antonio TX,Commercial Cleaning,8,$500K-$1M,N/A,Owner,N/A,N/A,https://jjcommercial-cleaning.com
+System4 of San Antonio,San Antonio,TX,San Antonio TX,Commercial Cleaning,10,$1M-$3M,Dan McNinch,Owner,N/A,N/A,https://system4sanantonio.com
+Master Clean Services,San Antonio,TX,San Antonio TX,Commercial Cleaning,15,$1M-$3M,N/A,Owner,N/A,N/A,https://www.masterclean-sa.com
+Rodriguez Commercial Cleaning,San Antonio,TX,San Antonio TX,Commercial Cleaning,12,$1M-$2M,N/A,Owner,N/A,N/A,https://www.rccstexas.com
+Todd Littlehales Custom Metal Fabrication,Portland,OR,Portland OR,Metal Fabrication,5,$500K-$1M,Todd Littlehales,Owner,N/A,N/A,https://www.toddlittlehales.com
+Small Parts Manufacturing Co,Portland,OR,Portland OR,Machine Shops,10,$1M-$3M,Mert Rockney Jr.,Owner,N/A,N/A,https://machiningcompany.com
+Evergreen Machine Works,Portland,OR,Portland OR,Machine Shops,8,$1M-$2M,N/A,Owner,N/A,N/A,https://evergreenhatchworks.com
+Pinnacle Metal Works,Portland,OR,Portland OR,Metal Fabrication,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.pinnaclemetalworks.com
+Mathews Mechanical,Seattle,WA,Seattle WA,Metal Fabrication,12,$2M-$5M,Jeff Mathews,Owner,N/A,N/A,https://mathmec.com
+Evergreen Wealth Management,Seattle,WA,Seattle WA,Wealth Management,8,$1M-$3M,David Stanfield,Founder,N/A,N/A,https://ewealthmanage.com
+Ignite Financial Planning,Seattle,WA,Seattle WA,Financial Advisory,5,$500K-$1M,Riley Poppy,Founder,N/A,N/A,N/A
+Leonard Rickey Investment Advisors,Seattle,WA,Seattle WA,Financial Advisory,8,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Mauldin Heinrich Chiropractic,Austin,TX,Austin TX,Chiropractic Clinics,6,$500K-$1M,Dr. Kimberly Mauldin Heinrich,Owner/Physician,N/A,info@mauldinheinrich.com,https://mauldinheinrich.com
+Smith Family Chiropractic,Austin,TX,Austin TX,Chiropractic Clinics,5,$500K-$1M,Dr. Joshua Bonine,Owner/Physician,(512) 892-0544,N/A,https://smithchiropracticaustin.com
+Austin Chiropractic & Acupuncture,Austin,TX,Austin TX,Chiropractic Clinics,6,$500K-$1M,Dr. Justin Swanson,Owner/Physician,N/A,N/A,N/A
+SEO Werkz,Salt Lake City,UT,Salt Lake City UT,SEO Agencies,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.seowerkz.com
+Titan Web Agency,Salt Lake City,UT,Salt Lake City UT,SEO Agencies,8,$1M-$2M,Tyson,Owner,N/A,N/A,https://titanwebagency.com
+Sebo Marketing,Salt Lake City,UT,Salt Lake City UT,SEO Agencies,6,$500K-$1M,N/A,Owner,N/A,N/A,https://sebomarketing.com
+Capital Collision,Raleigh,NC,Raleigh NC,Collision Repair,10,$1M-$3M,Randy and Barbara,Owners,(919) 231-7270,N/A,https://capitalcollisionraleighnc.com
+Duke Collision,Raleigh,NC,Raleigh NC,Collision Repair,8,$1M-$2M,N/A,Owner,N/A,N/A,https://dukecollision.com
+John's Collision Center,Raleigh,NC,Raleigh NC,Collision Repair,7,$1M-$2M,John,Owner,N/A,N/A,http://johnscollisioncenter.net
+Granny Nannies of Jacksonville,Jacksonville,FL,Jacksonville FL,Senior Care Services,12,$1M-$3M,Bruce Troll,Founder,(904) 886-4663,N/A,https://grannynannies.com/jacksonville
+Comfort Keepers Jacksonville,Jacksonville,FL,Jacksonville FL,Senior Care Services,15,$1M-$3M,Kathryn Murphy,Owner,(904) 230-9220,N/A,https://www.comfortkeepers.com/offices/florida/jacksonville
+All At Home Healthcare,Jacksonville,FL,Jacksonville FL,Home Health Agencies,10,$1M-$2M,Jennifer,Owner,(904) 551-6942,N/A,https://allathomecare.com
+Amada Senior Care Jacksonville,Jacksonville,FL,Jacksonville FL,Senior Care Services,10,$1M-$3M,Neeta and Tom Nicholson,Owners,N/A,N/A,https://www.amadaseniorcare.com/jacksonville-senior-care
+Nevada Eye Care Optometry,Las Vegas,NV,Las Vegas NV,Optometry,6,$500K-$1M,Dr. Doris Wong,Owner/Physician,N/A,N/A,https://www.nevadaeyecareoptometry.com
+Eyes & Optics Ltd,Las Vegas,NV,Las Vegas NV,Optometry,5,$500K-$1M,Edward Joseph Malik,Founder,N/A,N/A,https://eyesdts.com
+Karl M Larsen OD,Las Vegas,NV,Las Vegas NV,Optometry,5,$500K-$1M,Dr. Karl Larsen,Owner/Physician,N/A,N/A,https://www.karlmlarsenod.com
+Revive Works PDX,Portland,OR,Portland OR,Remodeling Contractors,8,$1M-$3M,Alan Pierce,Owner,N/A,N/A,https://www.reviveworkspdx.com
+Steiner Remodel,Portland,OR,Portland OR,Remodeling Contractors,6,$1M-$2M,Tim Steiner,Owner,N/A,N/A,https://www.steinerremodel.com
+THE Remodel Group,Portland,OR,Portland OR,Remodeling Contractors,8,$1M-$3M,Steve,Owner,(503) 869-1290,N/A,https://theremodelgroup.com
+Craftworks Home Remodeling,Portland,OR,Portland OR,Remodeling Contractors,6,$500K-$1M,Jason,Owner,(503) 970-3271,info@craftworkspdx.com,https://www.craftworkspdx.com
+Catalyst Construction,Portland,OR,Portland OR,Remodeling Contractors,7,$1M-$2M,Ryan,Owner,503-914-9146,N/A,https://www.catalystconstructionpdx.com
+Tim Savage Trucking,Salt Lake City,UT,Salt Lake City UT,Trucking Dispatch,8,$1M-$3M,Tim Savage,Owner,N/A,N/A,https://www.timsavagetrucking.net
+Godfrey Trucking,Salt Lake City,UT,Salt Lake City UT,Trucking Dispatch,12,$2M-$5M,N/A,Owner,N/A,N/A,https://www.godfreytrucking.com
+Double D Distribution,Salt Lake City,UT,Salt Lake City UT,Trucking Dispatch,10,$1M-$3M,N/A,Owner,N/A,N/A,https://doubleddistribution.com
+Cleanstart Janitorial,Seattle,WA,Seattle WA,Commercial Cleaning,15,$1M-$3M,Caleb,Owner,253-921-2593,caleb@thecleanstart.com,https://thecleanstart.com
+Seattle Commercial Cleaners,Seattle,WA,Seattle WA,Commercial Cleaning,8,$500K-$1M,N/A,Owner,(206) 755-2949,N/A,https://www.seattlecommercialcleaners.com
+Raleigh Wealth Solutions,Raleigh,NC,Raleigh NC,Wealth Management,6,$1M-$3M,Brian Raleigh,Founder,N/A,N/A,https://raleighwealthsolutions.com
+Olde Raleigh Financial Group,Raleigh,NC,Raleigh NC,Financial Advisory,8,$1M-$3M,N/A,Owner,N/A,N/A,https://www.olderaleighfinancial.com
+Erik's Automotive,San Antonio,TX,San Antonio TX,Auto Repair Shops,8,$1M-$2M,Erik Garcia,Owner,N/A,N/A,https://eriksautomotive.com
+Chad Miller Auto Care,San Antonio,TX,San Antonio TX,Auto Repair Shops,7,$1M-$2M,Chad Miller,Owner,N/A,N/A,https://cmautocare.com
+Auto Service Experts,San Antonio,TX,San Antonio TX,Auto Repair Shops,6,$500K-$1M,Carlos,Owner,N/A,N/A,https://www.autorepairsanantonio.com
+Larson's Automotive,San Antonio,TX,San Antonio TX,Auto Repair Shops,8,$1M-$2M,Pete Larson,Owner,N/A,N/A,https://larsonsautorepair.com
+Silva Family Automotive,San Antonio,TX,San Antonio TX,Auto Repair Shops,6,$500K-$1M,Rafael Silva,Owner,N/A,N/A,https://www.silvafamilyautomotive.com
+Seymour's Garage,San Antonio,TX,San Antonio TX,Auto Repair Shops,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.seymoursgarage.net
+Wingard,Jacksonville,FL,Jacksonville FL,Digital Marketing Agencies,15,$2M-$5M,N/A,Owner,904-387-2570,hello@wearewingard.com,https://www.wearewingard.com
+Dion Marketing,Jacksonville,FL,Jacksonville FL,Digital Marketing Agencies,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.dionmarketing.com
+Kairos Digital,Jacksonville,FL,Jacksonville FL,Digital Marketing Agencies,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.kairosdigital.com
+Defining Dermatology,Portland,OR,Portland OR,Dermatology,6,$1M-$2M,Dr. Omar N. Qutub,Founder/Physician,N/A,N/A,https://definingdermatology.com
+Reed Dermatology Northwest,Portland,OR,Portland OR,Dermatology,5,$500K-$1M,Dr. Stacy N. Reed,Owner/Physician,N/A,N/A,https://reedmd.com
+Visiting Angels Las Vegas,Las Vegas,NV,Las Vegas NV,Senior Care Services,15,$1M-$3M,Michael DiAsio,Owner,N/A,N/A,https://www.visitingangels.com/vegas/home
+PHS Home Health,Las Vegas,NV,Las Vegas NV,Home Health Agencies,12,$1M-$3M,N/A,Owner,N/A,N/A,https://phsvegas.com
+South Austin Metals,Austin,TX,Austin TX,Metal Fabrication,8,$1M-$2M,Brian Keyes,Owner,N/A,N/A,https://southaustinmetals.com
+Austin Metal Fabrication,Austin,TX,Austin TX,Metal Fabrication,6,$500K-$1M,Erik Vitela,Founder,N/A,N/A,https://austinmetalfab.com
+Statewide Construction LLC,Raleigh,NC,Raleigh NC,General Contractors,8,$1M-$3M,Clay Curtis,Owner,N/A,N/A,https://statewideconstructionllc.com
+Solid Builders,Cary,NC,Raleigh NC,General Contractors,6,$1M-$2M,Aaron Miller,Owner,N/A,N/A,http://www.solidbuildersonline.com
+West Seattle Chiropractic,Seattle,WA,Seattle WA,Chiropractic Clinics,5,$500K-$1M,Dr. Barkley,Owner/Physician,N/A,N/A,https://www.westseachiro.com
+Greenwood Chiropractic Clinic,Seattle,WA,Seattle WA,Chiropractic Clinics,5,$500K-$1M,Michael Arsheed,Owner/Physician,N/A,N/A,N/A
+Emerald City Spinal Care,Seattle,WA,Seattle WA,Chiropractic Clinics,5,$500K-$1M,Dr. Christine Zapata,Owner/Physician,N/A,N/A,https://www.emeraldcityspinal.com
+Peggy's Cleaning Service LLC,Las Vegas,NV,Las Vegas NV,Commercial Cleaning,8,$500K-$1M,Peggy,Owner,N/A,N/A,https://peggyscleaningservice.com
+Makai Commercial Services,Las Vegas,NV,Las Vegas NV,Commercial Cleaning,10,$1M-$2M,Joe,Owner,N/A,N/A,https://makaicommercial.com
+Green Clean Commercial Cleaning,Las Vegas,NV,Las Vegas NV,Commercial Cleaning,6,$500K-$1M,N/A,Owner,N/A,N/A,https://greencleancs.com
+Reynolds Private Wealth Management,Austin,TX,Austin TX,Wealth Management,5,$500K-$1M,Michelle Reynolds,Founder/Owner,N/A,N/A,https://www.reynoldsprivatewealthmanagement.com
+Austin Wealth Specialists,Austin,TX,Austin TX,Wealth Management,6,$1M-$2M,Keith Powell,Senior Partner/Owner,N/A,N/A,https://austinwealthspecialists.com
+Professional Auto Body & Paint (Propdx),Portland,OR,Portland OR,Collision Repair,8,$1M-$2M,Nancy,Owner,N/A,N/A,https://www.propdx.net
+Speed's Auto Body,Portland,OR,Portland OR,Collision Repair,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.speedsautobody.com
+VIP Collision Center,Portland,OR,Portland OR,Collision Repair,8,$1M-$2M,N/A,Owner,N/A,N/A,https://vipcollision.com
+Rudd Builders,Salt Lake City,UT,Salt Lake City UT,Remodeling Contractors,8,$1M-$3M,Paul,Owner,N/A,N/A,https://saltlakecitycontractors.com
+Top Dog General Contractor,Salt Lake City,UT,Salt Lake City UT,General Contractors,10,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+Renovation Brothers,Salt Lake City,UT,Salt Lake City UT,Remodeling Contractors,8,$1M-$3M,N/A,Owner,N/A,N/A,https://www.renovationbrothers.com
+Acute SEO,Las Vegas,NV,Las Vegas NV,SEO Agencies,8,$1M-$2M,Derrick,Owner,N/A,N/A,https://acuteseo.com
+K2 Analytics,Las Vegas,NV,Las Vegas NV,Digital Marketing Agencies,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.k2analytics.com
+Rankterprise,Las Vegas,NV,Las Vegas NV,SEO Agencies,6,$500K-$1M,N/A,Owner,N/A,N/A,https://rankterprise.com
+Carolina Optometry Associates,Raleigh,NC,Raleigh NC,Optometry,8,$1M-$2M,Dr. Andrew Graves,Owner/Physician,N/A,N/A,https://carolinaoptometry.com
+TrueVision Eye Care,Raleigh,NC,Raleigh NC,Optometry,6,$500K-$1M,Alecia Barnes,Founder/Physician,N/A,N/A,https://truevisioneye.com
+Village Eye Care,Raleigh,NC,Raleigh NC,Optometry,5,$500K-$1M,Dr. Chris Bateman,Owner/Physician,N/A,N/A,https://www.villageeyecareod.com
+Midtown Optometry,Raleigh,NC,Raleigh NC,Optometry,5,$500K-$1M,Dr. Keel Godwin,Owner/Physician,N/A,N/A,https://www.midtownoptometrync.com
+Austin Freight Systems,Austin,TX,Austin TX,Freight Brokerages,15,$3M-$7M,N/A,Owner,N/A,N/A,https://austinfreight.com
+DOXA LLC,Austin,TX,Austin TX,Trucking Dispatch,10,$2M-$5M,N/A,Owner,N/A,N/A,https://doxallc.net
+A&K Machine and Fabrication,Jacksonville,FL,Jacksonville FL,Machine Shops,10,$1M-$3M,N/A,Owner,N/A,N/A,https://akmachinefab.wordpress.com
+Ferber Sheet Metal Works,Jacksonville,FL,Jacksonville FL,Metal Fabrication,15,$2M-$5M,George Ferber,CEO,N/A,N/A,http://ferbersmw.com
+Williamson Machine,Jacksonville,FL,Jacksonville FL,Machine Shops,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.williamson-machine.com
+GMG Construction,San Antonio,TX,San Antonio TX,General Contractors,8,$1M-$3M,N/A,Owner,N/A,N/A,https://gmgconstructionsouthtexas.com
+Virtuoso Builders,San Antonio,TX,San Antonio TX,Remodeling Contractors,8,$1M-$3M,Mike and Molly Sowry,Owners,N/A,N/A,N/A
+Carrisal Construction,San Antonio,TX,San Antonio TX,General Contractors,6,$500K-$1M,CC Carrisal,Owner,N/A,N/A,N/A
+Always Best Care Seattle,Seattle,WA,Seattle WA,Senior Care Services,15,$1M-$3M,Sarah Cave,Owner,N/A,N/A,https://alwaysbestcare.com/seattle
+Family Best Care,Seattle,WA,Seattle WA,Senior Care Services,8,$500K-$1M,Abigael,Owner,N/A,N/A,https://familybestcare.com
+With A Little Help,Seattle,WA,Seattle WA,Senior Care Services,12,$1M-$3M,N/A,Owner,N/A,N/A,https://withalittlehelp.com
+Utah State Collision Automotive,North Salt Lake,UT,Salt Lake City UT,Collision Repair,6,$500K-$1M,N/A,Owner,N/A,N/A,https://utahstatecollisionllc.com
+Chris Auto Body Repair,Salt Lake City,UT,Salt Lake City UT,Collision Repair,8,$1M-$2M,Chris,Owner,N/A,N/A,https://www.saltlakeautobodyrepair.com
+Roses Auto Body,Murray,UT,Salt Lake City UT,Collision Repair,6,$500K-$1M,N/A,Owner,N/A,N/A,https://www.rosesautobodyut.com
+Oregon Web Solutions,Portland,OR,Portland OR,Digital Marketing Agencies,10,$1M-$3M,Seth and Matt,Owners,N/A,N/A,https://www.oregonwebsolutions.com
+NewSunSEO,Portland,OR,Portland OR,SEO Agencies,6,$500K-$1M,N/A,Owner,N/A,N/A,https://newsunseo.com
+Gorilla Agency,Portland,OR,Portland OR,Digital Marketing Agencies,8,$1M-$2M,Nieco,Owner,N/A,N/A,https://www.gorillaagency.com
+Seven Bridges Chiropractic,Jacksonville,FL,Jacksonville FL,Chiropractic Clinics,6,$500K-$1M,Dr. Dalton Tolliver,Founder/Physician,N/A,N/A,https://sevenbridgeschiro.com
+Premier Chiropractic and Performance,Jacksonville,FL,Jacksonville FL,Chiropractic Clinics,5,$500K-$1M,Dr. Nicholas Schumacher,Owner/Physician,N/A,N/A,https://www.premierchirojax.com
+Doc Tony Clinics,Jacksonville,FL,Jacksonville FL,Chiropractic Clinics,8,$1M-$2M,Dr. Anthony Crothers,Owner,N/A,N/A,https://doctony.com
+Las Vegas Remodel and Construction,Henderson,NV,Las Vegas NV,Remodeling Contractors,10,$2M-$5M,Brett Primack,Owner,N/A,N/A,https://firedamagevegas.com
+Jerezee Construction,Las Vegas,NV,Las Vegas NV,General Contractors,8,$1M-$3M,Roye Ergas and Ilan Sandler,Owners,N/A,N/A,N/A
+Tajo-One,Las Vegas,NV,Las Vegas NV,General Contractors,6,$1M-$2M,Andy Steinborn,Owner,N/A,N/A,N/A
+JKL Development,Las Vegas,NV,Las Vegas NV,General Contractors,8,$1M-$3M,Jeff Lewis,Owner,N/A,N/A,N/A
+Blink Facility Solutions,Raleigh,NC,Raleigh NC,Commercial Cleaning,12,$1M-$3M,Todd Knight,Owner,N/A,N/A,https://www.blinkfacilitysolutions.com
+JCM Cleaning Service,Raleigh,NC,Raleigh NC,Commercial Cleaning,8,$500K-$1M,N/A,Owner,N/A,N/A,https://www.jcmcleaningnc.com
+Jacksonville Wealth Management,Jacksonville,FL,Jacksonville FL,Wealth Management,8,$1M-$3M,Daniel Ciez,President/Owner,N/A,N/A,N/A
+B&C Financial,Jacksonville,FL,Jacksonville FL,Financial Advisory,6,$1M-$2M,N/A,Owner,N/A,N/A,https://bandcfinancial.com
+Riverplace Capital,Jacksonville,FL,Jacksonville FL,Wealth Management,10,$2M-$5M,N/A,Owner,N/A,N/A,https://riverplacecapital.com
+Right at Home Salt Lake City,Salt Lake City,UT,Salt Lake City UT,Senior Care Services,15,$1M-$3M,Frank Barton,Owner,N/A,N/A,https://www.rightathome.net/salt-lake-central
+Amada Senior Care Salt Lake,Salt Lake City,UT,Salt Lake City UT,Senior Care Services,10,$1M-$3M,Dave Bean,Owner,N/A,N/A,https://www.amadaseniorcare.com/salt-lake-city-senior-care
+McCormick Vision Source,Austin,TX,Austin TX,Optometry,8,$1M-$2M,Dr. Michael McCormick,Owner/Physician,N/A,N/A,https://www.mccormickvision.com
+Austin Optometry Group,Austin,TX,Austin TX,Optometry,6,$500K-$1M,Dr. Aaron T. Wolf,Owner/Physician,N/A,N/A,https://www.austinoptometrygrp.com
+Austin Eye Studio,Austin,TX,Austin TX,Optometry,5,$500K-$1M,Emily Simonek,Owner/Physician,N/A,N/A,https://austineyestudio.com
+Eye Capitol,Austin,TX,Austin TX,Optometry,5,$500K-$1M,Dr. Michael Chavez,Owner/Physician,N/A,N/A,https://www.eyecapitol.com
+Southwest Vision,Austin,TX,Austin TX,Optometry,8,$1M-$2M,Dr. Yousef,Owner/Physician,N/A,N/A,https://southwestvisionaustin.com
+Smarter Remodeling,Jacksonville,FL,Jacksonville FL,Remodeling Contractors,8,$1M-$3M,Fabian,Owner,N/A,N/A,https://generalcontractorjax.com
+Cornelius Construction,Jacksonville,FL,Jacksonville FL,General Contractors,10,$2M-$5M,Peggy Cornelius,Owner,N/A,N/A,https://www.corneliusconstruction.com
+McFarland Builders,Jacksonville,FL,Jacksonville FL,General Contractors,8,$1M-$3M,N/A,Owner,N/A,N/A,https://www.general-contractor-jacksonville.com
+JLC Construction,Jacksonville,FL,Jacksonville FL,General Contractors,7,$1M-$2M,John K. Leynes,Owner,N/A,N/A,N/A
+Thomas Dermatology,Las Vegas,NV,Las Vegas NV,Dermatology,10,$2M-$5M,Dr. Douglas Thomas,Founder/Physician,N/A,N/A,https://thomasderm.com
+Summerlin Dermatology,Las Vegas,NV,Las Vegas NV,Dermatology,10,$2M-$5M,Dr. Reuel Aspacio,Founder/Medical Director,N/A,N/A,https://www.summerlinderm.com
+Linda Woodson Dermatology,Las Vegas,NV,Las Vegas NV,Dermatology,6,$1M-$2M,Dr. Linda Woodson,Owner/Physician,N/A,N/A,https://www.lindawoodsondermatology.com
+Strimling Dermatology,Las Vegas,NV,Las Vegas NV,Dermatology,8,$1M-$3M,Dr. Robert Strimling,Owner/Physician,N/A,N/A,https://www.vegasdermatology.net
+DeGrazia's Auto Body,Seattle,WA,Seattle WA,Collision Repair,6,$500K-$1M,Tom DeGrazia,Owner,N/A,N/A,https://www.degraziaautobody.com
+Johnson's Auto Repair,Seattle,WA,Seattle WA,Auto Repair Shops,8,$1M-$2M,Jeff Johnson,Owner,N/A,N/A,https://www.johnsonsautorepair.net
+Larry's Volvo,Seattle,WA,Seattle WA,Auto Repair Shops,7,$1M-$2M,Warren Moy,Owner,N/A,N/A,https://www.larrysvolvo.com
+No. 1 Japanese Auto Repair,Seattle,WA,Seattle WA,Auto Repair Shops,6,$500K-$1M,Tony,Owner,N/A,N/A,http://www.numberonejapanese.com
+XOPDX Commercial Cleaning,Portland,OR,Portland OR,Commercial Cleaning,8,$500K-$1M,N/A,Owner,N/A,N/A,https://www.xopdx.com
+Nexus Commercial Cleaning,Portland,OR,Portland OR,Commercial Cleaning,10,$1M-$2M,N/A,Owner,N/A,N/A,https://nexuscommercialcleaning.com
+Texas Toolmakers Inc,San Antonio,TX,San Antonio TX,Machine Shops,15,$3M-$7M,N/A,Owner,210-494-3651,N/A,https://www.txtoolmakers.com
+Joe's Industrial Machine Shop,San Antonio,TX,San Antonio TX,Machine Shops,8,$1M-$2M,Joe,Owner,210-359-7500,N/A,https://www.joesindustrialmachineshop.com
+Texas Sheet Metal,San Antonio,TX,San Antonio TX,Metal Fabrication,12,$2M-$5M,N/A,Owner,N/A,N/A,https://www.texassheetmetal.com
+ACT Express Fabrication,San Antonio,TX,San Antonio TX,Metal Fabrication,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.expressfabrication.com
+Legacy Wealth Management Group,Las Vegas,NV,Las Vegas NV,Wealth Management,6,$1M-$3M,Greg Feese,Owner,N/A,N/A,https://www.legacywmglv.com
+Redrock Wealth Management,Las Vegas,NV,Las Vegas NV,Financial Advisory,8,$1M-$3M,N/A,Owner,N/A,N/A,https://redrockwealth.com
+Revelus Dermatology,Austin,TX,Austin TX,Dermatology,8,$1M-$2M,Dr. Blakely Richardson,Owner/Physician,N/A,N/A,https://revelusdermatology.com
+Tru-Skin Dermatology,Austin,TX,Austin TX,Dermatology,15,$3M-$7M,Dr. Daniel J. Ladd Jr.,Founder/Medical Director,N/A,N/A,https://www.tru-skin.com
+Central Texas Dermatology,Austin,TX,Austin TX,Dermatology,8,$1M-$2M,Dr. Emily Prosise,Owner/Physician,N/A,N/A,https://www.centexderm.com
+AUSTIN SKIN,Austin,TX,Austin TX,Dermatology,8,$1M-$2M,Dr. Kristina Collins and Dr. Sarah Gee,Co-Founders,N/A,N/A,https://www.austinskinphysicians.com
+Fleet Concepts,Portland,OR,Portland OR,Freight Brokerages,10,$2M-$5M,N/A,Owner,N/A,N/A,https://fleetconcepts.com
+B4 Logistics,Portland,OR,Portland OR,Freight Brokerages,8,$1M-$3M,Brad Bergstrom,Founder,N/A,N/A,https://b4logistics.com
+Rose City Transportation,Portland,OR,Portland OR,Trucking Dispatch,15,$3M-$7M,N/A,Owner,N/A,N/A,https://www.rosecitytransinc.com
+Funnel Boost Media,San Antonio,TX,San Antonio TX,Digital Marketing Agencies,10,$1M-$3M,Jacob,Director,N/A,N/A,https://www.funnelboostmedia.net
+The Social Being,San Antonio,TX,San Antonio TX,Digital Marketing Agencies,8,$1M-$2M,Veronica Morales,Owner,N/A,N/A,https://thesocialbeing.com
+Red Rattler Creative,San Antonio,TX,San Antonio TX,Digital Marketing Agencies,6,$500K-$1M,N/A,Owner,N/A,N/A,https://redrattlercreative.com
+Pear Analytics,San Antonio,TX,San Antonio TX,SEO Agencies,8,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Autolife,Raleigh,NC,Raleigh NC,Auto Repair Shops,6,$500K-$1M,Donnie,Owner,N/A,N/A,https://autoliferaleighnc.com
+Triangle Car Care,Raleigh,NC,Raleigh NC,Auto Repair Shops,8,$1M-$2M,Bobby Dunn,Owner,N/A,N/A,https://www.trianglecarcare.com
+Brown's Alignment Brake & Auto Repair,Raleigh,NC,Raleigh NC,Auto Repair Shops,7,$1M-$2M,N/A,Owner,N/A,N/A,https://brownsalignment.com
+Creech Import Repair,Raleigh,NC,Raleigh NC,Auto Repair Shops,6,$500K-$1M,N/A,Owner,N/A,N/A,https://www.creechimport.com
+ChiropracTED,Las Vegas,NV,Las Vegas NV,Chiropractic Clinics,5,$500K-$1M,Dr. Teddy Sim,Owner/Physician,N/A,N/A,https://chiropracted.com
+Wise Chiropractic Inc,Las Vegas,NV,Las Vegas NV,Chiropractic Clinics,5,$500K-$1M,Jon Wise,Owner/Physician,N/A,N/A,https://wisechiropractor.com
+Wright Chiropractic,Las Vegas,NV,Las Vegas NV,Chiropractic Clinics,6,$500K-$1M,Dr. Loren Wright,Owner/Physician,N/A,N/A,https://www.wrightclinic.com
+Right at Home Wake County,Raleigh,NC,Raleigh NC,Senior Care Services,15,$1M-$3M,Ken Helmuth,Owner,N/A,N/A,https://www.rightathome.net/wake
+HomeChoice Home Care,Raleigh,NC,Raleigh NC,Senior Care Services,12,$1M-$3M,Brian and Jennifer Perruccio,Owners,N/A,N/A,https://www.homechoicehomecare.com
+Amada Senior Care Raleigh,Raleigh,NC,Raleigh NC,Senior Care Services,10,$1M-$3M,Tracy Dew Eidson,Owner,N/A,N/A,https://www.amadaseniorcare.com/raleigh-senior-care
+Accessible Home Healthcare,Raleigh,NC,Raleigh NC,Home Health Agencies,10,$1M-$2M,Tony Callaway,Owner,N/A,N/A,https://www.accessiblehomehealthcare.com/raleigh-mid-carolina-nc
+Wilson Machine Works,Seattle,WA,Seattle WA,Machine Shops,8,$1M-$3M,N/A,Owner,N/A,N/A,http://wilsonmachineworksseattle.com
+Ballard Marine Fabricators,Seattle,WA,Seattle WA,Metal Fabrication,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.ballardmarinefabricators.com
+Service Welding,Seattle,WA,Seattle WA,Metal Fabrication,12,$2M-$5M,N/A,Owner,N/A,N/A,https://servicewelding.com
+Presidio Wealth Management,Salt Lake City,UT,Salt Lake City UT,Wealth Management,8,$1M-$3M,N/A,Owner,N/A,N/A,https://www.presidiowealth.com
+Solidarity Wealth,Salt Lake City,UT,Salt Lake City UT,Wealth Management,6,$1M-$3M,N/A,Owner,N/A,N/A,https://solidaritywealth.com
+Lefavi Wealth Management,Salt Lake City,UT,Salt Lake City UT,Wealth Management,8,$1M-$3M,N/A,Owner,N/A,N/A,https://lefavi.com
+Wingfoot Services,Salt Lake City,UT,Salt Lake City UT,Commercial Cleaning,12,$1M-$3M,N/A,Owner,N/A,N/A,https://wingfootservices.com
+Peterson Chiropractic,San Antonio,TX,San Antonio TX,Chiropractic Clinics,6,$500K-$1M,Dr. Tim Peterson,Owner/Physician,N/A,N/A,https://www.petersonchiropractic.org
+Empowered Chiropractic + Massage,San Antonio,TX,San Antonio TX,Chiropractic Clinics,6,$500K-$1M,Dr. Erica Hernandez,Owner/Founder,N/A,N/A,https://empoweredcm.com
+South Texas Chiropractic,San Antonio,TX,San Antonio TX,Chiropractic Clinics,8,$1M-$2M,Dr. David A. Kling,Owner/Founder,N/A,N/A,https://www.stxchiro.com
+Essence Chiropractic & Wellness,San Antonio,TX,San Antonio TX,Chiropractic Clinics,5,$500K-$1M,Dr. Shabnam Ashtiani,Owner/Physician,N/A,N/A,https://www.essence-chiro.com
+Jacksonville Dermatology Associates,Jacksonville,FL,Jacksonville FL,Dermatology,10,$2M-$5M,Dr. Tricia Andrews,Founder/Physician,N/A,N/A,https://www.jaxdermatology.com
+NC Dermatology Associates,Raleigh,NC,Raleigh NC,Dermatology,15,$3M-$7M,Dr. Vikas Patel,Director/Physician,N/A,N/A,https://www.ncdaskin.com
+Blue Ridge Dermatology,Raleigh,NC,Raleigh NC,Dermatology,8,$1M-$3M,N/A,Owner,N/A,N/A,https://brdermnc.com
+San Antonio Broker Services (Sabrokers),San Antonio,TX,San Antonio TX,Freight Brokerages,15,$3M-$7M,N/A,Owner,N/A,N/A,https://www.satrucking.com
+Micar Fabrication & Design,Las Vegas,NV,Las Vegas NV,Machine Shops,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.micarfabrication.com
+Sick Fab LLC,Las Vegas,NV,Las Vegas NV,Metal Fabrication,6,$500K-$1M,N/A,Owner,N/A,N/A,https://sickfab.com
+AMC Custom Metal Fabrication,Las Vegas,NV,Las Vegas NV,Metal Fabrication,10,$1M-$3M,Matt Parnello,President,N/A,N/A,https://amcfab.com
+Las Vegas Fabrication Syndicate,Las Vegas,NV,Las Vegas NV,Metal Fabrication,6,$500K-$1M,Mike,Owner,N/A,N/A,https://fabricationsyndicate.com
+A & N Custom Fabrication,Las Vegas,NV,Las Vegas NV,Metal Fabrication,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.vegascustomfab.com
+Precision Machine Fabrication,Raleigh,NC,Raleigh NC,Metal Fabrication,15,$3M-$7M,N/A,Owner,N/A,N/A,https://pmfweb.com
+Magnuson Metals,Salt Lake City,UT,Salt Lake City UT,Metal Fabrication,10,$1M-$3M,N/A,Owner,N/A,N/A,https://magnusonmetals.com
+Precision Balance & Machine,Salt Lake City,UT,Salt Lake City UT,Machine Shops,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.pbmiut.com
+C Fast Optometry,Seattle,WA,Seattle WA,Optometry,5,$500K-$1M,Dr. Christina Fast,Owner/Physician,N/A,N/A,https://www.cfasteyes.com
+Roosevelt Vision,Seattle,WA,Seattle WA,Optometry,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.rooseveltvision.com
+Spex in the City,Seattle,WA,Seattle WA,Optometry,5,$500K-$1M,N/A,Owner/Physician,N/A,N/A,https://www.spexinthe.city
+Elite Vision Clinic,San Antonio,TX,San Antonio TX,Optometry,5,$500K-$1M,N/A,Owner/Physician,N/A,N/A,https://elitevisionclinic.com
+San Antonio Eyeworks,San Antonio,TX,San Antonio TX,Optometry,5,$500K-$1M,N/A,Owner/Physician,N/A,N/A,http://saeyeworks.com
+Broadway Eye Clinic,Salt Lake City,UT,Salt Lake City UT,Optometry,6,$500K-$1M,N/A,Owner/Physician,N/A,N/A,https://www.visionsource-broadway.com
+Sunview Collision,Jacksonville,FL,Jacksonville FL,Collision Repair,8,$1M-$2M,Mark,Owner,N/A,N/A,https://sunviewcollision.com
+San Jose Collision,Jacksonville,FL,Jacksonville FL,Collision Repair,6,$500K-$1M,N/A,Owner,N/A,N/A,https://www.sanjosecollisionjax.com
+Novix Autobody,Jacksonville,FL,Jacksonville FL,Collision Repair,8,$1M-$2M,N/A,Owner,N/A,N/A,https://novixautobody.com
+U First Auto Body,Austin,TX,Austin TX,Collision Repair,6,$500K-$1M,N/A,Owner,N/A,N/A,https://ufirstautobody.com
+Qualitek Auto Body,Austin,TX,Austin TX,Collision Repair,7,$1M-$2M,Eddie,Owner,N/A,N/A,https://www.qualitekautobodyaustin.com
+Capitol Home Health,Austin,TX,Austin TX,Home Health Agencies,15,$2M-$5M,The Shults Family,Owners,N/A,N/A,https://capitolhomehealthcare.com
+Progressive Home Health,Buda,TX,Austin TX,Home Health Agencies,20,$3M-$7M,N/A,Owner,N/A,N/A,http://progressivehome.net
+Home Nursing & Therapy Services,San Antonio,TX,San Antonio TX,Home Health Agencies,12,$1M-$3M,N/A,Owner,N/A,N/A,https://www.hnts.org
+Legacy Home Health Agency,San Antonio,TX,San Antonio TX,Home Health Agencies,10,$1M-$2M,N/A,Owner,N/A,N/A,https://www.legacyhhc.com
+I AM Mechanics,Las Vegas,NV,Las Vegas NV,Auto Repair Shops,6,$500K-$1M,N/A,Owner,(702) 812-9824,N/A,https://www.iammechanicslv.com
+German Motors,Las Vegas,NV,Las Vegas NV,Auto Repair Shops,7,$1M-$2M,N/A,Owner,702-696-0880,N/A,https://germanmotorslv.com
+Level Up Construction & Renovation,Seattle,WA,Seattle WA,Remodeling Contractors,8,$1M-$3M,N/A,Owner,425-657-6838,N/A,https://levelupcnr.com
+AZ Construction Solutions,Seattle,WA,Seattle WA,Remodeling Contractors,10,$2M-$5M,N/A,Owner,N/A,N/A,https://a-zremodeling.com
+Gaspar's Design Build Remodel,Seattle,WA,Seattle WA,Remodeling Contractors,12,$2M-$5M,N/A,Owner,N/A,N/A,https://www.gaspars.com
+Jenson General Contracting,Portland,OR,Portland OR,General Contractors,8,$1M-$3M,N/A,Owner,(503) 310-6844,N/A,https://jensoncontracting.com
+OnPoint Development,Portland,OR,Portland OR,Remodeling Contractors,8,$1M-$3M,N/A,Owner,N/A,N/A,https://www.onpointdevelop.com
+Brian Williams Dermatology,Salt Lake City,UT,Salt Lake City UT,Dermatology,6,$1M-$2M,Dr. Brian J. Williams,Owner/Physician,N/A,N/A,https://brianwilliamsdermatology.com
+Texstar Chiropractic,Austin,TX,Austin TX,Chiropractic Clinics,8,$1M-$2M,N/A,Owner,N/A,N/A,https://texstarchiropractic.com
+Optimal Wellness & Chiropractic,Austin,TX,Austin TX,Chiropractic Clinics,6,$500K-$1M,N/A,Owner,(512) 200-7065,N/A,https://www.optimalwellnesstx.com
+Husky Senior Care,Seattle,WA,Seattle WA,Senior Care Services,10,$1M-$2M,N/A,Owner,N/A,N/A,https://huskyseniorcare.com
+A Care Connection,Jacksonville,FL,Jacksonville FL,Home Health Agencies,8,$500K-$1M,N/A,Owner,N/A,N/A,https://acareconnection.com
+Caring Nurses,Las Vegas,NV,Las Vegas NV,Home Health Agencies,15,$2M-$5M,N/A,Owner,N/A,N/A,https://caringnurses.com
+Perspective Home Health,Las Vegas,NV,Las Vegas NV,Home Health Agencies,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.perspectivehomehealth.com
+Maslow Wealth Advisors,Austin,TX,Austin TX,Wealth Management,10,$2M-$5M,N/A,Owner,N/A,N/A,https://www.maslow-wealth.com
+Cornerstone Wealth Management,Las Vegas,NV,Las Vegas NV,Wealth Management,8,$1M-$3M,N/A,Owner,N/A,N/A,https://cornerstonevegas.com
+Bowers Private Wealth Management,Raleigh,NC,Raleigh NC,Wealth Management,5,$500K-$1M,N/A,Owner,N/A,N/A,https://www.bowersprivatewealthmanagement.com
+Financial Symmetry,Raleigh,NC,Raleigh NC,Financial Advisory,10,$2M-$5M,N/A,Owner,N/A,N/A,https://www.financialsymmetry.com
+David Price Construction,Raleigh,NC,Raleigh NC,General Contractors,10,$2M-$5M,David Price,Owner,N/A,N/A,https://www.davidpriceconstruction.com
+Carolina Design & Construction,Raleigh,NC,Raleigh NC,General Contractors,8,$1M-$3M,N/A,Owner,N/A,N/A,https://carolina-construction.com
+Howell Enterprises,San Antonio,TX,San Antonio TX,General Contractors,10,$2M-$5M,Trevor Howell,Owner,N/A,N/A,N/A
+Lifespan Home Improvements,Salt Lake City,UT,Salt Lake City UT,Remodeling Contractors,10,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+Utah SEO Pros,Salt Lake City,UT,Salt Lake City UT,SEO Agencies,6,$500K-$1M,Brandon,Owner,N/A,N/A,https://utahseopros.com
+Piperformance,Raleigh,NC,Raleigh NC,Collision Repair,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.impactcollisioncentersnc.com
+Schneider Auto Body & Paint,Salt Lake City,UT,Salt Lake City UT,Collision Repair,8,$1M-$2M,N/A,Owner,N/A,N/A,https://schneiderauto.net
+JP's Collision & RV Repair,Salt Lake City,UT,Salt Lake City UT,Collision Repair,6,$500K-$1M,JP,Owner,N/A,N/A,https://jpsrepair.com
+Keep It Clean,Portland,OR,Portland OR,Commercial Cleaning,8,$500K-$1M,Kim Jones,Owner,N/A,N/A,N/A
+Fast Solution Cleaning Maintenance,Portland,OR,Portland OR,Commercial Cleaning,8,$500K-$1M,N/A,Owner,N/A,N/A,N/A
+Pathmark Fabrication,Las Vegas,NV,Las Vegas NV,Metal Fabrication,8,$1M-$2M,N/A,Owner,N/A,N/A,https://pathmarkfabrication.com
+High Mark Machining,Salt Lake City,UT,Salt Lake City UT,Machine Shops,8,$1M-$2M,N/A,Owner,N/A,N/A,https://highmarkmachining.com
+Cypress Metals,Salt Lake City,UT,Salt Lake City UT,Metal Fabrication,10,$1M-$3M,N/A,Owner,N/A,N/A,https://www.cypressmetals.com
+Repair Revolution,Seattle,WA,Seattle WA,Auto Repair Shops,5,$500K-$1M,N/A,Owner,N/A,N/A,https://autorepairrevolution.com
+West Seattle Autoworks,Seattle,WA,Seattle WA,Auto Repair Shops,6,$500K-$1M,N/A,Owner,N/A,N/A,https://westseattleautoworks.com
+Ernie Lee's Service Center,Raleigh,NC,Raleigh NC,Auto Repair Shops,6,$500K-$1M,N/A,Owner,N/A,N/A,https://ernieleesservicecenter.com
+C & C Auto Service,Raleigh,NC,Raleigh NC,Auto Repair Shops,6,$500K-$1M,N/A,Owner,N/A,N/A,https://candcautoservice.com
+Vitality Family Chiropractic,Jacksonville,FL,Jacksonville FL,Chiropractic Clinics,5,$500K-$1M,N/A,Owner,N/A,N/A,https://vitalitycenterjax.com
+Physical Health Care,Jacksonville,FL,Jacksonville FL,Chiropractic Clinics,6,$500K-$1M,N/A,Owner,N/A,N/A,https://physicalhealthcarejax.com
+Golden Harmony,Raleigh,NC,Raleigh NC,Senior Care Services,8,$500K-$1M,N/A,Owner,N/A,N/A,https://www.goldenharmonync.com
+Affordable Family Care Services,Raleigh,NC,Raleigh NC,Senior Care Services,10,$1M-$2M,N/A,Owner,N/A,N/A,https://www.afcsnc.com
+Kris Chislett Design,Jacksonville,FL,Jacksonville FL,Digital Marketing Agencies,5,$500K-$1M,Kris Chislett,Owner,N/A,N/A,https://www.krischislett.com
+Elite Care Home Health,Las Vegas,NV,Las Vegas NV,Home Health Agencies,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.elitecarehomehealth.com
+UR FIRST Home Health,Las Vegas,NV,Las Vegas NV,Home Health Agencies,6,$500K-$1M,N/A,Owner,N/A,N/A,https://www.urfirsthomehealth.com
+Chile Media,San Antonio,TX,San Antonio TX,Digital Marketing Agencies,6,$500K-$1M,N/A,Owner,N/A,N/A,https://chilemedia.com
+2ten Marketing,San Antonio,TX,San Antonio TX,Digital Marketing Agencies,5,$500K-$1M,N/A,Owner,N/A,N/A,https://www.2tenmarketing.com
+Alleva Home Care,Seattle,WA,Seattle WA,Senior Care Services,10,$1M-$2M,N/A,Owner,N/A,N/A,https://www.allevahomecare.com
+Connected Home Health,Portland,OR,Portland OR,Home Health Agencies,12,$1M-$3M,N/A,Owner,N/A,N/A,https://connectedhh.com
+Waggoner Manufacturing,Austin,TX,Austin TX,Metal Fabrication,12,$2M-$5M,N/A,Owner,N/A,N/A,https://waggonermanufacturing.com
+RichardSean Construction,Jacksonville,FL,Jacksonville FL,Remodeling Contractors,8,$1M-$3M,Richard Fulmer,Owner,N/A,N/A,N/A
+Kennan's Auto Repair,Raleigh,NC,Raleigh NC,Auto Repair Shops,6,$500K-$1M,N/A,Owner,N/A,N/A,https://www.kennansautorepair.net
+North Raleigh Automotive,Raleigh,NC,Raleigh NC,Auto Repair Shops,7,$1M-$2M,N/A,Owner,N/A,N/A,https://www.northraleighautomotive.com
+Matrix Metalworks LV,Las Vegas,NV,Las Vegas NV,Metal Fabrication,8,$1M-$2M,N/A,Owner,N/A,N/A,https://matrixmetalworkslv.com
+Family Eyecare Center,Raleigh,NC,Raleigh NC,Optometry,6,$500K-$1M,Dr. Jeffrey Handschumacher,Owner/Physician,N/A,N/A,https://familyeyecarecenternc.com
+Olive Branch Optometry,Raleigh,NC,Raleigh NC,Optometry,5,$500K-$1M,N/A,Owner/Physician,N/A,N/A,https://www.olivebranchoptometry.com
+Eyediology Vision Care,Las Vegas,NV,Las Vegas NV,Optometry,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.eyediologyvisioncare.com
+Advanced Eyecare,Las Vegas,NV,Las Vegas NV,Optometry,6,$500K-$1M,Dr. Brian Miller,Owner/Physician,N/A,N/A,https://www.advancedeyecarevs.com
+Portland Dermatology Clinic,Portland,OR,Portland OR,Dermatology,12,$2M-$5M,Dr. Michael Adler,Owner/Physician,N/A,N/A,N/A
+Phoebe Rich Dermatology,Portland,OR,Portland OR,Dermatology,8,$1M-$3M,Dr. Phoebe Rich,Owner/Physician,N/A,N/A,https://phoeberichmd.com
+BIGHORN LOCAL SEO,Portland,OR,Portland OR,SEO Agencies,5,$500K-$1M,Jeffrey,Owner,N/A,N/A,https://bighornlocal.com
+Portland SEO Growth,Portland,OR,Portland OR,SEO Agencies,6,$500K-$1M,N/A,Owner,N/A,N/A,https://www.portlandseogrowth.com
+Everest Agency,Raleigh,NC,Raleigh NC,Digital Marketing Agencies,10,$1M-$3M,Bryan Martin,Founder,N/A,N/A,N/A
+San Antonio Muscle & Spine Clinic,San Antonio,TX,San Antonio TX,Chiropractic Clinics,6,$500K-$1M,N/A,Owner,N/A,N/A,N/A
+Aloha Wellness Chiropractic,San Antonio,TX,San Antonio TX,Chiropractic Clinics,5,$500K-$1M,N/A,Owner,N/A,N/A,https://alohachiro.com
+ServiceMaster of Salt Lake,Salt Lake City,UT,Salt Lake City UT,Commercial Cleaning,15,$2M-$5M,N/A,Owner,N/A,N/A,https://www.servicemasterclean.com/servicemaster-of-salt-lake-city
+Principal Janitorial Services,Raleigh,NC,Raleigh NC,Commercial Cleaning,8,$500K-$1M,N/A,Owner,N/A,N/A,N/A
+Kingswood Builders,Jacksonville,FL,Jacksonville FL,Remodeling Contractors,8,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Vibe Optometry,Austin,TX,Austin TX,Optometry,5,$500K-$1M,N/A,Owner/Physician,N/A,N/A,https://vibeoptometry.com
+Jackman Eye Austin,Austin,TX,Austin TX,Optometry,6,$500K-$1M,N/A,Owner/Physician,N/A,N/A,https://www.jackmaneyeaustin.com
+NW Modern Fabrication,Seattle,WA,Seattle WA,Metal Fabrication,8,$1M-$2M,N/A,Owner,N/A,N/A,https://nwmodernfab.com
+Streich Bros,Seattle,WA,Seattle WA,Metal Fabrication,10,$1M-$3M,N/A,Owner,N/A,N/A,https://streichbros.com
+BDM Industries Corp,Salt Lake City,UT,Salt Lake City UT,General Contractors,10,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+SLC Remodels,Salt Lake City,UT,Salt Lake City UT,Remodeling Contractors,8,$1M-$3M,N/A,Owner,N/A,N/A,https://www.slcremodels.com
+High Road Automotive,Seattle,WA,Seattle WA,Auto Repair Shops,8,$1M-$2M,N/A,Owner,N/A,N/A,https://high-road.com
+Superior Auto Service,Seattle,WA,Seattle WA,Auto Repair Shops,7,$1M-$2M,N/A,Owner,N/A,N/A,https://superiorautoservice.net
+Waverly Advisors Jacksonville,Jacksonville,FL,Jacksonville FL,Wealth Management,8,$1M-$3M,N/A,Owner,N/A,N/A,https://waverly-advisors.com/offices/jacksonville-fl
+Albion Financial Group,Salt Lake City,UT,Salt Lake City UT,Financial Advisory,8,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Squire Wealth Advisors,Salt Lake City,UT,Salt Lake City UT,Wealth Management,6,$1M-$2M,Greg,Owner,N/A,N/A,https://squirewealthadvisors.com
+Smedley Financial Services,Salt Lake City,UT,Salt Lake City UT,Financial Advisory,8,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Digital Marketing Agency Jacksonville,Jacksonville,FL,Jacksonville FL,Digital Marketing Agencies,6,$500K-$1M,N/A,Owner,N/A,N/A,https://digitalmarketingagencyjacksonville.com
+Adly Media,Jacksonville,FL,Jacksonville FL,Digital Marketing Agencies,5,$500K-$1M,N/A,Owner,N/A,N/A,https://adlymedia.com
+Lim Chiro & Rehab Center,Seattle,WA,Seattle WA,Chiropractic Clinics,5,$500K-$1M,Dr. Lim,Owner/Physician,N/A,N/A,https://www.limchirorehab.com
+Sports Medicine Northwest,Seattle,WA,Seattle WA,Chiropractic Clinics,8,$1M-$2M,Dr. Pond,Owner/Physician,N/A,N/A,https://sportsmednw.com
+SEO Locale,Salt Lake City,UT,Salt Lake City UT,SEO Agencies,8,$1M-$2M,Marc Brookland,Founder,N/A,N/A,https://seolocale.com
+Intuitive Digital,Portland,OR,Portland OR,Digital Marketing Agencies,12,$2M-$5M,N/A,Owner,N/A,N/A,https://intuitivedigital.com
+Rapid Freight,Seattle,WA,Seattle WA,Freight Brokerages,10,$2M-$5M,N/A,Owner,N/A,N/A,http://rapidfreight.us
+Bridgetown Trucking,Portland,OR,Portland OR,Trucking Dispatch,12,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+McKenna Metal,Portland,OR,Portland OR,Metal Fabrication,8,$1M-$2M,N/A,Owner,N/A,N/A,https://www.mckennametal.com
+American Precision Industries,Portland,OR,Portland OR,Machine Shops,10,$2M-$5M,N/A,Owner,N/A,N/A,https://americanprecisionindustries.com
+Schleusner Chiropractic,Las Vegas,NV,Las Vegas NV,Chiropractic Clinics,5,$500K-$1M,Dr. Larry Schleusner,Owner/Physician,N/A,N/A,https://www.schleusnerchiropractic.com
+Anchor Chiropractic,Las Vegas,NV,Las Vegas NV,Chiropractic Clinics,5,$500K-$1M,N/A,Owner/Physician,N/A,N/A,https://your-anchor.com

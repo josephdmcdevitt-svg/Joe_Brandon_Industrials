@@ -1,0 +1,351 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+Coates Design Architects,Seattle,WA,Seattle,Architecture,8,$1M-$3M,Matthew Coates,Owner/Principal Architect,N/A,N/A,coatesdesign.com
+Weaver Architects,Seattle,WA,Seattle,Architecture,10,$1M-$3M,Hank Weaver,Owner/Founder,N/A,N/A,weaverarch.com
+McClellan Tellone,Seattle,WA,Seattle,Architecture,8,$1M-$3M,Regan McClellan,Co-Founder,N/A,N/A,mcclellan-tellone.com
+BuildingWork,Seattle,WA,Seattle,Architecture,6,$1M-$2M,N/A,Principal,N/A,N/A,buildingwork.design
+Best Practice Architecture,Seattle,WA,Seattle,Architecture,8,$1M-$3M,N/A,Principal,N/A,N/A,bestpracticearchitecture.com
+Matt Fajkus Architecture,Austin,TX,Austin,Architecture,10,$1M-$3M,Matt Fajkus,Owner/Principal,N/A,N/A,mfarchitecture.com
+Restructure Studio,Austin,TX,Austin,Architecture,5,$500K-$1.5M,N/A,Owner,N/A,N/A,N/A
+Winn Wittman Architecture,Austin,TX,Austin,Architecture,6,$1M-$2M,Winn Wittman,Founder/Principal,N/A,N/A,winnwittman.com
+Atlantis Architects,Austin,TX,Austin,Architecture,5,$500K-$1.5M,Derek,Founder,N/A,N/A,atlantisarchitects.com
+SSA Architecture,Las Vegas,NV,Las Vegas,Architecture,8,$1M-$3M,Ken Small Jr.,Founder/Principal,N/A,N/A,smallstudioassociates.com
+KME Architects,Las Vegas,NV,Las Vegas,Architecture,10,$1M-$3M,N/A,Principal,N/A,N/A,kmearchitects.com
+PSWC Architects,Las Vegas,NV,Las Vegas,Architecture,6,$1M-$2M,N/A,Principal,N/A,N/A,pswcarchitects.com
+Blue Heron,Las Vegas,NV,Las Vegas,Architecture,15,$5M-$10M,Tyler Jones,Co-Founder,N/A,N/A,blueheron.com
+Mary Ann Chambliss Architect,Jacksonville,FL,Jacksonville,Architecture,5,$500K-$1.5M,Mary Ann Chambliss,Owner/Principal,N/A,N/A,mac-architect.com
+ZINN Architecture,Jacksonville,FL,Jacksonville,Architecture,6,$1M-$2M,Kassia Zinn,Co-Founder,N/A,N/A,zinn.ai
+Dig Architecture,Jacksonville,FL,Jacksonville,Architecture,5,$500K-$1.5M,Nicholas Renard,Owner/Principal,N/A,N/A,N/A
+Jaycox Architects,Jacksonville,FL,Jacksonville,Architecture,8,$1M-$3M,N/A,Principal,N/A,N/A,jaycoxarchitects.com
+Brach Design Architecture,Salt Lake City,UT,Salt Lake City,Architecture,6,$1M-$2M,N/A,Principal,N/A,N/A,brachdesign.com
+Sparano Mooney Architecture,Salt Lake City,UT,Salt Lake City,Architecture,12,$2M-$5M,John Sparano,Co-Founder,N/A,N/A,sparanomooney.com
+AYS Engineering,Austin,TX,Austin,Engineering,8,$1M-$3M,N/A,Principal,N/A,N/A,ayseng.com
+Tsen Engineering,Austin,TX,Austin,Engineering,10,$1M-$3M,Stephanie Tsen,Founder,N/A,N/A,tseneng.com
+Bay & Associates,Austin,TX,Austin,Engineering,8,$1M-$3M,Ed Bay,Principal/Founder,N/A,N/A,baymep.com
+Alpha & Omega Group,Raleigh,NC,Raleigh,Engineering,10,$1M-$3M,N/A,Principal,N/A,N/A,aogroup.com
+Wetherill Engineering,Raleigh,NC,Raleigh,Engineering,8,$1M-$3M,N/A,Owner,N/A,N/A,wetherilleng.com
+Horn Consulting Engineers,Portland,OR,Portland,Engineering,6,$500K-$1.5M,David Horn,Owner/Principal,N/A,N/A,hornce.com
+MKE & Associates,Portland,OR,Portland,Engineering,18,$3M-$5M,N/A,Principal,N/A,N/A,mke-inc.com
+Mendez Engineering,San Antonio,TX,San Antonio,Engineering,8,$1M-$3M,Ray Mendez,President/Founder,N/A,N/A,mendezengineering.com
+Givler Engineering,San Antonio,TX,San Antonio,Engineering,8,$1M-$3M,N/A,Owner,N/A,N/A,givlerengineering.com
+Datum Rios LLC,San Antonio,TX,San Antonio,Engineering,8,$1M-$3M,N/A,Principal,N/A,N/A,datumrios.com
+Wright Engineers,Las Vegas,NV,Las Vegas,Engineering,12,$2M-$5M,N/A,Owner,N/A,N/A,wrightengineers.com
+engin8,Las Vegas,NV,Las Vegas,Engineering,10,$1M-$3M,N/A,Principal,N/A,N/A,engin8.com
+S&B Christ Consulting,Las Vegas,NV,Las Vegas,Engineering,15,$3M-$5M,N/A,Owner,N/A,N/A,sbchristconsulting.com
+L.R. Nelson Consulting Engineers,Las Vegas,NV,Las Vegas,Engineering,10,$1M-$3M,N/A,Founder,N/A,N/A,lrneng.com
+Little by Little Interiors,Portland,OR,Portland,Interior Design,5,$500K-$1.5M,Jules McAleese,Principal Designer/Founder,N/A,N/A,littlebylittleinteriors.com
+Wise Design,Portland,OR,Portland,Interior Design,6,$500K-$1.5M,Annie Wise,Owner/Principal,N/A,N/A,anniewise.com
+Angela Todd Studios,Portland,OR,Portland,Interior Design,8,$1M-$2M,Angela Todd,Owner/Founder,N/A,N/A,angelatoddstudios.com
+Jessica Helgerson Interior Design,Portland,OR,Portland,Interior Design,10,$1M-$3M,Jessica Helgerson,Founder,N/A,N/A,jhinteriordesign.com
+Casework Interior Design,Portland,OR,Portland,Interior Design,5,$500K-$1.5M,Casey Keasler,Founder,N/A,N/A,casework.it
+Michelle Dirkse Designs,Seattle,WA,Seattle,Interior Design,5,$500K-$1M,Michelle Dirkse,Owner,N/A,N/A,N/A
+The Phinery,Seattle,WA,Seattle,Interior Design,6,$500K-$1.5M,Becky Ducsik,Owner/Principal Designer,N/A,N/A,thephinery.com
+Brio Interior Design,Seattle,WA,Seattle,Interior Design,5,$500K-$1M,Kenna Stout,Founding Designer,N/A,N/A,N/A
+K&L Interiors,Seattle,WA,Seattle,Interior Design,5,$500K-$1M,Kelly Lyons,Co-Founder,N/A,N/A,N/A
+Carla Royder Designs,San Antonio,TX,San Antonio,Interior Design,6,$500K-$1.5M,Carla Royder,Founder,N/A,N/A,carlaroyderdesigns.com
+Younique Designs,San Antonio,TX,San Antonio,Interior Design,8,$1M-$2M,Shea Pumarejo,CEO/Founder,N/A,N/A,myyouniquedesigns.com
+Shades of Gray Design Studio,San Antonio,TX,San Antonio,Interior Design,5,$500K-$1M,Melissa Fields,Owner,N/A,N/A,shadesofgraydesign.com
+Whitney Schones Design,San Antonio,TX,San Antonio,Interior Design,6,$500K-$1.5M,Whitney Schones,Founder/Principal,N/A,N/A,whitneyschones.com
+Casey Roy Interior Design,San Antonio,TX,San Antonio,Interior Design,5,$500K-$1M,Casey Roy,Founder/Principal,N/A,N/A,N/A
+Dominion Interiors and Design,San Antonio,TX,San Antonio,Interior Design,5,$500K-$1M,LaFonda Williams,Owner/Lead Designer,N/A,N/A,N/A
+Design Loft Interiors,Jacksonville,FL,Jacksonville,Interior Design,5,$500K-$1M,Joanne Rumney,Owner,N/A,N/A,designloftinteriorsfl.com
+Studio M Interior Design,Jacksonville,FL,Jacksonville,Interior Design,6,$500K-$1.5M,Marsha Faulkner,Owner/Lead Designer,N/A,N/A,studiominteriordesign.net
+The Design Studio,Jacksonville,FL,Jacksonville,Interior Design,8,$1M-$2M,Brigetta Dawes Lamsback,Owner,N/A,N/A,thedesignstudio.com
+Beardbrand,Austin,TX,Austin,Ecommerce,15,$5M-$10M,Eric Bandholz,Founder/CEO,N/A,N/A,beardbrand.com
+Texas Standard,Austin,TX,Austin,Ecommerce,10,$2M-$5M,N/A,Founder,N/A,N/A,N/A
+Fully,Portland,OR,Portland,Ecommerce,15,$5M-$10M,N/A,CEO,N/A,N/A,fully.com
+FINEX Cast Iron,Portland,OR,Portland,Ecommerce,12,$2M-$5M,N/A,Owner,N/A,N/A,finexusa.com
+Virtue Haircare,Raleigh,NC,Raleigh,Ecommerce,10,$2M-$5M,N/A,Founder,N/A,N/A,N/A
+Mint Events,Austin,TX,Austin,Event Planning,8,$1M-$2M,Carolina,Founder/Creative Director,N/A,N/A,minteventdesign.com
+High Five Events,Austin,TX,Austin,Event Planning,15,$2M-$5M,Dan Carroll,Co-Owner,N/A,N/A,N/A
+INNOVATX Events,Austin,TX,Austin,Event Planning,8,$1M-$2M,Emily Kratt,Owner,N/A,N/A,N/A
+Salt City Event Co,Salt Lake City,UT,Salt Lake City,Event Planning,10,$1M-$3M,N/A,Owner,N/A,N/A,saltcityeventco.com
+In The Event,Salt Lake City,UT,Salt Lake City,Event Planning,15,$2M-$5M,N/A,Owner,N/A,N/A,intheevent.com
+Michelle Leo Events,Salt Lake City,UT,Salt Lake City,Event Planning,6,$500K-$1.5M,Michelle Leo,Owner,N/A,N/A,michelleleoevents.com
+LoveLee Events,Jacksonville,FL,Jacksonville,Event Planning,5,$500K-$1M,Tara,Owner/Lead Designer,N/A,N/A,loveleeeventsjax.com
+Southern Charm Events,Jacksonville,FL,Jacksonville,Event Planning,6,$500K-$1M,Tanya,Owner/Lead Planner,N/A,N/A,southerncharmevents.com
+Dairing Events,Jacksonville,FL,Jacksonville,Event Planning,6,$500K-$1.5M,Adair,Owner/Lead Designer,N/A,N/A,dairingevents.com
+Corporate 1 Events,Jacksonville,FL,Jacksonville,Event Planning,8,$1M-$2M,Paul F. Daum,Owner,N/A,N/A,corporate1events.com
+Sudsy Car Wash,San Antonio,TX,San Antonio,Multi-Location Car Wash,20,$3M-$7M,Jake Lamb,Owner/Operator,N/A,N/A,carwash.com
+The Wash Tub,San Antonio,TX,San Antonio,Multi-Location Car Wash,20,$5M-$10M,N/A,Owner,N/A,N/A,washtub.com
+ECO Car Wash,Portland,OR,Portland,Multi-Location Car Wash,15,$2M-$5M,Joey Hanna,Co-Owner,N/A,N/A,ecocarwash.com
+Washman Car Wash,Portland,OR,Portland,Multi-Location Car Wash,20,$5M-$10M,N/A,Owner,N/A,N/A,washmanusa.com
+Gallagher Auto Spa,Portland,OR,Portland,Multi-Location Car Wash,10,$1M-$3M,Scott Gallagher,Owner,N/A,N/A,gallagherautospa.com
+AutoBrite Express,Raleigh,NC,Raleigh,Multi-Location Car Wash,15,$2M-$5M,N/A,Owner,N/A,N/A,autobritecarwashes.com
+Westgate Carwash,Raleigh,NC,Raleigh,Multi-Location Car Wash,8,$1M-$2M,N/A,Owner,N/A,N/A,westgatecarwash.com
+Primrose School North Las Vegas,Las Vegas,NV,Las Vegas,Daycare Chain,15,$1M-$3M,Kelly Maria,Owner,N/A,N/A,primroseschools.com
+Primrose School Las Vegas,Las Vegas,NV,Las Vegas,Daycare Chain,15,$1M-$3M,Jaini Jariwala,Owner/Operator,N/A,N/A,primroseschools.com
+Angel Face Preschool,Las Vegas,NV,Las Vegas,Daycare Chain,12,$1M-$2M,N/A,Owner,N/A,N/A,angelfacepreschool.com
+The Playhouse Childcare,Salt Lake City,UT,Salt Lake City,Daycare Chain,8,$500K-$1.5M,N/A,Owner,N/A,N/A,N/A
+Children's Center of Austin,Austin,TX,Austin,Daycare Chain,15,$1M-$3M,N/A,Owner,N/A,N/A,childrenscenterofaustin.com
+Happy Bunnies Daycare,Austin,TX,Austin,Daycare Chain,12,$1M-$2M,Magdalena MacLeod,Director/Owner,N/A,N/A,happybunnies.com
+Medure Brothers,Jacksonville,FL,Jacksonville,Restaurant Group,20,$3M-$7M,Matthew Medure,Co-Founder,N/A,N/A,medurebrothers.com
+RHIG Restaurant Group,Jacksonville,FL,Jacksonville,Restaurant Group,20,$5M-$10M,Mark Janasik,Owner,N/A,N/A,rhigx.com
+Legacy Restaurant Group,Jacksonville,FL,Jacksonville,Restaurant Group,20,$3M-$7M,John Valentino,Owner,N/A,N/A,N/A
+E3 Restaurant Group,Seattle,WA,Seattle,Restaurant Group,20,$5M-$10M,N/A,Owner,N/A,N/A,e3restaurantgroup.com
+Relay Restaurant Group,Seattle,WA,Seattle,Restaurant Group,15,$2M-$5M,Rachel Yang,Co-Owner,N/A,N/A,relayrestaurantgroup.com
+Feedme Hospitality,Seattle,WA,Seattle,Restaurant Group,18,$3M-$7M,Shubert Ho,Founder/Chef,N/A,N/A,feedmehospitality.com
+The Stedman Group,Seattle,WA,Seattle,Restaurant Group,12,$2M-$5M,Joel Stedman,Founder/CEO,N/A,N/A,thestedmangroup.com
+Nova Hospitality Group,Austin,TX,Austin,Restaurant Group,20,$3M-$7M,N/A,Owner,N/A,N/A,novahospitalitygroup.com
+ELM Restaurant Group,Austin,TX,Austin,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,elmrg.com
+IRC Portland,Portland,OR,Portland,Restaurant Group,20,$5M-$10M,James Hall,Co-Owner,N/A,N/A,irc-nw.com
+Urban Restaurant Group,Portland,OR,Portland,Restaurant Group,18,$3M-$7M,Mark Byrum,Co-Founder,N/A,N/A,urban-restaurants.com
+Sesame Collective,Portland,OR,Portland,Restaurant Group,12,$2M-$5M,N/A,Owner,N/A,N/A,sesamecollective.com
+Pago Restaurant Group,Salt Lake City,UT,Salt Lake City,Restaurant Group,20,$3M-$7M,Scott Evans,Founder/Owner,N/A,N/A,pagoslc.com
+Hill Top Hospitality,Salt Lake City,UT,Salt Lake City,Restaurant Group,15,$2M-$5M,Brooks Kirchheimer,Co-Owner,N/A,N/A,N/A
+Future Restaurant Group,Las Vegas,NV,Las Vegas,Restaurant Group,15,$3M-$7M,Michael Cornthwaite,Founder,N/A,N/A,frglv.com
+Mint Indian Bistro,Las Vegas,NV,Las Vegas,Restaurant Group,15,$2M-$5M,Kris,Owner/Operator,N/A,N/A,N/A
+Spaghetti On the Wall,Las Vegas,NV,Las Vegas,Restaurant Group,12,$2M-$5M,N/A,Owner,N/A,N/A,N/A
+Old Ballard Catering Co,Seattle,WA,Seattle,Catering,8,$1M-$2M,N/A,Owner,N/A,N/A,oldballardcateringco.com
+Foodz Catering,Seattle,WA,Seattle,Catering,8,$1M-$2M,Shelby,Founder/Owner,N/A,N/A,foodzcatering.com
+Anise and Clove Catering,Seattle,WA,Seattle,Catering,6,$500K-$1.5M,Preeti Agarwal,Owner/Chef,N/A,N/A,N/A
+Good Day Catering,Salt Lake City,UT,Salt Lake City,Catering,10,$1M-$3M,Christine Mason,Owner/President,N/A,N/A,gooddaycatering.com
+An Exquisite Affair Catering,Salt Lake City,UT,Salt Lake City,Catering,8,$1M-$2M,Susan Stutchbury,Owner,N/A,N/A,exquisiteaffaircatering.com
+Cured and Cut LLC,Salt Lake City,UT,Salt Lake City,Catering,5,$250K-$750K,Katelyn Nemelka,Owner,N/A,N/A,curedandcut.com
+Ladyfingers Catering,Raleigh,NC,Raleigh,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,ladyfingersofraleigh.com
+Layton's Catering,Raleigh,NC,Raleigh,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,N/A
+Cannon Catering,Raleigh,NC,Raleigh,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,cannoncatering.com
+Renaissance Catering,Las Vegas,NV,Las Vegas,Catering,10,$1M-$3M,Michael,Owner/Head Chef,N/A,N/A,renaissance-catering.com
+Annie's Gourmet Catering,Las Vegas,NV,Las Vegas,Catering,8,$1M-$2M,Annie,Owner/Chef,N/A,N/A,anniesgourmetcatering.com
+Cut & Taste,Las Vegas,NV,Las Vegas,Catering,6,$500K-$1.5M,Jeremy,Co-Owner,N/A,N/A,cutandtastelv.com
+Lolik Catering,Las Vegas,NV,Las Vegas,Catering,6,$500K-$1.5M,Chef Aram,Owner,N/A,N/A,lolikcatering.com
+Slow Dough Bread Co,Austin,TX,Austin,Bakery/Wholesale,15,$2M-$5M,Heath Wendell,Founder/Owner,N/A,N/A,slowdoughbreadco.com
+Quack's Bakery,Austin,TX,Austin,Bakery/Wholesale,12,$1M-$3M,N/A,Owner,N/A,N/A,quacksbakery.com
+Kraftsmen Baking,Austin,TX,Austin,Bakery/Wholesale,15,$2M-$5M,N/A,Owner,N/A,N/A,kraftsmenbaking.com
+Bakeshop PDX,Portland,OR,Portland,Bakery/Wholesale,8,$1M-$2M,Kim Boyce,Owner/Pastry Chef,N/A,N/A,bakeshoppdx.com
+Gabriel's Bakery,Portland,OR,Portland,Bakery/Wholesale,8,$1M-$2M,Amilcar Alvarez,Owner/Bread Master,N/A,N/A,gabrielsbakery.com
+Jen's Bagels & Pastries,Portland,OR,Portland,Bakery/Wholesale,6,$500K-$1.5M,Jen,Founder/Owner,N/A,N/A,jenspdx.com
+Lux Bakery Inc,San Antonio,TX,San Antonio,Bakery/Wholesale,15,$2M-$5M,Ignacio Alvarez,Founder,N/A,N/A,luxbake.co
+Lone Star Bakery,San Antonio,TX,San Antonio,Bakery/Wholesale,20,$5M-$10M,Tracy L. Fletcher,President,N/A,N/A,lonestarbakery.com
+Hey Sugar Baking Company,Jacksonville,FL,Jacksonville,Bakery/Wholesale,6,$500K-$1M,N/A,Owner,N/A,N/A,heysugarbaking.com
+Jax Bread Co,Jacksonville,FL,Jacksonville,Bakery/Wholesale,6,$500K-$1.5M,N/A,Owner,N/A,N/A,jaxbread.com
+Cinotti's Bakery,Jacksonville,FL,Jacksonville,Bakery/Wholesale,10,$1M-$2M,N/A,Owner,N/A,N/A,N/A
+Overhead Door Company of Portland,Portland,OR,Portland,Garage Door,15,$3M-$5M,Jim Stumpf,Owner/President,N/A,N/A,overheaddoorpdx.com
+Larry Myers Garage Doors,Portland,OR,Portland,Garage Door,8,$1M-$2M,N/A,Owner,N/A,N/A,larrymyersgaragedoors.com
+D Bar Garage Doors,Portland,OR,Portland,Garage Door,6,$500K-$1.5M,Dotan Bar,Owner,N/A,N/A,N/A
+Garage Door Solutions,San Antonio,TX,San Antonio,Garage Door,8,$1M-$2M,Salvador Bazaldua,Owner,N/A,N/A,garagedoorsolutions.biz
+ProLift Garage Doors San Antonio,San Antonio,TX,San Antonio,Garage Door,8,$1M-$2M,Joe,Owner,N/A,N/A,proliftdoors.com
+Accurate Garage Door Services,Las Vegas,NV,Las Vegas,Garage Door,8,$1M-$2M,N/A,Owner,N/A,N/A,accurategarage.com
+Apex Garage Doors,Las Vegas,NV,Las Vegas,Garage Door,6,$500K-$1.5M,Todd Silk,Owner,N/A,N/A,apexgaragedoorsllc.com
+Toni's Garage Doors,Las Vegas,NV,Las Vegas,Garage Door,5,$500K-$1M,Toni,Founder/Owner,N/A,N/A,tonisgaragedoors.com
+Martin Garage Doors of Nevada,Las Vegas,NV,Las Vegas,Garage Door,12,$2M-$5M,Brandon Martin,Owner,N/A,N/A,martindoorlv.com
+Platinum Pool Service NC,Raleigh,NC,Raleigh,Pool Service,8,$1M-$2M,Craig Mayhugh,Owner,N/A,N/A,platinumpoolservicenc.com
+Superior Pools NC,Raleigh,NC,Raleigh,Pool Service,8,$1M-$2M,Peter Johnson,Owner,N/A,N/A,superiorpoolsnc.com
+Pool Professionals,Raleigh,NC,Raleigh,Pool Service,10,$1M-$3M,Dave,Founder/Owner,N/A,N/A,poolprofessionals.com
+Rising Sun Pools & Spas,Raleigh,NC,Raleigh,Pool Service,15,$2M-$5M,N/A,Owner,N/A,N/A,risingsunpools.com
+Hill Country Pools,Austin,TX,Austin,Pool Service,12,$1M-$3M,Surrenden Hill Angly,Founder/Owner,N/A,N/A,hillcountrypoolsaustin.com
+Pyramid Pool Service,Austin,TX,Austin,Pool Service,6,$500K-$1.5M,N/A,Owner,N/A,N/A,pyramidpoolsatx.com
+South Austin Pool Service,Austin,TX,Austin,Pool Service,6,$500K-$1.5M,Derek,Owner,N/A,N/A,southaustinpoolservice.com
+Kyzer Pool & Spa,Las Vegas,NV,Las Vegas,Pool Service,8,$1M-$2M,Gabe Kyzer,Owner,N/A,N/A,kyzerpools.com
+Clean Living Pool & Spa,Las Vegas,NV,Las Vegas,Pool Service,8,$1M-$2M,John Butler,Co-Owner,N/A,N/A,cleanlivingpoolandspa.com
+PoolServ Las Vegas,Las Vegas,NV,Las Vegas,Pool Service,6,$500K-$1.5M,N/A,Owner,N/A,N/A,poolservlv.com
+Moose Flooring,Salt Lake City,UT,Salt Lake City,Flooring,8,$1M-$2M,Jakob Altizer,Owner,N/A,N/A,mooseflooring.com
+Hamilton Flooring & Tile,Salt Lake City,UT,Salt Lake City,Flooring,8,$1M-$2M,Tabarri,Owner,N/A,N/A,hamiltonfloor.com
+Woody's Hardwood Flooring,Salt Lake City,UT,Salt Lake City,Flooring,6,$500K-$1.5M,Jim Petersen,Owner,N/A,N/A,woodyshardwoodflooring.com
+All About Flooring Utah,Salt Lake City,UT,Salt Lake City,Flooring,6,$500K-$1.5M,Brian,Owner,N/A,N/A,allaboutflooringutah.com
+Toro Flooring LLC,Las Vegas,NV,Las Vegas,Flooring,8,$1M-$2M,N/A,Owner,N/A,N/A,toroflooring.com
+G & C Flooring Pros,Las Vegas,NV,Las Vegas,Flooring,8,$1M-$2M,N/A,Owner,N/A,N/A,gcflooringproslv.com
+Floor Coverings International West Las Vegas,Las Vegas,NV,Las Vegas,Flooring,6,$500K-$1.5M,Brad Brown,Owner,N/A,N/A,floorcoveringsinternational.com
+Green Step Flooring,Raleigh,NC,Raleigh,Flooring,8,$1M-$2M,Janar Tsaro,Owner,N/A,N/A,greenstepflooring.com
+Raleigh Flooring LLC,Raleigh,NC,Raleigh,Flooring,6,$500K-$1.5M,Warren Bristol,Owner,N/A,N/A,N/A
+Alamo Fence Company,San Antonio,TX,San Antonio,Fence Company,12,$2M-$5M,N/A,Owner,N/A,N/A,alamofencesa.com
+G's Fence Company,San Antonio,TX,San Antonio,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,gsfence.com
+Aztec Fence & Ornamental Iron,San Antonio,TX,San Antonio,Fence Company,15,$2M-$5M,N/A,Owner,N/A,N/A,aztecfencesa.com
+Comal Fence,San Antonio,TX,San Antonio,Fence Company,10,$1M-$3M,N/A,Owner,N/A,N/A,comalfence.com
+Big Jerry's Fencing Jacksonville,Jacksonville,FL,Jacksonville,Fence Company,8,$1M-$2M,Jon Davis,Owner/Operator,N/A,N/A,bigjerrysfencing.com
+Mrs. Fence Company,Jacksonville,FL,Jacksonville,Fence Company,6,$500K-$1.5M,Sarah,Owner,N/A,N/A,mrsfence.com
+Silverman Fence,Jacksonville,FL,Jacksonville,Fence Company,12,$2M-$5M,N/A,Owner,N/A,N/A,silvermanfence.com
+SWi Fence,Jacksonville,FL,Jacksonville,Fence Company,10,$1M-$3M,Mark Olson,Founder,N/A,N/A,swiflorida.com
+Top Rail Fence Seattle,Seattle,WA,Seattle,Fence Company,8,$1M-$2M,John Schussler,Owner,N/A,N/A,toprailfences.com
+Sky Fence Company,Seattle,WA,Seattle,Fence Company,6,$500K-$1.5M,Jacob Walsh,Owner,N/A,N/A,skyfenceco.com
+Cool Cat Fence Company,Seattle,WA,Seattle,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,coolcatfence.com
+Champion Movers,Las Vegas,NV,Las Vegas,Moving Company,15,$2M-$5M,N/A,Owner,N/A,N/A,championmovers1.com
+Move 4 Less,Las Vegas,NV,Las Vegas,Moving Company,15,$2M-$5M,N/A,Owner,N/A,N/A,move4lessmoving.com
+TWO MEN AND A TRUCK Las Vegas,Las Vegas,NV,Las Vegas,Moving Company,15,$2M-$5M,John Judson,Owner,N/A,N/A,twomenandatruck.com
+Bold Move,Portland,OR,Portland,Moving Company,8,$1M-$2M,Sam Luby,Owner,N/A,N/A,boldmovepdx.com
+PDX Movers,Portland,OR,Portland,Moving Company,10,$1M-$3M,N/A,Owner,N/A,N/A,pdxmovers.com
+The Smoove Movers,Portland,OR,Portland,Moving Company,8,$1M-$2M,N/A,Owner,N/A,N/A,thesmoovemovers.com
+Master Movers Portland,Portland,OR,Portland,Moving Company,10,$1M-$3M,N/A,Owner,N/A,N/A,mastermovers.com
+Crabtree Family Moving,Raleigh,NC,Raleigh,Moving Company,10,$1M-$3M,N/A,Owner,N/A,N/A,crabtreefamilymoving.com
+Dogwood Moving Co,Raleigh,NC,Raleigh,Moving Company,10,$1M-$3M,N/A,Owner,N/A,N/A,dogwoodmoving.com
+Raleigh Moving Company,Raleigh,NC,Raleigh,Moving Company,8,$1M-$2M,N/A,Owner,N/A,N/A,raleighmovingcompany.com
+Half Price Movers,San Antonio,TX,San Antonio,Moving Company,15,$2M-$5M,N/A,Owner,N/A,N/A,halfpricemovers.com
+Patriot Moving & Delivery,San Antonio,TX,San Antonio,Moving Company,10,$1M-$3M,Clint O'Neal,Owner,N/A,N/A,patriotmovingtx.com
+JDog Junk Removal Jacksonville,Jacksonville,FL,Jacksonville,Junk Removal,8,$500K-$1.5M,Rob,Owner,N/A,N/A,jdogjacksonville.com
+The Mess Haul,Jacksonville,FL,Jacksonville,Junk Removal,6,$500K-$1M,Scott Lee,Founder/Owner,N/A,N/A,themesshaul.com
+Jon's Junks,Jacksonville,FL,Jacksonville,Junk Removal,5,$250K-$750K,Jon Grogan,Owner/Operator,N/A,N/A,jonsjunks.com
+Angel's Junk Removal,Seattle,WA,Seattle,Junk Removal,8,$500K-$1.5M,N/A,Owner,N/A,N/A,angelsjunkremoval.com
+Action Junk Removal,Seattle,WA,Seattle,Junk Removal,8,$500K-$1.5M,N/A,Owner,N/A,N/A,actionjunkremovalseattle.com
+Sasquatch Junk Removal,Seattle,WA,Seattle,Junk Removal,6,$500K-$1M,N/A,Owner,N/A,N/A,sasquatchjunkremoval.com
+Comax Junk Removal,Austin,TX,Austin,Junk Removal,8,$500K-$1.5M,Ben,Owner,N/A,N/A,comaxjunkremoval.com
+IREP Junk Removal,Austin,TX,Austin,Junk Removal,8,$500K-$1.5M,N/A,Owner,N/A,N/A,irepjunkremoval.com
+Austin Weight Loss & Wellness Clinic,Austin,TX,Austin,Weight Loss Clinic,6,$500K-$1.5M,Sharmin K.,Manager,N/A,N/A,N/A
+True Weight Loss Clinic,Austin,TX,Austin,Weight Loss Clinic,8,$1M-$2M,N/A,Owner,N/A,N/A,trueweightlossclinic.com
+Medi-Weightloss Austin North,Austin,TX,Austin,Weight Loss Clinic,8,$1M-$2M,Shankar Bellam,Owner,N/A,N/A,N/A
+Merritt Health and Wellness,Portland,OR,Portland,Weight Loss Clinic,8,$1M-$2M,Seth Merritt,Owner/Founder,N/A,N/A,merritthw.com
+Dr. Kat Lopez Weight Loss,Portland,OR,Portland,Weight Loss Clinic,5,$500K-$1M,Dr. Kat Lopez,Owner/Physician,N/A,N/A,drkatlopez.com
+OBI BioAesthetic Institute,Jacksonville,FL,Jacksonville,Weight Loss Clinic,8,$1M-$2M,Gerrie Obi,Owner,N/A,N/A,obiinstitute.com
+MedexClinic,Jacksonville,FL,Jacksonville,Weight Loss Clinic,8,$1M-$2M,Dr. Asim Nouman,Owner/Physician,N/A,N/A,medexclinic.com
+Blissful Wellness,Jacksonville,FL,Jacksonville,Weight Loss Clinic,6,$500K-$1.5M,Dr. Blissenbach,Owner,N/A,N/A,getskinnyjax.com
+Advanced Medical Weight Loss,Salt Lake City,UT,Salt Lake City,Weight Loss Clinic,8,$1M-$2M,Dr. Derek Muse,Owner/Physician,N/A,N/A,advancedmedicalweightloss.com
+ReMedical,Salt Lake City,UT,Salt Lake City,Weight Loss Clinic,6,$500K-$1.5M,Dr. Johnsen,Owner,N/A,N/A,remedical.com
+Drip Lounge IV Bar,Seattle,WA,Seattle,IV Therapy,6,$500K-$1.5M,N/A,Owner,N/A,N/A,driploungewa.com
+Holistique IV Lounge,Seattle,WA,Seattle,IV Therapy,8,$1M-$2M,Dr. Darvish,Owner,N/A,N/A,holistique.com
+Fluid Revival,Austin,TX,Austin,IV Therapy,6,$500K-$1.5M,Nick Schroeder,Founder/Owner,N/A,N/A,fluidrevival.com
+IV Drip Ladies LLC,Austin,TX,Austin,IV Therapy,5,$250K-$750K,Donna Bratton,Owner/Manager,N/A,N/A,ivdripladies.com
+Vital Infusions & Performance,Las Vegas,NV,Las Vegas,IV Therapy,8,$1M-$2M,Mickey Guerrero,Founder/Owner,N/A,N/A,vitalinfusionsandperformance.com
+Drip Drop IV Hydration,Raleigh,NC,Raleigh,IV Therapy,5,$250K-$750K,N/A,Owner,N/A,N/A,dripdropivhydration.com
+Revive Wellness NC,Raleigh,NC,Raleigh,IV Therapy,5,$250K-$750K,Lyndsay,Owner/RN,N/A,N/A,revivewellnessnc.com
+Northwest Fertility Center,Portland,OR,Portland,Fertility Clinic,10,$2M-$5M,Dr. Eugene Stoelk,Owner/Medical Director,N/A,N/A,N/A
+Austin Fertility & Reproductive Medicine,Austin,TX,Austin,Fertility Clinic,15,$5M-$10M,Dr. Shahryar Kavoussi,Owner/Physician,N/A,N/A,austinfertility.com
+Austin Fertility Institute,Austin,TX,Austin,Fertility Clinic,10,$2M-$5M,Dr. Moghadam,Founder/Medical Director,N/A,N/A,austinfertilityinstitute.com
+Reproductive Care Center,Salt Lake City,UT,Salt Lake City,Fertility Clinic,15,$3M-$7M,N/A,Owner,N/A,N/A,fertilitydr.com
+Utah Fertility Center,Salt Lake City,UT,Salt Lake City,Fertility Clinic,20,$5M-$10M,N/A,Owner,N/A,N/A,utahfertility.com
+Raleigh Urgent Care Center,Raleigh,NC,Raleigh,Urgent Care,10,$2M-$5M,Dr. Mask,Founder/Medical Director,N/A,N/A,raleighurgentcarecenter.com
+Alamo City Urgent Care,San Antonio,TX,San Antonio,Urgent Care,10,$1M-$3M,N/A,Owner,N/A,N/A,alamocityuc.com
+Gonzaba Urgent Care Center,San Antonio,TX,San Antonio,Urgent Care,15,$3M-$7M,William Gonzaba M.D.,Founder,N/A,N/A,gonzabaurgentcare.com
+Innovative Primary Care,San Antonio,TX,San Antonio,Urgent Care,10,$1M-$3M,N/A,Owner,N/A,N/A,innovativeuc.com
+Portland Urgent Care,Portland,OR,Portland,Urgent Care,10,$1M-$3M,N/A,Founder/Owner,N/A,N/A,portlandurgentcare.com
+Evergreen Urgent Care,Portland,OR,Portland,Urgent Care,10,$1M-$3M,N/A,Owner,N/A,N/A,evergreenurgent.com
+Salt Lake Speech & Cognitive Therapy,Salt Lake City,UT,Salt Lake City,Speech Therapy,5,$250K-$750K,Dr. Catharine DeLong,Owner,N/A,N/A,saltlakespeech.com
+Elevate Speech & Language Therapy,Salt Lake City,UT,Salt Lake City,Speech Therapy,5,$250K-$500K,Elyse Flynn,Owner/Founder,N/A,N/A,elevatespeechtherapyslc.com
+Wasatch Speech & Language Center,Salt Lake City,UT,Salt Lake City,Speech Therapy,8,$500K-$1.5M,N/A,Owner,N/A,N/A,wasatchspeech.com
+Therapy Corps,Austin,TX,Austin,Speech Therapy,6,$500K-$1M,Ashley Fairleigh,Owner,N/A,N/A,therapycorpstexas.com
+Sol Speech & Language Therapy,Austin,TX,Austin,Speech Therapy,8,$500K-$1.5M,Cortney Lhota,Founder/Owner,N/A,N/A,solspeechandlanguage.com
+Inside Out Speech & Language Therapy,Austin,TX,Austin,Speech Therapy,5,$250K-$750K,Angela Murphy,Founder/Owner,N/A,N/A,insideoutspeech.com
+Tandem Speech Therapy,Austin,TX,Austin,Speech Therapy,5,$250K-$500K,Emily Cohen,Founder/Owner,N/A,N/A,tandemspeechtherapy.com
+KidSpark Therapy,Austin,TX,Austin,Speech Therapy,5,$250K-$500K,Kay,Founder/Owner,N/A,N/A,kidsparktherapy.com
+Andrea Sorells Speech Solutions,Jacksonville,FL,Jacksonville,Speech Therapy,5,$250K-$500K,Andrea Sorells,Co-Owner/SLP,N/A,N/A,sorellsspeechsolutions.com
+Play Works Therapies,Jacksonville,FL,Jacksonville,Speech Therapy,8,$500K-$1.5M,N/A,Owner,N/A,N/A,playworkstherapies.com
+Southern Nevada Audiology,Las Vegas,NV,Las Vegas,Audiology,6,$500K-$1.5M,Carrie L. Page-Unkel,Owner/Audiologist,N/A,N/A,snaudiology.com
+Desert Valley Audiology,Las Vegas,NV,Las Vegas,Audiology,8,$1M-$2M,Timothy Hunsaker,Owner/Founder,N/A,N/A,N/A
+Hearing Centers of Nevada,Las Vegas,NV,Las Vegas,Audiology,10,$1M-$3M,Heather Castellano,Owner/Operator,N/A,N/A,hcnevada.com
+Melliti Medical Group,Las Vegas,NV,Las Vegas,Audiology,6,$500K-$1.5M,Saifallah Melliti,Owner/Audiologist,N/A,N/A,mellitimedical.com
+Concierge Audiology Las Vegas,Las Vegas,NV,Las Vegas,Audiology,5,$500K-$1M,Dr. Kathleen Lee,Owner,N/A,N/A,conciergeaudiologylv.com
+Hearing & Audiology Services,Raleigh,NC,Raleigh,Audiology,6,$500K-$1.5M,N/A,Owner,N/A,N/A,hearingandaudiologyservices.com
+ENT & Audiology Associates,Raleigh,NC,Raleigh,Audiology,15,$2M-$5M,Doug Holmes,Co-Founder/Owner,N/A,N/A,entandaudiology.com
+Now Hear This Clinic,Raleigh,NC,Raleigh,Audiology,6,$500K-$1.5M,N/A,Owner,N/A,N/A,nowhearthisclinic.com
+Alamo Hearing Aid & Audiological Service,San Antonio,TX,San Antonio,Audiology,8,$1M-$2M,Holly Spiser Foley,Owner/Audiologist,N/A,N/A,alamohearing.com
+Associates of Audiology,San Antonio,TX,San Antonio,Audiology,18,$3M-$7M,N/A,Owner,N/A,N/A,associatesofaudiology.com
+Acro Audiology,San Antonio,TX,San Antonio,Audiology,5,$500K-$1M,Kayla Golliher,Owner/Lead Audiologist,N/A,N/A,acroaudiology.com
+Neighborhood Grills Catering,Seattle,WA,Seattle,Catering,8,$1M-$2M,N/A,Owner,N/A,N/A,neighborhoodgrillscatering.com
+Pacific Northwest Catering,Seattle,WA,Seattle,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,pacificnorthwestcatering.com
+Cafe Trio Catering,Salt Lake City,UT,Salt Lake City,Restaurant Group,15,$2M-$5M,Mikel Trapp,Owner/Operating Partner,N/A,N/A,triodiningslc.com
+From Scratch SLC,Salt Lake City,UT,Salt Lake City,Restaurant Group,10,$1M-$3M,N/A,Owner,N/A,N/A,fromscratchslc.com
+Schulte Design Associates,Jacksonville,FL,Jacksonville,Interior Design,8,$1M-$2M,N/A,Principal,N/A,N/A,schultedesign.com
+Micamy Design Studio,Jacksonville,FL,Jacksonville,Interior Design,5,$500K-$1M,N/A,Owner,N/A,N/A,micamydesign.com
+Keep Austin Baked,Austin,TX,Austin,Bakery/Wholesale,8,$1M-$2M,N/A,Owner,N/A,N/A,keepaustinbaked.com
+Johnson Bros Bakery Supply,San Antonio,TX,San Antonio,Bakery/Wholesale,15,$3M-$7M,Kevin Johnson,Founder/Owner,N/A,N/A,jbrosbakerysupply.com
+Village Bread & Bagel,Jacksonville,FL,Jacksonville,Bakery/Wholesale,8,$1M-$2M,Dan,Owner,N/A,dan@villagebread.com,villagebread.com
+Community Loaves,Jacksonville,FL,Jacksonville,Bakery/Wholesale,6,$500K-$1M,N/A,Owner,N/A,N/A,communityloavesjax.com
+Marsee Baking,Portland,OR,Portland,Bakery/Wholesale,12,$1M-$3M,N/A,Owner,N/A,N/A,marseebaking.com
+Grand Central Bakery,Portland,OR,Portland,Bakery/Wholesale,20,$3M-$7M,N/A,Owner,N/A,N/A,grandcentralbakery.com
+EPC Elite Pool Care,Raleigh,NC,Raleigh,Pool Service,6,$500K-$1M,N/A,Owner,N/A,N/A,epcelitepoolcare.net
+Austin Pool Times,Austin,TX,Austin,Pool Service,6,$500K-$1.5M,Max,Owner,N/A,N/A,austinpooltimes.com
+Motts Pool Service,Las Vegas,NV,Las Vegas,Pool Service,8,$1M-$2M,N/A,Owner,N/A,N/A,mottspools.com
+Royalty Pools LLC,Las Vegas,NV,Las Vegas,Pool Service,6,$500K-$1M,N/A,Owner,N/A,N/A,royaltypoolslasvegas.com
+Accent Flooring Utah,Salt Lake City,UT,Salt Lake City,Flooring,8,$1M-$2M,N/A,Owner,N/A,N/A,accentflooringut.com
+Artisan Flooring of NC,Raleigh,NC,Raleigh,Flooring,6,$500K-$1.5M,N/A,Owner,N/A,N/A,artisanflooringofnc.com
+Carolina In Home Flooring,Raleigh,NC,Raleigh,Flooring,6,$500K-$1.5M,N/A,Owner,N/A,N/A,ncinhomeflooring.com
+Beno's Flooring,Las Vegas,NV,Las Vegas,Flooring,10,$1M-$3M,N/A,Owner,N/A,N/A,benosflooring.com
+Elite Fence & Welding,San Antonio,TX,San Antonio,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,elitefencesa.com
+J.B. Maintenance Fence,San Antonio,TX,San Antonio,Fence Company,10,$1M-$3M,N/A,Owner,N/A,N/A,jbmaintenancesa.com
+Dynamic Fence LLC,Jacksonville,FL,Jacksonville,Fence Company,6,$500K-$1.5M,N/A,Owner,N/A,N/A,dynamicfencellc.com
+Economy Fence Center,Seattle,WA,Seattle,Fence Company,10,$1M-$3M,N/A,Owner,N/A,N/A,economyfence.com
+Contour Fence,Seattle,WA,Seattle,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,contourfence.com
+87 Movers Las Vegas,Las Vegas,NV,Las Vegas,Moving Company,10,$1M-$2M,N/A,Owner,N/A,N/A,87moverslasvegas.com
+Smooth Move People,Portland,OR,Portland,Moving Company,8,$1M-$2M,N/A,Owner,N/A,N/A,smoothmovepeople.net
+Rose City Moving,Portland,OR,Portland,Moving Company,10,$1M-$3M,N/A,Owner,N/A,N/A,rosecitymoving.com
+Excel Moving & Storage,Raleigh,NC,Raleigh,Moving Company,15,$2M-$5M,N/A,Owner,N/A,N/A,excelms.com
+Little Guys Movers Raleigh,Raleigh,NC,Raleigh,Moving Company,10,$1M-$3M,N/A,Owner,N/A,N/A,littleguys.com
+Einstein Moving Company San Antonio,San Antonio,TX,San Antonio,Moving Company,15,$2M-$5M,N/A,Owner,N/A,N/A,einsteinmoving.com
+904 Junk Removal,Jacksonville,FL,Jacksonville,Junk Removal,5,$250K-$750K,N/A,Owner,N/A,N/A,904refresh.com
+Jacksonville Hauling & Junk Removal,Jacksonville,FL,Jacksonville,Junk Removal,6,$500K-$1M,Corey,Owner,N/A,N/A,jhjremoval.com
+Junk King Seattle,Seattle,WA,Seattle,Junk Removal,10,$1M-$2M,N/A,Owner,N/A,N/A,junk-king.com
+Razzies Junk Removal,Seattle,WA,Seattle,Junk Removal,5,$250K-$750K,N/A,Owner,N/A,N/A,razziesjunkremoval.com
+JunkGuys Austin,Austin,TX,Austin,Junk Removal,6,$500K-$1M,N/A,Owner,N/A,N/A,N/A
+Texas Weight Loss,Austin,TX,Austin,Weight Loss Clinic,10,$1M-$3M,N/A,Owner,N/A,N/A,texasweightlossnow.com
+First Coast MD,Jacksonville,FL,Jacksonville,Weight Loss Clinic,8,$1M-$2M,N/A,Owner,N/A,N/A,firstcoastmd.com
+MD Diet Clinic,Salt Lake City,UT,Salt Lake City,Weight Loss Clinic,8,$1M-$2M,N/A,Owner,N/A,N/A,mddietclinic.com
+Utah Trim Clinic,Salt Lake City,UT,Salt Lake City,Weight Loss Clinic,6,$500K-$1.5M,N/A,Owner,N/A,N/A,utahtrimclinic.com
+IV Bird,Austin,TX,Austin,IV Therapy,6,$500K-$1M,Dr. Mathew Darling,Medical Director,N/A,N/A,ivbird512.com
+Hydrate Medical Raleigh,Raleigh,NC,Raleigh,IV Therapy,5,$250K-$750K,N/A,Owner,N/A,N/A,raleigh.hydratemedical.com
+Atlas Health Institute,Las Vegas,NV,Las Vegas,IV Therapy,8,$1M-$2M,Ariana Mancilla,Co-Founder,N/A,N/A,atlashealthinstitute.com
+Regenerate Me,Las Vegas,NV,Las Vegas,IV Therapy,6,$500K-$1.5M,N/A,Owner,N/A,N/A,regenerateme.com
+Cedar Park Fertility Center,Austin,TX,Austin,Fertility Clinic,10,$2M-$5M,N/A,Owner,N/A,N/A,cedarparkfertility.com
+Utah Fertility Specialists,Salt Lake City,UT,Salt Lake City,Fertility Clinic,10,$2M-$5M,N/A,Owner,N/A,N/A,utahfertilityspecialists.com
+AFC Urgent Care Raleigh,Raleigh,NC,Raleigh,Urgent Care,10,$1M-$3M,N/A,Owner,N/A,N/A,afcurgentcare.com
+Full Spectrum ER and Urgent Care,San Antonio,TX,San Antonio,Urgent Care,12,$2M-$5M,N/A,Owner,N/A,N/A,fullspectrumer.com
+Blacksmith Speech Therapy,Salt Lake City,UT,Salt Lake City,Speech Therapy,5,$250K-$500K,N/A,Owner,N/A,N/A,blacksmithspeechtherapy.com
+Prism Speech ATX,Austin,TX,Austin,Speech Therapy,5,$250K-$500K,N/A,Owner,N/A,N/A,prismspeechatx.com
+Austin Speech Labs,Austin,TX,Austin,Speech Therapy,8,$500K-$1.5M,Shilpa,Co-Founder/President,N/A,N/A,austinspeechlabs.org
+Tavvy Speech Therapy,Jacksonville,FL,Jacksonville,Speech Therapy,5,$250K-$500K,Kristine,Owner/SLP,N/A,N/A,tavvyspeech.com
+The Grove Therapy Services,Jacksonville,FL,Jacksonville,Speech Therapy,6,$500K-$1M,N/A,Owner,N/A,N/A,thegrovetherapyco.com
+Hearing Associates of Las Vegas,Las Vegas,NV,Las Vegas,Audiology,8,$1M-$2M,Lionel,Co-Owner,N/A,N/A,hearingassociateslv.com
+Heritage Audiology Raleigh,Raleigh,NC,Raleigh,Audiology,6,$500K-$1.5M,Diane Catalano,Audiologist,N/A,N/A,audiologyraleigh.com
+San Antonio Custom Hearing,San Antonio,TX,San Antonio,Audiology,6,$500K-$1.5M,N/A,Owner,N/A,N/A,sacustomhearing.com
+Pool Specialists Raleigh,Raleigh,NC,Raleigh,Pool Service,8,$1M-$2M,Craig,Owner,N/A,N/A,N/A
+Swim Inc,Raleigh,NC,Raleigh,Pool Service,10,$1M-$3M,N/A,Owner,N/A,N/A,swimincnc.com
+Precision Garage Door Portland,Portland,OR,Portland,Garage Door,10,$1M-$3M,N/A,Owner,N/A,N/A,precisiondoorportland.com
+Alpha Garage Doors Portland,Portland,OR,Portland,Garage Door,6,$500K-$1.5M,N/A,Owner,N/A,N/A,alphagaragedoorsportland.com
+K&B Garage Doors Las Vegas,Las Vegas,NV,Las Vegas,Garage Door,10,$1M-$3M,N/A,Owner,N/A,N/A,kandbdoor.com
+O'Brien Garage Doors,San Antonio,TX,San Antonio,Garage Door,8,$1M-$2M,N/A,Owner,N/A,N/A,obriendoorsanantonio.com
+Caseys Movers,Portland,OR,Portland,Moving Company,8,$1M-$2M,Casey,Owner,N/A,N/A,caseysmovers.com
+Patriot Pool & Spa,Austin,TX,Austin,Pool Service,8,$1M-$2M,N/A,Owner,N/A,N/A,patriotpoolandspa.com
+Citywide Pool Service,Las Vegas,NV,Las Vegas,Pool Service,10,$1M-$3M,N/A,Owner,N/A,N/A,citywidepoolservice.com
+JHL Design Portland,Portland,OR,Portland,Interior Design,6,$500K-$1.5M,Holly Freres,Principal,N/A,N/A,jhldesign.com
+Mugwump Productions,Jacksonville,FL,Jacksonville,Event Planning,10,$1M-$3M,N/A,Owner,N/A,N/A,mugwumpproductions.com
+PRI Productions,Jacksonville,FL,Jacksonville,Event Planning,12,$1M-$3M,N/A,Owner,N/A,N/A,priproductions.com
+Premier Event Services,Salt Lake City,UT,Salt Lake City,Event Planning,10,$1M-$3M,N/A,Owner,N/A,N/A,premiereventsutah.com
+Harvest Moon Events,Salt Lake City,UT,Salt Lake City,Event Planning,6,$500K-$1.5M,N/A,Owner,N/A,N/A,harvestmoonevents.com
+Epic Entertainment Austin,Austin,TX,Austin,Event Planning,10,$1M-$3M,N/A,Owner,N/A,N/A,epicentertainment.com
+Eclipse Event Co Austin,Austin,TX,Austin,Event Planning,5,$500K-$1M,N/A,Owner,N/A,N/A,eclipseeventco.com
+SPC Event & Management,Austin,TX,Austin,Event Planning,8,$1M-$2M,N/A,Owner,N/A,N/A,spceventmgt.com
+Raleigh Auto Worx,Raleigh,NC,Raleigh,Multi-Location Car Wash,8,$1M-$2M,N/A,Owner,N/A,N/A,raleighautoworx.com
+Fleet Clean San Antonio,San Antonio,TX,San Antonio,Multi-Location Car Wash,10,$1M-$3M,Ismael,Franchise Owner,N/A,N/A,fleetcleanusa.com
+Primrose School Austin Mueller,Austin,TX,Austin,Daycare Chain,15,$1M-$3M,Christy Black,Co-Owner,N/A,N/A,primroseschools.com
+Bring'em Young Academy,Las Vegas,NV,Las Vegas,Daycare Chain,10,$500K-$1.5M,N/A,Owner,N/A,N/A,bringemyoungacademy.com
+Village Daycare North Las Vegas,Las Vegas,NV,Las Vegas,Daycare Chain,10,$500K-$1.5M,N/A,Owner,N/A,N/A,vddcnv.com
+Woodland Oaks Academy,Salt Lake City,UT,Salt Lake City,Daycare Chain,12,$1M-$2M,N/A,Owner,N/A,N/A,woodlandoaksacademy.com
+Child Time Inc SLC,Salt Lake City,UT,Salt Lake City,Daycare Chain,10,$500K-$1.5M,N/A,Owner,N/A,N/A,childtimeinc.com
+Kid Care Company,Salt Lake City,UT,Salt Lake City,Daycare Chain,10,$500K-$1.5M,N/A,Owner,N/A,N/A,kidcarecompany.com
+Sweet Briar CDC Austin,Austin,TX,Austin,Daycare Chain,10,$500K-$1.5M,N/A,Owner,N/A,N/A,sweetbriarcdc.com
+Heartfelt Hospitality Group,Jacksonville,FL,Jacksonville,Restaurant Group,10,$1M-$3M,N/A,Owner,N/A,N/A,heartfeltgroup.com
+YNRG Portland,Portland,OR,Portland,Restaurant Group,20,$3M-$7M,N/A,Owner,N/A,N/A,yourneighborhoodrg.com
+Heavy Restaurant Group,Seattle,WA,Seattle,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,heavyrg.com
+Pike Street Hospitality Group,Seattle,WA,Seattle,Restaurant Group,15,$2M-$5M,N/A,Owner,N/A,N/A,pikestreethg.com
+Natalie Young Restaurants,Las Vegas,NV,Las Vegas,Restaurant Group,10,$1M-$3M,Natalie Young,Owner,N/A,N/A,N/A
+Diamond Events Las Vegas,Las Vegas,NV,Las Vegas,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,diamondevents.com
+Divine Events Las Vegas,Las Vegas,NV,Las Vegas,Catering,10,$1M-$3M,N/A,Owner,N/A,N/A,divineeventslv.com
+Rocky Top Catering Raleigh,Raleigh,NC,Raleigh,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,rockytopcatering.com
+LUX Catering & Events SLC,Salt Lake City,UT,Salt Lake City,Catering,15,$2M-$5M,N/A,Owner,N/A,N/A,luxevents.com
+Cuisine Unlimited SLC,Salt Lake City,UT,Salt Lake City,Catering,12,$1M-$3M,N/A,Owner,N/A,N/A,cuisineunlimited.com
+The Bread Box,San Antonio,TX,San Antonio,Bakery/Wholesale,8,$500K-$1.5M,N/A,Owner,N/A,N/A,thebreadboxsa.com
+Nadler's Bakery & Deli,San Antonio,TX,San Antonio,Bakery/Wholesale,10,$1M-$2M,N/A,Owner,N/A,N/A,nadlers.com
+Bird Bakery San Antonio,San Antonio,TX,San Antonio,Bakery/Wholesale,10,$1M-$2M,N/A,Owner,N/A,N/A,birdbakery.com
+Trademark Flooring SLC,Salt Lake City,UT,Salt Lake City,Flooring,6,$500K-$1.5M,N/A,Owner,N/A,N/A,trademark-flooring.com
+Underfoot Floors SLC,Salt Lake City,UT,Salt Lake City,Flooring,6,$500K-$1.5M,N/A,Owner,N/A,N/A,underfootfloors.net
+Vama Flooring Las Vegas,Las Vegas,NV,Las Vegas,Flooring,8,$1M-$2M,N/A,Owner,N/A,N/A,vamaflooring.com
+Nevada Contract Carpet,Las Vegas,NV,Las Vegas,Flooring,12,$2M-$5M,N/A,Owner,N/A,N/A,nccfloors.com
+A1 Floors Raleigh,Raleigh,NC,Raleigh,Flooring,8,$1M-$2M,N/A,Owner,N/A,N/A,a1floorsnc.com
+Fence Pros of Texas,San Antonio,TX,San Antonio,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,fenceprosoftexas.com
+Kings Fence Jacksonville,Jacksonville,FL,Jacksonville,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,kingsfencejax.com
+Seattle Fence Company,Seattle,WA,Seattle,Fence Company,8,$1M-$2M,N/A,Owner,N/A,N/A,fencecompanyseattle.com
+Alpine Fence Co Seattle,Seattle,WA,Seattle,Fence Company,10,$1M-$3M,N/A,Owner,N/A,N/A,alpinefenceco.com
+Office Movers Las Vegas,Las Vegas,NV,Las Vegas,Moving Company,10,$1M-$3M,N/A,Owner,N/A,N/A,officemoverslasvegas.com
+2 Brothers Moving Portland,Portland,OR,Portland,Moving Company,8,$1M-$2M,N/A,Owner,N/A,N/A,2brothersmoving.net
+Jax AA Fencing,Jacksonville,FL,Jacksonville,Fence Company,6,$500K-$1.5M,N/A,Owner/Veteran,N/A,N/A,jaxaafencing.com
+Optifit Weight Loss Clinic,Portland,OR,Portland,Weight Loss Clinic,6,$500K-$1.5M,N/A,Owner,N/A,N/A,optifitclinics.com
+Seattle Regenerative Medical Center,Seattle,WA,Seattle,IV Therapy,8,$1M-$3M,Dr. Lucy Hostetter,Owner/Physician,N/A,N/A,seattleregen.com
+Let's Talk Speech SLC,Salt Lake City,UT,Salt Lake City,Speech Therapy,6,$500K-$1M,N/A,Owner,N/A,N/A,letstalkspeech.com
+Fresh Start Speech Therapy,Jacksonville,FL,Jacksonville,Speech Therapy,5,$250K-$500K,N/A,Owner,N/A,N/A,jaxfreshstart.com
+Moy Tarin Ramirez Engineers,San Antonio,TX,San Antonio,Engineering,12,$2M-$5M,N/A,Partner,N/A,N/A,mtrengineers.com
+Cude Engineers San Antonio,San Antonio,TX,San Antonio,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,cudeengineers.com
+JRH Engineering Raleigh,Raleigh,NC,Raleigh,Engineering,8,$1M-$3M,N/A,Owner,N/A,N/A,jrhengineering.net
+Parra & Co San Antonio,San Antonio,TX,San Antonio,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,parracompany.com
+NW Engineers Portland,Portland,OR,Portland,Engineering,10,$1M-$3M,N/A,Owner,N/A,N/A,nw-eng.com
+Portland Engineering Inc,Portland,OR,Portland,Engineering,12,$2M-$5M,N/A,Owner,N/A,N/A,portlandengineers.com
+Think Architecture SLC,Salt Lake City,UT,Salt Lake City,Architecture,15,$3M-$5M,N/A,Principal,N/A,N/A,thinkaec.com
+KGA Architecture Las Vegas,Las Vegas,NV,Las Vegas,Architecture,10,$1M-$3M,N/A,Principal,N/A,N/A,kga.design
+Perlman Architects Las Vegas,Las Vegas,NV,Las Vegas,Architecture,8,$1M-$2M,N/A,Principal,N/A,N/A,perlmanarchitects.com
+ELM Architecture Jacksonville,Jacksonville,FL,Jacksonville,Architecture,12,$2M-$5M,N/A,Principal,N/A,N/A,elmplan.com
+PQH Group Design Jacksonville,Jacksonville,FL,Jacksonville,Architecture,10,$1M-$3M,N/A,Principal,N/A,N/A,pqh.com

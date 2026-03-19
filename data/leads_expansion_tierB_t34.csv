@@ -1,0 +1,333 @@
+company_name,city,state,metro_area,industry,estimated_employees,estimated_revenue_range,owner_or_contact,contact_title,phone,email,website
+Sullivan Bruck Architects,Columbus,OH,Columbus OH,Architecture,8,$1M-$3M,N/A,N/A,N/A,N/A,N/A
+Red Architecture + Planning,Columbus,OH,Columbus OH,Architecture,6,$800K-$2M,N/A,N/A,N/A,N/A,N/A
+DS2 Architects,Columbus,OH,Columbus OH,Architecture,8,$1M-$3M,N/A,N/A,N/A,N/A,N/A
+BBCO Design,Columbus,OH,Columbus OH,Architecture,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.bbcodesign.com/
+Jonathan Barnes Architecture and Design,Columbus,OH,Columbus OH,Architecture,7,$1M-$2M,Jonathan Barnes,Principal,N/A,N/A,N/A
+Lupton Rausch Architecture + Interior Design,Columbus,OH,Columbus OH,Architecture,6,$800K-$2M,N/A,N/A,N/A,N/A,N/A
+Grove Architects,Cincinnati,OH,Cincinnati OH,Architecture,5,$600K-$1.5M,Julie Phalen,Co-Owner,N/A,N/A,https://www.grovearc.com/
+Wilcox Architecture,Cincinnati,OH,Cincinnati OH,Architecture,5,$500K-$1.5M,Tom Wilcox,Principal,N/A,N/A,https://www.wilcoxarchitecture.com/
+Wood Architects,Cincinnati,OH,Cincinnati OH,Architecture,6,$800K-$2M,N/A,N/A,N/A,N/A,N/A
+Childress & Cunningham Architects,Cincinnati,OH,Cincinnati OH,Architecture,8,$1M-$2.5M,N/A,N/A,N/A,N/A,N/A
+K4 Architecture + Design,Cincinnati,OH,Cincinnati OH,Architecture,6,$700K-$2M,N/A,N/A,N/A,N/A,N/A
+SmartDrone Corporation,Indianapolis,IN,Indianapolis IN,Engineering,8,$1M-$3M,N/A,N/A,N/A,N/A,N/A
+JQOL,Indianapolis,IN,Indianapolis IN,Engineering,6,$800K-$2M,N/A,N/A,N/A,N/A,N/A
+Advanced Engineering Consultants - ME,Indianapolis,IN,Indianapolis IN,Engineering,12,$2M-$5M,N/A,N/A,N/A,N/A,https://aecme.com/
+Madden McFarland,Kansas City,MO,Kansas City MO,Interior Design,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://maddenmcfarland.com/
+Kali Buchanan Interior Design,Kansas City,MO,Kansas City MO,Interior Design,6,$800K-$2M,Kali Buchanan,Owner,N/A,N/A,https://www.kalibuchananid.com/
+ML Designs,Kansas City,MO,Kansas City MO,Interior Design,5,$600K-$1.5M,N/A,N/A,N/A,N/A,https://www.mldesignskc.com/
+LaMira Interiors,Kansas City,MO,Kansas City MO,Interior Design,5,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.lamirainteriors.com/
+Jami Meek Designs,Lees Summit,MO,Kansas City MO,Interior Design,5,$500K-$1.5M,Jami Meek,Owner,N/A,N/A,https://jamimeekdesigns.com/
+Lisa Jensen Design,Kansas City,MO,Kansas City MO,Interior Design,5,$500K-$1M,Lisa Jensen,Owner,N/A,N/A,N/A
+SRS Design,Kansas City,MO,Kansas City MO,Interior Design,6,$700K-$2M,N/A,N/A,N/A,N/A,https://srsdesignkc.com/
+Stoller & Company,Baltimore,MD,Baltimore MD,Ecommerce,8,$1M-$3M,N/A,N/A,N/A,N/A,N/A
+Groove Commerce,Baltimore,MD,Baltimore MD,Ecommerce,15,$2M-$5M,N/A,N/A,N/A,N/A,N/A
+FJ Solutions,Baltimore,MD,Baltimore MD,Ecommerce,6,$500K-$1.5M,N/A,N/A,N/A,N/A,N/A
+Pixilated,Baltimore,MD,Baltimore MD,Ecommerce,8,$1M-$3M,N/A,N/A,N/A,N/A,N/A
+Cali Soiree,Sacramento,CA,Sacramento CA,Event Planning,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.calisoiree.com/
+Event Elves,Sacramento,CA,Sacramento CA,Event Planning,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.eventelves.org/
+Do An Event,Sacramento,CA,Sacramento CA,Event Planning,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://doanevent.com/
+Dragonfly Events & Co,Sacramento,CA,Sacramento CA,Event Planning,5,$500K-$1.5M,N/A,N/A,N/A,N/A,https://dragonflyeventsandco.com/
+Kate Whelan Events,Sacramento,CA,Sacramento CA,Event Planning,6,$800K-$2M,Kate Whelan,Owner,N/A,N/A,N/A
+Sacramento Event Planners,Sacramento,CA,Sacramento CA,Event Planning,5,$400K-$1M,N/A,N/A,N/A,N/A,http://saceventplanners.com/
+Car Pool Car Wash,Richmond,VA,Richmond VA,Multi-Location Car Wash,18,$3M-$6M,N/A,N/A,N/A,N/A,https://carpoolcarwashes.com/
+Flagstop Car Wash,Richmond,VA,Richmond VA,Multi-Location Car Wash,20,$5M-$10M,N/A,N/A,N/A,N/A,https://www.flagstopcarwash.com/
+Wash Your Way RVA,Richmond,VA,Richmond VA,Multi-Location Car Wash,8,$800K-$2M,N/A,N/A,N/A,N/A,https://washyourwayrva.com/
+Tiny Steps Development Center,Cincinnati,OH,Cincinnati OH,Daycare,10,$800K-$2M,N/A,N/A,N/A,N/A,https://www.tinystepsdevelopmentcenter.com/
+Mama Paynes Daycare,Cincinnati,OH,Cincinnati OH,Daycare,8,$500K-$1.5M,N/A,Owner,N/A,N/A,N/A
+Troublemakers Restaurant Group,Cedarburg,WI,Milwaukee WI,Restaurant Group,15,$2M-$5M,N/A,N/A,N/A,N/A,https://troublemakersrestaurantgroup.com/
+SED Hospitality,Milwaukee,WI,Milwaukee WI,Restaurant Group,18,$3M-$7M,N/A,N/A,N/A,N/A,https://www.standeatdrink.com/
+Bensons Restaurant Group,Milwaukee,WI,Milwaukee WI,Restaurant Group,20,$3M-$8M,N/A,N/A,N/A,N/A,https://www.bensonsrestaurantgroup.com/
+Lowlands Hospitality Group,Milwaukee,WI,Milwaukee WI,Restaurant Group,18,$3M-$7M,N/A,N/A,N/A,N/A,https://lowlandsgroup.com/
+Together & Company Events and Catering,Columbus,OH,Columbus OH,Catering,15,$2M-$5M,N/A,N/A,N/A,N/A,https://togetherandco.com/
+Bleu & Fig,Columbus,OH,Columbus OH,Catering,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.bleuandfig.com/
+Hudsons Edge Catering,Columbus,OH,Columbus OH,Catering,8,$800K-$2M,N/A,Owner (Wilson Family),N/A,N/A,https://www.hudsons-edge.com/
+Simply Plated Catering,Columbus,OH,Columbus OH,Catering,8,$800K-$2M,N/A,N/A,N/A,N/A,https://simplyplatedco.com/
+Milos Catering,Columbus,OH,Columbus OH,Catering,10,$1M-$3M,N/A,N/A,N/A,N/A,https://cateringbymilos.com/
+Catering By Scott,Columbus,OH,Columbus OH,Catering,12,$1.5M-$4M,Scott,Owner,N/A,N/A,https://www.cateringbyscott.com/
+PC Events Catering,Columbus,OH,Columbus OH,Catering,15,$2M-$5M,N/A,N/A,N/A,N/A,https://pceventsinc.com/
+Garage Doors of Indianapolis,Indianapolis,IN,Indianapolis IN,Garage Door Contractor,12,$2M-$5M,N/A,N/A,317-860-0806,N/A,https://doorstoday.com/
+All Star Garage Door & Gate Service,Indianapolis,IN,Indianapolis IN,Garage Door Contractor,10,$1.5M-$4M,N/A,N/A,317-559-4200,N/A,https://allstargarageservices.com/
+HCC Garage Doors,Indianapolis,IN,Indianapolis IN,Garage Door Contractor,8,$1M-$3M,N/A,N/A,N/A,N/A,https://hccgaragedoors.com/
+Midwest Garage Doors,Indianapolis,IN,Indianapolis IN,Garage Door Contractor,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://midwestgaragedoors.com/
+Icon Pools,Kansas City,MO,Kansas City MO,Pool Service,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.iconpoolskc.com/
+KC Pools,Kansas City,MO,Kansas City MO,Pool Service,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.kcpools.com/
+Bison Construction LLC,Kansas City,MO,Kansas City MO,Pool Service,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://bisonconllc.com/
+Leisure World Pool & Hearth,North Kansas City,MO,Kansas City MO,Pool Service,10,$1.5M-$3M,N/A,N/A,N/A,N/A,https://www.leisureworldkc.com/
+Pristine Pools,Kansas City,MO,Kansas City MO,Pool Service,8,$800K-$2M,N/A,N/A,N/A,N/A,https://pristinepoolskc.com/
+Pool Service Solutions Inc,Kansas City,MO,Kansas City MO,Pool Service,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://poolservicesolutionskc.com/
+EverReady Pool Services,Kansas City,MO,Kansas City MO,Pool Service,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.everreadypools.com/
+KC Pool Guys,Kansas City,MO,Kansas City MO,Pool Service,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://kcpoolguys.com/
+Charm City Movers,Baltimore,MD,Baltimore MD,Moving Company,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.charmcitymovers.com/
+Easy Movers Inc,Baltimore,MD,Baltimore MD,Moving Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.easymovers-md.com/
+Stewart Moving & Storage,Baltimore,MD,Baltimore MD,Moving Company,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.stewartmovingandstorage.com/
+Spring Medical Clinics,Sacramento,CA,Sacramento CA,Weight Loss Clinic,10,$1.5M-$4M,N/A,N/A,916-760-3764,N/A,http://www.springmedicalclinic.com/
+Natomas Weight Loss Center,Sacramento,CA,Sacramento CA,Weight Loss Clinic,8,$1M-$3M,N/A,N/A,N/A,N/A,https://natomasfamilypractice.com/
+Slim Med Inc,Sacramento,CA,Sacramento CA,Weight Loss Clinic,6,$800K-$2M,N/A,N/A,N/A,N/A,https://www.slimmedinc.com/
+Synchronicity Health,Sacramento,CA,Sacramento CA,Weight Loss Clinic,8,$1M-$3M,N/A,N/A,N/A,N/A,https://synchronicityhealth.net/
+Dr Scott Green Medical Weight Loss,Sacramento,CA,Sacramento CA,Weight Loss Clinic,6,$800K-$2M,Dr. Scott Green,Physician/Owner,916-929-1833,N/A,https://www.drscottgreen.com/
+Apollo Physicians,Sacramento,CA,Sacramento CA,Weight Loss Clinic,8,$1M-$3M,N/A,N/A,N/A,N/A,https://www.apollophysicians.com/
+The Feel Better Lounge,Richmond,VA,Richmond VA,IV Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://thefeelbetterlounge.com/
+InHealthRVA,Richmond,VA,Richmond VA,IV Therapy,8,$800K-$2M,N/A,N/A,804-288-1111,N/A,https://www.inhealthrva.com/
+CKE Rejuvenation,Richmond,VA,Richmond VA,IV Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.ckerejuvenationrva.com/
+Chronic Care of Richmond,Richmond,VA,Richmond VA,IV Therapy,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.chroniccareofrichmond.com/
+Vita Pure IV,Richmond,VA,Richmond VA,IV Therapy,5,$400K-$1M,N/A,N/A,N/A,N/A,https://www.vitapureinfusions.com/
+Comprehensive Concepts in Speech & Hearing,Cincinnati,OH,Cincinnati OH,Speech Therapy,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.speechtherapycincinnati.com/
+SMILES Integrative Therapy Services,Loveland,OH,Cincinnati OH,Speech Therapy,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.smilestherapy.com/
+Cincinnati Center for Improved Communication,Blue Ash,OH,Cincinnati OH,Speech Therapy,8,$800K-$2M,N/A,N/A,N/A,N/A,https://ccicinc.com/
+Elite Kids Therapy,Cincinnati,OH,Cincinnati OH,Speech Therapy,10,$1M-$3M,N/A,N/A,N/A,N/A,https://elitekidstherapy.com/
+Totally Communicating,Cincinnati,OH,Cincinnati OH,Speech Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.totallycommunicating.com/
+BeYOUtiful Adventures in Speech,Mason,OH,Cincinnati OH,Speech Therapy,5,$400K-$1M,N/A,N/A,N/A,N/A,https://www.beyoutifulspeech.com
+Straight Edge Flooring,Milwaukee,WI,Milwaukee WI,Flooring Contractor,12,$2M-$5M,N/A,N/A,N/A,N/A,https://straightedgeflooring.com/
+Flawless Flooring LLC,Milwaukee,WI,Milwaukee WI,Flooring Contractor,8,$1M-$3M,N/A,N/A,N/A,N/A,https://www.flawlessflooringllc.com/
+BYCO Inc,Milwaukee,WI,Milwaukee WI,Flooring Contractor,10,$1.5M-$4M,N/A,N/A,262-894-6995,N/A,https://bycotileandfloor.com/
+Lions Pride Flooring,Milwaukee,WI,Milwaukee WI,Flooring Contractor,8,$1M-$3M,N/A,N/A,N/A,N/A,https://lionsprideflooring.com/
+Lippert Flooring & Tile,Milwaukee,WI,Milwaukee WI,Flooring Contractor,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.lipperttile.com/
+Mills Fence,Columbus,OH,Columbus OH,Fence Company,20,$3M-$7M,N/A,N/A,N/A,N/A,https://millsfencecolumbus.com/
+S&G Fence Company,Columbus,OH,Columbus OH,Fence Company,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.sgfence.com/
+Bowden Fence,Columbus,OH,Columbus OH,Fence Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://bowdenfence.com/
+Capitol Fence,Pickerington,OH,Columbus OH,Fence Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://capitolfence.net/
+Vasseur Fencing,Columbus,OH,Columbus OH,Fence Company,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.vasseurfencing.com/
+Lannis Fence,Columbus,OH,Columbus OH,Fence Company,15,$2M-$5M,N/A,N/A,N/A,N/A,https://lannisfence.com/
+Columbus Fence Co,Columbus,OH,Columbus OH,Fence Company,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.columbusfenceco.com/
+Fire Dawgs Junk Removal,Indianapolis,IN,Indianapolis IN,Junk Removal,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://firedawgsjunkremoval.com/
+AC Trash Hauling & More,Indianapolis,IN,Indianapolis IN,Junk Removal,8,$800K-$2M,N/A,N/A,317-690-6810,N/A,https://www.actrashhauling.com/
+Indy Trash Guy,Fishers,IN,Indianapolis IN,Junk Removal,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.indytrashguy.com/
+Scratch KC,North Kansas City,MO,Kansas City MO,Bakery/Wholesale,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.scratchkc.com/
+Golden Boy Pies,Kansas City,MO,Kansas City MO,Bakery/Wholesale,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://goldenboypies.com/
+Farm to Market Bread Co,Kansas City,MO,Kansas City MO,Bakery/Wholesale,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.farmtomarketbread.com/
+Enchante Bakery,Kansas City,MO,Kansas City MO,Bakery/Wholesale,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.enchanteonmain.com/
+Fox and Bull Baking Co,Kansas City,MO,Kansas City MO,Bakery/Wholesale,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.foxandbullkc.com/
+Bloom Baking Co,Kansas City,MO,Kansas City MO,Bakery/Wholesale,8,$700K-$2M,N/A,N/A,N/A,N/A,https://www.bloombakingco.com/
+Institute for Reproductive Health,Cincinnati,OH,Cincinnati OH,Fertility Clinic,15,$3M-$8M,N/A,N/A,N/A,N/A,https://cincinnatifertility.com/
+Fertility Wellness Institute of Ohio,Cincinnati,OH,Cincinnati OH,Fertility Clinic,8,$1.5M-$4M,Dr. Chin,Physician/Owner,N/A,N/A,https://www.chinbaby.com/
+SpringCreek Fertility,Cincinnati,OH,Cincinnati OH,Fertility Clinic,10,$2M-$5M,N/A,N/A,N/A,N/A,https://www.springcreekfertility.com/
+AIMS Urgent Care,Sacramento,CA,Sacramento CA,Urgent Care,12,$2M-$5M,N/A,N/A,N/A,N/A,https://aimsuc.com/
+West Sacramento Urgent Care,West Sacramento,CA,Sacramento CA,Urgent Care,8,$1.5M-$4M,Dr. Ziad A. Ali,Founder/Physician,N/A,N/A,https://www.westsacuc.care/
+MD Urgent Care Inc,Sacramento,CA,Sacramento CA,Urgent Care,8,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.mduc.org/
+Virginia ENT,Henrico,VA,Richmond VA,Audiology,15,$3M-$7M,N/A,N/A,804-484-3700,N/A,https://virginiaent.com/
+Richmond Hearing Doctors,Richmond,VA,Richmond VA,Audiology,8,$1M-$3M,N/A,N/A,N/A,N/A,https://www.richmondhearingdoctors.com/
+Virginia Hearing Center,Richmond,VA,Richmond VA,Audiology,8,$1M-$3M,N/A,N/A,804-288-3277,N/A,https://virginiahearingcenter.com/
+Live Better Hearing + Balance,Mechanicsville,VA,Richmond VA,Audiology,6,$800K-$2M,Dr. Veronica Sutter,Lead Audiologist,N/A,N/A,https://livebetterhearing.com/
+Dos Hermanos,Columbus,OH,Columbus OH,Restaurant Group,20,$3M-$6M,N/A,N/A,N/A,N/A,N/A
+Richmond Restaurant Group,Richmond,VA,Richmond VA,Restaurant Group,18,$3M-$7M,Michelle Williams,Co-Founder,N/A,N/A,https://richmondrestaurantgroup.com/
+HOUSEpitality Family,Richmond,VA,Richmond VA,Restaurant Group,20,$4M-$8M,Kevin Healy,Owner,N/A,N/A,https://www.housepitalityva.com/
+EAT Restaurant Partners,Richmond,VA,Richmond VA,Restaurant Group,18,$3M-$7M,N/A,N/A,N/A,N/A,https://eatrp.com/
+Lindsey Food Group,Richmond,VA,Richmond VA,Restaurant Group,20,$4M-$8M,Mike Lindsey,Owner,N/A,N/A,N/A
+MAC Hospitality Group,Sacramento,CA,Sacramento CA,Restaurant Group,20,$4M-$8M,N/A,N/A,N/A,N/A,https://www.machospitalitygroup.com/
+Sellands Family Restaurants,Sacramento,CA,Sacramento CA,Restaurant Group,18,$3M-$7M,N/A,N/A,N/A,N/A,N/A
+Sweet & Savory Catering,Indianapolis,IN,Indianapolis IN,Catering,10,$1.5M-$4M,Melissa Mudd,Executive Chef/Owner,N/A,N/A,https://sweetsavorycatering.com/
+Sahms Catering Company,Fishers,IN,Indianapolis IN,Catering,15,$2M-$5M,N/A,N/A,N/A,N/A,https://sahmscatering.com/
+Indy Fresh Catering,Indianapolis,IN,Indianapolis IN,Catering,8,$800K-$2M,Toby Nunley,Owner,N/A,N/A,https://indyfreshcatering.com/
+Jugs Catering,Indianapolis,IN,Indianapolis IN,Catering,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://jugscatering.com/
+Nameless Catering,Indianapolis,IN,Indianapolis IN,Catering,8,$800K-$2M,N/A,N/A,N/A,N/A,https://namelesscatering.com/
+Kneads Bakeshop,Baltimore,MD,Baltimore MD,Bakery/Wholesale,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://kneadsbakeshop.com/
+Maranto Bakery,Baltimore,MD,Baltimore MD,Bakery/Wholesale,8,$1M-$2.5M,N/A,N/A,N/A,N/A,N/A
+Yia Yias Bakery,Baltimore,MD,Baltimore MD,Bakery/Wholesale,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.yiayiasbakery.com/
+Woodlea Bakery,Baltimore,MD,Baltimore MD,Bakery/Wholesale,10,$1M-$3M,N/A,N/A,410-488-7717,N/A,https://www.woodleabakery.com/
+Ovenbird Bakery,Baltimore,MD,Baltimore MD,Bakery/Wholesale,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://ovenbirdbread.com/
+Stone Mill Bakery,Baltimore,MD,Baltimore MD,Bakery/Wholesale,8,$800K-$2M,N/A,N/A,N/A,N/A,https://stonemillbakery.com/
+Premier Weight Loss,Indianapolis,IN,Indianapolis IN,Weight Loss Clinic,8,$1M-$3M,N/A,N/A,N/A,N/A,https://pwlindy.com/
+RescueMD,Indianapolis,IN,Indianapolis IN,Weight Loss Clinic,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.myrescuemd.com/
+TrimMD,Indianapolis,IN,Indianapolis IN,Weight Loss Clinic,8,$1M-$3M,N/A,N/A,N/A,N/A,https://mytrimmd.com/
+The Case Clinic,Indianapolis,IN,Indianapolis IN,Weight Loss Clinic,6,$800K-$2M,N/A,N/A,N/A,N/A,https://www.thecaseclinic.com/
+Spencer Wellness Centre,Indianapolis,IN,Indianapolis IN,Weight Loss Clinic,8,$1M-$3M,N/A,N/A,N/A,N/A,https://spencerwellness.com/
+Slagle Fence,Kansas City,MO,Kansas City MO,Fence Company,12,$1.5M-$4M,N/A,N/A,816-863-6159,N/A,https://slaglefence.com/
+AmeriFence Corporation,Kansas City,MO,Kansas City MO,Fence Company,15,$2M-$5M,N/A,N/A,N/A,N/A,https://amerifencecorporation.com/
+Elite Fence KC,Kansas City,MO,Kansas City MO,Fence Company,10,$1.5M-$3.5M,N/A,N/A,N/A,N/A,https://elitefencekc.com/
+Brothers Fence,Kansas City,MO,Kansas City MO,Fence Company,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://brothersfencellc.net/
+Reagan Fence,Kansas City,MO,Kansas City MO,Fence Company,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://reaganfence.com/
+KC Fence Company,Kansas City,MO,Kansas City MO,Fence Company,10,$1M-$3M,N/A,N/A,N/A,N/A,https://kcfencecompany.com/
+Guier Fence,Liberty,MO,Kansas City MO,Fence Company,10,$1.5M-$3.5M,N/A,N/A,N/A,N/A,https://www.guierfence.com/
+Junk King Sacramento,Sacramento,CA,Sacramento CA,Junk Removal,10,$1M-$3M,N/A,N/A,916-378-4344,N/A,https://www.junk-king.com/locations/sacramento
+Junk Away Sacramento,Sacramento,CA,Sacramento CA,Junk Removal,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://junkawaysac.com/
+Discard Junk Removal,Sacramento,CA,Sacramento CA,Junk Removal,8,$800K-$2M,N/A,N/A,N/A,N/A,https://discardjunk.com/
+Richs Junk Hauling,Sacramento,CA,Sacramento CA,Junk Removal,6,$500K-$1.5M,Rich,Owner,916-519-0668,N/A,https://www.richsjunkhauling.com/
+Sac Junk,Sacramento,CA,Sacramento CA,Junk Removal,8,$800K-$2M,N/A,N/A,916-716-2108,N/A,https://www.sacjunk.com/
+Big Rich Hauling,Sacramento,CA,Sacramento CA,Junk Removal,10,$1M-$3M,N/A,N/A,916-252-9500,N/A,https://bigrichhauling.com/
+Proper Hauling,Sacramento,CA,Sacramento CA,Junk Removal,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.properhauling.com/
+Johannas Design Group,Richmond,VA,Richmond VA,Architecture,8,$1M-$3M,Dave Johannes,Principal,N/A,N/A,N/A
+Mark Spangler Architecture,Richmond,VA,Richmond VA,Architecture,6,$800K-$2M,Mark Spangler,Principal,N/A,N/A,N/A
+SMS Architects,Richmond,VA,Richmond VA,Architecture,8,$1M-$3M,N/A,N/A,N/A,N/A,https://www.smsarchitect.com/
+Bartzen & Ball,Richmond,VA,Richmond VA,Architecture,8,$1M-$3M,N/A,N/A,N/A,N/A,N/A
+Ensminger Architecture,Richmond,VA,Richmond VA,Architecture,6,$800K-$2M,N/A,N/A,N/A,N/A,N/A
+3North,Richmond,VA,Richmond VA,Architecture,15,$2M-$5M,N/A,N/A,N/A,N/A,N/A
+KEI Architects,Richmond,VA,Richmond VA,Architecture,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://keiarchitects.com/
+Capital Engineering,Sacramento,CA,Sacramento CA,Engineering,15,$3M-$7M,N/A,N/A,N/A,N/A,https://capital-engineering.com/
+Top Engineering Inc,Sacramento,CA,Sacramento CA,Engineering,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.topcivileng.com/
+Ashley & Vance Engineering,Sacramento,CA,Sacramento CA,Engineering,12,$2M-$5M,N/A,N/A,N/A,N/A,https://ashleyvance.com/
+Golden State Design & Engineering,Sacramento,CA,Sacramento CA,Engineering,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://goldenstatede.com/
+Bennett Engineering,Roseville,CA,Sacramento CA,Engineering,15,$2M-$5M,N/A,N/A,N/A,N/A,https://ben-en.com/
+Print Syndicate,Columbus,OH,Columbus OH,Ecommerce,15,$2M-$5M,N/A,N/A,N/A,N/A,N/A
+Cincy Event Planning,Cincinnati,OH,Cincinnati OH,Event Planning,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://cincyeventplanning.com/
+Viva Bella Events,Cincinnati,OH,Cincinnati OH,Event Planning,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://vivabellaevents.com/
+Moment to Moment Events,Cincinnati,OH,Cincinnati OH,Event Planning,5,$400K-$1M,N/A,N/A,N/A,N/A,https://momenttomomentevents.com/
+Em and Elle Events,Cincinnati,OH,Cincinnati OH,Event Planning,5,$400K-$1M,N/A,N/A,N/A,N/A,https://emandelleevents.com/
+Block Party Event Co,Cincinnati,OH,Cincinnati OH,Event Planning,8,$800K-$2M,N/A,N/A,N/A,N/A,https://blockpartyeventco.com/
+Unlimited Events,Cincinnati,OH,Cincinnati OH,Event Planning,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://unlimitedevents.com/
+Turbo Wash,Columbus,OH,Columbus OH,Multi-Location Car Wash,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.turbowashcarwash.com
+Tsunami Express Car Wash,Columbus,OH,Columbus OH,Multi-Location Car Wash,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.tsunamiexpress.com/
+Pool Scouts of Richmond,Richmond,VA,Richmond VA,Pool Service,8,$800K-$2M,N/A,N/A,N/A,N/A,https://poolscouts.com/richmond/
+Douglas Aquatics,Richmond,VA,Richmond VA,Pool Service,18,$3M-$7M,N/A,N/A,N/A,N/A,https://www.douglasaquatics.com/
+The Aquatics Authority,Richmond,VA,Richmond VA,Pool Service,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.theaquaticsauthority.com/
+Integrity Pool & Spa,Richmond,VA,Richmond VA,Pool Service,6,$500K-$1.5M,N/A,N/A,N/A,N/A,http://www.integritypoolva.com/
+SwimRight Pool and Spa,Richmond,VA,Richmond VA,Pool Service,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.swimrightva.com/
+The Pool Guy VA,Richmond,VA,Richmond VA,Pool Service,5,$400K-$1M,N/A,N/A,N/A,N/A,https://www.thepoolguyva.com/
+Sublime Pools RVA,Richmond,VA,Richmond VA,Pool Service,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.sublimepoolsrva.com/
+James B Moving,Sacramento,CA,Sacramento CA,Moving Company,8,$800K-$2M,James B,Owner,N/A,N/A,https://jamesbmoving.com
+Move Smooth,Sacramento,CA,Sacramento CA,Moving Company,10,$1M-$3M,N/A,N/A,N/A,N/A,https://movesmooth.me/
+Mother Lode Moving,Sacramento,CA,Sacramento CA,Moving Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://sacramentomover.net/
+A Better Moving & Storage,Sacramento,CA,Sacramento CA,Moving Company,15,$2M-$5M,N/A,N/A,N/A,N/A,https://abettermoving.com/
+Budget Moving and Storage,Sacramento,CA,Sacramento CA,Moving Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://budgetmoversandstorage.com/
+Laura Hodges Studio,Baltimore,MD,Baltimore MD,Interior Design,6,$800K-$2M,Laura Hodges,Owner,N/A,N/A,https://www.laurahodgesstudio.com/
+Curated Home Designs,Baltimore,MD,Baltimore MD,Interior Design,5,$500K-$1.5M,N/A,N/A,N/A,N/A,https://curatedhomedesigns.com/
+Millbrook Circle Interior Design,Baltimore,MD,Baltimore MD,Interior Design,6,$700K-$2M,N/A,N/A,N/A,N/A,https://www.millbrookcircle.com/
+ARK Design LLC,Baltimore,MD,Baltimore MD,Interior Design,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://arkdesignllc.com/
+Stephanie Gamble Interiors,Towson,MD,Baltimore MD,Interior Design,5,$500K-$1.5M,Stephanie Gamble,Owner,N/A,N/A,N/A
+Joe Wilde Garage Door,Milwaukee,WI,Milwaukee WI,Garage Door Contractor,12,$2M-$5M,N/A,N/A,N/A,N/A,https://www.joewilde.com/
+GEIS Building Products,Milwaukee,WI,Milwaukee WI,Garage Door Contractor,15,$3M-$6M,N/A,N/A,N/A,N/A,https://www.geisdoors.com/
+OHD MetroMilwaukee,Milwaukee,WI,Milwaukee WI,Garage Door Contractor,12,$2M-$4M,N/A,N/A,N/A,N/A,https://ohdmetromilwaukee.com/
+Advance Overhead Door Inc,Milwaukee,WI,Milwaukee WI,Garage Door Contractor,10,$1.5M-$3.5M,N/A,N/A,N/A,N/A,https://www.advanceoverheaddoor.com/
+Lifetime Door,Milwaukee,WI,Milwaukee WI,Garage Door Contractor,12,$2M-$4M,N/A,N/A,N/A,N/A,https://lifetimedoor.net/
+DoorMaster Garage Door Co,Greenfield,WI,Milwaukee WI,Garage Door Contractor,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://doormasterco.com/
+Consolidated Doors,Milwaukee,WI,Milwaukee WI,Garage Door Contractor,10,$1.5M-$3.5M,N/A,N/A,N/A,N/A,https://www.consolidateddoors.com/
+Prime IV Hydration Columbus,Columbus,OH,Columbus OH,IV Therapy,8,$800K-$2M,N/A,N/A,N/A,N/A,https://primeivhydration.com/
+Revive 614 Health & Wellness,Columbus,OH,Columbus OH,IV Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.revive614.com
+Rejuvenate You,Columbus,OH,Columbus OH,IV Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://rejuvenateyouohio.com/
+Hydrate Me MedSpa,Columbus,OH,Columbus OH,IV Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://hydratememedspa.com/
+Eastside Urgent Care,Cincinnati,OH,Cincinnati OH,Urgent Care,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.esurgentcare.com/
+Mt Auburn Urgent Care,Cincinnati,OH,Cincinnati OH,Urgent Care,8,$1M-$3M,N/A,N/A,N/A,N/A,https://www.maurgentcare.com/
+Hackett House Studio,Columbus,OH,Columbus OH,Interior Design,5,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.hacketthousestudio.com/
+Studio Black Ink,Columbus,OH,Columbus OH,Interior Design,6,$700K-$2M,N/A,N/A,N/A,N/A,https://www.studioblackink.com/
+Peace and Pine Designs,Columbus,OH,Columbus OH,Interior Design,5,$500K-$1.5M,N/A,N/A,N/A,N/A,https://peaceandpinedesigns.com/
+East & Gray Interiors,Columbus,OH,Columbus OH,Interior Design,5,$500K-$1.5M,Andrea Durcik,Owner,N/A,N/A,https://eastandgrayinteriors.com/
+Townes Site Engineering,Richmond,VA,Richmond VA,Engineering,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.cctownes.com/
+Dunbar Structural,Richmond,VA,Richmond VA,Engineering,20,$3M-$7M,N/A,N/A,N/A,N/A,https://www.dunbarstructural.com/
+Fulcrum Engineering Solutions,Richmond,VA,Richmond VA,Engineering,8,$1M-$3M,N/A,N/A,N/A,N/A,https://fulcrumpllc.com/
+Engineering Design Associates,Richmond,VA,Richmond VA,Engineering,12,$2M-$5M,N/A,N/A,N/A,N/A,https://www.edaengr.com/
+Indys Finest Fence,Indianapolis,IN,Indianapolis IN,Fence Company,10,$1.5M-$3.5M,N/A,N/A,N/A,N/A,https://indysfinestfence.com/
+Good Shepherd Fence Company,Indianapolis,IN,Indianapolis IN,Fence Company,10,$1.5M-$3.5M,N/A,N/A,N/A,N/A,https://goodshepherdfencecompany.com/
+BlueBird Fence Company,Indianapolis,IN,Indianapolis IN,Fence Company,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.indianapolisfencecompany.com/
+Draper Fence & Rail Co,Indianapolis,IN,Indianapolis IN,Fence Company,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.draperfencing.com/
+K and K Fence,Indianapolis,IN,Indianapolis IN,Fence Company,15,$2M-$5M,Fred Poe,Owner,N/A,N/A,https://kkfence.com/
+Amerifence USA,Indianapolis,IN,Indianapolis IN,Fence Company,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.amerifenceusa.com/
+Timber Ridge Fence,Indianapolis,IN,Indianapolis IN,Fence Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.timberridgefencecompany.com/
+Waldo Bowers Floor Covering,Sacramento,CA,Sacramento CA,Flooring Contractor,12,$2M-$5M,N/A,N/A,N/A,N/A,https://www.waldobowersfloorcovering.com/
+Simas Floor & Design Company,Sacramento,CA,Sacramento CA,Flooring Contractor,15,$2M-$5M,N/A,N/A,916-452-4933,N/A,https://www.simasflooranddesign.com
+SAWS Flooring,Sacramento,CA,Sacramento CA,Flooring Contractor,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.sawsflooring.com/
+Wood Bros Floor Covering,Sacramento,CA,Sacramento CA,Flooring Contractor,12,$2M-$5M,N/A,N/A,N/A,N/A,https://www.woodbrothersflooring.com/
+Becker Audiology,Milwaukee,WI,Milwaukee WI,Audiology,6,$800K-$2M,N/A,N/A,N/A,N/A,https://www.beckeraudiology.com/
+Midwest Audiology Center,Greenfield,WI,Milwaukee WI,Audiology,6,$800K-$2M,N/A,N/A,N/A,N/A,https://midwestaudiology.net/
+Milwaukee ENT Hearing Aid Center,Milwaukee,WI,Milwaukee WI,Audiology,8,$1M-$3M,N/A,N/A,N/A,N/A,https://milwaukeehearingaid.com/
+Virginia Fertility & IVF,Richmond,VA,Richmond VA,Fertility Clinic,12,$3M-$8M,N/A,N/A,N/A,N/A,https://www.vafertility.com/
+Dignitas Health,Richmond,VA,Richmond VA,Fertility Clinic,8,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.choosedignitas.com/
+The Nurturing Nook,Milwaukee,WI,Milwaukee WI,Daycare,12,$1M-$3M,N/A,N/A,N/A,N/A,https://www.thenurturingnook.com/
+Pantheon Moving,Kansas City,MO,Kansas City MO,Moving Company,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.pantheonmoving.com/
+Moovers,Kansas City,MO,Kansas City MO,Moving Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://1800moovers.com/
+Movefasa Moving,Kansas City,MO,Kansas City MO,Moving Company,8,$800K-$2M,N/A,N/A,N/A,N/A,https://movefasamoving.com/
+Moving Proz,Kansas City,MO,Kansas City MO,Moving Company,10,$1M-$3M,N/A,N/A,N/A,N/A,https://movingproz.com/
+Courtesy Movers,Kansas City,MO,Kansas City MO,Moving Company,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.courtesymoverskc.com/
+RVA Removal,Richmond,VA,Richmond VA,Junk Removal,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.rvaremoval.com/
+MoveJunk VA,Richmond,VA,Richmond VA,Junk Removal,8,$800K-$2M,N/A,N/A,N/A,N/A,https://movejunkva.com/
+Get My Junk,Richmond,VA,Richmond VA,Junk Removal,8,$800K-$2M,N/A,N/A,N/A,N/A,https://getmyjunk.com/
+Junk Squad RVA,Richmond,VA,Richmond VA,Junk Removal,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://myjunksquadrva.com/
+Charlies Catering & Company,Milwaukee,WI,Milwaukee WI,Catering,8,$800K-$2M,Charlie,Owner,N/A,N/A,https://www.charliescateringcompany.com/
+Armons Catering,Milwaukee,WI,Milwaukee WI,Catering,10,$1M-$3M,N/A,N/A,N/A,N/A,https://armons.com/
+Noble Catering & Events,Milwaukee,WI,Milwaukee WI,Catering,8,$800K-$2M,N/A,N/A,N/A,N/A,https://noblecateringco.com/
+Skyline Catering,Milwaukee,WI,Milwaukee WI,Catering,10,$1M-$3M,N/A,N/A,N/A,N/A,https://skylinecatering.com/
+Irenes Catering,Milwaukee,WI,Milwaukee WI,Catering,12,$1.5M-$4M,Irene,Owner,N/A,N/A,http://www.irenescatering.com/
+Chef Jacks Catering,Milwaukee,WI,Milwaukee WI,Catering,10,$1M-$3M,Jack,Owner,N/A,N/A,https://www.chefjacks.com/
+IV Nutrition Westport,Kansas City,MO,Kansas City MO,IV Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://ivnutrition.com/
+Recovery Hydration Therapy,Kansas City,MO,Kansas City MO,IV Therapy,5,$400K-$1M,N/A,N/A,N/A,N/A,https://recoveryhydrationtherapy.com/
+LUX Wellness KC,Kansas City,MO,Kansas City MO,IV Therapy,5,$400K-$1M,N/A,N/A,N/A,N/A,https://www.luxwellnesskc.com/
+The Grove Spa,Kansas City,MO,Kansas City MO,IV Therapy,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.thegrovespa.com/
+WI Urgent Care,Milwaukee,WI,Milwaukee WI,Urgent Care,8,$1M-$3M,N/A,N/A,414-431-5004,N/A,https://www.wiurgentcare.com/
+Medco Milwaukee,Milwaukee,WI,Milwaukee WI,Urgent Care,8,$1M-$3M,Dmitriy Chester,Founder/APNP,N/A,N/A,https://medcomilwaukee.com/
+RemedyNow Health,Milwaukee,WI,Milwaukee WI,Urgent Care,8,$1M-$3M,N/A,N/A,N/A,N/A,https://www.remedynow.net/
+Vincent Greene Architects,Baltimore,MD,Baltimore MD,Architecture,6,$800K-$2M,Vincent Greene,Principal,N/A,N/A,N/A
+2e Architects,Baltimore,MD,Baltimore MD,Architecture,8,$1M-$3M,N/A,N/A,N/A,N/A,https://2e-architects.com/
+Twopoint,Baltimore,MD,Baltimore MD,Architecture,6,$800K-$2M,N/A,N/A,N/A,N/A,N/A
+Carballo Architecture,Baltimore,MD,Baltimore MD,Architecture,6,$800K-$2M,Adam Carballo,Principal,N/A,N/A,N/A
+Ziger Snead Architects,Baltimore,MD,Baltimore MD,Architecture,12,$2M-$5M,N/A,N/A,N/A,N/A,https://www.zigersnead.com/
+BCT Design Group,Baltimore,MD,Baltimore MD,Architecture,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.bctdesigngroup.com/
+614 Pools,Columbus,OH,Columbus OH,Pool Service,8,$800K-$2M,N/A,N/A,N/A,N/A,https://614pools.com/
+A2Z Swimming Pool Service,Columbus,OH,Columbus OH,Pool Service,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.a2zswimmingpoolservice.net/
+Endless Summer Pool and Spa,Columbus,OH,Columbus OH,Pool Service,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.endlesssummerpool.com/
+Omni Pools & Scapes,Hilliard,OH,Columbus OH,Pool Service,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.omnipoolsandscapes.com/
+Superior Pools Plus,Columbus,OH,Columbus OH,Pool Service,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://superiorpoolsplus.com/
+Affordable Movers,Cincinnati,OH,Cincinnati OH,Moving Company,10,$1M-$3M,N/A,N/A,N/A,N/A,https://affordablemovers.biz/
+Clark & Sons Moving,Cincinnati,OH,Cincinnati OH,Moving Company,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.clarkandsonsmovingllc.com/
+Cincinnati Movers,Cincinnati,OH,Cincinnati OH,Moving Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.moverscincinnatioh.com/
+A Smooth Move,Cincinnati,OH,Cincinnati OH,Moving Company,10,$1M-$3M,N/A,N/A,N/A,N/A,https://asmoothmovecincinnati.com/
+Elite Movers Cincinnati,Cincinnati,OH,Cincinnati OH,Moving Company,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.elitemoverscincinnati.com/
+KC Bariatric,Kansas City,MO,Kansas City MO,Weight Loss Clinic,12,$2M-$5M,N/A,N/A,N/A,N/A,https://kcbariatric.com/
+Dr Tagues Center for Nutrition,Kansas City,MO,Kansas City MO,Weight Loss Clinic,10,$1.5M-$4M,Dr. Tague,Physician/Owner,N/A,N/A,https://taguenutrition.com/
+Plaza Aesthetics & Wellness,Kansas City,MO,Kansas City MO,Weight Loss Clinic,8,$1M-$3M,N/A,N/A,N/A,N/A,https://www.plazamedicalspa.com/
+Revive RX Med Spa,Kansas City,MO,Kansas City MO,Weight Loss Clinic,6,$800K-$2M,N/A,N/A,N/A,N/A,https://www.reviverxmedspa.com/
+KC Medical & Wellness Center,Kansas City,MO,Kansas City MO,Weight Loss Clinic,6,$800K-$2M,N/A,N/A,N/A,N/A,https://kcmedicalwc.com/
+K1ds Count Therapy,Indianapolis,IN,Indianapolis IN,Speech Therapy,10,$1M-$3M,N/A,N/A,N/A,N/A,https://kctherapy.com/
+Wild Blossom Speech Therapy,Indianapolis,IN,Indianapolis IN,Speech Therapy,5,$400K-$1M,N/A,N/A,N/A,N/A,https://www.wildblossomspeech.com/
+Indy Speech Therapy,Indianapolis,IN,Indianapolis IN,Speech Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://www.indyspeechtherapy.com/
+Radz Speech Language Therapy,Indianapolis,IN,Indianapolis IN,Speech Therapy,5,$400K-$1M,N/A,N/A,N/A,N/A,https://www.radzslp.com/
+Kings Korner Catering,Richmond,VA,Richmond VA,Catering,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.kingskornercatering.com/
+DeFazios Catering,Richmond,VA,Richmond VA,Catering,12,$1.5M-$4M,N/A,N/A,N/A,N/A,http://defazioscatering.com/
+Morrisseys Catering Co,Richmond,VA,Richmond VA,Catering,8,$800K-$2M,N/A,N/A,N/A,N/A,https://www.morrisseyscatering.com
+Goodrich Gourmet Catering,Richmond,VA,Richmond VA,Catering,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.goodrichgourmet.com/
+A Sharper Palate Catering,Richmond,VA,Richmond VA,Catering,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://sharperpalate.com/
+Autumns Custom Catering,Richmond,VA,Richmond VA,Catering,8,$800K-$2M,Autumn,Owner,N/A,N/A,https://www.autumnscustomcatering.com/
+Overhead Door Company of Baltimore,Baltimore,MD,Baltimore MD,Garage Door Contractor,15,$3M-$6M,N/A,N/A,N/A,N/A,https://ohdbalt.com/
+New Look Garage Doors,Baltimore,MD,Baltimore MD,Garage Door Contractor,10,$1.5M-$3.5M,N/A,N/A,N/A,N/A,https://www.newlookgaragedoors.com/
+OBrien Garage Doors,Baltimore,MD,Baltimore MD,Garage Door Contractor,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.obriendoorbaltimore.com
+Bobs Overhead Door,Baltimore,MD,Baltimore MD,Garage Door Contractor,10,$1.5M-$3.5M,Bob,Owner,N/A,N/A,https://www.bobsohd.com/
+First Call Garage Doors,Baltimore,MD,Baltimore MD,Garage Door Contractor,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://1stcallgaragedoors.com/
+BR Flooring,Baltimore,MD,Baltimore MD,Flooring Contractor,10,$1.5M-$4M,N/A,N/A,443-904-1020,N/A,https://www.brhardwoodfloors.com/
+MasterCare Flooring,Baltimore,MD,Baltimore MD,Flooring Contractor,12,$2M-$5M,N/A,N/A,N/A,N/A,https://www.mastercarefloors.com/
+Flawless Floors,Baltimore,MD,Baltimore MD,Flooring Contractor,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://flawlessfloorsbaltimore.com/
+Lady Baltimore Floors,Baltimore,MD,Baltimore MD,Flooring Contractor,12,$2M-$5M,N/A,N/A,N/A,N/A,https://ladybaltimorefloors.com/
+Matts Professional Flooring,Baltimore,MD,Baltimore MD,Flooring Contractor,8,$1M-$2.5M,Matt,Owner,N/A,N/A,https://www.mattsprofessionalflooring.com/
+The Main Event Party and Event Planning,Milwaukee,WI,Milwaukee WI,Event Planning,8,$800K-$2M,N/A,N/A,N/A,N/A,https://maineventplanners.com/
+Underwood Events,Milwaukee,WI,Milwaukee WI,Event Planning,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.underwoodevents.com/
+Events By Design,Milwaukee,WI,Milwaukee WI,Event Planning,8,$800K-$2M,N/A,N/A,N/A,N/A,https://eventsbydesign.co/
+Events to a T,Milwaukee,WI,Milwaukee WI,Event Planning,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://eventstoat.co/
+Evenement Planning,Wauwatosa,WI,Milwaukee WI,Event Planning,5,$400K-$1M,N/A,N/A,N/A,N/A,https://evenementplanning.org/
+Ambrosia Weddings and Events,Milwaukee,WI,Milwaukee WI,Event Planning,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://ambrosiaeventsmke.com/
+Willie Fun Events,Milwaukee,WI,Milwaukee WI,Event Planning,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.williefunevents.com/
+Ultra Clean Car Wash,Kansas City,MO,Kansas City MO,Multi-Location Car Wash,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.ultraclean-carwash.com/
+The Better Wash,Kansas City,MO,Kansas City MO,Multi-Location Car Wash,15,$2M-$5M,N/A,N/A,N/A,N/A,https://thebetterwash.com/
+The Car Wash KC,Kansas City,MO,Kansas City MO,Multi-Location Car Wash,8,$800K-$2M,N/A,N/A,N/A,N/A,https://thecarwashkc.com/
+Buckeye Bread Company,Columbus,OH,Columbus OH,Bakery/Wholesale,8,$800K-$2M,N/A,N/A,N/A,N/A,N/A
+5th Course Bakery,Columbus,OH,Columbus OH,Bakery/Wholesale,10,$1M-$3M,N/A,N/A,N/A,N/A,https://www.5thcoursebakery.com/
+Reschs Bakery,Gahanna,OH,Columbus OH,Bakery/Wholesale,15,$2M-$5M,N/A,N/A,614-237-7421,N/A,https://reschbakery.com/
+A R Engineering,Milwaukee,WI,Milwaukee WI,Engineering,8,$1M-$3M,N/A,N/A,N/A,N/A,https://www.aremke.com/
+Thunderbird Engineering,Milwaukee,WI,Milwaukee WI,Engineering,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.thunderbirdengineering.com/
+Kramer Engineers,Columbus,OH,Columbus OH,Engineering,12,$2M-$5M,N/A,N/A,N/A,N/A,https://kramerengineers.com/
+Allison Structural Group,Columbus,OH,Columbus OH,Engineering,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.allisonstructural.com/
+Hufft,Kansas City,MO,Kansas City MO,Architecture,10,$1.5M-$4M,N/A,N/A,N/A,N/A,N/A
+DRAW Architecture + Urban Design,Kansas City,MO,Kansas City MO,Architecture,8,$1M-$3M,N/A,N/A,N/A,N/A,N/A
+HJM Architects,Kansas City,MO,Kansas City MO,Architecture,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.hjmarch.com/
+SFS Architecture,Kansas City,MO,Kansas City MO,Architecture,15,$2M-$5M,N/A,N/A,N/A,N/A,https://sfsarch.com/
+Generator Studio,Kansas City,MO,Kansas City MO,Architecture,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.generatorstudio.com/
+NSPJ Architects,Kansas City,MO,Kansas City MO,Architecture,12,$2M-$5M,N/A,N/A,N/A,N/A,https://nspjarch.com/
+Malomo,Indianapolis,IN,Indianapolis IN,Ecommerce,15,$2M-$5M,N/A,N/A,N/A,N/A,N/A
+FinePromotions,Indianapolis,IN,Indianapolis IN,Ecommerce,8,$1M-$3M,N/A,N/A,N/A,N/A,N/A
+Cincy Brands,Cincinnati,OH,Cincinnati OH,Ecommerce,10,$2M-$5M,N/A,N/A,N/A,N/A,N/A
+Precision Garage Door Baltimore,Baltimore,MD,Baltimore MD,Garage Door Contractor,12,$2M-$5M,N/A,N/A,N/A,N/A,https://garagedoorbaltimore.com/
+K1ds Count Therapy Indianapolis,Indianapolis,IN,Indianapolis IN,Speech Therapy,10,$1M-$3M,N/A,N/A,N/A,N/A,https://kctherapy.com/
+Accent on Cincinnati,Cincinnati,OH,Cincinnati OH,Event Planning,10,$1M-$3M,N/A,N/A,N/A,N/A,https://accentcinti.com/
+KP Designs Group,Columbus,OH,Columbus OH,Interior Design,6,$700K-$2M,N/A,N/A,N/A,N/A,https://kpdesignsgroup.com/
+Crimson Design Group,Columbus,OH,Columbus OH,Interior Design,8,$1M-$3M,N/A,N/A,N/A,N/A,https://crimsondesigngroup.com/
+Shumba Floors,Baltimore,MD,Baltimore MD,Flooring Contractor,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.shumbafloors.com/
+Duke Fence,Indianapolis,IN,Indianapolis IN,Fence Company,15,$2M-$5M,N/A,N/A,N/A,N/A,https://www.dukefence.com/
+Mae Fence Company,Columbus,OH,Columbus OH,Fence Company,12,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.maefence.com/
+Elite Fence Columbus,Columbus,OH,Columbus OH,Fence Company,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.elitefencecolumbus.com/
+Big Jerrys Fencing,Columbus,OH,Columbus OH,Fence Company,10,$1.5M-$3.5M,Jerry,Owner,N/A,N/A,https://bigjerrysfencing.com/
+Kansas City Fence Company,Kansas City,MO,Kansas City MO,Fence Company,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.kansascityfenceco.com/
+LNL Construction Flooring,Sacramento,CA,Sacramento CA,Flooring Contractor,10,$1.5M-$4M,N/A,N/A,N/A,N/A,https://www.lnlconstruction.net/
+Rebuildit Inc,Sacramento,CA,Sacramento CA,Flooring Contractor,8,$1M-$2.5M,N/A,N/A,N/A,N/A,https://www.rebuilditinc.com/
+KC Medical & Wellness IV Therapy,Kansas City,MO,Kansas City MO,IV Therapy,6,$800K-$2M,N/A,N/A,N/A,N/A,https://kcmedicalwc.com/
+Optimal Health & Wellness,Overland Park,KS,Kansas City MO,IV Therapy,6,$800K-$2M,N/A,N/A,N/A,N/A,https://ohwkc.com/
+Advanced Engineering Consultants,Columbus,OH,Columbus OH,Engineering,20,$5M-$10M,N/A,N/A,N/A,N/A,https://www.aecmep.com/
+Sumer Innovations,Sacramento,CA,Sacramento CA,Engineering,8,$1M-$3M,N/A,N/A,N/A,N/A,https://sumerinnovations.com/
+DRIPBaR Richmond,Richmond,VA,Richmond VA,IV Therapy,6,$500K-$1.5M,N/A,N/A,N/A,N/A,https://thedripbar.com/richmond-reynolds-crossing/
+Rahma Health,Sacramento,CA,Sacramento CA,Weight Loss Clinic,8,$1M-$3M,N/A,N/A,N/A,N/A,https://rahmahealth.org/
+River City OBGYN Fertility Services,Richmond,VA,Richmond VA,Fertility Clinic,10,$2M-$5M,N/A,N/A,N/A,N/A,https://rivercityobgyn.com/
